@@ -1,0 +1,154 @@
+{
+  "sample": true,
+  "date": "2026-10-13",
+  "summary": "A quiet day: few major changes.",
+  "topics": [
+    {
+      "id": "markets",
+      "heading": "Markets",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "Stocks were flat.",
+      "lead": {
+        "title": "Short headline",
+        "outlet": "AP",
+        "url": "https://apnews.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "Major indexes ended the day almost unchanged [^1].",
+        "Trading was light.",
+        "No major data is due this week."
+      ],
+      "differences": null
+    },
+    {
+      "id": "talks",
+      "heading": "Talks",
+      "date": "2026-10-11",
+      "status": "developing",
+      "summary": "Negotiators met again.",
+      "lead": {
+        "title": "Short headline",
+        "outlet": "AP",
+        "url": "https://apnews.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "Delegations met for a second day [^2].",
+        "No statement followed.",
+        "Talks resume Friday."
+      ],
+      "differences": null
+    },
+    {
+      "id": "storms",
+      "heading": "Storms",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "A storm weakened at sea.",
+      "lead": {
+        "title": "Short headline",
+        "outlet": "AP",
+        "url": "https://apnews.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "The storm lost strength overnight [^3].",
+        "No landfall is expected.",
+        "Shipping resumed."
+      ],
+      "differences": null
+    },
+    {
+      "id": "vote",
+      "heading": "Vote",
+      "date": "2026-10-11",
+      "status": "disputed",
+      "summary": "Results are contested.",
+      "lead": {
+        "title": "Short headline",
+        "outlet": "AP",
+        "url": "https://apnews.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "Both sides claim victory [^4].",
+        "Officials are recounting.",
+        "Final results are due Monday."
+      ],
+      "differences": null
+    }
+  ],
+  "question": {
+    "type": "how-do-we-know",
+    "text": "How do we know the count is accurate?"
+  },
+  "read": {
+    "title": "Why recounts happen",
+    "outlet": "AP News",
+    "url": "https://apnews.com/",
+    "kind": "news",
+    "minutes": 3,
+    "summary": "A short explainer."
+  },
+  "weeklyRead": null,
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Markets flat",
+      "url": "https://www.reuters.com/markets/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "BBC",
+      "title": "Talks, day two",
+      "url": "https://www.bbc.com/news/world",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "AP News",
+      "title": "Storm weakens",
+      "url": "https://apnews.com/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Guardian",
+      "title": "Vote contested",
+      "url": "https://www.theguardian.com/world",
+      "date": "2026-10-13",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "CBC News",
+      "title": "Recount explained",
+      "url": "https://www.cbc.ca/news",
+      "date": "2026-10-12",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Al Jazeera",
+      "title": "Regional view",
+      "url": "https://www.aljazeera.com/",
+      "date": "2026-10-12",
+      "singleSource": false
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "sample": true,
+  "reviewed": "2026-10-11",
+  "events": [
+    {
+      "id": "e1",
+      "title": "Border dispute",
+      "status": "stalled",
+      "added": "2026-09-01",
+      "whyHere": "Two neighbours, one border.",
+      "standing": "No change this month [^1].",
+      "heading": {
+        "likely": "Status quo.",
+        "possible": "New talks.",
+        "unlikely": "A deal."
+      },
+      "watch": [
+        {
+          "date": "2026-11-01",
+          "what": "Talks."
+        },
+        {
+          "date": "2026-12-01",
+          "what": "Vote."
+        }
+      ],
+      "connects": [
+        {
+          "id": "e2",
+          "why": "Linked."
+        }
+      ],
+      "removeWhen": "A deal.",
+      "history": [
+        {
+          "heading": "Origins",
+          "period": "1990",
+          "paragraphs": [
+            "A line was drawn [^1]."
+          ]
+        },
+        {
+          "heading": "Clashes",
+          "period": "2010",
+          "paragraphs": [
+            "Brief fighting."
+          ]
+        },
+        {
+          "heading": "Truce",
+          "period": "2015",
+          "paragraphs": [
+            "A truce held."
+          ]
+        },
+        {
+          "heading": "Now",
+          "period": "2026",
+          "paragraphs": [
+            "Talks stalled."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Explainer",
+          "outlet": "BBC",
+          "url": "https://www.bbc.com/news",
+          "kind": "news",
+          "summary": "Short background."
+        },
+        {
+          "title": "Atlas",
+          "outlet": "CFR",
+          "url": "https://www.cfr.org/",
+          "kind": "analysis",
+          "summary": "Maps and context."
+        }
+      ],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Rate cycle",
+      "status": "shifting",
+      "added": "2026-08-15",
+      "whyHere": "Borrowing costs.",
+      "standing": "Rates paused.",
+      "heading": {
+        "likely": "Hold.",
+        "possible": "Cut.",
+        "unlikely": "Hike."
+      },
+      "watch": [
+        {
+          "date": "2026-10-29",
+          "what": "Decision."
+        },
+        {
+          "date": "2026-12-10",
+          "what": "Decision."
+        }
+      ],
+      "connects": [
+        {
+          "id": "e1",
+          "why": "Linked."
+        }
+      ],
+      "removeWhen": "Rates settle.",
+      "history": [
+        {
+          "heading": "Hikes",
+          "period": "2022",
+          "paragraphs": [
+            "Rates rose fast."
+          ]
+        },
+        {
+          "heading": "Peak",
+          "period": "2023",
+          "paragraphs": [
+            "Rates peaked."
+          ]
+        },
+        {
+          "heading": "Cuts",
+          "period": "2024",
+          "paragraphs": [
+            "Cuts began."
+          ]
+        },
+        {
+          "heading": "Pause",
+          "period": "2026",
+          "paragraphs": [
+            "A pause."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Rates 101",
+          "outlet": "Bank of Canada",
+          "url": "https://www.bankofcanada.ca/",
+          "kind": "analysis",
+          "summary": "How rates work."
+        },
+        {
+          "title": "Rate history",
+          "outlet": "FRED",
+          "url": "https://fred.stlouisfed.org/",
+          "kind": "paper",
+          "summary": "Data."
+        }
+      ],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "Drought",
+      "status": "escalating",
+      "added": "2026-07-01",
+      "whyHere": "Water and food.",
+      "standing": "Worse.",
+      "heading": {
+        "likely": "Worse.",
+        "possible": "Rain.",
+        "unlikely": "Recovery."
+      },
+      "watch": [
+        {
+          "date": "2026-11-01",
+          "what": "Forecast."
+        },
+        {
+          "date": "2026-12-01",
+          "what": "Harvest."
+        }
+      ],
+      "connects": [],
+      "removeWhen": "Rain returns.",
+      "history": [
+        {
+          "heading": "Dry year",
+          "period": "2024",
+          "paragraphs": [
+            "Low rain."
+          ]
+        },
+        {
+          "heading": "Second",
+          "period": "2025",
+          "paragraphs": [
+            "Lower."
+          ]
+        },
+        {
+          "heading": "Third",
+          "period": "2026",
+          "paragraphs": [
+            "Lowest."
+          ]
+        },
+        {
+          "heading": "Now",
+          "period": "2026",
+          "paragraphs": [
+            "Rationing."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Drought map",
+          "outlet": "NASA",
+          "url": "https://www.nasa.gov/",
+          "kind": "paper",
+          "summary": "Satellite view."
+        },
+        {
+          "title": "Water",
+          "outlet": "OWID",
+          "url": "https://ourworldindata.org/",
+          "kind": "analysis",
+          "summary": "Charts."
+        }
+      ],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": "e4",
+      "title": "Strike",
+      "status": "winding-down",
+      "added": "2026-06-10",
+      "whyHere": "Ports closed.",
+      "standing": "Deal near.",
+      "heading": {
+        "likely": "Deal.",
+        "possible": "Delay.",
+        "unlikely": "Escalation."
+      },
+      "watch": [
+        {
+          "date": "2026-10-20",
+          "what": "Vote."
+        },
+        {
+          "date": "2026-10-30",
+          "what": "Reopening."
+        }
+      ],
+      "connects": [],
+      "removeWhen": "Ports reopen.",
+      "history": [
+        {
+          "heading": "Walkout",
+          "period": "Jun 2026",
+          "paragraphs": [
+            "Workers left."
+          ]
+        },
+        {
+          "heading": "Talks",
+          "period": "Jul 2026",
+          "paragraphs": [
+            "Talks began."
+          ]
+        },
+        {
+          "heading": "Offer",
+          "period": "Sep 2026",
+          "paragraphs": [
+            "An offer."
+          ]
+        },
+        {
+          "heading": "Vote",
+          "period": "Oct 2026",
+          "paragraphs": [
+            "A vote."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Ports",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/",
+          "kind": "news",
+          "summary": "Coverage."
+        },
+        {
+          "title": "Labour",
+          "outlet": "CBC",
+          "url": "https://www.cbc.ca/news",
+          "kind": "news",
+          "summary": "Background."
+        }
+      ],
+      "sources": [
+        1
+      ]
+    },
+    {
+      "id": "e5",
+      "title": "Launch",
+      "status": "stalled",
+      "added": "2026-05-01",
+      "whyHere": "Space race.",
+      "standing": "Delayed.",
+      "heading": {
+        "likely": "Delay.",
+        "possible": "Launch.",
+        "unlikely": "Cancel."
+      },
+      "watch": [
+        {
+          "date": "2027-01-01",
+          "what": "Window."
+        },
+        {
+          "date": "2027-03-01",
+          "what": "Review."
+        }
+      ],
+      "connects": [],
+      "removeWhen": "It launches.",
+      "history": [
+        {
+          "heading": "Plan",
+          "period": "2019",
+          "paragraphs": [
+            "Announced."
+          ]
+        },
+        {
+          "heading": "Build",
+          "period": "2022",
+          "paragraphs": [
+            "Built."
+          ]
+        },
+        {
+          "heading": "Test",
+          "period": "2025",
+          "paragraphs": [
+            "Tested."
+          ]
+        },
+        {
+          "heading": "Delay",
+          "period": "2026",
+          "paragraphs": [
+            "Delayed."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Mission",
+          "outlet": "NASA",
+          "url": "https://www.nasa.gov/",
+          "kind": "news",
+          "summary": "Updates."
+        },
+        {
+          "title": "Moon",
+          "outlet": "ESA",
+          "url": "https://www.esa.int/",
+          "kind": "analysis",
+          "summary": "Context."
+        }
+      ],
+      "sources": [
+        1
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "date": "2026-10-11",
+      "text": "No changes."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Coverage",
+      "url": "https://www.reuters.com/",
+      "date": "2026-10-10",
+      "singleSource": false
+    }
+  ]
+}

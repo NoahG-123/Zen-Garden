@@ -1,0 +1,598 @@
+{
+  "sample": true,
+  "reviewed": "2026-10-11",
+  "events": [
+    {
+      "id": "ukraine-war",
+      "title": "Russia's war in Ukraine",
+      "status": "stalled",
+      "added": "2026-03-01",
+      "whyHere": "The largest war in Europe since 1945. It shapes energy prices, defence spending, food exports and how countries think about borders and alliances.",
+      "standing": "Front lines have moved little in recent months. Both sides rely heavily on drones and long-range strikes, and talks about a ceasefire continue on and off without an agreement both will sign [^1].",
+      "heading": {
+        "likely": "Fighting continues at a similar level through the winter while talks continue in parallel.",
+        "possible": "A limited ceasefire along current lines, with major questions such as security guarantees left for later.",
+        "unlikely": "A full peace settlement that both governments accept and that settles the territorial questions."
+      },
+      "watch": [
+        {
+          "date": "2026-10-20",
+          "what": "Next round of talks between negotiators, if it goes ahead as scheduled."
+        },
+        {
+          "date": "2026-11-15",
+          "what": "Winter strikes on energy infrastructure and their effect on power supply."
+        },
+        {
+          "date": "2026-12-01",
+          "what": "European decisions on long-term funding for Ukraine."
+        }
+      ],
+      "connects": [
+        {
+          "id": "us-china",
+          "why": "Sanctions and export controls on Russia are tied to the wider US-China contest over trade and technology."
+        },
+        {
+          "id": "climate-energy",
+          "why": "The war reshaped Europe's energy supply, which changes how fast countries can move away from fossil fuels."
+        }
+      ],
+      "removeWhen": "A durable ceasefire holds for six months, or the war no longer drives decisions in Europe and beyond.",
+      "history": [
+        {
+          "heading": "Protests, Crimea and the Donbas",
+          "period": "2013-2014",
+          "paragraphs": [
+            "In late 2013, Ukraine's president dropped a planned agreement with the European Union under pressure from Moscow. Months of protests in Kyiv, known as Euromaidan, followed, and in February 2014 he fled the country [^2].",
+            "Within weeks, Russian forces took control of Crimea, and Russia annexed it after a referendum that most countries do not recognise. Fighting then broke out in the eastern Donbas region between Ukrainian forces and Russian-backed separatists."
+          ]
+        },
+        {
+          "heading": "A frozen conflict",
+          "period": "2015-2021",
+          "paragraphs": [
+            "The Minsk agreements of 2014 and 2015 reduced the fighting in the Donbas but never settled it. Thousands of people were killed over these years along a line that barely moved.",
+            "Ukraine moved closer to Europe in trade and politics. Russia demanded guarantees that Ukraine would never join NATO, and in 2021 it gathered large numbers of troops near the border."
+          ]
+        },
+        {
+          "heading": "The full-scale invasion",
+          "period": "Feb-Apr 2022",
+          "paragraphs": [
+            "On 24 February 2022, Russia launched a full-scale invasion from the north, east and south [^3]. Many expected Kyiv to fall within days. It did not, and by early April Russian forces had withdrawn from the area around the capital.",
+            "Millions of Ukrainians fled abroad or moved west. Western governments imposed wide sanctions on Russia and began sending weapons to Ukraine."
+          ]
+        },
+        {
+          "heading": "Counter-offensives",
+          "period": "2022-2023",
+          "paragraphs": [
+            "In late 2022 Ukraine retook large areas around Kharkiv and the city of Kherson. Russia declared it had annexed four Ukrainian regions, though it did not fully control any of them.",
+            "A major Ukrainian counter-offensive in 2023 met heavily fortified lines and gained little ground. The war settled into a slow, costly struggle."
+          ]
+        },
+        {
+          "heading": "A war of attrition and drones",
+          "period": "2024-2025",
+          "paragraphs": [
+            "Russia advanced slowly in the east at a high cost in soldiers. In August 2024 Ukraine made a surprise incursion into Russia's Kursk region [^4].",
+            "Cheap drones changed the battlefield, making it dangerous to move anywhere near the front. Both sides struck each other's energy and military infrastructure far behind the lines."
+          ]
+        },
+        {
+          "heading": "Talks and pressure",
+          "period": "2025-now",
+          "paragraphs": [
+            "From 2025, the United States pushed for negotiations, and delegations met several times. Disagreements over territory and security guarantees kept a deal out of reach [^1].",
+            "Fighting has continued alongside the talks. This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Ukraine conflict explained",
+          "outlet": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine",
+          "kind": "analysis",
+          "summary": "A regularly updated tracker with background, a timeline and the main players, written for a general audience."
+        },
+        {
+          "title": "The Gates of Europe: A History of Ukraine",
+          "outlet": "Serhii Plokhy (Basic Books)",
+          "url": "https://www.basicbooks.com/titles/serhii-plokhy/the-gates-of-europe/9781541675643/",
+          "kind": "book",
+          "summary": "A readable history of Ukraine from ancient times to the present, useful for understanding why borders and identity matter so much here."
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "middle-east-war",
+      "title": "Israel, Gaza and the wider region",
+      "status": "winding-down",
+      "added": "2026-03-01",
+      "whyHere": "A conflict with deep historical roots that has drawn in neighbouring countries, shaken shipping routes and divided public opinion around the world.",
+      "standing": "A ceasefire has largely held in Gaza, but key questions about who governs and secures the territory, and how reconstruction is paid for, are unresolved [^5].",
+      "heading": {
+        "likely": "The ceasefire mostly holds, with periodic violations and slow progress on reconstruction.",
+        "possible": "An international stabilisation force begins operating in parts of Gaza.",
+        "unlikely": "A comprehensive peace agreement that settles the question of a Palestinian state."
+      },
+      "watch": [
+        {
+          "date": "2026-10-25",
+          "what": "Donor conference on Gaza reconstruction funding."
+        },
+        {
+          "date": "2026-11-10",
+          "what": "Progress report on the ceasefire's second phase."
+        }
+      ],
+      "connects": [
+        {
+          "id": "climate-energy",
+          "why": "The region sits on key oil and gas routes, so conflict there moves energy prices and climate plans."
+        }
+      ],
+      "removeWhen": "The ceasefire becomes a stable arrangement and the region stops shaping global politics week to week.",
+      "history": [
+        {
+          "heading": "Roots of the conflict",
+          "period": "1948-2005",
+          "paragraphs": [
+            "The State of Israel was founded in 1948. The war that followed displaced hundreds of thousands of Palestinians, an event Palestinians call the Nakba. In 1967 Israel took control of the West Bank, Gaza and East Jerusalem.",
+            "Peace efforts in the 1990s, known as the Oslo Accords, created the Palestinian Authority but did not lead to a final agreement. In 2005 Israel withdrew its settlers and soldiers from Gaza [^6]."
+          ]
+        },
+        {
+          "heading": "Blockade and repeated wars",
+          "period": "2007-2023",
+          "paragraphs": [
+            "Hamas took control of Gaza in 2007. Israel and Egypt imposed a blockade, and Israel and Hamas fought several short wars over the following years."
+          ]
+        },
+        {
+          "heading": "7 October and the war in Gaza",
+          "period": "2023-2024",
+          "paragraphs": [
+            "On 7 October 2023, Hamas-led fighters attacked Israel, killing about 1,200 people and taking more than 250 hostages [^7]. Israel responded with a military campaign in Gaza that killed tens of thousands of people and destroyed much of the territory.",
+            "The war became a global political issue, prompting protests, cases at international courts and arguments over aid access and the conduct of the war."
+          ]
+        },
+        {
+          "heading": "A wider regional conflict",
+          "period": "2024-2025",
+          "paragraphs": [
+            "Fighting spread to Lebanon, where Israel struck Hezbollah heavily, and to direct exchanges between Israel and Iran. Houthi forces in Yemen attacked shipping in the Red Sea, forcing many ships to take longer routes.",
+            "In June 2025 Israel and the United States struck Iranian nuclear sites during a short war that ended in a truce."
+          ]
+        },
+        {
+          "heading": "Ceasefire",
+          "period": "Oct 2025-now",
+          "paragraphs": [
+            "A US-brokered ceasefire took effect in October 2025, with remaining living hostages released and Palestinian prisoners freed [^5]. Its later phases, on governance and security, have moved slowly. This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Israeli-Palestinian conflict tracker",
+          "outlet": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
+          "kind": "analysis",
+          "summary": "Background and an updated timeline, with the main positions of each side laid out plainly."
+        },
+        {
+          "title": "Gaza: humanitarian situation reports",
+          "outlet": "UN OCHA",
+          "url": "https://www.ochaopt.org/",
+          "kind": "news",
+          "summary": "Regular UN reports on aid, displacement and damage. Dry, but a useful primary source to compare against news coverage."
+        }
+      ],
+      "sources": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "us-china",
+      "title": "US-China rivalry over trade and technology",
+      "status": "shifting",
+      "added": "2026-03-01",
+      "whyHere": "The two largest economies are competing over chips, trade and influence. Their decisions affect prices, jobs and which technologies the rest of the world can use.",
+      "standing": "A trade truce agreed in late 2025 has lowered some tariffs and paused some export controls, but both sides keep building up their own chip and technology industries [^8].",
+      "heading": {
+        "likely": "The truce holds with occasional disputes, while technology restrictions stay in place.",
+        "possible": "A new flare-up over chips, rare earth minerals or Taiwan breaks the truce.",
+        "unlikely": "A broad trade agreement that removes most tariffs on both sides."
+      },
+      "watch": [
+        {
+          "date": "2026-11-10",
+          "what": "Expiry date of parts of the current tariff truce."
+        },
+        {
+          "date": "2026-11-18",
+          "what": "APEC leaders' meeting, a possible venue for talks."
+        }
+      ],
+      "connects": [
+        {
+          "id": "ai-race",
+          "why": "Advanced chips are the main battleground in both: export limits decide who can train the largest AI models."
+        },
+        {
+          "id": "ukraine-war",
+          "why": "China's ties with Russia and its stance on sanctions shape how the war and the trade dispute play out."
+        }
+      ],
+      "removeWhen": "Trade and technology relations settle into stable rules that no longer change month to month.",
+      "history": [
+        {
+          "heading": "China joins the world economy",
+          "period": "2001-2016",
+          "paragraphs": [
+            "China joined the World Trade Organization in 2001, and its exports grew rapidly. Factories moved there, prices for many goods fell, and some manufacturing towns in other countries lost jobs [^9]."
+          ]
+        },
+        {
+          "heading": "The trade war begins",
+          "period": "2018-2020",
+          "paragraphs": [
+            "In 2018 the United States put tariffs on hundreds of billions of dollars of Chinese goods, and China responded in kind. A partial deal in early 2020 calmed things but did not end the dispute."
+          ]
+        },
+        {
+          "heading": "The fight over chips",
+          "period": "2019-2024",
+          "paragraphs": [
+            "The US restricted Huawei and then, from October 2022, blocked exports of advanced chips and chipmaking tools to China. China invested heavily in its own chip industry in response [^10]."
+          ]
+        },
+        {
+          "heading": "Escalation and truce",
+          "period": "2025-now",
+          "paragraphs": [
+            "In early 2025 tariffs rose sharply on both sides, at one point above 100 percent, before a truce agreed in Geneva in May brought them down. In October 2025 China tightened controls on rare earth exports, and a meeting between the two leaders later that month produced a one-year truce [^8].",
+            "This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Chip War",
+          "outlet": "Chris Miller (Scribner)",
+          "url": "https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008",
+          "kind": "book",
+          "summary": "How the semiconductor became the world's most important technology, and why it sits at the centre of the rivalry."
+        },
+        {
+          "title": "US-China relations timeline",
+          "outlet": "Council on Foreign Relations",
+          "url": "https://www.cfr.org/timeline/us-china-relations",
+          "kind": "analysis",
+          "summary": "A long timeline of the relationship since 1949, good for seeing today's tensions in context."
+        },
+        {
+          "title": "Trade war tariffs tracker",
+          "outlet": "Peterson Institute for International Economics",
+          "url": "https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart",
+          "kind": "paper",
+          "summary": "Charts of average tariff rates on both sides over time, updated as rates change."
+        }
+      ],
+      "sources": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "ai-race",
+      "title": "The race to build powerful AI",
+      "status": "escalating",
+      "added": "2026-03-01",
+      "whyHere": "AI systems are improving quickly and absorbing huge investment. They may change schoolwork, jobs and how information spreads, and governments are still deciding how to manage the risks.",
+      "standing": "Companies keep releasing more capable models, and spending on data centres is at record levels. Rules differ widely: the EU's AI Act is phasing in, while other countries rely on voluntary commitments [^11].",
+      "heading": {
+        "likely": "More capable models arrive every few months, and investment keeps rising.",
+        "possible": "A major incident or court ruling triggers faster, stricter rules in several countries.",
+        "unlikely": "A global agreement on limits for the most powerful systems."
+      },
+      "watch": [
+        {
+          "date": "2026-11-01",
+          "what": "New obligations under the EU AI Act for general-purpose models."
+        },
+        {
+          "date": "2026-12-05",
+          "what": "Quarterly spending reports from the largest technology companies."
+        }
+      ],
+      "connects": [
+        {
+          "id": "us-china",
+          "why": "Chip supply and export controls link the race to build AI directly to the trade rivalry."
+        },
+        {
+          "id": "climate-energy",
+          "why": "Data centres use large amounts of electricity, adding pressure on power grids and energy plans."
+        }
+      ],
+      "removeWhen": "Progress slows to a steady pace, or rules and expectations settle enough that AI is no longer a fast-moving story.",
+      "history": [
+        {
+          "heading": "Deep learning takes off",
+          "period": "2012-2016",
+          "paragraphs": [
+            "In 2012 a neural network called AlexNet beat older methods at recognising images by a wide margin. Researchers and companies poured effort into deep learning, and in 2016 a program beat a world champion at Go [^12]."
+          ]
+        },
+        {
+          "heading": "Transformers and language models",
+          "period": "2017-2021",
+          "paragraphs": [
+            "A 2017 research paper introduced the transformer, a design that made it practical to train very large language models. Each new generation, trained on more text and computing power, could do more."
+          ]
+        },
+        {
+          "heading": "AI goes public",
+          "period": "2022-2023",
+          "paragraphs": [
+            "ChatGPT launched in November 2022 and reached a hundred million users within months. Rival chatbots followed, and schools, companies and governments scrambled to respond."
+          ]
+        },
+        {
+          "heading": "Rules and money",
+          "period": "2024-now",
+          "paragraphs": [
+            "The EU passed the AI Act in 2024, the first broad law on AI. Spending on chips and data centres grew to hundreds of billions of dollars a year, and in early 2025 a Chinese lab, DeepSeek, showed strong results at lower cost [^11].",
+            "This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "AI Index Report",
+          "outlet": "Stanford HAI",
+          "url": "https://hai.stanford.edu/ai-index",
+          "kind": "paper",
+          "summary": "An annual report with charts on AI progress, investment, public opinion and policy. Skim the summary first."
+        },
+        {
+          "title": "Artificial intelligence coverage",
+          "outlet": "Our World in Data",
+          "url": "https://ourworldindata.org/artificial-intelligence",
+          "kind": "analysis",
+          "summary": "Clear charts on how AI capabilities and investment have changed, with sources for every number."
+        }
+      ],
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "climate-energy",
+      "title": "A warming planet and the energy shift",
+      "status": "escalating",
+      "added": "2026-03-01",
+      "whyHere": "Rising temperatures affect weather, food, health and migration. The shift to clean energy is one of the biggest economic changes of our lifetime.",
+      "standing": "Recent years have been the hottest on record, and clean energy is growing fast. Global emissions are near their peak, but cuts are not yet fast enough to meet the Paris goals [^13].",
+      "heading": {
+        "likely": "Another year near record heat, with solar and batteries continuing to grow quickly.",
+        "possible": "Global emissions begin a clear, sustained decline.",
+        "unlikely": "Warming stays below 1.5°C over the long term without overshoot."
+      },
+      "watch": [
+        {
+          "date": "2026-11-09",
+          "what": "UN climate summit (COP31) opens."
+        },
+        {
+          "date": "2027-01-10",
+          "what": "Official confirmation of 2026 global temperature ranking."
+        }
+      ],
+      "connects": [
+        {
+          "id": "ukraine-war",
+          "why": "The war pushed countries to rethink energy supply, speeding up some projects and delaying others."
+        },
+        {
+          "id": "ai-race",
+          "why": "Growing AI demand for electricity makes it harder to cut emissions on schedule."
+        }
+      ],
+      "removeWhen": "Never fully, but it may leave this list in a year when nothing about it changes quickly.",
+      "history": [
+        {
+          "heading": "The world agrees there is a problem",
+          "period": "1988-2014",
+          "paragraphs": [
+            "Scientists' warnings led to the creation of the IPCC in 1988 and a UN climate treaty in 1992. The Kyoto Protocol of 1997 set targets for rich countries, but global emissions kept rising [^14]."
+          ]
+        },
+        {
+          "heading": "The Paris Agreement",
+          "period": "2015-2019",
+          "paragraphs": [
+            "In 2015 nearly every country agreed to keep warming well below 2°C and to try for 1.5°C. Each country sets its own targets and updates them every five years."
+          ]
+        },
+        {
+          "heading": "Clean energy gets cheap",
+          "period": "2010-now",
+          "paragraphs": [
+            "The cost of solar power and batteries fell by around 90 percent over the 2010s. In many places, new solar and wind are now the cheapest way to make electricity, and China leads in building them."
+          ]
+        },
+        {
+          "heading": "Record heat",
+          "period": "2023-now",
+          "paragraphs": [
+            "2023 and 2024 were the hottest years on record, and 2024 was the first calendar year more than 1.5°C warmer than pre-industrial times [^13]. In 2025 the United States began withdrawing from the Paris Agreement again.",
+            "This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Climate Change",
+          "outlet": "Our World in Data",
+          "url": "https://ourworldindata.org/climate-change",
+          "kind": "analysis",
+          "summary": "Charts and explainers on emissions, temperatures and energy, with every source linked."
+        },
+        {
+          "title": "Global Climate Highlights 2024",
+          "outlet": "Copernicus",
+          "url": "https://climate.copernicus.eu/global-climate-highlights-2024",
+          "kind": "paper",
+          "summary": "The European climate service's yearly summary, including the finding that 2024 passed 1.5°C."
+        }
+      ],
+      "sources": [
+        13,
+        14
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "date": "2026-10-11",
+      "text": "Israel, Gaza and the wider region moved to winding down after the ceasefire held through its first year."
+    },
+    {
+      "date": "2026-09-02",
+      "text": "US-China rivalry moved from escalating to shifting after the trade truce was extended."
+    },
+    {
+      "date": "2026-03-01",
+      "text": "List created with five events."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Ukraine coverage",
+      "url": "https://www.reuters.com/world/europe/",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "BBC",
+      "title": "Ukraine crisis: timeline",
+      "url": "https://www.bbc.com/news/world-middle-east-26248275",
+      "date": "2014-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "AP News",
+      "title": "Russia-Ukraine war",
+      "url": "https://apnews.com/hub/russia-ukraine",
+      "date": "2022-02-24",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Guardian",
+      "title": "Ukraine's incursion into Kursk",
+      "url": "https://www.theguardian.com/world/ukraine",
+      "date": "2024-08-12",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Reuters",
+      "title": "Middle East coverage",
+      "url": "https://www.reuters.com/world/middle-east/",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Council on Foreign Relations",
+      "title": "Israeli-Palestinian conflict",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
+      "date": "2026-09-30",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "AP News",
+      "title": "Israel-Hamas war",
+      "url": "https://apnews.com/hub/israel-hamas-war",
+      "date": "2023-10-08",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Financial Times",
+      "title": "US-China trade coverage",
+      "url": "https://www.ft.com/us-china-trade",
+      "date": "2026-09-02",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "NBER",
+      "title": "The China Shock",
+      "url": "https://www.nber.org/papers/w21906",
+      "date": "2016-01-01",
+      "singleSource": true
+    },
+    {
+      "id": 10,
+      "outlet": "CSIS",
+      "title": "Choking off China's access to the future of AI",
+      "url": "https://www.csis.org/analysis/choking-chinas-access-future-ai",
+      "date": "2022-10-11",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "European Commission",
+      "title": "AI Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "date": "2026-08-02",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "Nature",
+      "title": "Mastering the game of Go with deep neural networks",
+      "url": "https://www.nature.com/articles/nature16961",
+      "date": "2016-01-27",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "Copernicus",
+      "title": "Global Climate Highlights 2024",
+      "url": "https://climate.copernicus.eu/global-climate-highlights-2024",
+      "date": "2025-01-10",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "IPCC",
+      "title": "History of the IPCC",
+      "url": "https://www.ipcc.ch/about/history/",
+      "date": "2024-01-01",
+      "singleSource": false
+    }
+  ]
+}

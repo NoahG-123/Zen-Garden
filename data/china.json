@@ -1,0 +1,19 @@
+{
+  "sample": true,
+  "date": "2026-10-12",
+  "summary": "After the National Day holiday, attention in China turns to how much people spent, and to a new wave of cheaper electric cars and AI assistants built into everyday apps.",
+  "body": [
+    "The week-long National Day holiday ended last week with hundreds of millions of trips taken across the country. Early figures suggest people travelled a lot but spent carefully, choosing shorter trips and cheaper hotels, which matches a broader pattern of cautious spending [^1].",
+    "Electric cars are now the norm for new car buyers in many Chinese cities. Carmakers are competing hard on price and features, and several launched new models this month with AI assistants that can plan routes, book parking and answer questions by voice [^2].",
+    "Those same assistants are spreading through the apps people use every day for payments, food delivery and messaging. Young people describe them as convenient; some worry about how much the apps now know about their habits [^3]."
+  ],
+  "differences": null,
+  "reads": [
+    { "title": "How China's EV industry overtook the world", "outlet": "Rest of World", "url": "https://restofworld.org/series/china/", "kind": "analysis", "summary": "Reporting on how Chinese carmakers moved so quickly, and what daily life looks like in cities where most new cars are electric." }
+  ],
+  "sources": [
+    { "id": 1, "outlet": "Caixin Global", "title": "Holiday travel up, spending per trip flat", "url": "https://www.caixinglobal.com/", "date": "2026-10-09", "singleSource": false },
+    { "id": 2, "outlet": "South China Morning Post", "title": "Carmakers race to add AI assistants", "url": "https://www.scmp.com/tech", "date": "2026-10-08", "singleSource": false },
+    { "id": 3, "outlet": "Sixth Tone", "title": "Young people and the all-knowing app", "url": "https://www.sixthtone.com/", "date": "2026-10-07", "singleSource": true }
+  ]
+}

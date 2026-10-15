@@ -1,0 +1,549 @@
+{
+  "sample": true,
+  "reviewed": "2026-10-11",
+  "events": [
+    {
+      "id": "river-basin",
+      "title": "The long dispute over water in a shared river basin region",
+      "status": "escalating",
+      "added": "2026-01-15",
+      "whyHere": "Three countries depend on one river for drinking water, farming and electricity. A new dam upstream has turned a decades-old disagreement into the most serious test of cooperation in the region, with effects on food prices, migration and relations between much larger powers that back each side.",
+      "standing": "The upstream country has begun the third stage of filling its reservoir, reducing the river's flow during the dry season. The downstream countries say this breaks earlier understandings and have asked the UN Security Council to discuss the issue [^1]. Regional talks have stalled over whether a deal should be legally binding. Farmers downstream report lower canal levels, and electricity exports from the new dam have started, giving the upstream country a strong economic reason to keep filling.",
+      "heading": {
+        "likely": "Filling continues on the upstream country's timetable while talks resume on and off, with each side appealing to outside powers rather than reaching a binding deal on how much water flows in dry years.",
+        "possible": "A partial agreement on sharing data and coordinating releases during droughts, without settling the legal questions, brokered by neighbouring governments and international lenders.",
+        "unlikely": "A comprehensive, legally binding treaty on the river covering filling, operation and dispute resolution, signed by all three countries and backed by enforcement through an international court or commission."
+      },
+      "watch": [
+        {
+          "date": "2026-10-28",
+          "what": "UN Security Council session where the downstream countries have asked for the dispute to be placed on the agenda."
+        },
+        {
+          "date": "2026-11-15",
+          "what": "End of the rainy season upstream, after which reduced flows will be most noticeable to farmers and cities downstream."
+        },
+        {
+          "date": "2026-12-03",
+          "what": "Regional summit where heads of government could meet face to face for the first time since talks stalled in the spring."
+        },
+        {
+          "date": "2027-01-20",
+          "what": "Publication of the independent technical panel's report on the dam's effect on downstream water levels and silt."
+        },
+        {
+          "date": "2027-03-01",
+          "what": "Planned start of the fourth filling stage, which would bring the reservoir close to full capacity for the first time."
+        }
+      ],
+      "connects": [
+        {
+          "id": "grain-corridor",
+          "why": "Water shortages upstream cut harvests downstream, which tightens the grain that moves through the corridor each season."
+        },
+        {
+          "id": "minerals-race",
+          "why": "Mining for battery minerals uses large amounts of water, which adds to the pressure on the shared river basin region."
+        }
+      ],
+      "removeWhen": "A binding agreement on dry-year releases is signed and holds through one full drought season, or the dispute stops affecting food, energy and diplomacy beyond the three countries directly involved.",
+      "history": [
+        {
+          "heading": "An old treaty and a river that crosses borders",
+          "period": "1902-1959",
+          "paragraphs": [
+            "The river's waters were first divided in agreements signed while much of the region was under colonial rule. Those agreements gave most of the water to the downstream countries and said little about the upstream one [^2]."
+          ]
+        },
+        {
+          "heading": "Independence and competing plans",
+          "period": "1960-1998",
+          "paragraphs": [
+            "As each country gained independence, it made its own plans for the river. The upstream country rejected the earlier treaties as unfair, but lacked the money to build large dams.",
+            "Downstream, a large dam built in the 1960s made the river central to farming and electricity, and the government came to see any upstream project as a threat to its survival."
+          ]
+        },
+        {
+          "heading": "Cooperation attempts and the basin initiative",
+          "period": "1999-2010",
+          "paragraphs": [
+            "In 1999 the countries of the basin launched a joint initiative meant to share the benefits of the river rather than argue over its water. For the first time, engineers and officials from all three countries met regularly, exchanged data on rainfall and river flows, and studied joint projects that could produce electricity upstream and protect farming downstream. Donors from Europe and international banks funded the work, hoping it could become a model for other shared rivers. Early meetings were described by participants as cautious but productive, and several small projects were completed, including flood-warning systems and training for hydrologists in each country [^3].",
+            "The initiative struggled with a basic question that it had been designed to postpone: whether the colonial-era treaties still applied. The downstream countries insisted that any new framework respect what they called their historic rights, while upstream countries argued that those rights had been granted without their consent and could not bind them. Negotiators tried several forms of wording that would let each side read the text in its own way, but lawyers on both sides rejected each version, worried that ambiguity would be used against them later in any international court or arbitration over the river's future.",
+            "By 2010, most upstream countries signed a new cooperative framework agreement that did not mention historic rights. The downstream countries refused to sign and suspended their participation in parts of the initiative. Officials described the split as a pause rather than a break, but the technical meetings that had built trust between engineers became less frequent, and the money from donors began to slow. Some analysts later described this as the moment when the river became a question of national security rather than shared development, though others argue that the deeper disagreement had always been there and the initiative only hid it for a time.",
+            "Looking back, participants disagree about whether the initiative failed or simply ran out of time. Supporters point to the data-sharing systems, which still operate in part today and which all three countries rely on during floods. Critics say the initiative put off the hardest question for too long, so that when it could no longer be avoided, there was no agreed process for settling it. Both views appear in the academic literature, and the history is still used by each government to support its position in current negotiations and in statements to international bodies [^4]."
+          ]
+        },
+        {
+          "heading": "The dam is announced",
+          "period": "2011",
+          "paragraphs": [
+            "In 2011, during a period of political upheaval in the region, the upstream country announced it would build the largest hydroelectric dam on the continent, paid for largely by its own citizens through bonds and contributions."
+          ]
+        },
+        {
+          "heading": "Construction and early talks",
+          "period": "2012-2014",
+          "paragraphs": [
+            "An international panel of experts reviewed the dam's design and recommended further studies of its effects downstream. The countries agreed to commission those studies, but disagreed about who would carry them out."
+          ]
+        },
+        {
+          "heading": "Declaration of principles",
+          "period": "2015",
+          "paragraphs": [
+            "In 2015 the three leaders signed a short declaration of principles, agreeing to cooperate and to avoid causing significant harm. It did not set rules on filling or operation."
+          ]
+        },
+        {
+          "heading": "Talks in Washington",
+          "period": "2019-2020",
+          "paragraphs": [
+            "Talks hosted by the United States and the World Bank produced a draft agreement in early 2020. The upstream country did not attend the final session, saying the draft favoured the downstream side."
+          ]
+        },
+        {
+          "heading": "The first fillings",
+          "period": "2020-2022",
+          "paragraphs": [
+            "The upstream country began filling the reservoir in 2020, timing the first stages with heavy rains to limit the effect downstream. The downstream countries protested and took the issue to the UN Security Council, which referred it back to regional mediation."
+          ]
+        },
+        {
+          "heading": "The dam starts producing power",
+          "period": "2022-2025",
+          "paragraphs": [
+            "The first turbines began producing electricity in 2022. Further fillings followed each rainy season, and the dam was formally inaugurated in 2025 [^1].",
+            "Talks continued on and off, but each round ended without agreement on what should happen during long droughts."
+          ]
+        },
+        {
+          "heading": "Drought year and escalation",
+          "period": "2026-now",
+          "paragraphs": [
+            "A weak rainy season in 2026 brought the question the talks had never settled to the surface: how much water should be released when there is not enough for everyone. This chapter is updated as the story develops."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Water conflicts and how rivers are shared between countries",
+          "outlet": "International Crisis Group",
+          "url": "https://www.crisisgroup.org/",
+          "kind": "analysis",
+          "summary": "A clear report on why shared rivers create conflict, how past disputes were settled, and which approaches have worked best. Written for policymakers but readable for anyone with patience and a map open alongside it."
+        },
+        {
+          "title": "Transboundary freshwater dispute database",
+          "outlet": "Oregon State University",
+          "url": "https://transboundarywaters.science.oregonstate.edu/",
+          "kind": "paper",
+          "summary": "A research database of treaties and conflicts over shared rivers worldwide. The overview pages show that cooperation is more common than conflict, which is a useful corrective to dramatic headlines about water wars."
+        },
+        {
+          "title": "Rivers of Power: How a Natural Force Raised Kingdoms, Destroyed Civilizations",
+          "outlet": "Laurence C. Smith (Little, Brown)",
+          "url": "https://www.littlebrown.com/",
+          "kind": "book",
+          "summary": "A wide-ranging history of how rivers have shaped settlement, borders and power. Not about this dispute specifically, but excellent for understanding why rivers matter so much to governments everywhere."
+        }
+      ],
+      "sources": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "grain-corridor",
+      "title": "Grain exports through a contested sea and its narrow straits",
+      "status": "shifting",
+      "added": "2026-02-01",
+      "whyHere": "Much of the world's wheat passes through one sea.",
+      "standing": "Shipping continues under escort [^5].",
+      "heading": {
+        "likely": "Escorted shipping continues.",
+        "possible": "A new corridor deal.",
+        "unlikely": "Full normal traffic."
+      },
+      "watch": [
+        {
+          "date": "2026-11-01",
+          "what": "Insurance rates review."
+        },
+        {
+          "date": "2026-12-01",
+          "what": "Harvest export figures."
+        }
+      ],
+      "connects": [
+        {
+          "id": "river-basin",
+          "why": "Farms along the corridor depend on the same river water that the basin dispute is about."
+        }
+      ],
+      "removeWhen": "Normal shipping resumes.",
+      "history": [
+        {
+          "heading": "Normal trade",
+          "period": "2000-2021",
+          "paragraphs": [
+            "Grain moved freely."
+          ]
+        },
+        {
+          "heading": "Blockade",
+          "period": "2022",
+          "paragraphs": [
+            "Ports closed [^5]."
+          ]
+        },
+        {
+          "heading": "Corridor deal",
+          "period": "2022-2023",
+          "paragraphs": [
+            "A deal reopened ports."
+          ]
+        },
+        {
+          "heading": "Escorts",
+          "period": "2024-now",
+          "paragraphs": [
+            "Ships sail under escort."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Food price index",
+          "outlet": "UN FAO",
+          "url": "https://www.fao.org/",
+          "kind": "paper",
+          "summary": "Monthly global food prices."
+        },
+        {
+          "title": "Shipping lanes",
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/",
+          "kind": "news",
+          "summary": "Coverage of the corridor."
+        }
+      ],
+      "sources": [
+        5
+      ]
+    },
+    {
+      "id": "minerals-race",
+      "title": "The global race for the minerals behind batteries and chips",
+      "status": "escalating",
+      "added": "2026-02-01",
+      "whyHere": "Batteries and chips need minerals mined in few places.",
+      "standing": "Export controls are spreading [^6].",
+      "heading": {
+        "likely": "More controls.",
+        "possible": "New mines open.",
+        "unlikely": "Open markets return."
+      },
+      "watch": [
+        {
+          "date": "2026-11-20",
+          "what": "New export rules take effect."
+        },
+        {
+          "date": "2027-01-15",
+          "what": "Mine approvals."
+        }
+      ],
+      "connects": [
+        {
+          "id": "river-basin",
+          "why": "Mines and processing plants draw on the same river water that nearby countries are arguing over."
+        },
+        {
+          "id": "chip-alliances",
+          "why": "Chip makers need the same minerals, so new supply deals between countries often follow chip alliances."
+        }
+      ],
+      "removeWhen": "Supply becomes diverse.",
+      "history": [
+        {
+          "heading": "Concentration",
+          "period": "2000-2015",
+          "paragraphs": [
+            "Refining concentrated [^6]."
+          ]
+        },
+        {
+          "heading": "Awareness",
+          "period": "2016-2020",
+          "paragraphs": [
+            "Governments noticed."
+          ]
+        },
+        {
+          "heading": "Controls",
+          "period": "2021-2024",
+          "paragraphs": [
+            "First export controls."
+          ]
+        },
+        {
+          "heading": "Race",
+          "period": "2025-now",
+          "paragraphs": [
+            "Countries race to diversify."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Critical minerals outlook",
+          "outlet": "IEA",
+          "url": "https://www.iea.org/",
+          "kind": "paper",
+          "summary": "Annual supply and demand outlook."
+        },
+        {
+          "title": "Minerals explained",
+          "outlet": "OWID",
+          "url": "https://ourworldindata.org/",
+          "kind": "analysis",
+          "summary": "Charts on production."
+        }
+      ],
+      "sources": [
+        6
+      ]
+    },
+    {
+      "id": "chip-alliances",
+      "title": "Alliances form around who can make the most advanced chips",
+      "status": "stalled",
+      "added": "2026-03-10",
+      "whyHere": "Advanced chips power AI and defence.",
+      "standing": "Talks on a joint framework paused.",
+      "heading": {
+        "likely": "Pause continues.",
+        "possible": "Bilateral deals.",
+        "unlikely": "A single framework."
+      },
+      "watch": [
+        {
+          "date": "2026-11-05",
+          "what": "Ministers meet."
+        },
+        {
+          "date": "2026-12-12",
+          "what": "Subsidy deadlines."
+        }
+      ],
+      "connects": [
+        {
+          "id": "minerals-race",
+          "why": "Alliances on chips only work if members can secure the minerals needed to build them."
+        }
+      ],
+      "removeWhen": "A framework is agreed.",
+      "history": [
+        {
+          "heading": "Few makers",
+          "period": "2010-2019",
+          "paragraphs": [
+            "A few firms led."
+          ]
+        },
+        {
+          "heading": "Shortage",
+          "period": "2020-2021",
+          "paragraphs": [
+            "A chip shortage hit."
+          ]
+        },
+        {
+          "heading": "Subsidies",
+          "period": "2022-2024",
+          "paragraphs": [
+            "Big subsidies began."
+          ]
+        },
+        {
+          "heading": "Alliances",
+          "period": "2025-now",
+          "paragraphs": [
+            "Alliances formed."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Chip War",
+          "outlet": "Chris Miller (Scribner)",
+          "url": "https://www.simonandschuster.com/",
+          "kind": "book",
+          "summary": "History of the chip."
+        },
+        {
+          "title": "Semiconductor policy",
+          "outlet": "CSIS",
+          "url": "https://www.csis.org/",
+          "kind": "analysis",
+          "summary": "Policy tracker."
+        }
+      ],
+      "sources": [
+        6
+      ]
+    },
+    {
+      "id": "ageing-workforce",
+      "title": "Ageing populations and a shrinking workforce in rich nations",
+      "status": "winding-down",
+      "added": "2026-04-01",
+      "whyHere": "Fewer workers support more retirees.",
+      "standing": "Immigration and automation offset some decline.",
+      "heading": {
+        "likely": "Slow adjustment.",
+        "possible": "Pension reforms.",
+        "unlikely": "Birth rates recover."
+      },
+      "watch": [
+        {
+          "date": "2026-11-30",
+          "what": "Population projections."
+        },
+        {
+          "date": "2027-02-01",
+          "what": "Pension votes."
+        }
+      ],
+      "connects": [],
+      "removeWhen": "It becomes a slow background trend.",
+      "history": [
+        {
+          "heading": "Baby boom",
+          "period": "1946-1964",
+          "paragraphs": [
+            "Births surged."
+          ]
+        },
+        {
+          "heading": "Decline",
+          "period": "1970-2000",
+          "paragraphs": [
+            "Birth rates fell."
+          ]
+        },
+        {
+          "heading": "Retirement wave",
+          "period": "2010-2025",
+          "paragraphs": [
+            "Boomers retired."
+          ]
+        },
+        {
+          "heading": "Adjustment",
+          "period": "2026-now",
+          "paragraphs": [
+            "Countries adapt."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "Population",
+          "outlet": "OWID",
+          "url": "https://ourworldindata.org/",
+          "kind": "analysis",
+          "summary": "Charts."
+        },
+        {
+          "title": "World Population Prospects",
+          "outlet": "UN",
+          "url": "https://population.un.org/wpp/",
+          "kind": "paper",
+          "summary": "Official projections."
+        }
+      ],
+      "sources": [
+        6
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "date": "2026-10-11",
+      "text": "The river basin dispute moved from shifting to escalating after the downstream countries asked the UN Security Council to discuss the third filling stage, the first such request in four years."
+    },
+    {
+      "date": "2026-09-20",
+      "text": "Ageing workforce moved to winding down: projections now show the change happening slowly enough that it rarely drives week-to-week news."
+    },
+    {
+      "date": "2026-08-02",
+      "text": "Chip alliances moved to stalled after ministers postponed their meeting."
+    },
+    {
+      "date": "2026-06-14",
+      "text": "Minerals race replaced a resolved trade dispute on the list."
+    },
+    {
+      "date": "2026-04-01",
+      "text": "Ageing workforce added."
+    },
+    {
+      "date": "2026-01-15",
+      "text": "List created."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Downstream countries take dam dispute to UN Security Council",
+      "url": "https://www.reuters.com/world/africa/",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "Council on Foreign Relations",
+      "title": "Background: the history of water treaties in the basin",
+      "url": "https://www.cfr.org/",
+      "date": "2025-05-01",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "World Bank",
+      "title": "Basin initiative: project documents and evaluation",
+      "url": "https://www.worldbank.org/",
+      "date": "2012-06-30",
+      "singleSource": true
+    },
+    {
+      "id": 4,
+      "outlet": "Water International",
+      "title": "Why cooperation stalled: a retrospective on the basin initiative",
+      "url": "https://www.tandfonline.com/",
+      "date": "2019-03-01",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Lloyd's List",
+      "title": "Escorted convoys and insurance in the corridor",
+      "url": "https://www.lloydslist.com/",
+      "date": "2026-10-05",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "International Energy Agency",
+      "title": "Global Critical Minerals Outlook",
+      "url": "https://www.iea.org/",
+      "date": "2026-05-15",
+      "singleSource": false
+    }
+  ]
+}

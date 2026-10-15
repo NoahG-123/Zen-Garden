@@ -1,0 +1,368 @@
+{
+  "sample": true,
+  "date": "2026-10-14",
+  "summary": "A crowded day: ceasefire talks collapse and restart within hours, markets swing on central bank comments, and a storm forces evacuations as leaders arrive for a summit that was meant to be about something else entirely.",
+  "topics": [
+    {
+      "id": "ceasefire-talks",
+      "heading": "Ceasefire talks collapse and restart within hours as mediators step in",
+      "date": "2026-10-11",
+      "status": "developing",
+      "summary": "Negotiators walked out of ceasefire talks on Tuesday morning after a dispute over the order of prisoner releases, then returned by evening after mediators proposed a compromise. Both delegations say they are committed to an agreement, but officials on each side privately describe the gap as wide, and aid agencies warn that conditions on the ground are worsening while the talks drag on through the week ahead.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": "river-basin",
+      "article": [
+        "The day began badly. Shortly after 9 a.m., one delegation left the building where talks were being held, saying the other side had changed the order in which prisoners would be released under the draft agreement [^1]. Within an hour, the other delegation issued a statement denying it had changed anything and accusing its counterpart of looking for an excuse to leave. Reporters waiting outside were told the talks were suspended indefinitely, and several governments that had supported the process issued statements of concern.",
+        "Mediators spent the afternoon moving between hotels. According to two officials familiar with the discussions, they proposed releasing prisoners in smaller groups on alternating days, so that neither side would have to go first with a large release [^2]. The proposal also included an independent monitor to confirm each step. By 6 p.m. both delegations had agreed to return to the table, though neither has formally accepted the compromise, and officials cautioned that the same dispute could return in a different form.",
+        "The underlying disagreements have not changed since the talks began. One side wants guarantees that fighting will not resume after the first phase; the other wants freedom to respond if it believes the agreement has been broken [^3]. Both also disagree about who should be responsible for security in the areas from which forces would withdraw, and about whether international peacekeepers should be involved at all. These questions were left for later stages in earlier drafts, which is part of why those drafts failed.",
+        "Aid agencies say the delays have real costs. Fewer trucks crossed into the affected area last week than at any point in the past two months, and the agencies say food, fuel and medical supplies are running short in several districts [^4]. Hospitals report working on generators for only a few hours a day. Aid groups have called for any agreement to include a guaranteed minimum number of crossings regardless of how the political talks go.",
+        "Outside governments are applying pressure in different directions. Some have threatened sanctions on whichever side is seen to be blocking a deal, while others have promised reconstruction funding if an agreement is reached and holds for a set period [^5]. Analysts note that these incentives can work against each other if each side expects its own supporters to protect it from consequences, and that past agreements in the region have often failed at the point of implementation rather than signing.",
+        "What to watch next: whether the compromise on prisoner releases is formally accepted, whether aid crossings increase in the coming days, and whether the talks move on to the harder questions about security. A meeting of foreign ministers later this week could add pressure, or could expose disagreements among the governments that are trying to help."
+      ],
+      "differences": "Accounts of why the talks broke down differ sharply. Outlets relying on one delegation's briefings describe a last-minute change to the draft; those relying on the other describe a walkout planned in advance. Independent reporting so far has not been able to confirm either account, and the draft itself has not been published by either side or by the mediators."
+    },
+    {
+      "id": "central-banks",
+      "heading": "Markets swing as central bankers send mixed signals on rate cuts",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "Stock and bond markets moved sharply in both directions after officials from two major central banks gave speeches hours apart that seemed to point in opposite directions on interest rates. One suggested cuts could come soon if inflation keeps easing; the other warned that cutting too early could let prices rise again. Analysts say the swings reflect genuine uncertainty rather than any change in the economic data published this week.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Markets rose in the morning after the first speech [^6].",
+        "They fell in the afternoon after the second.",
+        "No new data was released between the two speeches."
+      ],
+      "differences": null
+    },
+    {
+      "id": "storm-evacuations",
+      "heading": "Storm forces coastal evacuations as summit leaders begin to arrive",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "Authorities ordered evacuations in several coastal towns as a strong storm approached, just as leaders began arriving for an international summit in a nearby city. Organisers say the summit will go ahead, but some delegations have delayed their travel. Forecasters expect heavy rain and strong winds through Thursday, with flooding possible in low-lying areas that were also hit by a storm earlier this year and are still rebuilding.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": "river-basin",
+      "article": [
+        "Evacuation orders cover about a dozen towns [^7].",
+        "Shelters have opened in schools and community centres.",
+        "The summit schedule has been shortened by one day."
+      ],
+      "differences": null
+    },
+    {
+      "id": "ai-rules",
+      "heading": "Lawmakers debate new rules for AI as companies push for more time",
+      "date": "2026-10-11",
+      "status": "developing",
+      "summary": "Lawmakers began debating a proposal that would require the most powerful AI models to pass safety tests before release. Technology companies say the timeline is unrealistic and could push research elsewhere; supporters say voluntary commitments have not been enough. The debate is expected to last several weeks, and the final version could look quite different from the current draft after amendments from several committees are considered.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "The draft would apply only to the largest models [^8].",
+        "Companies want a longer phase-in.",
+        "A first committee vote is expected next month."
+      ],
+      "differences": null
+    },
+    {
+      "id": "food-prices",
+      "heading": "Food prices rise again after poor harvests in key exporting countries",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "A global index of food prices rose for the third month in a row, driven by poor harvests of wheat and vegetable oils in several large exporting countries. Economists say the increase is modest compared with 2022 but could hit poorer countries that import most of their food hardest. Some governments have already announced limits on exports to protect domestic supplies, which could push global prices higher still in the months ahead.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": "river-basin",
+      "article": [
+        "The index rose about two percent [^9].",
+        "Wheat and vegetable oils led the increase.",
+        "Several countries announced export limits."
+      ],
+      "differences": null
+    },
+    {
+      "id": "election-dispute",
+      "heading": "Election result disputed as both main candidates claim to have won",
+      "date": "2026-10-11",
+      "status": "disputed",
+      "summary": "Both main candidates in a closely watched presidential election claimed victory on Tuesday night before official results were published. The election commission says counting will take several more days because of the number of mail-in ballots. International observers say voting was largely orderly but have raised concerns about delays in some districts and about statements from both camps that could inflame supporters before results are known.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "The commission has counted about 80 percent of ballots [^10].",
+        "Both campaigns have filed legal challenges.",
+        "Observers urged patience."
+      ],
+      "differences": "Early results reported by outlets differ because they draw on different partial counts and projections."
+    },
+    {
+      "id": "space-mission",
+      "heading": "Crewed lunar mission delayed again after problems found during testing",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "The space agency announced a further delay to its next crewed mission around the Moon after engineers found problems with a heat shield during testing. The agency says crew safety comes first and that the new date is still being worked out. The delay could affect international partners who are planning their own missions around the same schedule, and adds to questions about the cost of the overall programme.",
+      "lead": {
+        "title": "A very long article headline that runs on to test how the source article row wraps across several lines in the panel",
+        "outlet": "The Globe and Mail of Toronto Ontario",
+        "url": "https://www.theglobeandmail.com/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "A second long headline from another outlet that also needs to wrap neatly without breaking the layout",
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        },
+        {
+          "title": "Another headline of a similar length for the second also-reported link in this card",
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/"
+        }
+      ],
+      "eventId": "river-basin",
+      "article": [
+        "Engineers found unexpected wear on the heat shield [^11].",
+        "A new launch date has not been set.",
+        "Partners say they will adjust their plans."
+      ],
+      "differences": null
+    }
+  ],
+  "question": {
+    "type": "who-benefits",
+    "text": "When talks collapse and restart within the same day, who gains from the public seeing a walkout, and who gains from the public seeing a return? Think about the audiences each delegation is speaking to at home, among allies and among mediators, and whether those audiences want the same thing."
+  },
+  "read": {
+    "title": "Why ceasefire agreements fail at the point of implementation rather than at signing",
+    "outlet": "Foreign Affairs",
+    "url": "https://www.foreignaffairs.com/",
+    "kind": "analysis",
+    "minutes": 18,
+    "summary": "A careful look at dozens of past ceasefires, finding that the hardest moment is usually the weeks after signing, when each side must trust the other to follow through. Useful background for reading today's headlines with more patience."
+  },
+  "weeklyRead": {
+    "title": "Measuring the effect of central bank communication on financial markets",
+    "outlet": "Bank for International Settlements",
+    "url": "https://www.bis.org/",
+    "kind": "paper",
+    "minutes": 25,
+    "summary": "A research paper showing how much markets move on what central bankers say rather than what they do. Dense in places, but the introduction and conclusion explain clearly why a single speech can swing prices worldwide within minutes."
+  },
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Delegation walks out of ceasefire talks over dispute about prisoner release order",
+      "url": "https://www.reuters.com/world/",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "Associated Press",
+      "title": "Mediators propose staggered releases to rescue talks",
+      "url": "https://apnews.com/",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
+      "id": 3,
+      "outlet": "BBC",
+      "title": "What each side wants from a ceasefire, and why it is so hard to agree",
+      "url": "https://www.bbc.com/news/world",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "UN OCHA",
+      "title": "Humanitarian situation report: access and supplies",
+      "url": "https://www.unocha.org/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Financial Times",
+      "title": "Governments weigh sanctions and reconstruction pledges",
+      "url": "https://www.ft.com/world",
+      "date": "2026-10-12",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Bloomberg",
+      "title": "Markets whipsaw as central bankers diverge on rates",
+      "url": "https://www.bloomberg.com/markets",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "The Guardian",
+      "title": "Coastal towns evacuated as storm nears summit city",
+      "url": "https://www.theguardian.com/world",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Politico Europe",
+      "title": "Lawmakers open debate on pre-release testing for AI models",
+      "url": "https://www.politico.eu/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "UN FAO",
+      "title": "Food Price Index",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "Al Jazeera",
+      "title": "Both candidates claim victory as count continues",
+      "url": "https://www.aljazeera.com/",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "NASA",
+      "title": "Mission update: heat shield testing",
+      "url": "https://www.nasa.gov/",
+      "date": "2026-10-13",
+      "singleSource": true
+    },
+    {
+      "id": 12,
+      "outlet": "The Economist",
+      "title": "The long road from ceasefire to peace",
+      "url": "https://www.economist.com/",
+      "date": "2026-10-11",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "CBC News",
+      "title": "What a disputed election means for its neighbours",
+      "url": "https://www.cbc.ca/news/world",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "Nikkei Asia",
+      "title": "Exporters announce limits as harvests disappoint",
+      "url": "https://asia.nikkei.com/",
+      "date": "2026-10-12",
+      "singleSource": false
+    }
+  ]
+}

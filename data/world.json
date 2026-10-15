@@ -1,0 +1,257 @@
+{
+  "sample": true,
+  "date": "2026-10-12",
+  "summary": "Tensions in the Middle East remain high, with global markets watching for signs of escalation or de-escalation.",
+  "topics": [
+    {
+      "id": "gaza-talks-resume",
+      "heading": "Mediators restart ceasefire talks after weekend airstrikes",
+      "date": "2026-10-11",
+      "status": "developing",
+      "summary": "Regional tensions remain high after renewed airstrikes, with international mediators pushing both sides back toward a ceasefire. Talks are expected to resume this week, but neither side has signalled a major concession.",
+      "lead": {
+        "title": "Iran signals readiness for talks as strikes resume",
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "What each side wants from a ceasefire",
+          "outlet": "BBC",
+          "url": "https://www.bbc.com/news/world/middle_east"
+        },
+        {
+          "title": "Aid crossings narrow again as talks stall",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/"
+        }
+      ],
+      "eventId": "middle-east-war",
+      "article": [
+        "Mediators from several countries spent the weekend shuttling between delegations after a new round of airstrikes ended a period of relative calm [^1]. Officials on both sides say they are still willing to talk, but each blames the other for the latest escalation.",
+        "The core disagreements have not changed: who controls security on the ground, how aid reaches civilians, and what guarantees each side would accept before stepping back [^2]. Aid agencies say access has narrowed again in the past week.",
+        "Markets are watching closely because the region sits along important shipping and energy routes. Oil prices rose modestly on Friday and then steadied, a sign that traders expect the situation to stay contained for now [^3].",
+        "What to watch next: whether the talks resume on schedule, whether aid crossings reopen, and whether outside powers add pressure or guarantees."
+      ],
+      "differences": "Outlets differ on who broke the period of calm. Some lead with the airstrikes, others with the attacks that preceded them, and casualty figures vary depending on whether they come from local authorities or independent monitors."
+    },
+    {
+      "id": "central-banks-patience",
+      "heading": "Central banks signal patience on rate cuts",
+      "date": "2026-10-11",
+      "status": "confirmed",
+      "summary": "Markets show cautious optimism as inflation continues to ease in several large economies, supporting forecasts of slow but steady growth. Central banks are signalling patience rather than quick rate cuts.",
+      "lead": {
+        "title": "Central banks signal patience on rate cuts",
+        "outlet": "Bloomberg",
+        "url": "https://www.bloomberg.com/economics",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "Inflation eases again across major economies",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/business/economics"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "New figures from several large economies show prices rising more slowly than a year ago, the pattern central banks have been waiting for [^4]. That has lifted stock markets and lowered borrowing costs a little.",
+        "Central bankers are being careful in how they talk about it. Cutting interest rates too early could let inflation return, while waiting too long could slow hiring. Most are saying they will watch a few more months of data first [^5].",
+        "For households, the change is slow. Prices are still much higher than before 2021 even if they are rising more slowly, which is why many people do not feel the improvement that the numbers describe."
+      ],
+      "differences": null
+    },
+    {
+      "id": "ai-rules-debate",
+      "heading": "Lawmakers question new rules for fast-moving AI models",
+      "date": "2026-10-10",
+      "status": "developing",
+      "summary": "New AI models are arriving faster than the rules written for them, and several governments are testing different ways to keep up. The debate is shifting from whether to regulate to how.",
+      "lead": {
+        "title": "How governments are testing AI rules",
+        "outlet": "Politico Europe",
+        "url": "https://www.politico.eu/section/technology/",
+        "date": "2026-10-10"
+      },
+      "alsoReported": [],
+      "eventId": "ai-race",
+      "article": [
+        "Several companies released new AI systems this month, each claiming better reasoning or lower cost than the last [^6]. Independent testers say the gains are real in some areas and overstated in others.",
+        "Governments are taking different paths. Some focus on testing the most powerful models before release; others focus on specific uses, such as hiring or schools [^7]. The approaches often do not line up across borders.",
+        "The practical question for students is how these tools change schoolwork and future jobs. Early studies suggest they help most with routine tasks and least with judgement, but evidence is still thin."
+      ],
+      "differences": "Coverage splits on whether this month's releases are a step change or an incremental update. Company announcements and independent benchmarks often report different results."
+    },
+    {
+      "id": "storm-evacuations",
+      "heading": "Floods and late heat strain emergency services",
+      "date": "2026-10-10",
+      "status": "confirmed",
+      "summary": "Extreme weather continues to disrupt communities and strain resources, as countries prepare their positions for the next UN climate summit in November.",
+      "lead": {
+        "title": "Floods and late heat strain emergency services",
+        "outlet": "AP News",
+        "url": "https://apnews.com/hub/climate-and-environment",
+        "date": "2026-10-10"
+      },
+      "alsoReported": [
+        {
+          "title": "What to expect from this year's UN climate talks",
+          "outlet": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/"
+        },
+        {
+          "title": "Cities plan for the next heatwave",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/environment/climate-crisis"
+        }
+      ],
+      "eventId": "climate-energy",
+      "article": [
+        "Recent floods and late-season heat have again tested emergency services in several regions [^8]. Scientists say events like these are becoming more likely as average temperatures rise.",
+        "Countries are preparing for the annual UN climate talks, where the main questions are how fast to cut emissions and who pays for adapting to damage that is already happening [^9].",
+        "Clean energy keeps growing quickly in many markets, but not quickly enough to meet the goals countries agreed to in Paris in 2015. That gap is the centre of most negotiations."
+      ],
+      "differences": null
+    },
+    {
+      "id": "tariffs-redraw-trade",
+      "heading": "New tariffs redraw trade routes between major economies",
+      "date": "2026-10-11",
+      "status": "disputed",
+      "summary": "Shifting alliances and trade tensions are reshaping the global order, with uncertain long-term effects. Analysts disagree about whether this is a temporary realignment or a lasting break.",
+      "lead": {
+        "title": "New tariffs redraw trade routes",
+        "outlet": "Reuters",
+        "url": "https://www.reuters.com/business/",
+        "date": "2026-10-11"
+      },
+      "alsoReported": [
+        {
+          "title": "Is the global order breaking or bending?",
+          "outlet": "Foreign Affairs",
+          "url": "https://www.foreignaffairs.com/"
+        }
+      ],
+      "eventId": "us-china",
+      "article": [
+        "New tariffs and trade deals announced over the past month are changing which countries trade most with each other [^10]. Some governments are building closer ties with neighbours to reduce their reliance on any one large partner.",
+        "Supporters of the changes say they protect jobs and national security. Critics say they raise prices and make cooperation on shared problems, such as pandemics and climate, harder [^11].",
+        "The long-term outcome is genuinely unclear. Past periods of trade conflict have sometimes ended in new agreements and sometimes in lasting blocs."
+      ],
+      "differences": "Analysts disagree on the size of the effect. Some point to record trade volumes overall; others point to sharp drops between specific pairs of countries."
+    }
+  ],
+  "question": {
+    "type": "second-order",
+    "text": "What are the second-order effects of this event, beyond the immediate headlines?"
+  },
+  "read": {
+    "title": "The Global Economy in a More Fragmented World",
+    "outlet": "The Economist",
+    "url": "https://www.economist.com/finance-and-economics",
+    "kind": "news",
+    "minutes": 8,
+    "summary": "How shifting alliances and trade policies are reshaping the global economy, and what that could mean for prices and jobs."
+  },
+  "weeklyRead": {
+    "title": "The world is awful. The world is much better. The world can be much better.",
+    "outlet": "Our World in Data",
+    "url": "https://ourworldindata.org/much-better-awful-can-be-better",
+    "kind": "analysis",
+    "minutes": 12,
+    "summary": "A short essay on holding three true ideas at once, and a useful lens for reading bad news without losing perspective."
+  },
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters",
+      "title": "Iran signals readiness for talks as strikes resume",
+      "url": "https://www.reuters.com/world/middle-east/",
+      "date": "2026-10-11",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "BBC",
+      "title": "What each side wants from a ceasefire",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Financial Times",
+      "title": "Oil steadies as traders weigh regional risk",
+      "url": "https://www.ft.com/markets",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Guardian",
+      "title": "Inflation eases again across major economies",
+      "url": "https://www.theguardian.com/business/economics",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Bloomberg",
+      "title": "Central banks signal patience on rate cuts",
+      "url": "https://www.bloomberg.com/economics",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "MIT Technology Review",
+      "title": "This month in AI model releases",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "date": "2026-10-08",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Politico Europe",
+      "title": "How governments are testing AI rules",
+      "url": "https://www.politico.eu/section/technology/",
+      "date": "2026-10-08",
+      "singleSource": true
+    },
+    {
+      "id": 8,
+      "outlet": "AP News",
+      "title": "Floods and late heat strain emergency services",
+      "url": "https://apnews.com/hub/climate-and-environment",
+      "date": "2026-10-10",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "Carbon Brief",
+      "title": "What to expect from this year's UN climate talks",
+      "url": "https://www.carbonbrief.org/",
+      "date": "2026-10-07",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "Reuters",
+      "title": "New tariffs redraw trade routes",
+      "url": "https://www.reuters.com/business/",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "Foreign Affairs",
+      "title": "Is the global order breaking or bending?",
+      "url": "https://www.foreignaffairs.com/",
+      "date": "2026-10-06",
+      "singleSource": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sample": true,
+  "updated": "2026-10-01",
+  "topic": "Is our generation more worried about climate change, and why?",
+  "intro": "Many young people say climate change makes them anxious about the future. This month looks at how widespread that feeling is, where it comes from, and how to tell solid evidence from claims that just sound true.",
+  "data": [
+    { "stat": "59% of 16-25 year olds are very or extremely worried about climate change.", "detail": "Survey of 10,000 young people in 10 countries, including Canada, published in 2021.", "source": 1 },
+    { "stat": "75% say the future is frightening.", "detail": "Same survey. Higher in countries already facing climate damage, such as the Philippines and India.", "source": 1 },
+    { "stat": "More than 45% say their feelings about climate affect their daily life.", "detail": "Including eating, sleeping, studying and having fun.", "source": 1 },
+    { "stat": "2024 was the first calendar year more than 1.5°C above pre-industrial temperatures.", "detail": "The worry is tied to a real, measured trend, not only to how news is reported.", "source": 2 },
+    { "stat": "Nearly half of US teens say they are online almost constantly.", "detail": "Up from about a quarter in 2014-15. Much climate news reaches young people through social apps.", "source": 3 }
+  ],
+  "why": [
+    { "claim": "Young people feel adults and governments are not acting.", "evidence": "measured", "detail": "In the same 2021 survey, most respondents said governments were failing young people, and that feeling was linked to higher distress." },
+    { "claim": "Social media spreads the most alarming climate content.", "evidence": "plausible", "detail": "Emotional posts tend to travel further online, but there is little direct research on climate content for teens specifically." },
+    { "claim": "Climate anxiety is a sign of a mental health problem.", "evidence": "contested", "detail": "Many researchers describe it as a reasonable response to a real threat, not a disorder; others warn it can become harmful when it stops people from acting." },
+    { "claim": "Learning about solutions reduces anxiety.", "evidence": "plausible", "detail": "Small studies suggest that taking action and seeing progress helps, but larger, longer studies are needed." }
+  ],
+  "test": [
+    "Who was surveyed, how many people, and where?",
+    "Does the claim describe what people feel, or what is actually happening?",
+    "Would this claim still sound true if it came from someone you usually disagree with?",
+    "Is there a source you can open and check yourself?"
+  ],
+  "sources": [
+    { "id": 1, "outlet": "The Lancet Planetary Health", "title": "Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey", "url": "https://doi.org/10.1016/S2542-5196(21)00278-3", "date": "2021-12-01", "singleSource": false },
+    { "id": 2, "outlet": "Copernicus", "title": "Global Climate Highlights 2024", "url": "https://climate.copernicus.eu/global-climate-highlights-2024", "date": "2025-01-10", "singleSource": false },
+    { "id": 3, "outlet": "Pew Research Center", "title": "Teens, Social Media and Technology 2024", "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/", "date": "2024-12-12", "singleSource": false }
+  ]
+}
