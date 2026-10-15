@@ -1,68 +1,113 @@
 # Zen Garden
 
-A calm, text-first daily read on the world, for desktop (1024–1920 px, designed at 1440). It is a static site with no backend and no build step. Every word that changes comes from JSON in `/data`. The morning task rewrites those files and never touches the code.
+A calm, text-first daily read on the world, for desktop (1024–1920 px, designed at 1440). It is a static site: plain HTML, CSS and JavaScript, no backend, no build step, no dependencies. Every word that changes comes from JSON in `/data`. The daily update rewrites those files and never touches the code.
+
+The site is **light only** (one wallpaper, no dark mode) and renders everything as text.
 
 ## Files
 
 | Path | What it is |
 |---|---|
-| `index.html` | The page shell: top bar, tabs, an empty `<main>`. |
-| `styles.css` | All styling. The colour tokens sit at the top. The site is light-only. |
-| `app.js` | Fetching, rendering, routing, citations and disclosures. No content lives here. |
+| `index.html` | The page shell: top bar with tabs, an empty `<main>`, a footer. |
+| `styles.css` | All styling. The colour tokens sit at the top of the file. |
+| `app.js` | Fetching, routing, rendering, citations, disclosures, scroll helpers. No content lives here. |
 | `assets/wallpapers/light.jpg` | The full-bleed wallpaper. Replace the file to change the look; no code edit is needed. |
 | `data/index.json` | The update time and the list of files that exist. |
-| `data/world.json`, `events.json`, `canada.json`, `china.json`, `generation.json` | Sample content (`"sample": true`). |
-| `data/stress/*.json` | Shortest and longest World and Events fixtures, used for design checks only. |
+| `data/world.json`, `events.json`, `canada.json`, `china.json`, `generation.json` | Sample content, each marked `"sample": true`. |
+| `data/stress/*.json` | Shortest and longest World and Events fixtures, for design checks only. |
+
+Fonts (Hanken Grotesk and Geist Mono) load from Google Fonts. If they are blocked, the page falls back to system fonts.
+
+## Run it
+
+Opening `index.html` directly (`file://`) blocks the data fetch, so serve the folder with any static server, then open the address it prints.
+
+- Python: `python3 -m http.server 8000`, then http://localhost:8000
+- Node (works on Windows): `npx http-server -p 8000`, then http://localhost:8000
+
+To check the stress fixtures in the real app: `index.html?stress=short#world` or `index.html?stress=long#events`.
 
 ## Settings
 
-`DATA_BASE_URL` is the first constant in `app.js` (default `./data/`). Point it at any folder or URL that serves the JSON, keeping the trailing slash.
+All at the top of `app.js`:
 
-Other settings next to it: `TZ` (America/Toronto) and `STALE_HOURS` (36).
+| Constant | Default | Meaning |
+|---|---|---|
+| `DATA_BASE_URL` | `./data/` | Where the JSON lives. Point it at any folder or URL that serves the files, keeping the trailing slash. |
+| `TZ` | `America/Toronto` | Time zone used for the "Updated …" label. |
+| `STALE_HOURS` | `36` | After this many hours the top bar adds "· may be out of date". |
 
 ## How loading works
 
 1. `index.json` is fetched with `?t=<now>` and `cache: no-store`, so it is never cached.
-2. Each tab file is fetched with `?v=<index.updated>`. When the morning task writes a new `updated` value, every browser gets the new files, and the files stay cached until then.
-3. A tab shows a quiet skeleton while loading. If its file isn't listed in `index.files`, returns an error, or isn't valid JSON, the tab shows **Not updated yet**.
-4. If `updated` is more than 36 hours old, the top bar adds **· may be out of date**.
+2. Each tab file is fetched with `?v=<index.updated>`. When the daily update writes a new `updated` value, every browser gets the new files; until then they stay cached.
+3. A tab shows a quiet skeleton while loading. If its file is not listed in `index.files`, returns an error, or is not valid JSON, the tab shows **Not updated yet**.
+4. If `updated` is more than `STALE_HOURS` old, the top bar adds **· may be out of date**.
 5. If the current tab's file has `"sample": true`, the top bar shows **Sample data**. Set it to `false` (or remove it) in real files.
+6. After the first tab renders, the other tabs are fetched quietly so switching is instant.
 
-To check the stress fixtures in the real app, open `index.html?stress=short#world` or `index.html?stress=long#events`.
+`index.json`:
 
-Run it locally with any static server, for example `python3 -m http.server`, then open http://localhost:8000. Opening the file directly with `file://` blocks the data fetch.
+```json
+{ "updated": "2026-10-12T06:30:00-04:00", "files": ["world.json", "events.json", "canada.json", "china.json", "generation.json"] }
+```
+
+## Navigation
+
+Five tabs: **World**, **Events**, **Canada**, **China**, **Generation**. Tabs are links (`#world`, `#events`, `#canada`, `#china`, `#generation`) and can be deep-linked. Citation clicks and in-page jumps never change the address-bar hash.
+
+## Layout
+
+- **World:** a sticky topic index on the left, the header and event cards in the centre, and a right-hand side panel with *Think about this*, *Today's read*, *This week's read* and *Sources*.
+- **Canada, China, Generation:** the brief in a main column with a narrow right-hand side panel for *Sources*.
+- **Events:** a single centred column of expandable event cards.
+- Below 1280 px the World layout collapses to fewer columns and the side panel moves under the content.
+- No box has a fixed height. Boxes size to their content; the only exception is the Sources list, a compact scrollable box (about 340 px tall) so a long source list never becomes a long chain.
 
 ## Rendering rules
 
 - All JSON is inserted with `textContent`. Raw HTML in the data is shown as plain text, never parsed.
-- Links are only made for `http(s)` URLs.
-- `[^3]` anywhere in text becomes a superscript **3**. Clicking it glides the page (a gentle, slightly bouncy scroll) to entry 3 in the Sources list and highlights it for a couple of seconds; the hash in the address bar never changes. The article link itself opens from the Sources entry. In Events, markers jump to that event's own Sources row. On hover or keyboard focus, a tooltip shows the outlet and title. Reduced motion jumps without animation. Space before a marker is removed.
-- Empty or `null` optional fields (`differences`, `weeklyRead`, `reads`, `connects`, …) hide their section entirely.
-- No element has a fixed height. Disclosures animate `grid-template-rows` from `0fr` to `1fr`, so they open to whatever height the content needs. Reduced motion turns every transition off.
+- Links are only made for `http(s)` URLs; anything else is shown as plain text. External links open in a new tab with `noopener noreferrer`.
+- **Citations.** `[^3]` anywhere in text becomes a superscript **3**. Hovering or focusing it shows a tooltip with the outlet and title. Clicking it glides the page (a gentle, slightly bouncy scroll) to entry 3 in the Sources list, scrolls the list to that entry, and highlights it for a couple of seconds. The article itself opens from the Sources entry. In Events, markers jump to that event's own Sources row. If the number has no matching source, it is shown without a link. Space before a marker is removed, so `calm [^1].` renders as "calm¹.".
+- Empty or `null` optional fields (`differences`, `weeklyRead`, `reads`, `lead`, `alsoReported`, `connects`, …) hide their section entirely.
+- **Disclosures** (Read more, Earlier changes, event rows) are real buttons with `aria-expanded` and `aria-controls`. They animate `grid-template-rows` from `0fr` to `1fr`, so they open to whatever height the content needs. Collapsed regions are `inert`.
+- Reduced motion turns every transition, scroll glide and highlight animation off.
 
 ## Which element shows each field
 
 ### world.json  →  World tab
-Each topic is ONE specific event from roughly the last 48 hours, not a theme.
+Each topic is ONE specific event from roughly the last 48 hours, not a general theme.
 
 | Field | Shown as |
 |---|---|
 | `date` | Mono label at the top of the header panel ("Mon, Oct 12, 2026") |
 | `summary` | Large sentence in the header panel |
+| `topics[].id` | Anchor `#t-<id>`, used by the sticky index |
 | `topics[].heading` | Event headline, plus its entry in the sticky left index |
 | `topics[].date` | Event date, under the headline |
-| `topics[].status` | Status tag next to the headline (confirmed / developing / disputed) |
+| `topics[].status` | Status tag next to the headline: `confirmed`, `developing` or `disputed` |
 | `topics[].summary` | Always-visible text under the headline (2–3 sentences) |
-| `topics[].lead` | **Source article** row directly under the summary: outlet, headline link (new tab), date. Hidden if missing |
-| `topics[].alsoReported[]` | Up to two quieter **Also reported by** links (outlet and headline). Hidden if empty |
+| `topics[].lead` | **Source article** row directly under the summary: `title` link (new tab), `outlet`, `date`. Hidden if missing |
+| `topics[].alsoReported[]` | Up to two quieter **Also reported by** links (`outlet`, `title`, `url`). Hidden if empty |
 | `topics[].eventId` | A **Part of: [event title]** chip that opens and scrolls to that card in the Events tab. Shown only when the id exists in `events.json`; use `null` otherwise |
 | `topics[].article[]` | Paragraphs revealed by **Read more** (collapsed by default) |
 | `topics[].differences` | **Where reporting differs** box at the end of the article (hidden if null) |
-| `topics[].id` | Anchor `#t-<id>`, used by the index |
-| `question.type` / `.text` | **Think about this** card (type as small tag) |
-| `read` | **Today's read** card: kind tag, minutes, title link, outlet, summary |
-| `weeklyRead` | **This week's read** card (hidden if null) |
-| `sources[]` | Numbered **Sources** list in the right-hand side panel (a compact, scrollable box). `singleSource: true` adds a "single source" tag |
+| `question.type` / `.text` | **Think about this** card (type as a small tag) |
+| `read` | **Today's read** card: `kind` tag, `minutes`, `title` link, `outlet`, `summary` |
+| `weeklyRead` | **This week's read** card, same shape as `read` (hidden if null) |
+| `sources[]` | Numbered **Sources** list in the side panel. `singleSource: true` adds a "single source" tag |
+
+```json
+"topics": [ {
+  "id": "riyadh-airport-attack", "heading": "…", "date": "2026-10-08", "status": "developing",
+  "summary": "…",
+  "lead": { "title": "…", "outlet": "…", "url": "…", "date": "2026-10-09" },
+  "alsoReported": [ { "title": "…", "outlet": "…", "url": "…" } ],
+  "eventId": "iran-war",
+  "article": ["paragraph with a citation [^1]", "paragraph"],
+  "differences": "…"
+} ]
+```
 
 ### events.json  →  Events tab
 | Field | Shown as |
@@ -70,17 +115,18 @@ Each topic is ONE specific event from roughly the last 48 hours, not a theme.
 | `reviewed` | "Reviewed Oct 11, 2026" label in the header |
 | `changes[0]` | **Recent change** line |
 | `changes[1…]` | Behind **Earlier changes (n)** |
-| `events[].title`, `.status`, `.added` | The collapsed row: number, title, status tag, "Added …" |
+| `events[].title`, `.status`, `.added` | The collapsed row: number, title, status tag, "Added …". Status is `escalating`, `shifting`, `winding-down` or `stalled` |
+| `.id` | Anchor `#ev-<id>`; also the value World topics use in `eventId` |
 | `.whyHere` | Why it's here |
 | `.standing` | Where it stands |
 | `.heading.likely / .possible / .unlikely` | Where it's heading (three lines) |
-| `.watch[]` | What to watch: date and text |
-| `.connects[]` | **Connects to**: chips, each `{ "id": "<event id>", "why": "<one sentence>" }`. Clicking a chip opens a small note with the `why` and a "Jump to …" line that opens and scrolls to that event. A plain id string still works (the note then shows only the jump line) |
+| `.watch[]` | What to watch: `date` and `what` |
+| `.connects[]` | **Connects to** chips, each `{ "id": "<event id>", "why": "<one sentence>" }`. Clicking a chip opens a small note with the `why` and a "Jump to …" line that opens and scrolls to that event. Clicking again or pressing Esc closes it. A plain id string still works (the note then shows only the jump line) |
 | `.removeWhen` | What would remove it |
-| `.history[]` | Full history reader: chapter list (heading and period) on the left, chapter text on the right, Previous/Next, "Chapter 3 of 7" |
-| `.goDeeper[]` | Go deeper cards: kind tag, title link, outlet, summary |
-| `.sources[]` | Ids into the top-level `sources` list, shown under the event |
-| `sources[]` | Shared source list; `[^n]` in any event text links here |
+| `.history[]` | Full history reader: chapter list (`heading`, `period`) on the left, chapter `paragraphs` on the right, Previous/Next, "Chapter 3 of 7" |
+| `.goDeeper[]` | Go deeper cards: `kind` tag, `title` link, `outlet`, `summary` |
+| `.sources[]` | Ids into the top-level `sources` list, shown as that event's own Sources row |
+| `sources[]` | Shared source list; `[^n]` in any event text jumps to the matching row |
 
 **Changes often:** `standing`, `heading`, `watch` (and `status`, plus a new `changes` entry when an event moves).
 **Grows over time:** `history`. Append new chapters at the end and update the last chapter's `period` (for example "2025-now"). Never rewrite older chapters. The reader handles 4–10 chapters.
@@ -90,24 +136,42 @@ Each topic is ONE specific event from roughly the last 48 hours, not a theme.
 |---|---|
 | `date`, `summary` | Header panel |
 | `body[]` | The brief's paragraphs (1–4, no subheadings) |
-| `differences` | Where reporting differs box (hidden if null) |
-| `reads[]` (max 2) | **Further reading**: kind tag, title link, outlet, summary |
-| `sources[]` | Sources list |
+| `differences` | **Where reporting differs** box (hidden if null) |
+| `reads[]` (max 2) | **Further reading**: `kind` tag, `title` link, `outlet`, `summary` |
+| `sources[]` | Sources list in the side panel |
 
 ### generation.json  →  Generation tab
 | Field | Shown as |
 |---|---|
 | `updated` | "This month · October 2026" label |
 | `topic`, `intro` | Header panel |
-| `data[]` | **What the data says**: `stat` in bold with a superscript link to `source`, `detail` below |
-| `why[]` | **Why it spreads**: `claim`, `evidence` tag (measured / plausible / contested), `detail` |
+| `data[]` | **What the data says**: `stat` in bold with a superscript link to `source` (a source id), `detail` below |
+| `why[]` | **Why it spreads**: `claim`, `evidence` tag (`measured`, `plausible` or `contested`), `detail` |
 | `test[]` | **How to test a claim**: numbered list |
-| `sources[]` | Sources list |
+| `sources[]` | Sources list in the side panel |
+
+### Source objects (every file)
+`{ "id": 1, "outlet": "Reuters", "title": "…", "url": "https://…", "date": "2026-10-11", "singleSource": false }`. The `id` is the number used in `[^n]` markers and must be unique within its file.
+
+## States
+
+- **Loading:** a skeleton that matches the tab's layout.
+- **File missing or invalid:** "Not updated yet" panel.
+- **Stale:** a "· may be out of date" note in the top bar.
+- **Sample data:** a "Sample data" flag in the top bar.
+- **Empty fields:** the section disappears; nothing shows a blank placeholder.
+- **Stress tests:** shortest and longest content for World and Events, in `data/stress/`.
 
 ## Notes on the sample data
 
-The sample files are placeholders for layout only. Their Events history is real background, but the "today" text is illustrative, and most source links point to outlet section pages rather than specific articles. The stress fixtures use invented stories so they can be sized to the content limits exactly.
+The sample files are placeholders for layout only. The Events history is real background, but the "today" text is illustrative, and most source links point to outlet section pages rather than specific articles. The stress fixtures use invented stories so they can be sized to the content limits exactly.
 
 ## Accessibility
 
-Semantic headings throughout. Every disclosure is a real `<button>` with `aria-expanded` and `aria-controls`, and collapsed regions are `inert`. Focus is always visible, and every action works from the keyboard. Tabs are links (`#world`, `#events`, `#canada`, `#china`, `#generation`) and can be deep-linked. Panel opacity was chosen so body text meets WCAG AA over the wallpaper.
+- Semantic headings throughout; one `h1` per view.
+- Every disclosure is a real `<button>` with `aria-expanded` and `aria-controls`; collapsed regions are `inert`.
+- Focus is always visible and every action works from the keyboard. The connection note closes with Esc.
+- Citation markers have descriptive labels ("Source 3: Outlet, Title. Jump to source"); external links announce that they open in a new tab.
+- Panel opacity was chosen so body text meets WCAG AA over the wallpaper.
+- Reduced-motion preferences are respected.
+- A "Skip to content" link is the first focusable element.
