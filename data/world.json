@@ -1,257 +1,372 @@
 {
-  "sample": true,
-  "date": "2026-10-12",
-  "summary": "Tensions in the Middle East remain high, with global markets watching for signs of escalation or de-escalation.",
+  "date": "2026-10-15",
+  "summary": "Ukraine breaks with a US-brokered energy truce, the IMF says AI spending is holding up growth despite the oil shock, and Congo faces both a new rebel front and a growing Ebola outbreak.",
   "topics": [
     {
-      "id": "gaza-talks-resume",
-      "heading": "Mediators restart ceasefire talks after weekend airstrikes",
-      "date": "2026-10-11",
-      "status": "developing",
-      "summary": "Regional tensions remain high after renewed airstrikes, with international mediators pushing both sides back toward a ceasefire. Talks are expected to resume this week, but neither side has signalled a major concession.",
+      "id": "ukraine-ends-energy-truce",
+      "heading": "Ukraine drops Trump's energy truce and strikes a Russian oil refinery again",
+      "date": "2026-10-15",
+      "status": "confirmed",
+      "summary": "Ukrainian drones set fire to a Rosneft refinery in Russia's Ryazan region after President Zelenskyy said Kyiv was \"done\" with a US-announced pause on energy strikes. He says Russia kept hitting Ukraine's grid; Moscow says Kyiv never stopped. The break also shows growing strain between Kyiv and Washington.",
       "lead": {
-        "title": "Iran signals readiness for talks as strikes resume",
-        "outlet": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/",
-        "date": "2026-10-11"
+        "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+        "outlet": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour",
+        "date": "2026-10-15"
       },
       "alsoReported": [
         {
-          "title": "What each side wants from a ceasefire",
-          "outlet": "BBC",
-          "url": "https://www.bbc.com/news/world/middle_east"
+          "title": "Ukrainian Drones Spark Fire at Ryazan Refinery as Zelensky Vows to Resume Attacks",
+          "outlet": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981"
         },
         {
-          "title": "Aid crossings narrow again as talks stall",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/"
+          "title": "Zelenskyy says he is 'done' with US-made ceasefire on energy targets",
+          "outlet": "ABC News (Australia)",
+          "url": "https://abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922"
         }
       ],
-      "eventId": "middle-east-war",
+      "eventId": "ukraine-war",
       "article": [
-        "Mediators from several countries spent the weekend shuttling between delegations after a new round of airstrikes ended a period of relative calm [^1]. Officials on both sides say they are still willing to talk, but each blames the other for the latest escalation.",
-        "The core disagreements have not changed: who controls security on the ground, how aid reaches civilians, and what guarantees each side would accept before stepping back [^2]. Aid agencies say access has narrowed again in the past week.",
-        "Markets are watching closely because the region sits along important shipping and energy routes. Oil prices rose modestly on Friday and then steadied, a sign that traders expect the situation to stay contained for now [^3].",
-        "What to watch next: whether the talks resume on schedule, whether aid crossings reopen, and whether outside powers add pressure or guarantees."
+        "Early on Thursday, Ukrainian drones hit an oil refinery in Russia's Ryazan region, about 300 km southeast of Moscow, and started a fire, according to the regional governor and Russia's Defence Ministry[^1]. The refinery, owned by the state oil company Rosneft, supplies fuel to Moscow and handles roughly 5% of Russia's refining capacity[^2]. A senior Ukrainian official confirmed Ukraine carried out the strike[^1].",
+        "The strike ended a short pause. Days earlier, US President Donald Trump announced that both sides would stop attacking energy facilities, and Ukraine says it held off for about three days[^2]. President Volodymyr Zelenskyy told the Financial Times that Russia kept bombing Ukraine's power stations and fuel depots, so \"we're done\"[^1][^3]. The same night, Ukraine says Russia launched hundreds of drones; three people were killed in the Kirovohrad region[^1][^2].",
+        "Zelenskyy's complaints go beyond the truce. He says Ukraine stopped getting the usual Western warnings about incoming Russian missiles and that limits on Starlink, the satellite internet service Ukraine uses to fly drones, were \"the will,\" not a technical glitch[^3]. Trump denies withholding intelligence, and recently lifted sanctions on Russian diesel, a move Zelenskyy condemned[^1][^3]. Trump said Ukraine's refinery strikes \"damn well better stop\"[^3].",
+        "Why it matters: refinery strikes are one of Ukraine's few ways to hurt Russia's war income, and Washington sees them as pushing up fuel prices. Zelenskyy says he would accept a new pause only in exchange for more Patriot air-defence missiles[^2]. My read is that the gap between Kyiv and Washington is now as important as the front line. Europe is leaning the other way: the EU's foreign policy chief said \"squeezing Ukraine is not the right approach,\" and Zelenskyy heads to an EU summit in Brussels on Friday[^1]."
       ],
-      "differences": "Outlets differ on who broke the period of calm. Some lead with the airstrikes, others with the attacks that preceded them, and casualty figures vary depending on whether they come from local authorities or independent monitors."
+      "differences": "Ukraine says it paused refinery strikes for about three days while Russia kept hitting its energy grid[^2]. Kremlin spokesman Dmitry Peskov says Kyiv never complied and is blocking US-led peace efforts; Foreign Minister Lavrov called the strikes a challenge to Trump[^1][^2]. Ukraine says Starlink limits and missing missile warnings were deliberate; Trump denies withholding intelligence[^3]. These claims could not be independently verified[^1]."
     },
     {
-      "id": "central-banks-patience",
-      "heading": "Central banks signal patience on rate cuts",
-      "date": "2026-10-11",
+      "id": "imf-outlook-bangkok",
+      "heading": "IMF nudges up its world growth forecast but warns oil, debt and an AI slump could hurt",
+      "date": "2026-10-13",
       "status": "confirmed",
-      "summary": "Markets show cautious optimism as inflation continues to ease in several large economies, supporting forecasts of slow but steady growth. Central banks are signalling patience rather than quick rate cuts.",
+      "summary": "At its annual meetings in Bangkok, the IMF forecast 3.1% world growth for 2026 and 3.4% for 2027. It said spending on AI is offsetting much of the damage from the oil shock caused by the Iran war, but warned that high government debt, rising borrowing costs and a possible fall in AI stocks could knock the economy off course.",
       "lead": {
-        "title": "Central banks signal patience on rate cuts",
-        "outlet": "Bloomberg",
-        "url": "https://www.bloomberg.com/economics",
-        "date": "2026-10-11"
+        "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+        "outlet": "AP (via ABC News)",
+        "url": "https://abcnews.com/Business/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214412",
+        "date": "2026-10-12"
       },
       "alsoReported": [
         {
-          "title": "Inflation eases again across major economies",
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/business/economics"
+          "title": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
+          "outlet": "Reuters (via Lufkin Daily News)",
+          "url": "https://lufkindailynews.com/news_reuters/business/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt/article_456463ec-4178-5ac8-9677-e6f05c7f0be8.html"
+        },
+        {
+          "title": "IMF official says Iran war price shock buffers are narrowing",
+          "outlet": "The National",
+          "url": "https://thenationalnews.com/business/economy/2026/10/15/imf-official-says-buffers-against-iran-war-price-shock-are-narrowing"
         }
       ],
       "eventId": null,
       "article": [
-        "New figures from several large economies show prices rising more slowly than a year ago, the pattern central banks have been waiting for [^4]. That has lifted stock markets and lowered borrowing costs a little.",
-        "Central bankers are being careful in how they talk about it. Cutting interest rates too early could let inflation return, while waiting too long could slow hiring. Most are saying they will watch a few more months of data first [^5].",
-        "For households, the change is slow. Prices are still much higher than before 2021 even if they are rising more slowly, which is why many people do not feel the improvement that the numbers describe."
+        "The International Monetary Fund released its twice-yearly World Economic Outlook on October 13 at the IMF and World Bank meetings in Bangkok. It expects the world economy to grow 3.1% in 2026, a little better than its July estimate, and 3.4% in 2027[^11]. It sees the US growing 2.3%, China 4.5% and India 7%, still the fastest among large economies[^11].",
+        "The main drag is energy. The forecast assumes oil averages about $96 a barrel this year, roughly 41% higher than last year because of the Iran war, and that shipping through the Strait of Hormuz resumes by March[^11]. The IMF expects global inflation of 4.7% this year[^11]. Its Middle East director, Jihad Azour, said countries' cushions against the price shock are \"finite\", and the IMF forecasts deep economic contractions this year in Gulf states such as Kuwait, Qatar and Iraq[^13].",
+        "What is holding growth up is investment in artificial intelligence: data centres, chips and equipment. But the IMF notes those gains are concentrated, with the US and China making up more than three-quarters of net demand for AI chips and equipment, and it named a sharp fall in AI share prices as a key risk[^11].",
+        "Debt was the other big theme. IMF chief Kristalina Georgieva said US growth alone will not shrink its debt and some tax or spending measures will be needed; she called the US and European countries the \"worst offenders\" on excessive debt and urged China to rely less on exports[^12]. For low-income countries, debt payments now take about 14% of government revenue on average, up from 6% a decade ago[^12].",
+        "Why it matters: when governments owe more and interest rates are higher, they have less room to respond to the next shock, whether a war, a pandemic or a market crash. My read is that the forecast depends heavily on two things nobody controls: when Gulf shipping returns to normal, and whether the AI investment boom keeps going. The IMF publishes its Middle East outlook next week[^13]."
       ],
-      "differences": null
+      "differences": "Reports describe the 2026 number slightly differently. AP says the IMF raised it to 3.1% from 3.0% in July[^11], while The National says the IMF kept it at 3.1% and raised 2027 a little[^13]. Both agree on 3.1% for this year and about 3.4% for next."
     },
     {
-      "id": "ai-rules-debate",
-      "heading": "Lawmakers question new rules for fast-moving AI models",
-      "date": "2026-10-10",
-      "status": "developing",
-      "summary": "New AI models are arriving faster than the rules written for them, and several governments are testing different ways to keep up. The debate is shifting from whether to regulate to how.",
+      "id": "kabila-leads-congo-rebel-front",
+      "heading": "Congo's ex-president Kabila takes charge of a new rebel coalition with M23",
+      "date": "2026-10-12",
+      "status": "confirmed",
+      "summary": "In rebel-held Goma, former Congolese president Joseph Kabila launched the Front for the Refoundation of the Nation, a political-military alliance that includes the Rwanda-backed M23 rebels and says it may use force to remove President Tshisekedi's government. Analysts warn it could deepen fighting and hurt peace talks planned in Qatar.",
       "lead": {
-        "title": "How governments are testing AI rules",
-        "outlet": "Politico Europe",
-        "url": "https://www.politico.eu/section/technology/",
-        "date": "2026-10-10"
+        "title": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition",
+        "date": "2026-10-13"
       },
-      "alsoReported": [],
+      "alsoReported": [
+        {
+          "title": "Congo's former president Kabila forms new group to replace M23 insurgency",
+          "outlet": "Daily Maverick (Reuters)",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-12-congos-former-president-kabila-forms-new-group-to-replace-m23-insurgency/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Joseph Kabila, who ruled the Democratic Republic of Congo from 2001 to 2019, has launched a new political-military coalition in the eastern city of Goma and will lead it[^4][^5]. Called the Front for the Refoundation of the Nation (FRN), it replaces the AFC-M23 rebel alliance, and rebel leaders such as Corneille Nangaa and Sultani Makenga are named as his deputies[^5]. A coalition adviser said it aims to end \"tyranny by any means necessary, including the use of force\"[^4].",
+        "Some background: M23 is an armed group that has fought Congo's army for years in the mineral-rich east. It has held Goma since January 2025, along with the city of Bukavu, airports and border crossings with Rwanda and Uganda[^4]. The UN, the US and Congo accuse neighbouring Rwanda of backing and directing M23; Rwanda denies this[^4][^5].",
+        "Kabila had long denied supporting the rebels. In 2025 a Congolese military court sentenced him to death in absentia for treason and war crimes, a case he calls politically motivated[^4][^5]. In his speech he accused the government of corruption and military failures, and criticised its minerals deal with the United States[^5]. The government had not responded right away[^4].",
+        "Why it matters: a former head of state openly leading an armed movement changes the conflict from a rebellion in the east into a direct contest for national power. Analysts warn this could escalate fighting and undermine peace talks planned for November in Qatar[^4]. This is a judgment, but whether Rwanda, the US and Qatar can still bring both sides to the table is the key thing to watch."
+      ],
+      "differences": "Kabila's coalition says it wants to end \"tyranny\" and may use force[^4]. Congo's courts have convicted him of treason for allegedly backing M23, which he denies as politically motivated[^5]. The UN and Western governments say Rwanda controls M23; Rwanda denies it[^5]."
+    },
+    {
+      "id": "tsmc-record-profit-q3",
+      "heading": "TSMC, maker of most advanced AI chips, posts a sixth straight record quarterly profit",
+      "date": "2026-10-15",
+      "status": "confirmed",
+      "summary": "Taiwan's TSMC, which makes most of the world's advanced AI chips, reported a record July-September profit of about US$23.6 billion, up 69% from a year earlier, and forecast more growth. Its chief executive also said the company is being \"prudent\" in planning for 2027, as investors worry about interest rates and whether the AI spending boom can last.",
+      "lead": {
+        "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
+        "outlet": "Reuters (via Central Oregon Daily)",
+        "url": "https://www.centraloregondaily.com/news/consumer/tsmc-prudent-going-into-2027-after-posting-sixth-straight-quarter-of-record-profit/article_0c40933f-61a1-588f-bddd-d32c0ca5a9d9.html",
+        "date": "2026-10-15"
+      },
+      "alsoReported": [
+        {
+          "title": "TSMC Third-Quarter Profit Jumps 69% as Margins Narrow",
+          "outlet": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/international/2026/10/15/tsmc-third-quarter-profit-jumps-69-percent-as-margins-narrow"
+        }
+      ],
       "eventId": "ai-race",
       "article": [
-        "Several companies released new AI systems this month, each claiming better reasoning or lower cost than the last [^6]. Independent testers say the gains are real in some areas and overstated in others.",
-        "Governments are taking different paths. Some focus on testing the most powerful models before release; others focus on specific uses, such as hiring or schools [^7]. The approaches often do not line up across borders.",
-        "The practical question for students is how these tools change schoolwork and future jobs. Early studies suggest they help most with routine tasks and least with judgement, but evidence is still thin."
-      ],
-      "differences": "Coverage splits on whether this month's releases are a step change or an incremental update. Company announcements and independent benchmarks often report different results."
-    },
-    {
-      "id": "storm-evacuations",
-      "heading": "Floods and late heat strain emergency services",
-      "date": "2026-10-10",
-      "status": "confirmed",
-      "summary": "Extreme weather continues to disrupt communities and strain resources, as countries prepare their positions for the next UN climate summit in November.",
-      "lead": {
-        "title": "Floods and late heat strain emergency services",
-        "outlet": "AP News",
-        "url": "https://apnews.com/hub/climate-and-environment",
-        "date": "2026-10-10"
-      },
-      "alsoReported": [
-        {
-          "title": "What to expect from this year's UN climate talks",
-          "outlet": "Carbon Brief",
-          "url": "https://www.carbonbrief.org/"
-        },
-        {
-          "title": "Cities plan for the next heatwave",
-          "outlet": "The Guardian",
-          "url": "https://www.theguardian.com/environment/climate-crisis"
-        }
-      ],
-      "eventId": "climate-energy",
-      "article": [
-        "Recent floods and late-season heat have again tested emergency services in several regions [^8]. Scientists say events like these are becoming more likely as average temperatures rise.",
-        "Countries are preparing for the annual UN climate talks, where the main questions are how fast to cut emissions and who pays for adapting to damage that is already happening [^9].",
-        "Clean energy keeps growing quickly in many markets, but not quickly enough to meet the goals countries agreed to in Paris in 2015. That gap is the centre of most negotiations."
+        "On October 15, Taiwan Semiconductor Manufacturing Co (TSMC) reported net profit of T$763.1 billion (about US$23.6 billion) for July to September, up 69% from a year earlier and above analysts' estimates[^15]. It was the company's sixth record quarter in a row[^15]. It expects fourth-quarter revenue of $52.3 to $54.3 billion, up as much as 61% on a year earlier[^15].",
+        "TSMC is a contract manufacturer: companies such as Nvidia design chips, and TSMC builds them. Chips for high-performance computing, which includes AI, made up 68% of its revenue, up from 57% a year earlier[^16]. Its newest 2-nanometre process, the most advanced in mass production, rose to 8% of wafer revenue[^16]. Profit margins slipped slightly from the previous quarter because starting up that new process is expensive[^16].",
+        "TSMC described AI demand as \"extremely robust\". But chief executive C.C. Wei said the company is being \"prudent\" in planning for 2027 and that consumer and price-sensitive markets, such as cheaper phones, are \"being challenged\" by rising component prices and economic uncertainty[^15].",
+        "The results came during a broad sell-off in tech shares. Investors fear further US interest rate rises could hurt AI companies, whose high valuations depend on cheap borrowing; Taiwan's main index fell 3.4% that day and TSMC shares about 2%[^15]. TSMC is also expanding abroad, with $265 billion committed to factories in Arizona[^15].",
+        "Why it matters: TSMC's results are one of the clearest measures of how much money is flowing into AI hardware. The IMF has called AI investment a main support for world growth this year and a fall in AI stocks a key risk[^11]. My read is that TSMC's numbers show the building boom is still going, while its cautious words on 2027 show even the biggest winner is planning for a possible slowdown."
       ],
       "differences": null
     },
     {
-      "id": "tariffs-redraw-trade",
-      "heading": "New tariffs redraw trade routes between major economies",
-      "date": "2026-10-11",
-      "status": "disputed",
-      "summary": "Shifting alliances and trade tensions are reshaping the global order, with uncertain long-term effects. Analysts disagree about whether this is a temporary realignment or a lasting break.",
+      "id": "unifil-exit-lebanon-questions",
+      "heading": "UN peacekeeping chief warns of a gap as UN force prepares to leave south Lebanon",
+      "date": "2026-10-14",
+      "status": "developing",
+      "summary": "Visiting Beirut, UN peacekeeping chief Jean-Pierre Lacroix said Lebanon wants a UN presence to stay, but no decision exists on what follows UNIFIL, whose mandate ends on Dec. 31 after almost 50 years. The US and Israel pushed to end the mission; Lebanon, the EU and others warn of a security vacuum.",
       "lead": {
-        "title": "New tariffs redraw trade routes",
-        "outlet": "Reuters",
-        "url": "https://www.reuters.com/business/",
-        "date": "2026-10-11"
+        "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
+        "outlet": "ABC News (AP)",
+        "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
+        "date": "2026-10-14"
       },
       "alsoReported": [
         {
-          "title": "Is the global order breaking or bending?",
-          "outlet": "Foreign Affairs",
-          "url": "https://www.foreignaffairs.com/"
+          "title": "The end of UNIFIL: What next for south Lebanon?",
+          "outlet": "The New Arab",
+          "url": "https://www.newarab.com/analysis/end-unifil-what-next-south-lebanon"
         }
       ],
-      "eventId": "us-china",
+      "eventId": null,
       "article": [
-        "New tariffs and trade deals announced over the past month are changing which countries trade most with each other [^10]. Some governments are building closer ties with neighbours to reduce their reliance on any one large partner.",
-        "Supporters of the changes say they protect jobs and national security. Critics say they raise prices and make cooperation on shared problems, such as pandemics and climate, harder [^11].",
-        "The long-term outcome is genuinely unclear. Past periods of trade conflict have sometimes ended in new agreements and sometimes in lasting blocs."
+        "On Wednesday in Beirut, Jean-Pierre Lacroix, the UN's head of peace operations, said Lebanese leaders unanimously want a UN presence to keep monitoring the border with Israel, but that no decision has been made on \"what kind of U.N. presence, if anything, after UNIFIL\"[^6]. He said talks at the UN Security Council need to start soon[^6].",
+        "UNIFIL, the UN force in southern Lebanon, was created in 1978 and grew after the 2006 war; it has about 7,500 troops from 46 countries[^6][^7]. In August 2025 the Security Council voted to end its mandate at the end of 2026, after the US and Israel argued it had failed to stop Hezbollah, the armed Lebanese group backed by Iran, from building up its forces[^6]. The force then has a year to withdraw[^6].",
+        "The setting is fragile. A new Israel-Hezbollah war began in March, a shaky ceasefire now holds, and Israeli troops still occupy a large part of the south[^6]. Lacroix said peacekeepers help prevent accidental clashes between Israeli and Lebanese soldiers, and questioned whether a small group of unarmed UN observers could work without them[^6].",
+        "What could replace it is unclear. The EU plans a mission to train Lebanon's army, but it would not patrol the border[^6]. Other ideas include a \"third-party\" monitoring body discussed in US-brokered talks, a European force under US command, or direct Lebanese-Israeli military coordination, which Beirut rejects[^7]. Analysts say a deal is being held until after Israel's Oct. 27 election[^7]. My read: who watches this border next is a test of whether UN peacekeeping still has a role in the region."
       ],
-      "differences": "Analysts disagree on the size of the effect. Some point to record trade volumes overall; others point to sharp drops between specific pairs of countries."
+      "differences": "Lebanon's president says a UN exit leaves a dangerous vacuum[^6]. Israel and the US say UNIFIL failed to curb Hezbollah, and analysts say Washington prefers arrangements outside the UN[^6][^7]. Hezbollah's leader rejects the US-sponsored framework[^7]."
+    },
+    {
+      "id": "state-of-climate-2026",
+      "heading": "Scientists' yearly climate check-up finds 7 of 16 'vital signs' at record extremes",
+      "date": "2026-10-14",
+      "status": "confirmed",
+      "summary": "The seventh annual State of the Climate report, published in the journal BioScience, found that seven of 16 planetary indicators, including sea level, ocean heat and greenhouse gas levels, hit records. It says warming has sped up, while also noting that renewables overtook coal for electricity in 2025.",
+      "lead": {
+        "title": "2026 State of the Climate Report Shows a Planet Reaching Its Limits",
+        "outlet": "Eos",
+        "url": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits",
+        "date": "2026-10-14"
+      },
+      "alsoReported": [
+        {
+          "title": "Climate Change Is Accelerating Faster Than We Can Respond, Scientists Warn",
+          "outlet": "TIME",
+          "url": "https://time.com/article/2026/10/14/climate-change-accelerating-study"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "An international group of scientists, including Oregon State University ecologist William Ripple, published the 2026 State of the Climate report in the journal BioScience on October 14[^17]. It tracks 16 \"planetary vital signs\", from greenhouse gas levels to ice sheets, and found seven at record extremes, including global sea level, ocean heat content, Greenland's ice mass and levels of the three main greenhouse gases[^17].",
+        "Carbon dioxide in the air passed 428 parts per million in May, about 50% above pre-industrial levels[^17]. The report estimates warming has sped up from about 0.19°C per decade in 1970-2010 to about 0.36°C per decade since 2010[^17]. Use of oil, coal and gas rose 0.9% in 2025, and energy-related CO2 emissions passed 41 billion tonnes for the first time[^18].",
+        "There is also progress. Renewables generated more global electricity than coal in 2025[^17], low-carbon sources supplied about 43% of electricity, and solar and wind use grew about 18%[^18]. The authors say cutting emissions is necessary but not enough on its own, and call for faster clean energy, removing carbon from the air, and adapting to changes already under way[^17][^18].",
+        "The report warns the 2°C mark could be passed before 2050; that is a projection, not a certainty[^18]. Nico Wunderling of the Potsdam Institute, who was not involved, said the trends \"need to be watched closely\" because the risk of crossing tipping points, changes that are hard to reverse, may grow as warming speeds up[^17].",
+        "Why it matters: the report gathers many separate measurements into one yearly snapshot, which helps show the direction of travel. My read is that it shows two trends at once: the physical climate keeps setting records, while the energy system is starting to change."
+      ],
+      "differences": null
+    },
+    {
+      "id": "congo-ebola-9000-cases",
+      "heading": "Congo's worst Ebola outbreak passes 9,000 cases as a vaccine trial nears launch",
+      "date": "2026-10-13",
+      "status": "developing",
+      "summary": "Congo's health authorities say an outbreak of the Bundibugyo type of Ebola, which has no approved vaccine, has reached 9,066 cases and 4,381 deaths since May. WHO advisers say a large vaccine trial should start before the end of October.",
+      "lead": {
+        "title": "DR Congo Ebola outbreak passes 9,000 cases",
+        "outlet": "AFP (via Daily Tribune)",
+        "url": "https://tribune.net.ph/2026/10/14/dr-congo-ebola-outbreak-passes-9000-cases",
+        "date": "2026-10-14"
+      },
+      "alsoReported": [
+        {
+          "title": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
+          "outlet": "AFP (via Uganda Broadcasting Corporation)",
+          "url": "https://ubc.go.ug/2026/10/16/dr-congo-ebola-vaccine-trial-to-begin-within-weeks-who"
+        },
+        {
+          "title": "Final preparations underway for pivotal Phase 2/3 Bundibugyo vaccine trial",
+          "outlet": "CEPI",
+          "url": "https://cepi.net/final-preparations-underway-pivotal-phase-23-bundibugyo-vaccine-trial"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "A report from Congo's National Institute of Public Health says the Ebola outbreak in the Democratic Republic of Congo has infected 9,066 people and killed 4,381 since it was declared in mid-May, making it the worst in the country's history[^19]. It began in Ituri province in the northeast and has spread to seven provinces[^19].",
+        "This outbreak is caused by the Bundibugyo virus, a type of Ebola for which there is no approved vaccine or treatment[^19]. The existing vaccine, Ervebo, was made for the more common Zaire type[^14]. Armed groups, remote areas with little health care, and distrust of aid workers have made the response harder[^19].",
+        "On October 13, the vaccine group CEPI said final preparations are under way for a large trial called Tumaini, Swahili for \"hope\", led by Congo's INRB research institute and the University of Antwerp with WHO advice[^20]. It will use ring vaccination, which means vaccinating the contacts of each patient, and can test several vaccines side by side[^20]. Ervebo will likely go first, to see if it also protects against Bundibugyo; vaccines designed for Bundibugyo by Moderna and by Oxford with the Serum Institute of India are in early trials and could join later[^20].",
+        "Anthony Scott, who chairs WHO's vaccine advisory group, said the trial should start before the end of October and \"will generate urgently-needed data\"[^14]. The trial still needs ethical and regulatory approval[^20].",
+        "Why it matters: earlier Ebola outbreaks showed that a vaccine tested in the middle of an epidemic can change how future ones are fought. My read is that results will take months, so for now control still depends on tracing contacts and safe care."
+      ],
+      "differences": null
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "What are the second-order effects of this event, beyond the immediate headlines?"
+    "type": "assumption",
+    "text": "The IMF's forecast assumes oil shipments through the Strait of Hormuz restart by March. When a forecast rests on a guess about how a war unfolds, how much should a government or a family plan around it, and what would make you trust it more or less?"
   },
   "read": {
-    "title": "The Global Economy in a More Fragmented World",
-    "outlet": "The Economist",
-    "url": "https://www.economist.com/finance-and-economics",
-    "kind": "news",
-    "minutes": 8,
-    "summary": "How shifting alliances and trade policies are reshaping the global economy, and what that could mean for prices and jobs."
-  },
-  "weeklyRead": {
-    "title": "The world is awful. The world is much better. The world can be much better.",
-    "outlet": "Our World in Data",
-    "url": "https://ourworldindata.org/much-better-awful-can-be-better",
+    "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+    "outlet": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
     "kind": "analysis",
-    "minutes": 12,
-    "summary": "A short essay on holding three true ideas at once, and a useful lens for reading bad news without losing perspective."
+    "minutes": 6,
+    "summary": "How the Iran war's oil shock is reshaping energy use: Carbon Brief estimates fossil CO2 emissions may fall about 0.5% in 2026 as oil and gas demand drops, even as coal rises. A clear look at how war, prices and climate connect."
   },
+  "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Reuters",
-      "title": "Iran signals readiness for talks as strikes resume",
-      "url": "https://www.reuters.com/world/middle-east/",
-      "date": "2026-10-11",
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+      "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BBC",
-      "title": "What each side wants from a ceasefire",
-      "url": "https://www.bbc.com/news/world/middle_east",
-      "date": "2026-10-10",
+      "outlet": "The Moscow Times",
+      "title": "Ukrainian Drones Spark Fire at Ryazan Refinery as Zelensky Vows to Resume Attacks",
+      "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Financial Times",
-      "title": "Oil steadies as traders weigh regional risk",
-      "url": "https://www.ft.com/markets",
-      "date": "2026-10-10",
+      "outlet": "ABC News (Australia)",
+      "title": "Zelenskyy says he is 'done' with US-made ceasefire on energy targets",
+      "url": "https://abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
+      "date": "2026-10-16",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Guardian",
-      "title": "Inflation eases again across major economies",
-      "url": "https://www.theguardian.com/business/economics",
-      "date": "2026-10-09",
+      "outlet": "Al Jazeera",
+      "title": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
+      "url": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition",
+      "date": "2026-10-13",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Bloomberg",
-      "title": "Central banks signal patience on rate cuts",
-      "url": "https://www.bloomberg.com/economics",
-      "date": "2026-10-09",
+      "outlet": "Daily Maverick (Reuters)",
+      "title": "Congo's former president Kabila forms new group to replace M23 insurgency",
+      "url": "https://www.dailymaverick.co.za/article/2026-10-12-congos-former-president-kabila-forms-new-group-to-replace-m23-insurgency/",
+      "date": "2026-10-12",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "MIT Technology Review",
-      "title": "This month in AI model releases",
-      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "date": "2026-10-08",
+      "outlet": "ABC News (AP)",
+      "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
+      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Politico Europe",
-      "title": "How governments are testing AI rules",
-      "url": "https://www.politico.eu/section/technology/",
-      "date": "2026-10-08",
-      "singleSource": true
-    },
-    {
-      "id": 8,
-      "outlet": "AP News",
-      "title": "Floods and late heat strain emergency services",
-      "url": "https://apnews.com/hub/climate-and-environment",
-      "date": "2026-10-10",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "Carbon Brief",
-      "title": "What to expect from this year's UN climate talks",
-      "url": "https://www.carbonbrief.org/",
-      "date": "2026-10-07",
-      "singleSource": false
-    },
-    {
-      "id": 10,
-      "outlet": "Reuters",
-      "title": "New tariffs redraw trade routes",
-      "url": "https://www.reuters.com/business/",
-      "date": "2026-10-09",
+      "outlet": "The New Arab",
+      "title": "The end of UNIFIL: What next for south Lebanon?",
+      "url": "https://www.newarab.com/analysis/end-unifil-what-next-south-lebanon",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Foreign Affairs",
-      "title": "Is the global order breaking or bending?",
-      "url": "https://www.foreignaffairs.com/",
-      "date": "2026-10-06",
-      "singleSource": true
+      "outlet": "AP (via ABC News)",
+      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+      "url": "https://abcnews.com/Business/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214412",
+      "date": "2026-10-12",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "Reuters (via Lufkin Daily News)",
+      "title": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
+      "url": "https://lufkindailynews.com/news_reuters/business/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt/article_456463ec-4178-5ac8-9677-e6f05c7f0be8.html",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "The National",
+      "title": "IMF official says Iran war price shock buffers are narrowing",
+      "url": "https://thenationalnews.com/business/economy/2026/10/15/imf-official-says-buffers-against-iran-war-price-shock-are-narrowing",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "AFP (via Uganda Broadcasting Corporation)",
+      "title": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
+      "url": "https://ubc.go.ug/2026/10/16/dr-congo-ebola-vaccine-trial-to-begin-within-weeks-who",
+      "date": "2026-10-16",
+      "singleSource": false
+    },
+    {
+      "id": 15,
+      "outlet": "Reuters (via Central Oregon Daily)",
+      "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
+      "url": "https://www.centraloregondaily.com/news/consumer/tsmc-prudent-going-into-2027-after-posting-sixth-straight-quarter-of-record-profit/article_0c40933f-61a1-588f-bddd-d32c0ca5a9d9.html",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "Seoul Economic Daily",
+      "title": "TSMC Third-Quarter Profit Jumps 69% as Margins Narrow",
+      "url": "https://en.sedaily.com/international/2026/10/15/tsmc-third-quarter-profit-jumps-69-percent-as-margins-narrow",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 17,
+      "outlet": "Eos",
+      "title": "2026 State of the Climate Report Shows a Planet Reaching Its Limits",
+      "url": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 18,
+      "outlet": "TIME",
+      "title": "Climate Change Is Accelerating Faster Than We Can Respond, Scientists Warn",
+      "url": "https://time.com/article/2026/10/14/climate-change-accelerating-study",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 19,
+      "outlet": "AFP (via Daily Tribune)",
+      "title": "DR Congo Ebola outbreak passes 9,000 cases",
+      "url": "https://tribune.net.ph/2026/10/14/dr-congo-ebola-outbreak-passes-9000-cases",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 20,
+      "outlet": "CEPI",
+      "title": "Final preparations underway for pivotal Phase 2/3 Bundibugyo vaccine trial",
+      "url": "https://cepi.net/final-preparations-underway-pivotal-phase-23-bundibugyo-vaccine-trial",
+      "date": "2026-10-13",
+      "singleSource": false
     }
   ]
 }

@@ -1,20 +1,101 @@
 {
-  "sample": true,
-  "date": "2026-10-12",
-  "summary": "Ottawa heads into a busy fall with a budget update, trade talks with the United States and a Bank of Canada rate decision later this month.",
+  "date": "2026-10-15",
+  "summary": "A fairly quiet day: Ford says Canada should plan for lasting U.S. tariffs, Poilievre pitches tariff-free autos in Detroit, and September inflation (Oct. 19) is next for the Bank of Canada.",
   "body": [
-    "Parliament returns this week with the economy at the top of the agenda. The federal government is expected to present a fall update on spending and deficits, and opposition parties have signalled they will focus on housing costs and the price of groceries [^1].",
-    "Trade remains the biggest outside pressure. Talks with the United States over tariffs on steel, aluminium, autos and lumber are continuing ahead of the scheduled review of the North American trade agreement, and businesses say the uncertainty is delaying investment decisions [^2].",
-    "The Bank of Canada makes its next interest rate decision at the end of the month. Inflation is close to its 2 percent target, but unemployment has crept up, which is why some economists expect another small cut while others expect the bank to wait [^3]."
+    "Canada–U.S. trade is still stuck. Formal talks have been paused since August, when Prime Minister Mark Carney called them off over what he called unreasonable U.S. demands. The U.S. charges 25% on Canadian cars, and Trump has threatened to double that on Jan. 1[^2]. On Wednesday, Ontario Premier Doug Ford told a Toronto audience that Canada should \"plan as if tariffs are here for good,\" even after Trump leaves office[^1]. A day earlier, Conservative Leader Pierre Poilievre was in Detroit meeting auto industry and union people to push for tariff-free car trade. He rejected the idea that the visit, a few weeks before the Nov. 3 U.S. midterms, interferes in U.S. politics[^2].",
+    "On the economy, the next big number is September inflation, due Monday, Oct. 19[^7]. In August, prices were up 3.0% from a year earlier. Gasoline was up about 23% and pushed the number up, while the core measures the Bank of Canada watches were near its 2% target[^5]. Jobs are weaker: Canada lost about 68,000 jobs in September, and unemployment rose to 6.5%[^4]. Young people aged 15 to 24 lost 48,000 jobs, and their unemployment rate stayed around 13%[^3]. The Bank's key rate is 2.25%, and its next decision is Oct. 28[^6][^11]. A small-business group (CFIB) expects growth to slow to 1.4% in the fourth quarter, and many of its members plan to raise prices[^8].",
+    "In Toronto, workers began removing the Bloor Street West bike lanes in Etobicoke under a provincial plan, and two protesters were arrested. Transportation Minister Prabmeet Sarkaria says \"these bike lanes are coming out\"[^9]. Toronto's municipal election is Monday, Oct. 26. More than 220,000 people voted in advance polls, the highest advance turnout since 1998[^10]."
   ],
-  "differences": "Business groups describe the trade talks as close to a deal; union and opposition voices say the main sticking points have not moved.",
-  "reads": [
-    { "title": "How the Bank of Canada sets interest rates", "outlet": "Bank of Canada", "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/", "kind": "analysis", "summary": "A plain explanation of what the bank is trying to do with rates and why it targets 2 percent inflation." },
-    { "title": "Canada-US trade, explained", "outlet": "CBC News", "url": "https://www.cbc.ca/news/business", "kind": "news", "summary": "What Canada sells to the US, which sectors are most exposed to tariffs, and what is on the table in the talks." }
-  ],
+  "differences": "Bike lanes: the Ontario government calls removing them traffic relief. Critics, including Mayor Olivia Chow, call it provincial overreach and a waste of money. An engineering report the province itself paid for found that congestion benefits would be small or short-lived, and that the lanes cut crashes by 35–50%. The city estimates removal at $48 million; the province disputes that figure but has not published its own. Mayoral challenger Brad Bradford supports removing the Etobicoke lanes[^9].",
+  "reads": [],
   "sources": [
-    { "id": 1, "outlet": "CBC News", "title": "Parliament returns with economy at top of agenda", "url": "https://www.cbc.ca/news/politics", "date": "2026-10-11", "singleSource": false },
-    { "id": 2, "outlet": "The Globe and Mail", "title": "Trade talks continue ahead of agreement review", "url": "https://www.theglobeandmail.com/business/", "date": "2026-10-10", "singleSource": false },
-    { "id": 3, "outlet": "Bank of Canada", "title": "Schedule of interest rate announcements", "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/", "date": "2026-10-01", "singleSource": true }
+    {
+      "id": 1,
+      "outlet": "Transport Topics (Bloomberg News)",
+      "title": "Ontario Premier Ford warns U.S. tariffs may outlast Trump",
+      "url": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
+      "id": 2,
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Poilievre visits Detroit to push for tariff-free trade for auto industry",
+      "url": "https://www.cp24.com/politics/2026/10/14/poilievre-visits-detroit-to-push-for-tariff-free-trade-for-auto-industry/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Global News",
+      "title": "Canada lost 68K jobs in September, Statistics Canada says",
+      "url": "https://globalnews.ca/news/12094093/canada-jobs-september-2026/",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "CTV News (The Canadian Press)",
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "url": "https://www.ctvnews.ca/business/article/canada-sheds-68000-jobs-unemployment-rate-up-to-65-in-september/",
+      "date": "2026-10-09",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Babypips",
+      "title": "Canada Inflation Steady at 3% August 2026",
+      "url": "https://www.babypips.com/news/headline-canada-cpi-august-2026-inflation-gasoline-bank-canada-2026-09-14",
+      "date": "2026-09-14",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "The Rio Times",
+      "title": "Bank of Canada October 2026 Rate Decision After Job Losses",
+      "url": "https://www.riotimesonline.com/bank-of-canada-october-28-rate-decision-jobs-drop-2026",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "The Rio Times",
+      "title": "USA & Canada Intelligence Brief — Thursday, October 15, 2026",
+      "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-october-15-2026",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "CFIB via Cision Newswire",
+      "title": "Canada's GDP to grow at a slower pace through late 2026 amid trade uncertainty and high fuel costs",
+      "url": "https://www.newswire.ca/news-releases/canada-s-gdp-to-grow-at-a-slower-pace-through-late-2026-amid-trade-uncertainty-and-high-fuel-costs-826355066.html",
+      "date": "2026-10-15",
+      "singleSource": true
+    },
+    {
+      "id": 9,
+      "outlet": "CP24",
+      "title": "Arrests made at Toronto bike lane removal protest",
+      "url": "https://cp24.com/politics/queens-park/2026/10/15/arrests-made-at-toronto-bike-lane-removal-protest",
+      "date": "2026-10-15",
+      "singleSource": true
+    },
+    {
+      "id": 10,
+      "outlet": "CP24",
+      "title": "Toronto sees massive increase in advance voting with more than 200,000 people casting ballots",
+      "url": "https://www.cp24.com/local/toronto/2026/10/13/toronto-sees-massive-increase-in-advance-voting-with-more-than-200000-people-casting-ballots/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "CTV News",
+      "title": "Bank of Canada holds key rate at 2.25% once again",
+      "url": "https://www.ctvnews.ca/business/article/bank-of-canada-holds-key-rate-at-225-once-again/",
+      "date": "2026-09-02",
+      "singleSource": false
+    }
   ]
 }

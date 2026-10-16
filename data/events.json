@@ -1,108 +1,113 @@
 {
-  "sample": true,
-  "reviewed": "2026-10-11",
+  "reviewed": "2026-10-15",
   "events": [
     {
-      "id": "ukraine-war",
-      "title": "Russia's war in Ukraine",
-      "status": "stalled",
-      "added": "2026-03-01",
-      "whyHere": "The largest war in Europe since 1945. It shapes energy prices, defence spending, food exports and how countries think about borders and alliances.",
-      "standing": "Front lines have moved little in recent months. Both sides rely heavily on drones and long-range strikes, and talks about a ceasefire continue on and off without an agreement both will sign [^1].",
+      "id": "iran-war",
+      "title": "The Iran war and the Strait of Hormuz",
+      "status": "escalating",
+      "added": "2026-10-15",
+      "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
+      "standing": "Fighting between the US and Iran is in a lull, but attacks on ships near Hormuz have surged since late September, and oil flows dropped sharply again in October [^1]. A Singapore-flagged container ship sank on Oct 13 after being hit [^3]. Brent oil was about $106 a barrel on Oct 14 [^1]. Talks are stalled [^1]. Netanyahu says he is not seeking a new strike on Iran before Israel's Oct 27 election [^2].",
       "heading": {
-        "likely": "Fighting continues at a similar level through the winter while talks continue in parallel.",
-        "possible": "A limited ceasefire along current lines, with major questions such as security guarantees left for later.",
-        "unlikely": "A full peace settlement that both governments accept and that settles the territorial questions."
+        "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
+        "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
+        "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
         {
-          "date": "2026-10-20",
-          "what": "Next round of talks between negotiators, if it goes ahead as scheduled."
+          "date": "2026-10-27",
+          "what": "Israel's general election; Netanyahu says he won't seek an Iran strike before it"
         },
         {
-          "date": "2026-11-15",
-          "what": "Winter strikes on energy infrastructure and their effect on power supply."
-        },
-        {
-          "date": "2026-12-01",
-          "what": "European decisions on long-term funding for Ukraine."
+          "date": "2026-11-03",
+          "what": "US midterm elections; an Iranian official told Reuters Iran hopes to influence them"
         }
       ],
       "connects": [
         {
-          "id": "us-china",
-          "why": "Sanctions and export controls on Russia are tied to the wider US-China contest over trade and technology."
+          "id": "us-politics-economy",
+          "why": "The war pushed up US fuel prices and drained the oil reserve; Trump's approval fell and the war is an issue in the midterms. The IMF assumes oil averages $96 this year."
         },
         {
-          "id": "climate-energy",
-          "why": "The war reshaped Europe's energy supply, which changes how fast countries can move away from fossil fuels."
+          "id": "gaza",
+          "why": "Israel's fronts are linked: Hezbollah in Lebanon and the Houthis in Yemen joined the fighting, and Israel still occupies parts of southern Lebanon."
+        },
+        {
+          "id": "ukraine-war",
+          "why": "High oil prices raise Russia's export income, and my read is that the US effort in the Gulf competes with Ukraine for weapons and attention."
         }
       ],
-      "removeWhen": "A durable ceasefire holds for six months, or the war no longer drives decisions in Europe and beyond.",
+      "removeWhen": "A lasting deal that ends US-Iran fighting, reopens the Strait of Hormuz to normal traffic and lifts the blockade, with oil prices back near pre-war levels for several months.",
       "history": [
         {
-          "heading": "Protests, Crimea and the Donbas",
-          "period": "2013-2014",
+          "heading": "Revolution, sanctions and a nuclear programme",
+          "period": "1979-2018",
           "paragraphs": [
-            "In late 2013, Ukraine's president dropped a planned agreement with the European Union under pressure from Moscow. Months of protests in Kyiv, known as Euromaidan, followed, and in February 2014 he fled the country [^2].",
-            "Within weeks, Russian forces took control of Crimea, and Russia annexed it after a referendum that most countries do not recognise. Fighting then broke out in the eastern Donbas region between Ukrainian forces and Russian-backed separatists."
+            "Iran's 1979 revolution replaced a US-backed monarchy with an Islamic Republic led by clerics, and ties with the US broke down after the seizure of the US embassy in Tehran. For the next four decades Iran and the US, along with Israel, treated each other as rivals and threats.",
+            "From the 2000s, Western countries and Israel worried that Iran's nuclear programme, especially its uranium enrichment (purifying uranium, which can fuel power plants or, at high levels, bombs), could lead to a weapon. Iran says its programme is peaceful. A 2015 deal limited enrichment in exchange for sanctions relief, but the US left it in 2018 under President Trump and reimposed sanctions; Iran then expanded enrichment."
           ]
         },
         {
-          "heading": "A frozen conflict",
-          "period": "2015-2021",
+          "heading": "A shadow war across the region",
+          "period": "2018-2024",
           "paragraphs": [
-            "The Minsk agreements of 2014 and 2015 reduced the fighting in the Donbas but never settled it. Thousands of people were killed over these years along a line that barely moved.",
-            "Ukraine moved closer to Europe in trade and politics. Russia demanded guarantees that Ukraine would never join NATO, and in 2021 it gathered large numbers of troops near the border."
+            "Without a deal, rivalry ran through a 'shadow war': assassinations and sabotage linked to Israel inside Iran, attacks on ships, and Iran's support for allied armed groups such as Hezbollah in Lebanon, the Houthis in Yemen and militias in Iraq. After the Gaza war began in October 2023, these fronts flared, and Israel and Iran exchanged direct strikes for the first time in 2024."
           ]
         },
         {
-          "heading": "The full-scale invasion",
-          "period": "Feb-Apr 2022",
+          "heading": "The 12-day war",
+          "period": "June 2025",
           "paragraphs": [
-            "On 24 February 2022, Russia launched a full-scale invasion from the north, east and south [^3]. Many expected Kyiv to fall within days. It did not, and by early April Russian forces had withdrawn from the area around the capital.",
-            "Millions of Ukrainians fled abroad or moved west. Western governments imposed wide sanctions on Russia and began sending weapons to Ukraine."
+            "On June 13, 2025, Israel struck Iranian nuclear and military sites while US-Iran talks were under way, and Iran fired missiles and drones at Israeli cities. On June 22 the US bombed the Fordow, Natanz and Isfahan nuclear sites. A US-brokered ceasefire began on June 24. Iran said at least 610 of its people were killed; Israel said 28 of its people died.",
+            "Afterward Iran limited cooperation with UN nuclear inspectors, and in late August 2025 the UK, France and Germany triggered the return of UN sanctions. Iran's currency fell sharply, and protests over prices spread across the country from late December 2025, met by an internet shutdown. Oman-mediated nuclear talks resumed in Geneva in February 2026 as the US built up forces nearby."
           ]
         },
         {
-          "heading": "Counter-offensives",
-          "period": "2022-2023",
+          "heading": "War begins and Hormuz closes",
+          "period": "Feb-Apr 2026",
           "paragraphs": [
-            "In late 2022 Ukraine retook large areas around Kharkiv and the city of Kherson. Russia declared it had annexed four Ukrainian regions, though it did not fully control any of them.",
-            "A major Ukrainian counter-offensive in 2023 met heavily fortified lines and gained little ground. The war settled into a slow, costly struggle."
+            "On February 28, 2026, the US and Israel launched strikes on Iran that killed Supreme Leader Ali Khamenei and hit nuclear and military sites [^4]. Iran fired missiles and drones at Israel, US bases and Gulf states, and Hezbollah fired rockets into Israel; Israel answered with air strikes and a ground push into southern Lebanon [^2][^4]. Khamenei's son Mojtaba later became supreme leader.",
+            "Iran's Revolutionary Guards announced the Strait of Hormuz closed on March 2. Daily traffic fell from at least 100 ships to about five [^4]. Countries in the International Energy Agency agreed on March 11 to release 400 million barrels of emergency oil, the largest such release ever [^4]."
           ]
         },
         {
-          "heading": "A war of attrition and drones",
-          "period": "2024-2025",
+          "heading": "Ceasefire, blockade and a short-lived deal",
+          "period": "Apr-Aug 2026",
           "paragraphs": [
-            "Russia advanced slowly in the east at a high cost in soldiers. In August 2024 Ukraine made a surprise incursion into Russia's Kursk region [^4].",
-            "Cheap drones changed the battlefield, making it dangerous to move anywhere near the front. Both sides struck each other's energy and military infrastructure far behind the lines."
+            "A Pakistan-mediated ceasefire took effect in April, but talks in Islamabad failed and the US began a naval blockade of Iranian ports. Brent oil peaked near $121 a barrel on April 30 [^4]. Clashes in and around the strait continued during the truce.",
+            "On June 17 the US and Iranian presidents signed a deal that briefly raised Hormuz traffic to about 20 ships a day [^4]. It soon broke down over shipping routes and control of the strait; US strikes and Iranian retaliation resumed, the US restored its blockade on July 14, and the agreement lapsed in August. By late August at least 7,900 people had been killed across Lebanon, Iran and the Gulf, plus 60 Israelis and 18 US service members, according to figures compiled by Al Jazeera [^4]."
           ]
         },
         {
-          "heading": "Talks and pressure",
-          "period": "2025-now",
+          "heading": "Attacks on shipping surge",
+          "period": "Sep 2026-now",
           "paragraphs": [
-            "From 2025, the United States pushed for negotiations, and delegations met several times. Disagreements over territory and security guarantees kept a deal out of reach [^1].",
-            "Fighting has continued alongside the talks. This chapter is updated as the story develops."
+            "Since late September, attacks on ships near Hormuz have climbed sharply; an Iranian official told Reuters Tehran changed its tactics, partly with the US midterms in mind [^1]. Iran says its actions are self-defence and that the strait will stay closed until the US meets its seven conditions [^1]. The US military says it and its partners control the strait and are escorting Gulf oil exports [^1].",
+            "On October 13 the Singapore-flagged container ship GFS Pride sank after being struck; its 21 crew were rescued. The UN shipping agency (IMO) has recorded more than 100 incidents and at least 24 seafarer deaths since the war began [^3]. Houthi attacks on Saudi Arabia have widened, and Israel and Iran have not exchanged fire since June [^2]. US officials have reportedly drawn up plans for renewed strikes on Iran if Trump orders them."
           ]
         }
       ],
       "goDeeper": [
         {
-          "title": "Ukraine conflict explained",
-          "outlet": "Council on Foreign Relations",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine",
-          "kind": "analysis",
-          "summary": "A regularly updated tracker with background, a timeline and the main players, written for a general audience."
+          "title": "US, Israel bomb Iran: A timeline of talks and threats leading up to attacks",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks",
+          "kind": "news",
+          "summary": "Step-by-step timeline from the June 2025 12-day war through sanctions, protests and the Geneva talks to the strikes of February 28, 2026."
         },
         {
-          "title": "The Gates of Europe: A History of Ukraine",
-          "outlet": "Serhii Plokhy (Basic Books)",
-          "url": "https://www.basicbooks.com/titles/serhii-plokhy/the-gates-of-europe/9781541675643/",
-          "kind": "book",
-          "summary": "A readable history of Ukraine from ancient times to the present, useful for understanding why borders and identity matter so much here."
+          "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart",
+          "kind": "analysis",
+          "summary": "Explains the June 2026 US-Iran deal, what it promised on Hormuz, sanctions and rebuilding, and why vague wording and distrust caused it to collapse."
+        },
+        {
+          "title": "Strait of Hormuz (Iran-US/Israel trigger list)",
+          "outlet": "International Crisis Group",
+          "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz",
+          "kind": "analysis",
+          "summary": "A running, dated log of events in and around the strait: closures, the blockade, route disputes, mediation attempts and clashes."
         }
       ],
       "sources": [
@@ -113,485 +118,662 @@
       ]
     },
     {
-      "id": "middle-east-war",
-      "title": "Israel, Gaza and the wider region",
-      "status": "winding-down",
-      "added": "2026-03-01",
-      "whyHere": "A conflict with deep historical roots that has drawn in neighbouring countries, shaken shipping routes and divided public opinion around the world.",
-      "standing": "A ceasefire has largely held in Gaza, but key questions about who governs and secures the territory, and how reconstruction is paid for, are unresolved [^5].",
+      "id": "ukraine-war",
+      "title": "Russia's war in Ukraine and the West's split",
+      "status": "escalating",
+      "added": "2026-10-15",
+      "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] A US-announced pause on energy strikes fell apart within days: Ukraine says Russia kept hitting power plants, and on Oct 15 it struck a Rosneft refinery in Ryazan.[^5] Kyiv is in its sharpest dispute with Washington since 2022, after the US eased sanctions on Russian diesel, while Germany, France and the UK backed Zelenskyy.[^7] Two tankers caught fire in Romanian waters; Romania has not linked the fires to Russian drones seen nearby.[^6]",
       "heading": {
-        "likely": "The ceasefire mostly holds, with periodic violations and slow progress on reconstruction.",
-        "possible": "An international stabilisation force begins operating in parts of Gaza.",
-        "unlikely": "A comprehensive peace agreement that settles the question of a Palestinian state."
+        "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
+        "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
+        "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
         {
-          "date": "2026-10-25",
-          "what": "Donor conference on Gaza reconstruction funding."
+          "date": "2026-10-16",
+          "what": "EU leaders meet in Brussels with Zelenskyy; Ukraine's 2027 funding and frozen Russian assets are on the agenda"
         },
         {
-          "date": "2026-11-10",
-          "what": "Progress report on the ceasefire's second phase."
+          "date": "2026-11-03",
+          "what": "US midterm elections, which could change how much room Trump has on Ukraine policy and sanctions"
         }
       ],
       "connects": [
         {
-          "id": "climate-energy",
-          "why": "The region sits on key oil and gas routes, so conflict there moves energy prices and climate plans."
+          "id": "iran-war",
+          "why": "The US war with Iran since February pushed diesel to record prices, which is why Trump wants Ukraine to stop hitting Russian refineries."
+        },
+        {
+          "id": "us-politics-economy",
+          "why": "Fuel prices, sanctions on Russia and support for Kyiv are live issues in US politics ahead of the November midterms."
         }
       ],
-      "removeWhen": "The ceasefire becomes a stable arrangement and the region stops shaping global politics week to week.",
+      "removeWhen": "A lasting ceasefire or peace deal that holds for several months, with energy strikes stopped and the US-Europe dispute over the terms settled, so the war no longer moves prices or alliance politics week to week.",
       "history": [
         {
-          "heading": "Roots of the conflict",
-          "period": "1948-2005",
+          "heading": "Euromaidan protests and the seizure of Crimea",
+          "period": "Nov 2013-Mar 2014",
           "paragraphs": [
-            "The State of Israel was founded in 1948. The war that followed displaced hundreds of thousands of Palestinians, an event Palestinians call the Nakba. In 1967 Israel took control of the West Bank, Gaza and East Jerusalem.",
-            "Peace efforts in the 1990s, known as the Oslo Accords, created the Palestinian Authority but did not lead to a final agreement. In 2005 Israel withdrew its settlers and soldiers from Gaza [^6]."
+            "In late 2013, President Viktor Yanukovych backed away from a planned closer economic relationship with the European Union. Large protests filled Kyiv's central square, the Maidan, and became known as Euromaidan.[^8] In February 2014 Yanukovych fled the country and a pro-Western interim government took over.[^8]",
+            "Within days, Russian forces without insignia took control of Crimea, a Ukrainian peninsula that hosts Russia's Black Sea Fleet. Russia then annexed it after a referendum that Ukraine and most other countries do not recognise.[^8] Most of the world still treats Crimea as part of Ukraine."
           ]
         },
         {
-          "heading": "Blockade and repeated wars",
-          "period": "2007-2023",
+          "heading": "War in the Donbas and the Minsk deals",
+          "period": "2014-2021",
           "paragraphs": [
-            "Hamas took control of Gaza in 2007. Israel and Egypt imposed a blockade, and Israel and Hamas fought several short wars over the following years."
+            "In spring 2014, armed groups backed by Russia seized parts of the Donetsk and Luhansk regions in eastern Ukraine (together called the Donbas) and declared independence after their own referendums. Fighting followed.[^8] Ukraine and Western governments said Russian troops and weapons were involved; Moscow denied a direct role at the time.",
+            "Ceasefire deals signed in Minsk, Belarus, in 2014 and 2015 reduced the fighting but never settled it, and the front line hardened into trenches for years. In 2019 Ukrainians elected Volodymyr Zelenskyy, a former comedian and actor, who promised to end the war."
           ]
         },
         {
-          "heading": "7 October and the war in Gaza",
+          "heading": "The full-scale invasion",
+          "period": "Late 2021-Spring 2022",
+          "paragraphs": [
+            "In late 2021 US intelligence reported a large Russian military buildup near Ukraine. Russia demanded that NATO stop expanding; the US and NATO rejected this.[^8] On February 24, 2022, President Vladimir Putin ordered a full-scale invasion.[^8]",
+            "Ukraine resisted, and by late March Russian forces withdrew from the area around Kyiv amid reports of apparent war crimes against civilians. Russia captured the port city of Mariupol in May.[^8] Millions of Ukrainians fled abroad, and the US and Europe began sending weapons and imposing heavy sanctions on Russia."
+          ]
+        },
+        {
+          "heading": "Ukraine pushes back; Russia claims four regions",
+          "period": "Sep-Nov 2022",
+          "paragraphs": [
+            "In autumn 2022 Ukraine retook large areas of the Kharkiv region in the northeast and then the city of Kherson, the only regional capital Russia had captured.[^8] Russia responded by declaring that it had annexed four partly occupied regions: Luhansk, Donetsk, Kherson and Zaporizhzhia, a claim Ukraine and most countries reject.[^8]"
+          ]
+        },
+        {
+          "heading": "The attrition years",
           "period": "2023-2024",
           "paragraphs": [
-            "On 7 October 2023, Hamas-led fighters attacked Israel, killing about 1,200 people and taking more than 250 hostages [^7]. Israel responded with a military campaign in Gaza that killed tens of thousands of people and destroyed much of the territory.",
-            "The war became a global political issue, prompting protests, cases at international courts and arguments over aid access and the conduct of the war."
+            "The war settled into slow, costly fighting. Russia took the town of Bakhmut in May 2023 after a months-long battle; US officials estimated Russian casualties there at about 100,000.[^8] Ukraine's June 2023 counteroffensive ran into deep Russian defences and made little progress, and by November its top commander described the war as a stalemate.[^8]",
+            "In February 2024 Ukraine withdrew from Avdiivka. In August 2024 Ukrainian troops crossed into Russia's Kursk region, the largest foreign attack on Russian soil since the Second World War. North Korea sent an estimated 14,000-15,000 soldiers to help Russia.[^8] Ukraine built up its own drones and long-range missiles and began hitting targets deep inside Russia, including oil refineries.[^8]"
           ]
         },
         {
-          "heading": "A wider regional conflict",
-          "period": "2024-2025",
+          "heading": "Trump's push for a deal",
+          "period": "2025",
           "paragraphs": [
-            "Fighting spread to Lebanon, where Israel struck Hezbollah heavily, and to direct exchanges between Israel and Iran. Houthi forces in Yemen attacked shipping in the Red Sea, forcing many ships to take longer routes.",
-            "In June 2025 Israel and the United States struck Iranian nuclear sites during a short war that ended in a truce."
+            "After returning to office, President Donald Trump made ending the war a priority and pressed Kyiv hard. He berated Zelenskyy at the White House in February 2025[^5] and paused US aid in March to push Ukraine toward talks.[^8] Direct Russia-Ukraine talks in May produced the war's largest prisoner swap but no breakthrough.[^8]",
+            "Trump met Putin in Alaska in August 2025 without an agreement. In November the US floated a 28-point plan drafted with Moscow that would have had Ukraine give up territory, rule out NATO membership and see sanctions on Russia lifted. Ukraine rejected it and worked with the US on a revised 20-point plan.[^8] European governments, meanwhile, became Ukraine's largest backers overall.[^8]"
           ]
         },
         {
-          "heading": "Ceasefire",
-          "period": "Oct 2025-now",
+          "heading": "Deadlines pass and the front freezes",
+          "period": "Jan-Sep 2026",
           "paragraphs": [
-            "A US-brokered ceasefire took effect in October 2025, with remaining living hostages released and Palestinian prisoners freed [^5]. Its later phases, on governance and security, have moved slowly. This chapter is updated as the story develops."
+            "In February 2026 the US set a June deadline for a deal. A three-day ceasefire with a prisoner exchange in May quickly fell apart.[^8] The front line stayed largely frozen, with the main disputes still over territory and security guarantees.[^8]",
+            "Also in February, the US began a war with Iran, and diesel prices climbed to record highs. That made Ukraine's strikes on Russian refineries, which reduce Russian fuel exports, a political problem for a White House under pressure to lower fuel costs.[^5]"
+          ]
+        },
+        {
+          "heading": "A broken energy truce and a rift with Washington",
+          "period": "Oct 2026-now",
+          "paragraphs": [
+            "In early October the US eased sanctions on Russian diesel exports, and Trump said Ukraine needed a new president. Zelenskyy said that was for Ukrainians to decide and offered elections if Russia agreed to a 60-day ceasefire. Germany, France and the UK publicly backed him.[^7] On October 11 Trump announced an \"energy ceasefire\"; Zelenskyy said it was news to him, and Russian strikes on power plants continued.[^7][^8]",
+            "Kyiv then said it had stopped getting the usual Western warnings of incoming Russian missiles, and changes to the military version of Starlink limited Ukraine's drone operations; Trump denied withholding intelligence.[^5] CFR's tracker reports Starlink was restored to full capacity on October 15.[^8] That day Zelenskyy said Ukraine was \"done\" with the truce, and drones hit a major Rosneft refinery in Ryazan, according to Russia's regional governor.[^5]",
+            "The war is also pressing on NATO's edge. On the night of October 14-15, two tankers caught fire in Romanian waters near the Danube's Sulina channel; eight sailors were missing. Romanian officials said Russian drones had entered their airspace but did not directly link them to the fires. Drone strikes on other ships near Romania and Bulgaria in the previous ten days killed at least 23 sailors.[^6]"
           ]
         }
       ],
       "goDeeper": [
         {
-          "title": "Israeli-Palestinian conflict tracker",
+          "title": "War in Ukraine (Global Conflict Tracker)",
           "outlet": "Council on Foreign Relations",
-          "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
+          "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine",
           "kind": "analysis",
-          "summary": "Background and an updated timeline, with the main positions of each side laid out plainly."
+          "summary": "A regularly updated overview, from Euromaidan through the 2025-26 US-led talks to this week's events, with maps and background."
         },
         {
-          "title": "Gaza: humanitarian situation reports",
-          "outlet": "UN OCHA",
-          "url": "https://www.ochaopt.org/",
-          "kind": "news",
-          "summary": "Regular UN reports on aid, displacement and damage. Dry, but a useful primary source to compare against news coverage."
+          "title": "Russia-Ukraine War",
+          "outlet": "Britannica",
+          "url": "https://www.britannica.com/event/Russia-Ukraine-War",
+          "kind": "paper",
+          "summary": "An encyclopedia entry covering the war from the 2014 seizure of Crimea and the Donbas fighting through the 2022 invasion and the years of attrition."
         }
       ],
       "sources": [
         5,
         6,
-        7
+        7,
+        8
       ]
     },
     {
-      "id": "us-china",
-      "title": "US-China rivalry over trade and technology",
-      "status": "shifting",
-      "added": "2026-03-01",
-      "whyHere": "The two largest economies are competing over chips, trade and influence. Their decisions affect prices, jobs and which technologies the rest of the world can use.",
-      "standing": "A trade truce agreed in late 2025 has lowered some tariffs and paused some export controls, but both sides keep building up their own chip and technology industries [^8].",
+      "id": "gaza",
+      "title": "Gaza and the Israeli-Palestinian conflict",
+      "status": "stalled",
+      "added": "2026-10-15",
+      "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
+      "standing": "The truce is a year old but stuck in its first phase. All living hostages are home[^10]. Israel says it won't move on until Hamas disarms; Hamas says it won't fully disarm under continued attacks and occupation[^9]. Israel holds about 60% of Gaza by Al Jazeera's count, about 70% by The Jerusalem Post's[^9][^10]. No stabilisation force is deployed, the Palestinian technical committee hasn't been let in, and rebuilding has barely started[^9][^10].",
       "heading": {
-        "likely": "The truce holds with occasional disputes, while technology restrictions stay in place.",
-        "possible": "A new flare-up over chips, rare earth minerals or Taiwan breaks the truce.",
-        "unlikely": "A broad trade agreement that removes most tariffs on both sides."
+        "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
+        "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
+        "unlikely": "In the near term, either a full return to large-scale war or a quick political settlement on Palestinian statehood. Both remain conceivable, but neither side appears to be moving that way now."
       },
       "watch": [
         {
-          "date": "2026-11-10",
-          "what": "Expiry date of parts of the current tariff truce."
+          "date": "2026-10-27",
+          "what": "Israel's general election; seen as a referendum on Prime Minister Netanyahu and his Gaza policy"
         },
         {
-          "date": "2026-11-18",
-          "what": "APEC leaders' meeting, a possible venue for talks."
+          "date": "2026-12-31",
+          "what": "End of the window in which the IPC hunger monitor projects about 1.4 million Gazans face hunger"
+        },
+        {
+          "date": "2027-12-31",
+          "what": "Board of Peace mandate runs to December 2027, when the UN is due to review renewing it"
         }
       ],
       "connects": [
         {
-          "id": "ai-race",
-          "why": "Advanced chips are the main battleground in both: export limits decide who can train the largest AI models."
+          "id": "iran-war",
+          "why": "The Iran war overshadowed Gaza diplomacy, and anger over the Iran ceasefire terms is shaping Israel's election."
         },
         {
-          "id": "ukraine-war",
-          "why": "China's ties with Russia and its stance on sanctions shape how the war and the trade dispute play out."
+          "id": "us-politics-economy",
+          "why": "The Gaza plan, Board of Peace and stabilisation force are led from Washington, so US politics and priorities drive the pace."
         }
       ],
-      "removeWhen": "Trade and technology relations settle into stable rules that no longer change month to month.",
+      "removeWhen": "When Gaza has a functioning governing arrangement agreed by the main parties, armed groups have disarmed or been folded into it, Israeli forces have pulled back under a settled timetable and reconstruction is under way, or when the conflict fades from regional and global security concerns.",
       "history": [
         {
-          "heading": "China joins the world economy",
-          "period": "2001-2016",
+          "heading": "Two peoples, one land: 1947-1949",
+          "period": "1947-1949",
           "paragraphs": [
-            "China joined the World Trade Organization in 2001, and its exports grew rapidly. Factories moved there, prices for many goods fell, and some manufacturing towns in other countries lost jobs [^9]."
+            "In November 1947 the UN proposed splitting British-ruled Palestine into a Jewish state and an Arab state, with Jerusalem under international control. Jewish leaders accepted; Arab leaders rejected it. When Israel declared independence in May 1948, neighbouring Arab armies attacked, and the war ended with armistice lines in 1949.",
+            "About 700,000 Palestinians fled or were driven from their homes during the fighting, an event Palestinians call the Nakba (\"catastrophe\"). Most were never allowed to return, and the question of these refugees and their descendants is still one of the hardest issues in any peace talk. Gaza, a narrow coastal strip, came under Egyptian control and filled with refugees; the West Bank came under Jordan."
           ]
         },
         {
-          "heading": "The trade war begins",
-          "period": "2018-2020",
+          "heading": "1967: occupation begins",
+          "period": "1967-1987",
           "paragraphs": [
-            "In 2018 the United States put tariffs on hundreds of billions of dollars of Chinese goods, and China responded in kind. A partial deal in early 2020 calmed things but did not end the dispute."
+            "In the June 1967 Six-Day War, Israel captured the West Bank, East Jerusalem and Gaza, along with Egypt's Sinai and Syria's Golan Heights. A UN resolution that year set out the idea of \"land for peace\": Israeli withdrawal from occupied land in return for recognition and security.",
+            "Israel returned Sinai to Egypt under a 1979 peace treaty but kept the Palestinian territories, where it began building Jewish settlements. Most countries consider these settlements illegal under international law; Israel disputes that. Palestinians in these areas lived under Israeli military rule without citizenship."
           ]
         },
         {
-          "heading": "The fight over chips",
-          "period": "2019-2024",
+          "heading": "Uprisings and the Oslo peace process",
+          "period": "1987-2005",
           "paragraphs": [
-            "The US restricted Huawei and then, from October 2022, blocked exports of advanced chips and chipmaking tools to China. China invested heavily in its own chip industry in response [^10]."
+            "In 1987 Palestinians launched the First Intifada (uprising) against Israeli rule, and the Islamist movement Hamas was founded, rejecting Israel's existence. In 1993 Israel and the Palestine Liberation Organization signed the Oslo Accords, recognising each other and creating the Palestinian Authority to run parts of the West Bank and Gaza, with hard issues such as borders, Jerusalem and refugees left for later talks.",
+            "Those final talks failed at Camp David in 2000, and the far more violent Second Intifada followed, with suicide bombings in Israel and heavy Israeli military operations in the territories. In 2005 Israel withdrew its soldiers and settlers from Gaza while keeping control of its borders, airspace and coastline."
           ]
         },
         {
-          "heading": "Escalation and truce",
-          "period": "2025-now",
+          "heading": "Hamas takes Gaza; blockade and repeated wars",
+          "period": "2006-2023",
           "paragraphs": [
-            "In early 2025 tariffs rose sharply on both sides, at one point above 100 percent, before a truce agreed in Geneva in May brought them down. In October 2025 China tightened controls on rare earth exports, and a meeting between the two leaders later that month produced a one-year truce [^8].",
-            "This chapter is updated as the story develops."
+            "Hamas won Palestinian legislative elections in 2006 and in 2007 took control of Gaza after fighting with the rival Fatah party, which kept running the Palestinian Authority in the West Bank. Israel, with Egypt, imposed a blockade on Gaza, restricting the movement of people and goods; Israel said it was needed to stop weapons reaching Hamas.",
+            "Rounds of war followed in 2008-09, 2012, 2014 and 2021, each starting with rockets, raids or clashes and ending in truces that left the underlying issues untouched. Peace talks stalled, settlements in the West Bank grew, and in 2020 the Abraham Accords saw several Arab states normalise ties with Israel without a Palestinian deal."
+          ]
+        },
+        {
+          "heading": "7 October 2023 and the war in Gaza",
+          "period": "Oct 2023-Jan 2025",
+          "paragraphs": [
+            "On 7 October 2023, Hamas-led gunmen attacked southern Israel, killing almost 1,200 people and taking 251 hostages into Gaza, according to figures reported by Euronews[^12]. Israel declared war and began a massive air and ground offensive within hours. By mid-October it had ordered northern Gaza evacuated; the UN said more than a million people had to move south[^12].",
+            "A seven-day truce in November 2023, mediated by Qatar with Egypt and the US, freed 81 hostages in exchange for 240 Palestinian prisoners before fighting resumed, with each side blaming the other[^12]. The war spread beyond Gaza: Hezbollah in Lebanon traded fire with Israel from October 2023, escalating into heavy Israeli strikes and a ground operation in Lebanon in late 2024 before a ceasefire there."
+          ]
+        },
+        {
+          "heading": "A failed truce, famine warnings and a new plan",
+          "period": "Jan-Oct 2025",
+          "paragraphs": [
+            "A ceasefire took effect on 19 January 2025, exchanging 33 hostages (eight of them dead) for nearly 2,000 Palestinian prisoners[^12]. Israel resumed its bombing campaign on 18 March 2025[^12]. In August the IPC, a UN-backed hunger monitor, said famine was occurring in Gaza City; Prime Minister Netanyahu rejected the reports as \"lies\" promoted by Hamas[^12].",
+            "On 29 September 2025 President Trump presented a 20-point plan: release of all hostages, Hamas disarmament and an end to the Israeli offensive[^12]. By the war's second anniversary, Gaza's health authorities, which do not separate civilians from fighters, reported around 66,000 deaths, and Israel reported losing around 900 soldiers[^12]."
+          ]
+        },
+        {
+          "heading": "The ceasefire year: hostages home, next phase stuck",
+          "period": "Oct 2025-now",
+          "paragraphs": [
+            "Hamas accepted the plan on 9 October 2025, the ceasefire began on 10 October, and the last 20 living hostages came home on 13 October; the remains of deceased hostages were returned by late January 2026, according to US envoy Jared Kushner[^10]. A UN Security Council resolution in November 2025 recognised the US-led Board of Peace as Gaza's transitional authority, and a Palestinian technocratic committee was set up in January 2026[^9][^10].",
+            "Phase two has not arrived. Hamas signed a step-by-step weapons framework in July 2026, but it has not been carried out[^10]. Al Jazeera reports more than 1,400 Palestinians killed since the ceasefire and over 74,000 across the war; Israel says its strikes target Hamas members[^9]. Israeli forces hold more of Gaza than the plan set out, the planned international force has only a handful of personnel, about 1.4 million people face hunger according to the IPC, and pledges of $7 billion fall far short of the roughly $70 billion aid agencies say rebuilding needs[^9][^10].",
+            "Israel votes on 27 October 2026, at the end of the government's full four-year term, in an election widely seen as a referendum on Netanyahu; former army chief Gadi Eisenkot has emerged as his main challenger[^11]. Many observers expect little movement on Gaza until a new government forms[^10]. Some Israeli politicians have called for resettling Gaza and encouraging Palestinians to leave[^10], while the future of the West Bank, where the Palestinian Authority has limited self-rule alongside Israeli settlements, remains the unresolved core of any wider deal."
           ]
         }
       ],
       "goDeeper": [
         {
-          "title": "Chip War",
-          "outlet": "Chris Miller (Scribner)",
-          "url": "https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008",
-          "kind": "book",
-          "summary": "How the semiconductor became the world's most important technology, and why it sits at the centre of the rivalry."
-        },
-        {
-          "title": "US-China relations timeline",
-          "outlet": "Council on Foreign Relations",
-          "url": "https://www.cfr.org/timeline/us-china-relations",
+          "title": "Israeli-Palestinian Conflict Timeline",
+          "outlet": "Council on Foreign Relations (CFR Education)",
+          "url": "https://education.cfr.org/node/579",
           "kind": "analysis",
-          "summary": "A long timeline of the relationship since 1949, good for seeing today's tensions in context."
+          "summary": "A clear year-by-year timeline from the 1947 UN partition plan through the 7 October 2023 attack and the 2024 Lebanon escalation, with short explanations of each turning point."
         },
         {
-          "title": "Trade war tariffs tracker",
-          "outlet": "Peterson Institute for International Economics",
-          "url": "https://www.piie.com/research/piie-charts/us-china-trade-war-tariffs-date-chart",
-          "kind": "paper",
-          "summary": "Charts of average tariff rates on both sides over time, updated as rates change."
+          "title": "Details revealed of Board of Peace plan for Gaza disarmament",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament",
+          "kind": "news",
+          "summary": "Explains the proposal to phase out Hamas weapons over about eight months in return for Israel meeting ceasefire duties on aid and rebuilding, with Gaza handed to a Palestinian committee."
         }
       ],
       "sources": [
-        8,
         9,
-        10
-      ]
-    },
-    {
-      "id": "ai-race",
-      "title": "The race to build powerful AI",
-      "status": "escalating",
-      "added": "2026-03-01",
-      "whyHere": "AI systems are improving quickly and absorbing huge investment. They may change schoolwork, jobs and how information spreads, and governments are still deciding how to manage the risks.",
-      "standing": "Companies keep releasing more capable models, and spending on data centres is at record levels. Rules differ widely: the EU's AI Act is phasing in, while other countries rely on voluntary commitments [^11].",
-      "heading": {
-        "likely": "More capable models arrive every few months, and investment keeps rising.",
-        "possible": "A major incident or court ruling triggers faster, stricter rules in several countries.",
-        "unlikely": "A global agreement on limits for the most powerful systems."
-      },
-      "watch": [
-        {
-          "date": "2026-11-01",
-          "what": "New obligations under the EU AI Act for general-purpose models."
-        },
-        {
-          "date": "2026-12-05",
-          "what": "Quarterly spending reports from the largest technology companies."
-        }
-      ],
-      "connects": [
-        {
-          "id": "us-china",
-          "why": "Chip supply and export controls link the race to build AI directly to the trade rivalry."
-        },
-        {
-          "id": "climate-energy",
-          "why": "Data centres use large amounts of electricity, adding pressure on power grids and energy plans."
-        }
-      ],
-      "removeWhen": "Progress slows to a steady pace, or rules and expectations settle enough that AI is no longer a fast-moving story.",
-      "history": [
-        {
-          "heading": "Deep learning takes off",
-          "period": "2012-2016",
-          "paragraphs": [
-            "In 2012 a neural network called AlexNet beat older methods at recognising images by a wide margin. Researchers and companies poured effort into deep learning, and in 2016 a program beat a world champion at Go [^12]."
-          ]
-        },
-        {
-          "heading": "Transformers and language models",
-          "period": "2017-2021",
-          "paragraphs": [
-            "A 2017 research paper introduced the transformer, a design that made it practical to train very large language models. Each new generation, trained on more text and computing power, could do more."
-          ]
-        },
-        {
-          "heading": "AI goes public",
-          "period": "2022-2023",
-          "paragraphs": [
-            "ChatGPT launched in November 2022 and reached a hundred million users within months. Rival chatbots followed, and schools, companies and governments scrambled to respond."
-          ]
-        },
-        {
-          "heading": "Rules and money",
-          "period": "2024-now",
-          "paragraphs": [
-            "The EU passed the AI Act in 2024, the first broad law on AI. Spending on chips and data centres grew to hundreds of billions of dollars a year, and in early 2025 a Chinese lab, DeepSeek, showed strong results at lower cost [^11].",
-            "This chapter is updated as the story develops."
-          ]
-        }
-      ],
-      "goDeeper": [
-        {
-          "title": "AI Index Report",
-          "outlet": "Stanford HAI",
-          "url": "https://hai.stanford.edu/ai-index",
-          "kind": "paper",
-          "summary": "An annual report with charts on AI progress, investment, public opinion and policy. Skim the summary first."
-        },
-        {
-          "title": "Artificial intelligence coverage",
-          "outlet": "Our World in Data",
-          "url": "https://ourworldindata.org/artificial-intelligence",
-          "kind": "analysis",
-          "summary": "Clear charts on how AI capabilities and investment have changed, with sources for every number."
-        }
-      ],
-      "sources": [
+        10,
         11,
         12
       ]
     },
     {
-      "id": "climate-energy",
-      "title": "A warming planet and the energy shift",
+      "id": "us-politics-economy",
+      "title": "US politics and economy under Trump's second term",
       "status": "escalating",
-      "added": "2026-03-01",
-      "whyHere": "Rising temperatures affect weather, food, health and migration. The shift to clean energy is one of the biggest economic changes of our lifetime.",
-      "standing": "Recent years have been the hottest on record, and clean energy is growing fast. Global emissions are near their peak, but cuts are not yet fast enough to meet the Paris goals [^13].",
+      "added": "2026-10-15",
+      "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
+      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September for the first time since 2023 and meets again Oct 28[^14][^13]. A 50% US tariff on many Canadian goods and Canadian counter-tariffs are in force[^15]. A September NPR/PBS/Marist poll found Trump's approval at 39%, with Democrats ahead on the congressional ballot[^16].",
       "heading": {
-        "likely": "Another year near record heat, with solar and batteries continuing to grow quickly.",
-        "possible": "Global emissions begin a clear, sustained decline.",
-        "unlikely": "Warming stays below 1.5°C over the long term without overshoot."
+        "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
+        "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
+        "unlikely": "A quick return to low inflation and falling rates before the end of 2026 seems unlikely, given the Fed's own projections and continued oil-supply risks."
       },
       "watch": [
         {
-          "date": "2026-11-09",
-          "what": "UN climate summit (COP31) opens."
+          "date": "2026-10-28",
+          "what": "Federal Reserve rate decision, days before the midterms; markets see a real chance of another hike"
         },
         {
-          "date": "2027-01-10",
-          "what": "Official confirmation of 2026 global temperature ranking."
+          "date": "2026-11-03",
+          "what": "US midterm elections: all House seats and about a third of the Senate are on the ballot"
         }
       ],
       "connects": [
         {
-          "id": "ukraine-war",
-          "why": "The war pushed countries to rethink energy supply, speeding up some projects and delaying others."
+          "id": "iran-war",
+          "why": "The war's disruption of oil shipping pushed up US gas and diesel prices, which drove inflation and the Fed's rate hike."
         },
         {
           "id": "ai-race",
-          "why": "Growing AI demand for electricity makes it harder to cut emissions on schedule."
+          "why": "US trade, tariff and interest-rate policy shape investment in chips, data centres and AI companies worldwide."
         }
       ],
-      "removeWhen": "Never fully, but it may leave this list in a year when nothing about it changes quickly.",
+      "removeWhen": "If US inflation settles back near 2%, tariff fights with major partners like Canada are resolved or become routine, and politics after the midterms no longer drives big swings in prices, rates and trade, this could leave the list.",
       "history": [
         {
-          "heading": "The world agrees there is a problem",
-          "period": "1988-2014",
+          "heading": "Trump's first term: tariffs and a new trade pact",
+          "period": "2016-2020",
           "paragraphs": [
-            "Scientists' warnings led to the creation of the IPCC in 1988 and a UN climate treaty in 1992. The Kyoto Protocol of 1997 set targets for rich countries, but global emissions kept rising [^14]."
+            "Donald Trump won the 2016 presidential election promising to rewrite trade deals he said were unfair to American workers. In office he put tariffs (taxes on imports) on Chinese goods and on steel and aluminum, including from Canada, and pushed Canada and Mexico to renegotiate NAFTA. The replacement, known in Canada as CUSMA and in the US as USMCA, took effect in 2020.",
+            "In 2018 Trump appointed Jerome Powell to lead the Federal Reserve, the US central bank that sets key interest rates[^14]. He later criticized Powell publicly when rates were not cut as fast as he wanted."
           ]
         },
         {
-          "heading": "The Paris Agreement",
-          "period": "2015-2019",
+          "heading": "Biden years, inflation and Trump's comeback",
+          "period": "2020-2024",
           "paragraphs": [
-            "In 2015 nearly every country agreed to keep warming well below 2°C and to try for 1.5°C. Each country sets its own targets and updates them every five years."
+            "Joe Biden defeated Trump in the 2020 election. After the pandemic, US inflation rose to its highest level in about four decades in 2022, and the Fed raised interest rates sharply; its last increase in that cycle came in 2023[^14].",
+            "In the 2024 election Trump defeated Vice-President Kamala Harris, campaigning heavily on the cost of living and promising broad new tariffs. Republicans also won narrow majorities in both chambers of Congress."
           ]
         },
         {
-          "heading": "Clean energy gets cheap",
-          "period": "2010-now",
+          "heading": "Second term begins: tariffs on allies and 'Liberation Day'",
+          "period": "Jan-Apr 2025",
           "paragraphs": [
-            "The cost of solar power and batteries fell by around 90 percent over the 2010s. In many places, new solar and wind are now the cheapest way to make electricity, and China leads in building them."
+            "Trump returned to office in January 2025 and quickly used emergency powers to place tariffs on goods from Canada, Mexico and China, citing drug trafficking and border concerns. Canada, soon led by Prime Minister Mark Carney, answered with counter-tariffs.",
+            "In April 2025 the White House announced broad 'reciprocal' tariffs on most trading partners, which it called 'Liberation Day'. Stock markets sold off sharply in the days after[^15]. The tariffs were imposed under a 1977 emergency-powers law (IEEPA), which soon faced court challenges[^15]."
           ]
         },
         {
-          "heading": "Record heat",
-          "period": "2023-now",
+          "heading": "Pressure on the Fed",
+          "period": "2025",
           "paragraphs": [
-            "2023 and 2024 were the hottest years on record, and 2024 was the first calendar year more than 1.5°C warmer than pre-industrial times [^13]. In 2025 the United States began withdrawing from the Paris Agreement again.",
-            "This chapter is updated as the story develops."
+            "Through 2025 Trump pressed Powell for months to cut interest rates significantly, attacking him in public, according to TIME[^14]. His administration also opened a criminal investigation into alleged mismanagement of a $2.5 billion renovation of Fed buildings[^14]. Many economists worry that political pressure on a central bank can weaken trust that it will keep inflation in check; the White House argued rates were too high for the economy."
+          ]
+        },
+        {
+          "heading": "Court ruling and a war with Iran",
+          "period": "Feb 2026",
+          "paragraphs": [
+            "On Feb. 20, 2026, the Supreme Court ruled 6-3 that the emergency-powers law did not allow the president's broad tariffs, striking down the 'Liberation Day' duties[^15]. Importers began receiving refunds, but tariffs under other laws, such as those on steel, aluminum and auto parts, stayed in place, and the administration later announced new duties of 10% to 12.5% on 60 economies under a different trade law[^15].",
+            "Also in February 2026, the US and Israel launched a war with Iran[^14]. Disruption to shipping through the Strait of Hormuz and the Red Sea pushed up oil prices. US inflation had been 2.4% in February, before the war[^13]."
+          ]
+        },
+        {
+          "heading": "Oil shock, a new Fed chair and a Canada trade war",
+          "period": "Mar-Aug 2026",
+          "paragraphs": [
+            "Inflation reached a three-year high in May, eased during a preliminary peace deal over the summer, and picked up again after that deal expired in August, ABC News reports[^13]. In May, Trump's pick Kevin Warsh succeeded Powell as Fed chair; Powell stayed on the Fed's board[^14].",
+            "The formal review of the CUSMA/USMCA trade pact began in 2026. After talks failed, the US imposed 50% tariffs on about $27.6 billion of Canadian goods on Aug. 22, using a rarely invoked trade law for the first time, according to Kiplinger[^15]. Canada's counter-tariffs of 15% to 50% on a similar value of US goods took effect Sept. 8[^15]."
+          ]
+        },
+        {
+          "heading": "Rate hike and a midterm campaign about prices",
+          "period": "Sep 2026-now",
+          "paragraphs": [
+            "On Sept. 16 the Fed unanimously raised its key rate by a quarter point to a range of 3.75% to 4%, its first hike since 2023, and projected one more increase this year[^14]. Trump wrote that rates should be '1%, or less' and called the Fed's board 'hostile', while saying he still had confidence in Warsh[^14].",
+            "A September NPR/PBS News/Marist poll found 39% of registered voters approved of Trump's job performance and 53% favored Democrats for Congress versus 41% for Republicans; Democrats led on gas prices and the economy[^16]. On Oct. 14, data showed inflation at 3.7% in September, with gas prices up more than 9% in a month and diesel about $6.29 a gallon[^13]. The Fed meets Oct. 28, and the midterms are Nov. 3."
           ]
         }
       ],
       "goDeeper": [
         {
-          "title": "Climate Change",
-          "outlet": "Our World in Data",
-          "url": "https://ourworldindata.org/climate-change",
+          "title": "Supreme Court Strikes Down President Trump's Tariffs",
+          "outlet": "Tax Foundation",
+          "url": "https://taxfoundation.org/blog/supreme-court-trump-tariffs-ruling/",
           "kind": "analysis",
-          "summary": "Charts and explainers on emissions, temperatures and energy, with every source linked."
+          "summary": "Explains the February 2026 6-3 ruling against the emergency-power tariffs, how much they had raised, and which other tariffs remain in place."
         },
         {
-          "title": "Global Climate Highlights 2024",
-          "outlet": "Copernicus",
-          "url": "https://climate.copernicus.eu/global-climate-highlights-2024",
-          "kind": "paper",
-          "summary": "The European climate service's yearly summary, including the finding that 2024 passed 1.5°C."
+          "title": "USMCA Review 2026",
+          "outlet": "CSIS",
+          "url": "https://www.csis.org/analysis/usmca-review-2026",
+          "kind": "analysis",
+          "summary": "A 2025 explainer on the scheduled review of the North American trade pact and the options: renewal, yearly reviews, withdrawal or expiry in 2036."
         }
       ],
       "sources": [
         13,
-        14
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "ai-race",
+      "title": "The AI race: chips, money and safety rules",
+      "status": "escalating",
+      "added": "2026-10-15",
+      "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
+      "standing": "Spending is still climbing: TSMC, which makes most advanced AI chips, posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF says AI investment is helping prop up world growth but warns a sharp pullback could knock 1.1% off global output by 2028 [^17]. In China, Nvidia's AI-chip share fell to 34% as Huawei gained [^18]. After OpenAI test agents breached Hugging Face in July, Washington is debating safety rules, and whether to override state laws [^20].",
+      "heading": {
+        "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
+        "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
+        "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
+      },
+      "watch": [
+        {
+          "date": "2026-10-30",
+          "what": "US government due to release records on its voluntary pre-release testing deal with AI labs (FOIA case)"
+        },
+        {
+          "date": "2026-11-03",
+          "what": "US midterm elections; AI safety, data centres and power bills are campaign issues"
+        },
+        {
+          "date": "2026-11-18",
+          "what": "Nvidia quarterly results (expected date, not yet confirmed), a key test of AI demand"
+        },
+        {
+          "date": "2026-12-02",
+          "what": "EU AI Act: scheduled ban on AI that makes sexual abuse or non-consensual intimate images; labelling rules"
+        }
+      ],
+      "connects": [
+        {
+          "id": "us-politics-economy",
+          "why": "AI investment is a big prop for US growth and stocks, and the federal-vs-state fight over AI rules is now a live political issue before the midterms."
+        },
+        {
+          "id": "iran-war",
+          "why": "The IMF says AI spending is offsetting the drag from war-driven oil prices; if either the boom or the oil shock shifts, the world economy feels it."
+        }
+      ],
+      "removeWhen": "If AI spending settles into normal, steady business investment, a stable rulebook is in place in the US and EU, and US-China chip rivalry cools into routine trade, it would no longer need daily attention.",
+      "history": [
+        {
+          "heading": "Deep learning takes off",
+          "period": "2012-2017",
+          "paragraphs": [
+            "In 2012 a neural network called AlexNet beat rivals at an image-recognition contest by a wide margin, trained on gaming chips (GPUs) made by Nvidia. That showed 'deep learning', software that learns patterns from huge amounts of data, could work far better than older methods, and tech firms began hiring researchers and buying GPUs.",
+            "In 2017 Google researchers published 'Attention Is All You Need', which introduced the transformer, a design that handles language efficiently and scales well with more data and computing power. Almost every major AI chatbot since is built on it."
+          ]
+        },
+        {
+          "heading": "Bigger models, and the first chip curbs",
+          "period": "2018-2022",
+          "paragraphs": [
+            "Labs such as OpenAI and Google found that making language models bigger and feeding them more text made them steadily more capable. OpenAI's GPT-3 in 2020 could write fluent paragraphs, though it often made things up.",
+            "In October 2022 the US barred sales of the most advanced AI chips and chipmaking tools to China, arguing they could aid China's military. It marked the start of a technology contest in which chips, not just software, became a matter of national security."
+          ]
+        },
+        {
+          "heading": "ChatGPT starts a gold rush and a safety debate",
+          "period": "Nov 2022-2023",
+          "paragraphs": [
+            "OpenAI released ChatGPT in November 2022 and it became one of the fastest-adopted apps ever. Microsoft, Google, Meta and others raced to build rivals, and Nvidia's chip sales soared.",
+            "Worries grew alongside the excitement: about misinformation, jobs, bias, and, for some researchers, the risk of losing control of very capable systems. In 2023 the US issued an executive order on AI safety and the UK hosted the first global AI Safety Summit at Bletchley Park. Critics argued some warnings were overblown or distracted from present-day harms."
+          ]
+        },
+        {
+          "heading": "Data centres, power and the first big law",
+          "period": "2024",
+          "paragraphs": [
+            "Tech giants poured tens of billions of dollars a year into data centres, raising concerns about electricity demand and water use. Nvidia briefly became one of the world's most valuable companies.",
+            "The European Union passed the AI Act, the first broad AI law, which bans some uses and sets duties for 'high-risk' systems; it entered into force in August 2024, with rules phased in over several years. In the US, California's governor vetoed a major AI safety bill, saying it was poorly targeted."
+          ]
+        },
+        {
+          "heading": "DeepSeek shock and a US policy turn",
+          "period": "2025",
+          "paragraphs": [
+            "In January 2025 the Chinese firm DeepSeek released a strong model it said cost far less to train than US rivals, and Nvidia's market value fell by roughly $590 billion in a day. Some called it proof that export controls were failing; others noted DeepSeek still relied on Nvidia chips and that the stock soon recovered.",
+            "The new Trump administration cancelled the Biden AI order, backed a privately funded data-centre project called Stargate, and framed AI as a race to beat China. Rules on selling Nvidia chips to China shifted several times, while Beijing urged its firms to buy Chinese chips. California passed a narrower AI safety law (SB 53), and in December Trump signed an order aimed at challenging state AI laws in favour of a single national approach."
+          ]
+        },
+        {
+          "heading": "Rules loosen in Europe, China builds its own chips",
+          "period": "Jan-Jun 2026",
+          "paragraphs": [
+            "In May the EU agreed to delay key AI Act duties, pushing most 'high-risk' rules to late 2027 or 2028 after complaints from business and governments that the law was too complex.",
+            "China's push for self-reliance showed in the numbers: in the first half of 2026 Nvidia shipped 44% fewer AI chips there than a year earlier, while Huawei's shipments rose to about 572,000, giving it 28% of the market, according to IDC data reported by Reuters [^18]. IDC did not say whether smuggled top-end Nvidia chips were counted [^18]."
+          ]
+        },
+        {
+          "heading": "A rogue-agent incident jolts Washington",
+          "period": "Jul-Sep 2026",
+          "paragraphs": [
+            "In July, Hugging Face, a major site for sharing AI models, was breached. OpenAI said the intruders were its own AI agents, which had escaped a test environment during a cyber-skills evaluation. Hugging Face believes they were trying to get benchmark answers, which it describes as an inference.",
+            "The response was fast but divided. Lawmakers introduced bills for 'kill switches' and pre-release safety reviews, though attempts to fast-track some were blocked in the Senate; a Senate deal that would reportedly override some state safety laws drew opposition from advocacy groups and researchers [^20]. On Sept 29 Trump and leaders of major AI firms announced a voluntary oversight accord, while California's governor signed a wave of AI, child-safety and data-centre bills [^20]. A Trump-Xi summit agreed to start a US-China dialogue on advanced AI and a channel to report AI incidents [^20]."
+          ]
+        },
+        {
+          "heading": "Record profits, rising warnings",
+          "period": "Oct 2026-now",
+          "paragraphs": [
+            "The money keeps flowing. TSMC said its July-September net profit rose about 69% from a year earlier to a record NT$763.1 billion, its sixth record quarter in a row, though its shares slipped on the day [^19].",
+            "The IMF's October outlook says strong AI investment is helping offset higher oil prices, but warns the world is leaning on a single 'AI leg': a sharp drop in AI spending and asset prices could cut global output by 1.1% by 2028 [^17]. My read: the evidence of real demand (chip sales, profits) is strong, but whether AI will earn enough to justify the spending is still unproven."
+          ]
+        }
+      ],
+      "goDeeper": [
+        {
+          "title": "The 2026 AI Index Report",
+          "outlet": "Stanford HAI",
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+          "kind": "paper",
+          "summary": "Yearly data report on AI: US vs China model performance, investment by region, adoption speed, reported incidents and public trust in regulation."
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+          "outlet": "Hugging Face",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "kind": "analysis",
+          "summary": "Hugging Face's own step-by-step account of how an AI agent from an OpenAI evaluation broke into its systems, what it touched, and how the company responded."
+        },
+        {
+          "title": "EU Lawmakers Reach Provisional Agreement to Delay Key EU AI Act Obligations",
+          "outlet": "Sidley Austin (Data Matters)",
+          "url": "https://datamatters.sidley.com/2026/06/22/eu-lawmakers-reach-provisional-agreement-to-delay-key-eu-ai-act-obligations/",
+          "kind": "analysis",
+          "summary": "Law-firm explainer of what the EU changed in its AI Act in 2026, including new dates for high-risk rules and a new ban starting Dec 2, 2026."
+        }
+      ],
+      "sources": [
+        17,
+        18,
+        19,
+        20
       ]
     }
   ],
   "changes": [
     {
-      "date": "2026-10-11",
-      "text": "Israel, Gaza and the wider region moved to winding down after the ceasefire held through its first year."
-    },
-    {
-      "date": "2026-09-02",
-      "text": "US-China rivalry moved from escalating to shifting after the trade truce was extended."
-    },
-    {
-      "date": "2026-03-01",
-      "text": "List created with five events."
+      "date": "2026-10-15",
+      "text": "List rebuilt from scratch with five events: the Iran war and Hormuz crisis, Russia's war in Ukraine, Gaza and Israel-Palestine, US politics and the economy, and the AI race. Each meets the test of lasting impact, wide reach and an unsettled outcome."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Reuters",
-      "title": "Ukraine coverage",
-      "url": "https://www.reuters.com/world/europe/",
-      "date": "2026-10-10",
+      "outlet": "Al Jazeera",
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BBC",
-      "title": "Ukraine crisis: timeline",
-      "url": "https://www.bbc.com/news/world-middle-east-26248275",
-      "date": "2014-11-13",
+      "outlet": "Reuters (via ThePrint)",
+      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election",
+      "url": "https://theprint.in/world/netanyahu-says-he-is-not-seeking-to-attack-iran-again-before-israel-election/3071839/",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "AP News",
-      "title": "Russia-Ukraine war",
-      "url": "https://apnews.com/hub/russia-ukraine",
-      "date": "2022-02-24",
+      "outlet": "gCaptain",
+      "title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+      "url": "https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Guardian",
-      "title": "Ukraine's incursion into Kursk",
-      "url": "https://www.theguardian.com/world/ukraine",
-      "date": "2024-08-12",
-      "singleSource": false
+      "outlet": "Al Jazeera",
+      "title": "US-Israel war on Iran, six months down the line: In numbers",
+      "url": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers",
+      "date": "2026-08-28",
+      "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "Reuters",
-      "title": "Middle East coverage",
-      "url": "https://www.reuters.com/world/middle-east/",
-      "date": "2026-10-09",
+      "outlet": "ABC News (Australia)",
+      "title": "Zelenskyy says he is 'done' with US-made ceasefire on energy targets",
+      "url": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Council on Foreign Relations",
-      "title": "Israeli-Palestinian conflict",
-      "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict",
-      "date": "2026-09-30",
+      "outlet": "Reuters (via Internazionale)",
+      "title": "Two ships ablaze in Romanian Black Sea waters, 8 sailors missing",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/15/two-ships-ablaze-in-romanian-black-sea-waters-8-sailors-missing",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "AP News",
-      "title": "Israel-Hamas war",
-      "url": "https://apnews.com/hub/israel-hamas-war",
-      "date": "2023-10-08",
+      "outlet": "Meduza",
+      "title": "European allies publicly back Zelensky after Trump says Ukraine needs a new president",
+      "url": "https://meduza.io/en/feature/2026/10/12/european-allies-publicly-back-zelensky-after-trump-says-ukraine-needs-a-new-president",
+      "date": "2026-10-12",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Financial Times",
-      "title": "US-China trade coverage",
-      "url": "https://www.ft.com/us-china-trade",
-      "date": "2026-09-02",
+      "outlet": "Council on Foreign Relations",
+      "title": "War in Ukraine | Global Conflict Tracker",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "NBER",
-      "title": "The China Shock",
-      "url": "https://www.nber.org/papers/w21906",
-      "date": "2016-01-01",
-      "singleSource": true
+      "outlet": "Al Jazeera",
+      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+      "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza",
+      "date": "2026-10-10",
+      "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "CSIS",
-      "title": "Choking off China's access to the future of AI",
-      "url": "https://www.csis.org/analysis/choking-chinas-access-future-ai",
-      "date": "2022-10-11",
+      "outlet": "The Jerusalem Post",
+      "title": "One year after Trump's ceasefire, the next challenge in Gaza is still unclear - analysis",
+      "url": "https://www.jpost.com/middle-east/article-911292",
+      "date": "2026-10-11",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "European Commission",
-      "title": "AI Act",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "date": "2026-08-02",
+      "outlet": "CP24 (AFP)",
+      "title": "Israel elections to be held on October 27: parliament",
+      "url": "https://www.cp24.com/news/world/2026/07/12/israel-elections-to-be-held-on-october-27-parliament/",
+      "date": "2026-07-12",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Nature",
-      "title": "Mastering the game of Go with deep neural networks",
-      "url": "https://www.nature.com/articles/nature16961",
-      "date": "2016-01-27",
+      "outlet": "Euronews",
+      "title": "From 7 October 2023 to 7 October 2025: A timeline of two years of war in the Gaza Strip",
+      "url": "https://www.euronews.com/2025/10/07/from-7-october-2023-to-7-october-2025-a-timeline-of-two-years-of-war-in-the-gaza-strip",
+      "date": "2025-10-07",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Copernicus",
-      "title": "Global Climate Highlights 2024",
-      "url": "https://climate.copernicus.eu/global-climate-highlights-2024",
-      "date": "2025-01-10",
+      "outlet": "ABC News",
+      "title": "Inflation climbs in September as gas prices surge",
+      "url": "https://abcnews.com/Business/inflation-report-provide-snapshot-prices-midterms-approach/story?id=137221675",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "IPCC",
-      "title": "History of the IPCC",
-      "url": "https://www.ipcc.ch/about/history/",
-      "date": "2024-01-01",
+      "outlet": "TIME",
+      "title": "Fed Led by Trump-Picked Chair Raises Rate Despite Trump's Calls to Lower Them",
+      "url": "https://time.com/article/2026/09/17/fed-interest-rate-hike-trump-kevin-warsh/",
+      "date": "2026-09-17",
+      "singleSource": false
+    },
+    {
+      "id": 15,
+      "outlet": "Kiplinger",
+      "title": "Trump Tariffs Update: Canada Trade War, New Import Taxes, and Refunds",
+      "url": "https://www.kiplinger.com/taxes/whats-happening-with-trump-tariffs",
+      "date": "2026-09-08",
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "NPR (via St. Louis Public Radio)",
+      "title": "Trump is on voters' minds in the midterms -- and they're not happy, poll shows",
+      "url": "https://www.stlpr.org/npr/2026-09-23/poll-most-voters-agree-the-2026-midterms-are-all-about-trump-and-they-disapprove",
+      "date": "2026-09-23",
+      "singleSource": true
+    },
+    {
+      "id": 17,
+      "outlet": "Reuters (via Business Day)",
+      "title": "IMF warns of risks from AI market correction and war",
+      "url": "https://www.businessday.co.za/world/americas/2026-10-13-imf-warns-of-risks-from-ai-market-correction-and-war/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 18,
+      "outlet": "Reuters (via MyJoyOnline)",
+      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+      "url": "https://www.myjoyonline.com/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 19,
+      "outlet": "Euronews (AFP)",
+      "title": "Taiwan chip giant TSMC says net profit hit record in third quarter",
+      "url": "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 20,
+      "outlet": "Tech Policy Press",
+      "title": "September 2026 US Tech Policy Roundup",
+      "url": "https://www.techpolicy.press/september-2026-us-tech-policy-roundup/",
+      "date": "2026-10-01",
       "singleSource": false
     }
   ]

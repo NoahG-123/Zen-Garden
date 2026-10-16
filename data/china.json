@@ -1,19 +1,78 @@
 {
-  "sample": true,
-  "date": "2026-10-12",
-  "summary": "After the National Day holiday, attention in China turns to how much people spent, and to a new wave of cheaper electric cars and AI assistants built into everyday apps.",
+  "date": "2026-10-15",
+  "summary": "China's exports jumped 36% in September on AI-driven chip demand and home-grown AI chips gained ground, but car sales and holiday spending show households staying cautious.",
   "body": [
-    "The week-long National Day holiday ended last week with hundreds of millions of trips taken across the country. Early figures suggest people travelled a lot but spent carefully, choosing shorter trips and cheaper hotels, which matches a broader pattern of cautious spending [^1].",
-    "Electric cars are now the norm for new car buyers in many Chinese cities. Carmakers are competing hard on price and features, and several launched new models this month with AI assistants that can plan routes, book parking and answer questions by voice [^2].",
-    "Those same assistants are spreading through the apps people use every day for payments, food delivery and messaging. Young people describe them as convenient; some worry about how much the apps now know about their habits [^3]."
+    "China's trade figures for September came in far above forecasts. Exports rose 36.3% from a year earlier and imports rose 31%, giving a monthly trade surplus (exports minus imports) of about $134 billion. The surplus for the first nine months, $938 billion, puts China on course to pass $1 trillion again this year[^1]. Much of the boost came from the global rush to build AI data centres: semiconductor exports more than doubled in the first nine months[^1]. Factory-gate prices, what producers charge for goods, rose 5%, the fastest since mid-2022. A statistics official linked this to commodity prices and AI-related demand. Consumer prices rose only 0.9%[^2].",
+    "Chinese-made AI chips are also taking more of the home market. An IDC report seen by Reuters says Nvidia's share of China's data-centre AI chip market fell to 34% in the first half of 2026, with its shipments down 44%. Huawei's share rose to 28%[^3][^4]. US export rules limit which chips Nvidia can sell in China, and Beijing requires Chinese companies to get approval before importing them[^3].",
+    "Spending at home looks weaker. Domestic car sales fell 27% in September while car exports rose 64%. AP links the drop to weaker consumer confidence and smaller government subsidies[^5]. During the Golden Week holiday, Reuters calculations show domestic spending per trip fell to its lowest level since 2022, and cinema ticket sales were the weakest since 2014, though more people travelled abroad[^6]. One analyst says the main problem is worry about income and jobs, not an unwillingness to spend[^6]. My read: factories and exports are running fast while households are holding back.",
+    "For millions of delivery riders, couriers and ride-hailing drivers, the labour ministry has released China's first nationwide draft rules for gig workers[^7][^8]. Where a platform controls the work, workers would get labour contracts. Net pay could not fall below the local minimum wage, and a person would have to review any decision by an app's algorithm to suspend or ban a worker's account[^7][^8]. Public comments are open until November 8[^8]."
   ],
   "differences": null,
-  "reads": [
-    { "title": "How China's EV industry overtook the world", "outlet": "Rest of World", "url": "https://restofworld.org/series/china/", "kind": "analysis", "summary": "Reporting on how Chinese carmakers moved so quickly, and what daily life looks like in cities where most new cars are electric." }
-  ],
+  "reads": [],
   "sources": [
-    { "id": 1, "outlet": "Caixin Global", "title": "Holiday travel up, spending per trip flat", "url": "https://www.caixinglobal.com/", "date": "2026-10-09", "singleSource": false },
-    { "id": 2, "outlet": "South China Morning Post", "title": "Carmakers race to add AI assistants", "url": "https://www.scmp.com/tech", "date": "2026-10-08", "singleSource": false },
-    { "id": 3, "outlet": "Sixth Tone", "title": "Young people and the all-knowing app", "url": "https://www.sixthtone.com/", "date": "2026-10-07", "singleSource": true }
+    {
+      "id": 1,
+      "outlet": "Reuters (via Yahoo Finance)",
+      "title": "China's September exports soar, putting $1 trillion trade surplus in sight",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-exports-surge-36-3-024110661.html",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
+      "id": 2,
+      "outlet": "South China Morning Post",
+      "title": "Growth in China's factory-gate prices accelerates, but consumer inflation subdued",
+      "url": "https://www.scmp.com/economy/china-economy/article/3370796/growth-chinas-factory-gate-prices-accelerates-consumer-inflation-subdued",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
+      "id": 3,
+      "outlet": "Reuters (via The Edge Malaysia)",
+      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+      "url": "https://theedgemalaysia.com/node/821602",
+      "date": "2026-10-13",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "TechNode",
+      "title": "Nvidia's China AI-chip share falls to 34% as Huawei reaches 28%",
+      "url": "https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "AP (via ABC News)",
+      "title": "Chinese carmakers increasingly rely on overseas markets as September exports surge",
+      "url": "https://abcnews.com/International/wireStory/chinese-carmakers-increasingly-rely-overseas-markets-september-exports-137187155",
+      "date": "2026-10-12",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Reuters (via AsiaOne)",
+      "title": "China Golden Week spending per trip hits four-year low amid overseas travel jump",
+      "url": "https://www.asiaone.com/china/china-golden-week-spending-trip-hits-four-year-low-amid-overseas-travel-jump",
+      "date": "2026-10-09",
+      "singleSource": true
+    },
+    {
+      "id": 7,
+      "outlet": "Sixth Tone",
+      "title": "China Drafts Landmark Gig Worker Labor Rights Rules",
+      "url": "https://www.sixthtone.com/news/1019108/china-drafts-landmark-gig-worker-labor-rights-rules",
+      "date": "2026-10-12",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Caixin Global",
+      "title": "China Unveils First Nationwide Labor Rules to Protect Gig Economy Workers",
+      "url": "https://www.caixinglobal.com/2026-10-09/china-unveils-first-nationwide-labor-rules-to-protect-gig-economy-workers-102491464.html",
+      "date": "2026-10-09",
+      "singleSource": false
+    }
   ]
 }

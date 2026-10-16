@@ -1,30 +1,133 @@
 {
-  "sample": true,
-  "updated": "2026-10-01",
-  "topic": "Is our generation more worried about climate change, and why?",
-  "intro": "Many young people say climate change makes them anxious about the future. This month looks at how widespread that feeling is, where it comes from, and how to tell solid evidence from claims that just sound true.",
+  "updated": "2026-10-15",
+  "topic": "How many young people believe conspiracy theories about Jews online, and why do some fall for them?",
+  "intro": "New polls show that agreement with antisemitic ideas (prejudice against Jews) is higher among young adults than older ones, and higher among people who get news mainly from social media. They also show that most young people reject these ideas, and many are simply unsure. This page looks at what the numbers say, the possible reasons, and how to tell criticism of a government's policies apart from conspiracy thinking about a whole people. Most data is American; one Canadian survey is included.",
   "data": [
-    { "stat": "59% of 16-25 year olds are very or extremely worried about climate change.", "detail": "Survey of 10,000 young people in 10 countries, including Canada, published in 2021.", "source": 1 },
-    { "stat": "75% say the future is frightening.", "detail": "Same survey. Higher in countries already facing climate damage, such as the Philippines and India.", "source": 1 },
-    { "stat": "More than 45% say their feelings about climate affect their daily life.", "detail": "Including eating, sleeping, studying and having fun.", "source": 1 },
-    { "stat": "2024 was the first calendar year more than 1.5°C above pre-industrial temperatures.", "detail": "The worry is tied to a real, measured trend, not only to how news is reported.", "source": 2 },
-    { "stat": "Nearly half of US teens say they are online almost constantly.", "detail": "Up from about a quarter in 2014-15. Much climate news reaches young people through social apps.", "source": 3 }
+    {
+      "stat": "In a Yale Youth Poll of US voters (March 2026), 67% agreed with none of three antisemitic statements; 10% of 18-34s agreed with all three, versus 2% of those 65+.",
+      "detail": "The statements: Jews are more loyal to Israel than to the US, boycotting Jewish American-owned businesses is appropriate, and Jews have 'too much power.' 3,429 registered voters, 2,008 of them under 35; margin of error ±2.0 points for the youth sample. In Yale's fall 2025 wave, 57% of 18-22s and 60% of 23-29s disagreed with all three.",
+      "source": 1
+    },
+    {
+      "stat": "29% of US voters aged 18-34 agreed that Jews have an 'extremely organized international community' that puts its own interests first, versus 17% of those 65+.",
+      "detail": "Across all ages, 25% agreed, 32% disagreed and 43% neither agreed nor disagreed, so the largest group was undecided rather than convinced. A separate 'great replacement'-style statement about Jews and immigration got 9% agreement and 57% disagreement overall.",
+      "source": 1
+    },
+    {
+      "stat": "In a Leger survey for the Association of Canadian Studies (May 2024), 18% of Canadians aged 18-24 agreed 'the Holocaust was exaggerated', up from 16% in February 2024.",
+      "detail": "For ages 25-34 it was 15% (up from 8%). Put the other way, more than 8 in 10 young Canadians did not agree. Online panel of 1,519 people, so no margin of error. A January 2025 survey found 22% of Canadians under 25 named online sources as their main source on the Holocaust. Seen only via a Canadian Press report.",
+      "source": 7
+    },
+    {
+      "stat": "43% of Americans under 30 regularly get news on TikTok, up from 9% in 2020, Pew found in August 2025.",
+      "detail": "Pew surveyed 5,153 US adults, Aug. 18-24, 2025. In the Yale spring 2026 poll, voters who got news on TikTok (41%), Reddit (39%), Instagram (39%) and X (38%) were the most likely to agree with at least one antisemitic statement; TV, newspaper and news-website users were the least likely.",
+      "source": 4
+    },
+    {
+      "stat": "In a 2023 Gallup and Walton Family Foundation survey of Americans aged 12-26, 71% trusted science, but only 16% trusted the news and 19% trusted information on the internet.",
+      "detail": "Trust here means 'a great deal' or 'quite a lot.' Other figures: Congress 12%, the presidency 14%, large tech companies 17%. Sample of 3,114 people aged 12 to 26, surveyed April 24 to May 8, 2023. This is older data, but it is the most recent from this survey series that we opened.",
+      "source": 5
+    },
+    {
+      "stat": "60% of US adults viewed Israel unfavourably in March 2026, up from 53% in 2025; 57% of Republicans aged 18-49 did, up from 50%.",
+      "detail": "Pew surveyed 3,507 adults, March 23-29, 2026. The question asks about Israel as a country, not about Jewish people, and Pew does not separate views of Israel's government from its people. A negative view of a country's policies is a political opinion, not by itself a sign of antisemitism.",
+      "source": 6
+    }
   ],
   "why": [
-    { "claim": "Young people feel adults and governments are not acting.", "evidence": "measured", "detail": "In the same 2021 survey, most respondents said governments were failing young people, and that feeling was linked to higher distress." },
-    { "claim": "Social media spreads the most alarming climate content.", "evidence": "plausible", "detail": "Emotional posts tend to travel further online, but there is little direct research on climate content for teens specifically." },
-    { "claim": "Climate anxiety is a sign of a mental health problem.", "evidence": "contested", "detail": "Many researchers describe it as a reasonable response to a real threat, not a disorder; others warn it can become harmful when it stops people from acting." },
-    { "claim": "Learning about solutions reduces anxiety.", "evidence": "plausible", "detail": "Small studies suggest that taking action and seeing progress helps, but larger, longer studies are needed." }
+    {
+      "claim": "Young people who get news mostly from social media are more likely to agree with antisemitic statements.",
+      "evidence": "measured",
+      "detail": "The Yale poll found the highest agreement among TikTok, Reddit, Instagram and X news users, and the lowest among TV and newspaper readers.[^1] The Algemeiner reported a gap of 10 to 15 points on items about Jewish power or loyalty.[^2] This is a link, not proof of cause: people with these views may also prefer certain apps."
+    },
+    {
+      "claim": "Feeds built for engagement can show short, emotional conspiracy content to people who never searched for it.",
+      "evidence": "plausible",
+      "detail": "Under-30s now rely heavily on TikTok for news.[^4] It is a reasonable guess that a fast, personalized feed spreads simple 'hidden group' explanations more easily than slower news formats. But the sources here do not measure algorithms directly. This is a judgment, not a finding."
+    },
+    {
+      "claim": "Low trust in news and institutions may make 'secret group' explanations feel believable.",
+      "evidence": "plausible",
+      "detail": "Few young Americans trust the news (16%) or internet information (19%), while most trust science (71%).[^5] Distrust could push some people toward explanations that blame a hidden group. The survey measured trust, not conspiracy belief, so the connection is an inference."
+    },
+    {
+      "claim": "Anger over the Gaza war is turning criticism of Israel's government into hostility toward Jews in general.",
+      "evidence": "contested",
+      "detail": "Negative views of Israel are rising, especially among younger adults.[^6] The Yale researchers found that both criticism of Israel and antisemitic views are more common among young voters, but say their poll cannot show which causes which. They note that many critics of Israel are not antisemitic.[^3] Criticizing a government's actions is different from blaming Jewish people as a group."
+    },
+    {
+      "claim": "Many young people are unsure rather than committed believers.",
+      "evidence": "measured",
+      "detail": "On the 'organized international community' statement, 43% of voters neither agreed nor disagreed, more than either side.[^1] A large undecided group suggests many people have not thought these claims through, which also means facts and education may still change minds. That last part is my read."
+    },
+    {
+      "claim": "Learning about the Holocaust mainly online may leave gaps that denial content can fill.",
+      "evidence": "plausible",
+      "detail": "Canadians under 25 were the most likely age group to name online sources as their main source on the Holocaust (22%), and young Canadians were the most likely to say it was exaggerated.[^7] Both trends appear together, but the survey does not show that one causes the other."
+    }
   ],
   "test": [
-    "Who was surveyed, how many people, and where?",
-    "Does the claim describe what people feel, or what is actually happening?",
-    "Would this claim still sound true if it came from someone you usually disagree with?",
-    "Is there a source you can open and check yourself?"
+    "Does the claim blame a whole group of people (all Jews) for the actions of a government, a company or a few individuals?",
+    "Who made the claim, and can you find the same fact in a named poll, court record or established news outlet, not just in a video or a post?",
+    "Is there any evidence that could prove the claim wrong, or does every piece of counter-evidence get explained away as part of the plot?",
+    "If a poll is quoted, what exactly was asked, of whom, and how many people said no or 'not sure'?"
   ],
   "sources": [
-    { "id": 1, "outlet": "The Lancet Planetary Health", "title": "Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey", "url": "https://doi.org/10.1016/S2542-5196(21)00278-3", "date": "2021-12-01", "singleSource": false },
-    { "id": 2, "outlet": "Copernicus", "title": "Global Climate Highlights 2024", "url": "https://climate.copernicus.eu/global-climate-highlights-2024", "date": "2025-01-10", "singleSource": false },
-    { "id": 3, "outlet": "Pew Research Center", "title": "Teens, Social Media and Technology 2024", "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/", "date": "2024-12-12", "singleSource": false }
+    {
+      "id": 1,
+      "outlet": "Yale Youth Poll",
+      "title": "Spring 2026 Results: Young Voters Vehemently Oppose Trump, ICE; See Big Risks and Some Benefits to AI",
+      "url": "https://youthpoll.yale.edu/spring-2026-results",
+      "date": "2026-04-15",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "The Algemeiner",
+      "title": "Antisemitic Beliefs More Common Among Young Social Media Users, Yale Poll Shows",
+      "url": "https://www.algemeiner.com/2026/04/15/antisemitic-beliefs-more-common-among-young-social-media-users-yale-poll-shows/",
+      "date": "2026-04-15",
+      "singleSource": true
+    },
+    {
+      "id": 3,
+      "outlet": "Yale Youth Poll (Substack)",
+      "title": "We polled young Americans on antisemitism and Israel-Palestine. Here's what we found",
+      "url": "https://yalepolling.substack.com/p/we-polled-young-americans-on-antisemitism",
+      "date": "2025-12-08",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Pew Research Center",
+      "title": "1 in 5 Americans now regularly get news on TikTok, up sharply from 2020",
+      "url": "https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/",
+      "date": "2025-09-25",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Gallup",
+      "title": "Gen Z Voices Lackluster Trust in Major U.S. Institutions",
+      "url": "https://news.gallup.com/opinion/gallup/510395/gen-voices-lackluster-trust-major-institutions.aspx",
+      "date": "2023-09-14",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Pew Research Center",
+      "title": "Negative views of Israel, Netanyahu continue to rise among Americans – especially young people",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/07/negative-views-of-israel-netanyahu-continue-to-rise-among-americans-especially-young-people/",
+      "date": "2026-04-07",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Survey says more young Canadians believe the history of the Holocaust is exaggerated",
+      "url": "https://www.cp24.com/news/canada/2025/01/26/survey-says-more-young-canadians-believe-the-history-of-the-holocaust-is-exaggerated/",
+      "date": "2025-01-26",
+      "singleSource": true
+    }
   ]
 }
