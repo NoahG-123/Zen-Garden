@@ -394,11 +394,11 @@ function renderWorld(d, cleanup, eventsData) {
       h("h2", { class: "label", id: "w-h" }, "This week’s read"), readBlock(d.weeklyRead)) : null,
     sourcesPanel(d.sources));
 
-  view.append(
+  view.append(...[
     compact ? null : index,
     hero(longDate(d.date), d.summary, sources),
     h("section", { class: "panel topics", "aria-label": "Topics" }, topicEls),
-    rail);
+    rail].filter(Boolean));
 
   // scroll-spy: the last topic whose top has passed the bar
   let raf = 0;
@@ -720,3 +720,8 @@ compactMQ.addEventListener("change", () => show(currentTab(), { scroll: false })
   // warm the other tabs quietly so switching is instant
   TABS.forEach((t) => loadFile(t));
 })();
+
+/* offline copy: keeps the last brief readable with no signal */
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
