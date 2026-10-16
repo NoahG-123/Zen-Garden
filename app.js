@@ -5,7 +5,7 @@
 const DATA_BASE_URL = "./data/";
 
 const TZ = "America/Toronto";
-const STALE_HOURS = 36;
+const STALE_HOURS = 26;
 const TABS = ["world", "events", "canada", "china", "generation"];
 const FILE_FOR = { world: "world.json", events: "events.json", canada: "canada.json", china: "china.json", generation: "generation.json" };
 /* Design check: ?stress=short or ?stress=long swaps World and Events for the stress fixtures in data/stress/. */
@@ -212,6 +212,61 @@ function runCard() {
     h("ul", { class: "run-list" }, issues.map((x) => h("li", null, x))));
 }
 
+/* Phone and tablet (single column) layout. Desktop is 1024px and up. */
+const compactMQ = window.matchMedia("(max-width: 1023px)");
+const isCompact = () => compactMQ.matches;
+
+/* ---------------- run-status chip (top bar, phone and desktop) ---------------- */
+function runState() {
+  const run = index && index.run;
+  const finished = run ? new Date(str(run.finished)) : null;
+  if (!run || !finished || isNaN(finished)) return { kind: "none", text: "Not updated yet", finished: null, issues: [] };
+  const issues = arr(run.issues).map(str).filter((x) => x.trim());
+  const fresh = dayKey(finished) === dayKey(new Date()) && Date.now() - finished.getTime() <= STALE_HOURS * 3600 * 1000;
+  if (!fresh) return { kind: "old", text: "No update today", finished, issues };
+  const n = issues.length;
+  return { kind: n ? "issues" : "ok", text: n ? `Updated ${clock(finished)} · ${n === 1 ? "1 issue" : `${n} issues`}` : `Updated ${clock(finished)}`, finished, issues };
+}
+let runPanelClose = null;
+function renderRunChip() {
+  const host = document.getElementById("run");
+  if (!host) return;
+  if (runPanelClose) runPanelClose();
+  const s = runState();
+  const fullWhen = s.finished ? `${fmt(s.finished, { weekday: "short", month: "short", day: "numeric", timeZone: TZ })}, ${clock(s.finished)}` : "";
+  const panelId = "run-panel";
+  const chip = h("button", { type: "button", class: "run-chip", "data-k": s.kind, "aria-expanded": "false", "aria-controls": panelId },
+    s.kind !== "none" ? h("span", { class: "dot", "aria-hidden": "true" }) : null,
+    h("span", null, s.text));
+  const lines = [];
+  if (s.kind === "none") lines.push(h("p", { class: "run-line" }, "No run has been recorded yet."));
+  else {
+    if (s.kind === "old") lines.push(h("p", { class: "run-line" }, "No update has run today."));
+    lines.push(h("p", { class: "run-when" }, h("span", { class: "label" }, s.kind === "old" ? "Last run finished" : "Finished"), h("span", null, fullWhen)));
+    if (s.issues.length) lines.push(h("ul", { class: "run-list" }, s.issues.map((t) => h("li", null, t))));
+    else if (s.kind !== "old") lines.push(h("p", { class: "run-line ok" }, "Run successful"));
+  }
+  const panel = h("div", { class: "run-panel", id: panelId, role: "region", "aria-label": "Daily run", hidden: true },
+    h("p", { class: "label" }, "Today’s run"), lines);
+  const close = (focusChip) => {
+    if (panel.hidden) return;
+    panel.hidden = true; chip.setAttribute("aria-expanded", "false");
+    document.removeEventListener("pointerdown", outside, true);
+    document.removeEventListener("keydown", onKey);
+    if (focusChip) chip.focus();
+  };
+  const outside = (e) => { if (!host.contains(e.target)) close(false); };
+  const onKey = (e) => { if (e.key === "Escape") close(true); };
+  chip.addEventListener("click", () => {
+    if (!panel.hidden) { close(false); return; }
+    panel.hidden = false; chip.setAttribute("aria-expanded", "true");
+    document.addEventListener("pointerdown", outside, true);
+    document.addEventListener("keydown", onKey);
+  });
+  runPanelClose = () => close(false);
+  host.replaceChildren(chip, panel);
+}
+
 const scrollOpts = () => ({ behavior: reduceMotion.matches ? "auto" : "smooth", block: "start" });
 
 /* ---------------- WORLD ---------------- */
@@ -256,7 +311,60 @@ function renderWorld(d, cleanup, eventsData) {
       return h("li", null, b);
     })));
 
-  const topicEls = topics.map((t) => {
+  const compact = isCompact();
+  const rowControls = [];
+  const topicEls = topics.map((t) => compact ? compactTopic(t) : desktopTopic(t));
+
+  /* Phone/tablet: collapsed row = headline, status pill, chevron. One row open at a time. */
+  function compactTopic(t) {
+    const row = h("button", { type: "button", class: "m-row" },
+      h("span", { class: "m-t" }, str(t.heading)),
+      t.status ? tag(t.status) : null,
+      chevron());
+    const article = h("div", { class: "article reading" },
+      arr(t.article).map((p) => h("p", null, rich(p, sources))),
+      differs(t.differences, sources));
+    let more = null;
+    if (arr(t.article).length || str(t.differences).trim()) {
+      const moreLabel = h("span", { class: "mono" }, "Read more");
+      const moreBtn = h("button", { type: "button", class: "m-more" }, moreLabel, chevron());
+      const artRegion = discRegion(article);
+      disclosure(moreBtn, artRegion, (open) => { moreLabel.textContent = open ? "Close" : "Read more"; });
+      more = [moreBtn, artRegion];
+    }
+    const body = h("div", { class: "m-body" },
+      t.date || partOfChip(t) ? h("div", { class: "topic-meta" }, t.date ? h("span", { class: "mono" }, shortDate(t.date)) : null, partOfChip(t)) : null,
+      t.summary ? h("p", { class: "summary" }, rich(t.summary, sources)) : null,
+      leadRow(t.lead), alsoRow(t.alsoReported), more);
+    const region = discRegion(body);
+    const el = h("article", { class: "topic m", id: `t-${t.id}` }, h("h2", null, row), region);
+    const ctl = disclosure(row, region, (open) => {
+      if (!open) return;
+      let closedAbove = false;
+      rowControls.forEach((c) => {
+        if (c.ctl !== ctl && c.ctl.open) {
+          if (c.el.compareDocumentPosition(el) & Node.DOCUMENT_POSITION_FOLLOWING) closedAbove = true;
+          c.ctl.set(false);
+        }
+      });
+      // wait for a row above to finish collapsing, then bring this row's top into view
+      const delay = reduceMotion.matches ? 0 : (closedAbove ? 340 : 30);
+      setTimeout(() => {
+        const top = el.getBoundingClientRect().top;
+        const bar = document.querySelector(".topbar")?.getBoundingClientRect().bottom || 0;
+        if (top < bar + 4 || top > window.innerHeight * 0.45) glide(window.scrollY + top - bar - 12);
+      }, delay);
+    });
+    rowControls.push({ ctl, el });
+    return el;
+  }
+  function partOfChip(t) {
+    return t.eventId && eventTitles.has(t.eventId) ? h("button", { type: "button", class: "chip part-of",
+      onclick: () => { pendingEvent = t.eventId; if (location.hash === "#events") show("events"); else location.hash = "#events"; } },
+      h("span", { class: "mono" }, "Part of:"), eventTitles.get(t.eventId)) : null;
+  }
+
+  function desktopTopic(t) {
     const moreLabel = h("span", { class: "mono" }, "Read more");
     const btn = h("button", { type: "button", class: "topic-toggle" },
       h("span", { class: "t" }, h("span", null, str(t.heading)), t.status ? tag(t.status) : null),
@@ -266,19 +374,17 @@ function renderWorld(d, cleanup, eventsData) {
       differs(t.differences, sources));
     const region = discRegion(article);
     disclosure(btn, region, (open) => { moreLabel.textContent = open ? "Close" : "Read more"; });
-    const partOf = t.eventId && eventTitles.has(t.eventId) ? h("button", { type: "button", class: "chip part-of",
-      onclick: () => { pendingEvent = t.eventId; if (location.hash === "#events") show("events"); else location.hash = "#events"; } },
-      h("span", { class: "mono" }, "Part of:"), eventTitles.get(t.eventId)) : null;
+    const partOf = partOfChip(t);
     return h("article", { class: "topic", id: `t-${t.id}` },
       h("h2", null, btn),
       t.date || partOf ? h("div", { class: "topic-meta" }, t.date ? h("span", { class: "mono" }, shortDate(t.date)) : null, partOf) : null,
       t.summary ? h("p", { class: "summary" }, rich(t.summary, sources)) : null,
       leadRow(t.lead), alsoRow(t.alsoReported),
       region);
-  });
+  }
 
   const rail = h("aside", { class: "rail", "aria-label": "Run status, reading and sources" },
-    runCard(),
+    compact ? null : runCard(),
     d.question && str(d.question.text).trim() ? h("section", { class: "panel card", "aria-labelledby": "q-h" },
       h("div", { class: "section-head" }, h("h2", { class: "label", id: "q-h" }, "Think about this"), d.question.type ? tag(d.question.type, true) : null),
       h("p", { class: "q" }, rich(d.question.text, sources))) : null,
@@ -289,7 +395,7 @@ function renderWorld(d, cleanup, eventsData) {
     sourcesPanel(d.sources));
 
   view.append(
-    index,
+    compact ? null : index,
     hero(longDate(d.date), d.summary, sources),
     h("section", { class: "panel topics", "aria-label": "Topics" }, topicEls),
     rail);
@@ -429,12 +535,17 @@ function historyReader(e, sources, pfx) {
     h("span", { class: "ch" }, str(c.heading)),
     c.period ? h("span", { class: "cp" }, str(c.period)) : null));
   const pane = h("div", { class: "chapter", "aria-live": "polite" });
-  const reader = h("div", { class: "reader" }, h("nav", { "aria-label": "Chapters" }, h("ol", { class: "chapters" }, buttons.map((b) => h("li", null, b)))), pane);
+  const pickId = nextId("pick");
+  const picker = h("select", { id: pickId, onchange: () => go(+picker.value, false) },
+    chapters.map((c, i) => h("option", { value: String(i) }, `${String(i + 1).padStart(2, "0")} · ${str(c.heading)}${c.period ? ` (${str(c.period)})` : ""}`)));
+  const pick = h("div", { class: "chapter-pick" }, h("label", { class: "label", for: pickId }, "Chapter"), picker);
+  const reader = h("div", { class: "reader" }, pick, h("nav", { "aria-label": "Chapters" }, h("ol", { class: "chapters" }, buttons.map((b) => h("li", null, b)))), pane);
 
   function go(i, focusHeading) {
     idx = Math.max(0, Math.min(chapters.length - 1, i));
     const c = chapters[idx];
     buttons.forEach((b, j) => b.setAttribute("aria-current", String(j === idx)));
+    picker.value = String(idx);
     const heading = h("h4", { tabindex: "-1" }, str(c.heading));
     const prev = chapters[idx - 1], next = chapters[idx + 1];
     pane.replaceChildren(
@@ -550,15 +661,12 @@ function loadFile(tab) {
 }
 
 function renderUpdated() {
-  const el = document.getElementById("updated");
+  renderRunChip();
   const foot = document.getElementById("footer-updated");
   const d = index && index.updated ? new Date(index.updated) : null;
-  if (!d || isNaN(d)) { el.textContent = "Not updated yet"; foot.textContent = "Not updated yet"; return; }
+  if (!d || isNaN(d)) { foot.textContent = "Not updated yet"; return; }
   const today = dayKey(d) === dayKey(new Date());
   const when = today ? clock(d) : `${fmt(d, { month: "short", day: "numeric", timeZone: TZ })}, ${clock(d)}`;
-  const stale = Date.now() - d.getTime() > STALE_HOURS * 3600 * 1000;
-  el.replaceChildren(`Updated ${when}`);
-  if (stale) el.append(h("span", { class: "stale" }, " · may be out of date"));
   foot.textContent = `Updated ${when}`;
 }
 
@@ -575,7 +683,7 @@ function currentTab() {
 async function show(tab, { scroll = true } = {}) {
   const token = ++renderToken;
   cleanup.forEach((fn) => fn()); cleanup = [];
-  document.querySelectorAll("#tabs a").forEach((a) => {
+  document.querySelectorAll("#tabs a, .tabbar a").forEach((a) => {
     if (a.dataset.tab === tab) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
   });
   document.title = `${document.querySelector(`#tabs a[data-tab="${tab}"]`).textContent} · Zen Garden`;
@@ -604,6 +712,7 @@ async function show(tab, { scroll = true } = {}) {
 
 /* ---------------- boot ---------------- */
 window.addEventListener("hashchange", () => show(currentTab()));
+compactMQ.addEventListener("change", () => show(currentTab(), { scroll: false }));
 (async () => {
   main.replaceChildren(skeleton(currentTab()));
   await loadIndex();

@@ -23,6 +23,6 @@ A small problem never stops the day. The checker reports three kinds of findings
 Everything else still publishes. You can run the same command yourself at any time.
 
 ## Things you may want to do
-- **Pause the schedule:** turn the scheduled task off in Claude's settings. The site keeps showing the last brief and, after 36 hours, adds "may be out of date".
+- **Pause the schedule:** turn the scheduled task off in Claude's settings. The site keeps showing the last brief, and the run chip in the top bar switches to "No update today" once the last run is not from today (or is more than 26 hours old).
 - **Fix a mistake by hand:** edit the JSON on GitHub and commit. Keep the shape the same and run the checker if you can.
 - **See the exact task prompt:** `docs/DAILY_TASK_PROMPT.md`.

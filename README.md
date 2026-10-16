@@ -34,15 +34,15 @@ All at the top of `app.js`:
 | Constant | Default | Meaning |
 |---|---|---|
 | `DATA_BASE_URL` | `./data/` | Where the JSON lives. Point it at any folder or URL that serves the files, keeping the trailing slash. |
-| `TZ` | `America/Toronto` | Time zone used for the "Updated …" label. |
-| `STALE_HOURS` | `36` | After this many hours the top bar adds "· may be out of date". |
+| `TZ` | `America/Toronto` | Time zone used for "today" and every time shown. |
+| `STALE_HOURS` | `26` | A run older than this (or not from today) makes the run chip say **No update today**. |
 
 ## How loading works
 
 1. `index.json` is fetched with `?t=<now>` and `cache: no-store`, so it is never cached.
 2. Each tab file is fetched with `?v=<index.updated>`. When the daily update writes a new `updated` value, every browser gets the new files; until then they stay cached.
 3. A tab shows a quiet skeleton while loading. If its file is not listed in `index.files`, returns an error, or is not valid JSON, the tab shows **Not updated yet**.
-4. If `updated` is more than `STALE_HOURS` old, the top bar adds **· may be out of date**.
+4. The run-status chip in the top bar is built from `index.json` alone (see below), so it is always current.
 5. If the current tab's file has `"sample": true`, the top bar shows **Sample data**. Set it to `false` (or remove it) in real files.
 6. After the first tab renders, the other tabs are fetched quietly so switching is instant.
 
@@ -74,6 +74,40 @@ The morning task also writes a `run` object, shown as the **Today's run** card a
 | no `run` object | **No run has been recorded yet.** |
 
 `issues` lists only problems that changed what you see (a dropped topic, a file kept from yesterday, a tab left out). Style notes and warnings are not listed. Because `index.json` is never cached, the card is always current, even when a tab's own file is from an earlier day.
+
+## Run-status chip
+
+One component, in the top bar on every screen size. It reads only the `run` record in `index.json` (which is never cached). On desktop it replaces the old "Updated …" text; the **Today's run** card in the World sidebar stays on desktop and is hidden on phone and tablet.
+
+| `run` record | Chip text |
+|---|---|
+| `finished` is today (America/Toronto), `issues` empty | ● **Updated 5:39 am** |
+| `finished` is today, `issues` not empty | ● **Updated 5:39 am · 2 issues** |
+| `finished` not today, or more than 26 hours old | ● **No update today** |
+| no `run` record | **Not updated yet** |
+
+The dot is green, amber or red, but the text always carries the meaning. Tapping the chip opens a small panel with the finish time and the list of issues (or **Run successful**). It closes on a tap outside or Esc.
+
+## Phone and tablet layout
+
+The same `index.html`, `app.js`, `styles.css` and JSON serve every device. Layout lives in CSS media queries; the few behaviour differences use `window.matchMedia("(max-width: 1023px)")` in `app.js`, and the page re-renders if the window crosses that line.
+
+| Width | Layout |
+|---|---|
+| 1024 px and up | Desktop, unchanged. |
+| 701–1023 px | The phone layout in one centred column (up to 720 px of content), with wider margins. Covers tablets and e-readers. |
+| 360–700 px | Phone. Designed at 412 × 915 (Pixel 7). 20 px side margins. |
+
+On phone and tablet:
+
+- **Frame.** `viewport-fit=cover` with safe-area padding. A slim top bar holds the wordmark and the run chip. The desktop tabs are replaced by a fixed **bottom tab bar** (World, Events, Canada, China, Gen): 12 px labels, 56 px tall targets, current tab bold with a short underline. The page is padded so nothing sits under the bar. No full-screen wallpaper; the background is a plain soft grey-blue.
+- **World.** The header (date and summary) sits over a soft strip of `light.jpg`, cropped to the mountains and fading into the page; the text sits above the strip, not on it. Event rows show **only** the headline in bold, the status pill and a chevron. Headlines wrap to as many lines as they need, rows are at least 56 px tall, and faint hairlines separate them. Tapping a row expands it in place (chevron rotates) to show the date, summary, Source article, Also reported by, the Part of chip and a **Read more** button for the full article. Only one row is open at a time, and the opened row's top is scrolled into view. Below the rows: Think about this, Today's read, This week's read (when present), then Sources. The sticky topic index is not shown.
+- **Events.** Rows work as on desktop, with the status and "Added" date under the title. Inside an event, each fact's label sits above its text. Connects-to chips and notes work unchanged. The history reader becomes a chapter stepper: a chapter picker at the top, one chapter's text, Previous and Next, and "Chapter 3 of 7".
+- **Canada, China, Generation.** One column; Further reading and Sources at the bottom.
+- **Sources** sit at the bottom of every tab in the same compact scrollable box. There are no hover tooltips on touch screens; tapping a citation scrolls to its source and highlights it.
+- **Type.** Body 16.5–17 px with line height about 1.6.
+
+No data fields were added, renamed or removed for the phone layout.
 
 ## Navigation
 
@@ -180,7 +214,7 @@ Each topic is ONE specific event from roughly the last 48 hours, not a general t
 
 - **Loading:** a skeleton that matches the tab's layout.
 - **File missing or invalid:** "Not updated yet" panel.
-- **Stale:** a "· may be out of date" note in the top bar.
+- **Stale:** the run chip says **No update today** when the last run is not from today or is more than 26 hours old.
 - **Sample data:** a "Sample data" flag in the top bar.
 - **Empty fields:** the section disappears; nothing shows a blank placeholder.
 - **Stress tests:** shortest and longest content for World and Events, in `data/stress/`.

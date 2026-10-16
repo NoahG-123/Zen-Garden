@@ -2,10 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Zen Garden</title>
   <meta name="description" content="A calm daily read on the world you live in now, and where it is heading.">
   <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#eef2f6">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
@@ -29,13 +33,21 @@
       </nav>
       <div class="meta">
         <span class="mono" id="sample-flag" hidden>Sample data</span>
-        <span class="mono" id="updated" aria-live="polite"></span>
+        <div class="run" id="run"></div>
       </div>
     </div>
   </header>
 
   <main id="main" tabindex="-1"></main>
   <footer><span class="mono" id="footer-updated"></span></footer>
+
+  <nav class="tabbar" aria-label="Sections">
+    <a href="#world" data-tab="world">World</a>
+    <a href="#events" data-tab="events">Events</a>
+    <a href="#canada" data-tab="canada">Canada</a>
+    <a href="#china" data-tab="china">China</a>
+    <a href="#generation" data-tab="generation">Gen</a>
+  </nav>
 
   <script src="app.js"></script>
 </body>
