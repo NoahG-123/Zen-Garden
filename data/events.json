@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-15",
+  "reviewed": "2026-10-16",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Fighting between the US and Iran is in a lull, but attacks on ships near Hormuz have surged since late September, and oil flows dropped sharply again in October [^1]. A Singapore-flagged container ship sank on Oct 13 after being hit [^3]. Brent oil was about $106 a barrel on Oct 14 [^1]. Talks are stalled [^1]. Netanyahu says he is not seeking a new strike on Iran before Israel's Oct 27 election [^2].",
+      "standing": "US-Iran fighting is in a lull, but ship attacks near Hormuz are at their highest since the war began; two Iranian officials told Reuters Iran shifted tactics to keep oil prices high before the US vote [^22]. A Singapore-flagged container ship sank on Oct 13 [^3]. Brent was about $106 on Oct 14 [^1]. The Houthis hit Aramco's head office and Riyadh's airport as Yemen's war spreads into Saudi Arabia [^21]. Talks are stalled [^1].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -114,7 +114,9 @@
         1,
         2,
         3,
-        4
+        4,
+        21,
+        22
       ]
     },
     {
@@ -477,7 +479,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC, which makes most advanced AI chips, posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF says AI investment is helping prop up world growth but warns a sharp pullback could knock 1.1% off global output by 2028 [^17]. In China, Nvidia's AI-chip share fell to 34% as Huawei gained [^18]. After OpenAI test agents breached Hugging Face in July, Washington is debating safety rules, and whether to override state laws [^20].",
+      "standing": "Spending is still climbing: TSMC posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF says AI investment props up world growth but a sharp pullback could cut 1.1% from global output by 2028 [^17]. Nvidia's China AI-chip share fell to 34% [^18]. Safety fights are moving to courts: eight US states sued OpenAI on Oct 14 over ChatGPT's safety [^23], while Washington debates national rules [^20].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -605,7 +607,8 @@
         17,
         18,
         19,
-        20
+        20,
+        23
       ]
     }
   ],
@@ -774,6 +777,30 @@
       "title": "September 2026 US Tech Policy Roundup",
       "url": "https://www.techpolicy.press/september-2026-us-tech-policy-roundup/",
       "date": "2026-10-01",
+      "singleSource": false
+    },
+    {
+      "id": 21,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say",
+      "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say",
+      "date": "2026-10-14",
+      "singleSource": false
+    },
+    {
+      "id": 22,
+      "outlet": "Reuters (via GMA News)",
+      "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
+      "url": "https://gmanetwork.com/news/topstories/world/1005867/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials-say/story/",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
+      "id": 23,
+      "outlet": "Newcastle Herald (AAP)",
+      "title": "Eight US states sue OpenAI over ChatGPT harm to young",
+      "url": "https://www.newcastleherald.com.au/story/9368855/eight-us-states-sue-openai-over-chatgpt-harm-to-young/",
+      "date": "2026-10-15",
       "singleSource": false
     }
   ]

@@ -1,101 +1,78 @@
 {
-  "date": "2026-10-15",
-  "summary": "A fairly quiet day: Ford says Canada should plan for lasting U.S. tariffs, Poilievre pitches tariff-free autos in Detroit, and September inflation (Oct. 19) is next for the Bank of Canada.",
-  "body": [
-    "Canada–U.S. trade is still stuck. Formal talks have been paused since August, when Prime Minister Mark Carney called them off over what he called unreasonable U.S. demands. The U.S. charges 25% on Canadian cars, and Trump has threatened to double that on Jan. 1[^2]. On Wednesday, Ontario Premier Doug Ford told a Toronto audience that Canada should \"plan as if tariffs are here for good,\" even after Trump leaves office[^1]. A day earlier, Conservative Leader Pierre Poilievre was in Detroit meeting auto industry and union people to push for tariff-free car trade. He rejected the idea that the visit, a few weeks before the Nov. 3 U.S. midterms, interferes in U.S. politics[^2].",
-    "On the economy, the next big number is September inflation, due Monday, Oct. 19[^7]. In August, prices were up 3.0% from a year earlier. Gasoline was up about 23% and pushed the number up, while the core measures the Bank of Canada watches were near its 2% target[^5]. Jobs are weaker: Canada lost about 68,000 jobs in September, and unemployment rose to 6.5%[^4]. Young people aged 15 to 24 lost 48,000 jobs, and their unemployment rate stayed around 13%[^3]. The Bank's key rate is 2.25%, and its next decision is Oct. 28[^6][^11]. A small-business group (CFIB) expects growth to slow to 1.4% in the fourth quarter, and many of its members plan to raise prices[^8].",
-    "In Toronto, workers began removing the Bloor Street West bike lanes in Etobicoke under a provincial plan, and two protesters were arrested. Transportation Minister Prabmeet Sarkaria says \"these bike lanes are coming out\"[^9]. Toronto's municipal election is Monday, Oct. 26. More than 220,000 people voted in advance polls, the highest advance turnout since 1998[^10]."
-  ],
-  "differences": "Bike lanes: the Ontario government calls removing them traffic relief. Critics, including Mayor Olivia Chow, call it provincial overreach and a waste of money. An engineering report the province itself paid for found that congestion benefits would be small or short-lived, and that the lanes cut crashes by 35–50%. The city estimates removal at $48 million; the province disputes that figure but has not published its own. Mayoral challenger Brad Bradford supports removing the Etobicoke lanes[^9].",
-  "reads": [],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "Transport Topics (Bloomberg News)",
-      "title": "Ontario Premier Ford warns U.S. tariffs may outlast Trump",
-      "url": "https://www.ttnews.com/articles/ford-lasting-us-tariffs-trump",
-      "date": "2026-10-14",
-      "singleSource": true
-    },
-    {
-      "id": 2,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Poilievre visits Detroit to push for tariff-free trade for auto industry",
-      "url": "https://www.cp24.com/politics/2026/10/14/poilievre-visits-detroit-to-push-for-tariff-free-trade-for-auto-industry/",
-      "date": "2026-10-13",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "Global News",
-      "title": "Canada lost 68K jobs in September, Statistics Canada says",
-      "url": "https://globalnews.ca/news/12094093/canada-jobs-september-2026/",
-      "date": "2026-10-09",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "CTV News (The Canadian Press)",
-      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
-      "url": "https://www.ctvnews.ca/business/article/canada-sheds-68000-jobs-unemployment-rate-up-to-65-in-september/",
-      "date": "2026-10-09",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Babypips",
-      "title": "Canada Inflation Steady at 3% August 2026",
-      "url": "https://www.babypips.com/news/headline-canada-cpi-august-2026-inflation-gasoline-bank-canada-2026-09-14",
-      "date": "2026-09-14",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "The Rio Times",
-      "title": "Bank of Canada October 2026 Rate Decision After Job Losses",
-      "url": "https://www.riotimesonline.com/bank-of-canada-october-28-rate-decision-jobs-drop-2026",
-      "date": "2026-10-13",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "The Rio Times",
-      "title": "USA & Canada Intelligence Brief — Thursday, October 15, 2026",
-      "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-october-15-2026",
-      "date": "2026-10-15",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "CFIB via Cision Newswire",
-      "title": "Canada's GDP to grow at a slower pace through late 2026 amid trade uncertainty and high fuel costs",
-      "url": "https://www.newswire.ca/news-releases/canada-s-gdp-to-grow-at-a-slower-pace-through-late-2026-amid-trade-uncertainty-and-high-fuel-costs-826355066.html",
-      "date": "2026-10-15",
-      "singleSource": true
-    },
-    {
-      "id": 9,
-      "outlet": "CP24",
-      "title": "Arrests made at Toronto bike lane removal protest",
-      "url": "https://cp24.com/politics/queens-park/2026/10/15/arrests-made-at-toronto-bike-lane-removal-protest",
-      "date": "2026-10-15",
-      "singleSource": true
-    },
-    {
-      "id": 10,
-      "outlet": "CP24",
-      "title": "Toronto sees massive increase in advance voting with more than 200,000 people casting ballots",
-      "url": "https://www.cp24.com/local/toronto/2026/10/13/toronto-sees-massive-increase-in-advance-voting-with-more-than-200000-people-casting-ballots/",
-      "date": "2026-10-13",
-      "singleSource": false
-    },
-    {
-      "id": 11,
-      "outlet": "CTV News",
-      "title": "Bank of Canada holds key rate at 2.25% once again",
-      "url": "https://www.ctvnews.ca/business/article/bank-of-canada-holds-key-rate-at-225-once-again/",
-      "date": "2026-09-02",
-      "singleSource": false
-    }
-  ]
+    "date": "2026-10-16",
+    "summary": "Alberta votes Monday on whether to start a path toward leaving Canada, and Carney is rallying there. Health ministers say a one-year federal funding extension is not enough.",
+    "body": [
+        "The main Canadian story this week is in Alberta. On Monday, Oct. 19, Albertans vote on 10 referendum questions. Question 10 asks whether Alberta should stay a province of Canada or whether the provincial government should start the legal process toward a binding vote on separating [^3]. Turnout is running high: Elections Alberta said 174,532 people voted on the first of five advance polling days, more than the daily average in the 2023 provincial election [^4]. A Leger online poll from early October found 70% would choose to remain and 22% would choose to start the separation process [^5].",
+        "Prime Minister Mark Carney spoke Thursday night at a 'Forever Canadian' rally in Calgary. His office put the crowd at about 5,000 [^2]. He said Alberta's frustrations are real, called a vote against Canada a risky bluff, and asked for 'a decisive result on Monday' [^1][^2]. He also said people outside Canada want to 'break us so they can own us,' without naming anyone [^2]. Premier Danielle Smith wants a 'yes' on the other nine questions, which cover immigration and the Constitution, as a message to Ottawa; critics call some of them anti-immigrant [^2]. Conservative Leader Pierre Poilievre was set to speak in Calgary on Friday in support of unity [^1].",
+        "On health care, Ottawa is extending $1.2 billion in funding for mental health, addictions and home care by one year [^6]. Provincial health ministers met in Winnipeg and said that is only a first step. They want the Canada Health Transfer, the main federal health payment to provinces, to grow at least 5% a year instead of dropping to 3% in 2028. Ontario Health Minister Sylvia Jones said the extension adds no new programs and does not give long-term certainty [^6].",
+        "Closer to home, the Supreme Court of Canada heard a challenge to the Ontario law that cleared the way for the Ontario Place redevelopment. A coalition argues the law wrongly blocks court review; Ontario says it does not make the site 'a lawless zone.' A ruling may not come until 2027 [^7]. Otherwise it was a fairly quiet few days for Ontario politics and economic data."
+    ],
+    "differences": "Health funding: Ottawa says the one-year extension gives stability while it works to strengthen health care, while provincial ministers say it only delays a coming funding shortfall and want faster transfer growth [^6]. Alberta: Smith frames the other nine questions as a message about provincial autonomy; critics call some of them anti-immigrant [^2].",
+    "reads": [
+        {
+            "title": "Albertans to vote on 10 questions in October referendum. Here's what they ask",
+            "outlet": "Global News",
+            "url": "https://globalnews.ca/news/12075177/alberta-referendum-questions/",
+            "kind": "news",
+            "summary": "A plain walk-through of all 10 ballot questions, from immigration rules to Senate abolition to the separation question."
+        }
+    ],
+    "sources": [
+        {
+            "id": 1,
+            "outlet": "Lethbridge Herald (The Canadian Press)",
+            "title": "Carney to bring his pro-Canada campaign to Edmonton with referendum just days away",
+            "url": "https://lethbridgeherald.com/news/national-news/2026/10/16/carney-to-bring-his-pro-canada-campaign-to-edmonton-with-referendum-just-days-away/",
+            "date": "2026-10-16",
+            "singleSource": false
+        },
+        {
+            "id": 2,
+            "outlet": "CP24 (The Canadian Press)",
+            "title": "'Vote like Canada depends on it,' PM Carney tells Alberta referendum rally",
+            "url": "https://www.cp24.com/news/canada/2026/10/16/vote-like-canada-depends-on-it-pm-carney-tells-alberta-referendum-rally/",
+            "date": "2026-10-15",
+            "singleSource": false
+        },
+        {
+            "id": 3,
+            "outlet": "Global News",
+            "title": "Albertans to vote on 10 questions in October referendum. Here's what they ask",
+            "url": "https://globalnews.ca/news/12075177/alberta-referendum-questions/",
+            "date": "2026-09-27",
+            "singleSource": true
+        },
+        {
+            "id": 4,
+            "outlet": "Global News",
+            "title": "Alberta's referendum draws 174K ballots in the 1st day of advance polls",
+            "url": "https://globalnews.ca/news/12102619/albertas-referendum-draws-174k-ballots-advance-polls/",
+            "date": "2026-10-14",
+            "singleSource": true
+        },
+        {
+            "id": 5,
+            "outlet": "Leger",
+            "title": "Alberta Referendum: 70% want to remain in Canada",
+            "url": "https://leger360.com/alberta-referendum-october-2026/",
+            "date": "2026-10-08",
+            "singleSource": true
+        },
+        {
+            "id": 6,
+            "outlet": "CP24 (The Canadian Press)",
+            "title": "Canada's health ministers to meet after Ottawa announces funding extension",
+            "url": "https://www.cp24.com/news/canada/2026/10/15/canadas-health-ministers-to-meet-after-ottawa-announces-funding-extension/",
+            "date": "2026-10-15",
+            "singleSource": false
+        },
+        {
+            "id": 7,
+            "outlet": "Global News (The Canadian Press)",
+            "title": "Supreme Court hears challenge of law clearing path for Ontario Place redevelopment",
+            "url": "https://globalnews.ca/news/12103457/ontario-place-redevelopment-supreme-court-challenge/",
+            "date": "2026-10-15",
+            "singleSource": false
+        }
+    ]
 }

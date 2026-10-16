@@ -1,78 +1,77 @@
 {
-  "date": "2026-10-15",
-  "summary": "China's exports jumped 36% in September on AI-driven chip demand and home-grown AI chips gained ground, but car sales and holiday spending show households staying cautious.",
-  "body": [
-    "China's trade figures for September came in far above forecasts. Exports rose 36.3% from a year earlier and imports rose 31%, giving a monthly trade surplus (exports minus imports) of about $134 billion. The surplus for the first nine months, $938 billion, puts China on course to pass $1 trillion again this year[^1]. Much of the boost came from the global rush to build AI data centres: semiconductor exports more than doubled in the first nine months[^1]. Factory-gate prices, what producers charge for goods, rose 5%, the fastest since mid-2022. A statistics official linked this to commodity prices and AI-related demand. Consumer prices rose only 0.9%[^2].",
-    "Chinese-made AI chips are also taking more of the home market. An IDC report seen by Reuters says Nvidia's share of China's data-centre AI chip market fell to 34% in the first half of 2026, with its shipments down 44%. Huawei's share rose to 28%[^3][^4]. US export rules limit which chips Nvidia can sell in China, and Beijing requires Chinese companies to get approval before importing them[^3].",
-    "Spending at home looks weaker. Domestic car sales fell 27% in September while car exports rose 64%. AP links the drop to weaker consumer confidence and smaller government subsidies[^5]. During the Golden Week holiday, Reuters calculations show domestic spending per trip fell to its lowest level since 2022, and cinema ticket sales were the weakest since 2014, though more people travelled abroad[^6]. One analyst says the main problem is worry about income and jobs, not an unwillingness to spend[^6]. My read: factories and exports are running fast while households are holding back.",
-    "For millions of delivery riders, couriers and ride-hailing drivers, the labour ministry has released China's first nationwide draft rules for gig workers[^7][^8]. Where a platform controls the work, workers would get labour contracts. Net pay could not fall below the local minimum wage, and a person would have to review any decision by an app's algorithm to suspend or ban a worker's account[^7][^8]. Public comments are open until November 8[^8]."
-  ],
-  "differences": null,
-  "reads": [],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "Reuters (via Yahoo Finance)",
-      "title": "China's September exports soar, putting $1 trillion trade surplus in sight",
-      "url": "https://finance.yahoo.com/economy/articles/chinas-exports-surge-36-3-024110661.html",
-      "date": "2026-10-14",
-      "singleSource": true
-    },
-    {
-      "id": 2,
-      "outlet": "South China Morning Post",
-      "title": "Growth in China's factory-gate prices accelerates, but consumer inflation subdued",
-      "url": "https://www.scmp.com/economy/china-economy/article/3370796/growth-chinas-factory-gate-prices-accelerates-consumer-inflation-subdued",
-      "date": "2026-10-14",
-      "singleSource": true
-    },
-    {
-      "id": 3,
-      "outlet": "Reuters (via The Edge Malaysia)",
-      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
-      "url": "https://theedgemalaysia.com/node/821602",
-      "date": "2026-10-13",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "TechNode",
-      "title": "Nvidia's China AI-chip share falls to 34% as Huawei reaches 28%",
-      "url": "https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28",
-      "date": "2026-10-14",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "AP (via ABC News)",
-      "title": "Chinese carmakers increasingly rely on overseas markets as September exports surge",
-      "url": "https://abcnews.com/International/wireStory/chinese-carmakers-increasingly-rely-overseas-markets-september-exports-137187155",
-      "date": "2026-10-12",
-      "singleSource": true
-    },
-    {
-      "id": 6,
-      "outlet": "Reuters (via AsiaOne)",
-      "title": "China Golden Week spending per trip hits four-year low amid overseas travel jump",
-      "url": "https://www.asiaone.com/china/china-golden-week-spending-trip-hits-four-year-low-amid-overseas-travel-jump",
-      "date": "2026-10-09",
-      "singleSource": true
-    },
-    {
-      "id": 7,
-      "outlet": "Sixth Tone",
-      "title": "China Drafts Landmark Gig Worker Labor Rights Rules",
-      "url": "https://www.sixthtone.com/news/1019108/china-drafts-landmark-gig-worker-labor-rights-rules",
-      "date": "2026-10-12",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "Caixin Global",
-      "title": "China Unveils First Nationwide Labor Rules to Protect Gig Economy Workers",
-      "url": "https://www.caixinglobal.com/2026-10-09/china-unveils-first-nationwide-labor-rules-to-protect-gig-economy-workers-102491464.html",
-      "date": "2026-10-09",
-      "singleSource": false
-    }
-  ]
+ "date": "2026-10-16",
+ "summary": "Apple's AI features clear a key Chinese approval with Alibaba's help, DeepSeek recovers from a five-hour outage, and economists expect Q3 growth near 4.4% ahead of official data.",
+ "body": [
+  "Apple Intelligence, the iPhone's set of AI tools, moved closer to launching in China. China's Ministry of Industry and Information Technology updated device permits so iPhones, including the new iPhone Duo and iPhone 18 Pro, can use Alibaba's Qwen language models and its Tongyi Wanxiang image and video generator [^1]. China limits foreign AI services, so Apple relies on local partners, and officials must also approve future model updates [^2]. Bloomberg, as reported by MacRumors, says the first version will be basic, with photo editing but no AI Siri or Image Playground [^2].",
+  "DeepSeek, the Chinese AI lab whose chatbot is widely used in China, had an outage on Thursday. Problems began at 8:11 a.m. Beijing time and affected its website, app and API (the connection other software uses to reach its models) [^3][^4]. All services were back by 1:04 p.m. The company said it found the cause but did not say what it was [^3].",
+  "On household money: e-bikes, a main way many Chinese people get around cities, sold 9% more in the third quarter than a year earlier, the first rise this year, according to research firm AVC. But in early October authorities suspended safety certificates for many models after failed factory checks, and Caixin reports sales have nearly stalled [^5]. Bank lending in September beat forecasts, while household borrowing stayed roughly flat after two months of shrinking, central bank data show [^7]. Official third-quarter growth figures have not come out yet; economists surveyed by Caixin expect about 4.4%, with September retail sales up only about 1% [^6]. My read: a quiet-ish day, with exports still carrying an economy where shoppers remain cautious."
+ ],
+ "differences": "Timing of Apple's China AI launch differs. The South China Morning Post says Apple has confirmed an October launch [^1], while Bloomberg, as reported by MacRumors, says the features will arrive with iOS 27.3, expected in December [^2]. A test version in October and a wider release in December could both be true, but this is not confirmed.",
+ "reads": [
+  {
+   "title": "China's white-collar experts are training AI to pay the bills",
+   "outlet": "Rest of World",
+   "url": "https://restofworld.org/2026/china-expert-ai-trainers/",
+   "kind": "analysis",
+   "summary": "From September: lawyers, teachers and engineers in China take gig work writing hard problems for AI models, often earning 100 to 500 yuan per task, as job markets tighten."
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "outlet": "South China Morning Post",
+   "title": "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets",
+   "url": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
+   "date": "2026-10-14",
+   "singleSource": false
+  },
+  {
+   "id": 2,
+   "outlet": "MacRumors",
+   "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+   "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+   "date": "2026-10-14",
+   "singleSource": true
+  },
+  {
+   "id": 3,
+   "outlet": "Caixin Global",
+   "title": "DeepSeek Restores Services After Nearly Five-Hour Outage",
+   "url": "https://www.caixinglobal.com/2026-10-16/deepseek-restores-services-after-nearly-five-hour-outage-102493794.html",
+   "date": "2026-10-16",
+   "singleSource": false
+  },
+  {
+   "id": 4,
+   "outlet": "TechNode",
+   "title": "DeepSeek implements fix after partial outage affects chat and API services",
+   "url": "https://technode.com/2026/10/15/deepseek-implements-fix-after-partial-outage-affects-chat-and-api-services/",
+   "date": "2026-10-15",
+   "singleSource": false
+  },
+  {
+   "id": 5,
+   "outlet": "Caixin Global",
+   "title": "China's Electric Two-Wheeler Recovery Faces Regulatory Uncertainty",
+   "url": "https://www.caixinglobal.com/2026-10-15/chinas-electric-two-wheeler-recovery-faces-regulatory-uncertainty-102493476.html",
+   "date": "2026-10-15",
+   "singleSource": true
+  },
+  {
+   "id": 6,
+   "outlet": "Caixin Global",
+   "title": "China's Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand",
+   "url": "https://www.caixinglobal.com/2026-10-14/chinas-growth-seen-edging-up-to-44-as-exports-offset-weak-demand-102493073.html",
+   "date": "2026-10-14",
+   "singleSource": true
+  },
+  {
+   "id": 7,
+   "outlet": "Caixin Global",
+   "title": "China's September Lending Rebounds, Beating Forecasts",
+   "url": "https://www.caixinglobal.com/2026-10-15/chinas-september-lending-rebounds-beating-forecasts-102493474.html",
+   "date": "2026-10-15",
+   "singleSource": true
+  }
+ ]
 }

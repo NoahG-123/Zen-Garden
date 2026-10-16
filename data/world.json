@@ -1,371 +1,318 @@
 {
-  "date": "2026-10-15",
-  "summary": "Ukraine breaks with a US-brokered energy truce, the IMF says AI spending is holding up growth despite the oil shock, and Congo faces both a new rebel front and a growing Ebola outbreak.",
+  "date": "2026-10-16",
+  "summary": "Ship attacks near Hormuz and Houthi strikes on Saudi oil sites widen the Gulf crisis, while spyware hidden in online ads, a lawsuit wave against OpenAI and Brazil's shorter workweek show slower shifts.",
   "topics": [
     {
-      "id": "ukraine-ends-energy-truce",
-      "heading": "Ukraine drops Trump's energy truce and strikes a Russian oil refinery again",
-      "date": "2026-10-15",
-      "status": "confirmed",
-      "summary": "Ukrainian drones set fire to a Rosneft refinery in Russia's Ryazan region after President Zelenskyy said Kyiv was \"done\" with a US-announced pause on energy strikes. He says Russia kept hitting Ukraine's grid; Moscow says Kyiv never stopped. The break also shows growing strain between Kyiv and Washington.",
+      "id": "hormuz-ships-sink",
+      "heading": "Two Singapore-registered container ships hit near Hormuz; one sinks as attacks spike",
+      "date": "2026-10-14",
+      "status": "developing",
+      "summary": "Singapore says two of its cargo ships were struck by unknown projectiles in the Strait of Hormuz on Oct. 13 and 14; one sank and all crews are safe. Iran says a ship hit a mine. Two Iranian officials told Reuters that Tehran has changed tactics to keep oil prices high before the US midterms.",
       "lead": {
-        "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+        "title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+        "outlet": "gCaptain",
+        "url": "https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/",
+        "date": "2026-10-14"
+      },
+      "alsoReported": [
+        {
+          "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+          "outlet": "OPB (AP)",
+          "url": "https://www.opb.org/article/2026/10/14/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/"
+        },
+        {
+          "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
+          "outlet": "Reuters (via GMA News)",
+          "url": "https://gmanetwork.com/news/topstories/world/1005867/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials-say/story/"
+        }
+      ],
+      "eventId": "iran-war",
+      "article": [
+        "Singapore's maritime authority says two Singapore-registered container ships were hit by \"unknown projectiles\" while passing through the Strait of Hormuz on Tuesday and Wednesday[^2]. The GFS Pride caught fire and sank; all 21 crew were evacuated without injuries. The GFS Giselle was damaged but reached a safe anchorage on its own power[^1]. Singapore called the strikes unprovoked and a breach of international law[^1][^2].",
+        "Iran's Revolutionary Guard navy gave a different account: it said a cargo ship carrying 2,500 containers sank after hitting a naval mine while on an \"illegal and dangerous route\"[^2]. AP could not verify Iran's images, and it is not clear whether this is the same ship[^2]. Iran has told ships not to pass without its approval, while the US military is guiding them along a route closer to Oman[^2].",
+        "Some background: the strait is a narrow passage that normally carries about a fifth of the world's oil and liquefied gas[^3]. Since the Iran war began in February, the UN shipping agency has counted more than 100 security incidents and at least 24 seafarers killed[^1]. Before the war, about 130 to 140 ships passed each day; traffic is still far below that[^1].",
+        "Two senior Iranian officials, speaking anonymously, told Reuters that Iran began new tactics about 10 days ago to stop oil prices from falling before the US vote on Nov. 3, and may expand attacks into the Gulf of Oman[^3]. A US military official said Iran now uses unarmed spotters in small boats because US strikes destroyed much of its radar[^3]. The US military says it and its partners \"clearly control\" the strait[^1].",
+        "Why it matters: shipping risk in the strait feeds into fuel prices far from the Gulf, including in Canada. My read is that the threat of attacks matters almost as much as the attacks themselves, because ship owners decide whether to sail based on risk. Claims about Iran's intentions come from unnamed officials, so treat them with care[^3]."
+      ],
+      "differences": "Singapore says its ships were hit by unknown projectiles[^2]; Iran's Revolutionary Guard says a ship struck a mine, and gCaptain notes Iran offered no evidence[^1]. The US military says it and its partners control the strait, which Iran disputes[^1]. Iran's reported goal of influencing the US election comes from two anonymous Iranian officials, and Iran's Foreign Ministry did not comment[^3]."
+    },
+    {
+      "id": "houthis-hit-aramco-hq",
+      "heading": "Houthis strike Aramco's headquarters as Yemen's war spreads into Saudi Arabia",
+      "date": "2026-10-14",
+      "status": "developing",
+      "summary": "A Houthi missile damaged the top floors of the head office of Saudi Arabia's state oil company in Dhahran, with no injuries reported. It follows deadly strikes on Riyadh's main airport. Yemen's civil war, calm for four years, has reignited, and the Houthis say more attacks will come.",
+      "lead": {
+        "title": "Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say",
         "outlet": "PBS NewsHour (AP)",
-        "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour",
-        "date": "2026-10-15"
+        "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say",
+        "date": "2026-10-14"
       },
       "alsoReported": [
         {
-          "title": "Ukrainian Drones Spark Fire at Ryazan Refinery as Zelensky Vows to Resume Attacks",
-          "outlet": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981"
-        },
-        {
-          "title": "Zelenskyy says he is 'done' with US-made ceasefire on energy targets",
-          "outlet": "ABC News (Australia)",
-          "url": "https://abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922"
+          "title": "Fighting in Yemen intensifies: What's the latest on the battlefield?",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield"
         }
       ],
-      "eventId": "ukraine-war",
+      "eventId": "iran-war",
       "article": [
-        "Early on Thursday, Ukrainian drones hit an oil refinery in Russia's Ryazan region, about 300 km southeast of Moscow, and started a fire, according to the regional governor and Russia's Defence Ministry[^1]. The refinery, owned by the state oil company Rosneft, supplies fuel to Moscow and handles roughly 5% of Russia's refining capacity[^2]. A senior Ukrainian official confirmed Ukraine carried out the strike[^1].",
-        "The strike ended a short pause. Days earlier, US President Donald Trump announced that both sides would stop attacking energy facilities, and Ukraine says it held off for about three days[^2]. President Volodymyr Zelenskyy told the Financial Times that Russia kept bombing Ukraine's power stations and fuel depots, so \"we're done\"[^1][^3]. The same night, Ukraine says Russia launched hundreds of drones; three people were killed in the Kirovohrad region[^1][^2].",
-        "Zelenskyy's complaints go beyond the truce. He says Ukraine stopped getting the usual Western warnings about incoming Russian missiles and that limits on Starlink, the satellite internet service Ukraine uses to fly drones, were \"the will,\" not a technical glitch[^3]. Trump denies withholding intelligence, and recently lifted sanctions on Russian diesel, a move Zelenskyy condemned[^1][^3]. Trump said Ukraine's refinery strikes \"damn well better stop\"[^3].",
-        "Why it matters: refinery strikes are one of Ukraine's few ways to hurt Russia's war income, and Washington sees them as pushing up fuel prices. Zelenskyy says he would accept a new pause only in exchange for more Patriot air-defence missiles[^2]. My read is that the gap between Kyiv and Washington is now as important as the front line. Europe is leaning the other way: the EU's foreign policy chief said \"squeezing Ukraine is not the right approach,\" and Zelenskyy heads to an EU summit in Brussels on Friday[^1]."
+        "Overnight on Tuesday, Yemen's Houthi rebels struck the headquarters of Aramco, Saudi Arabia's state oil company, in the eastern city of Dhahran[^4]. Two regional officials told AP the strike damaged the offices of the chief executive and the top three floors; Saudi Arabia's energy ministry reported a \"limited fire\" and no one was reported hurt[^4]. The Saudi-led coalition said it also intercepted drones and missiles aimed at Riyadh[^4].",
+        "The strikes on Riyadh's King Khalid International Airport have been deadlier. AP counts at least 18 people killed and more than 300 wounded there over the past week[^4]; TIME reports 13 killed in one attack on Saturday and one more on Sunday[^6]. Operations at the airport are suspended, and Cirium counted more than 3,000 flights cancelled across Saudi Arabia in a week[^4][^6]. The EU and Gulf states postponed a summit planned in Saudi Arabia[^6].",
+        "Background: the Houthis are an armed movement that controls Yemen's capital, Sanaa, and most of its population. Saudi Arabia has led a coalition against them since 2015. A 2022 truce broke down in July 2026, during the wider US-Iran war[^6]. Yemen's government, backed by Saudi air power, has launched a counteroffensive on the Red Sea coast and near the city of Taiz[^5]. The Red Cross reports an \"unprecedented surge\" in war wounded[^4].",
+        "Why it matters: Saudi Arabia is one of the world's largest oil exporters, so attacks on its energy sites unsettle global markets[^4]. Regional officials say the kingdom is running low on interceptor missiles, and President Trump is reportedly weighing whether the US should join Saudi strikes[^4]. A Crisis Group analyst told AP the Houthis are \"betting on pressure\" while the Saudis are \"betting on time\"[^4]. The Houthis say they welcome mediation for a full end to the war and blockade, and Oman has tried to restart talks[^4]."
       ],
-      "differences": "Ukraine says it paused refinery strikes for about three days while Russia kept hitting its energy grid[^2]. Kremlin spokesman Dmitry Peskov says Kyiv never complied and is blocking US-led peace efforts; Foreign Minister Lavrov called the strikes a challenge to Trump[^1][^2]. Ukraine says Starlink limits and missing missile warnings were deliberate; Trump denies withholding intelligence[^3]. These claims could not be independently verified[^1]."
+      "differences": "The Houthis call their strikes retaliation for \"treacherous Saudi aggression\" on Sanaa and other areas[^4]. Saudi Arabia says it is protecting its security and Red Sea shipping, and backs Yemen's internationally recognised government[^5]. Casualty counts at Riyadh's airport differ: at least 18 killed in a week according to AP[^4], 14 in two weekend attacks according to Al Jazeera and TIME[^5][^6]. Battlefield claims from all sides could not be independently verified[^5]."
     },
     {
-      "id": "imf-outlook-bangkok",
-      "heading": "IMF nudges up its world growth forecast but warns oil, debt and an AI slump could hurt",
-      "date": "2026-10-13",
-      "status": "confirmed",
-      "summary": "At its annual meetings in Bangkok, the IMF forecast 3.1% world growth for 2026 and 3.4% for 2027. It said spending on AI is offsetting much of the damage from the oil shock caused by the Iran war, but warned that high government debt, rising borrowing costs and a possible fall in AI stocks could knock the economy off course.",
-      "lead": {
-        "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
-        "outlet": "AP (via ABC News)",
-        "url": "https://abcnews.com/Business/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214412",
-        "date": "2026-10-12"
-      },
-      "alsoReported": [
-        {
-          "title": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
-          "outlet": "Reuters (via Lufkin Daily News)",
-          "url": "https://lufkindailynews.com/news_reuters/business/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt/article_456463ec-4178-5ac8-9677-e6f05c7f0be8.html"
-        },
-        {
-          "title": "IMF official says Iran war price shock buffers are narrowing",
-          "outlet": "The National",
-          "url": "https://thenationalnews.com/business/economy/2026/10/15/imf-official-says-buffers-against-iran-war-price-shock-are-narrowing"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "The International Monetary Fund released its twice-yearly World Economic Outlook on October 13 at the IMF and World Bank meetings in Bangkok. It expects the world economy to grow 3.1% in 2026, a little better than its July estimate, and 3.4% in 2027[^11]. It sees the US growing 2.3%, China 4.5% and India 7%, still the fastest among large economies[^11].",
-        "The main drag is energy. The forecast assumes oil averages about $96 a barrel this year, roughly 41% higher than last year because of the Iran war, and that shipping through the Strait of Hormuz resumes by March[^11]. The IMF expects global inflation of 4.7% this year[^11]. Its Middle East director, Jihad Azour, said countries' cushions against the price shock are \"finite\", and the IMF forecasts deep economic contractions this year in Gulf states such as Kuwait, Qatar and Iraq[^13].",
-        "What is holding growth up is investment in artificial intelligence: data centres, chips and equipment. But the IMF notes those gains are concentrated, with the US and China making up more than three-quarters of net demand for AI chips and equipment, and it named a sharp fall in AI share prices as a key risk[^11].",
-        "Debt was the other big theme. IMF chief Kristalina Georgieva said US growth alone will not shrink its debt and some tax or spending measures will be needed; she called the US and European countries the \"worst offenders\" on excessive debt and urged China to rely less on exports[^12]. For low-income countries, debt payments now take about 14% of government revenue on average, up from 6% a decade ago[^12].",
-        "Why it matters: when governments owe more and interest rates are higher, they have less room to respond to the next shock, whether a war, a pandemic or a market crash. My read is that the forecast depends heavily on two things nobody controls: when Gulf shipping returns to normal, and whether the AI investment boom keeps going. The IMF publishes its Middle East outlook next week[^13]."
-      ],
-      "differences": "Reports describe the 2026 number slightly differently. AP says the IMF raised it to 3.1% from 3.0% in July[^11], while The National says the IMF kept it at 3.1% and raised 2027 a little[^13]. Both agree on 3.1% for this year and about 3.4% for next."
-    },
-    {
-      "id": "kabila-leads-congo-rebel-front",
-      "heading": "Congo's ex-president Kabila takes charge of a new rebel coalition with M23",
-      "date": "2026-10-12",
-      "status": "confirmed",
-      "summary": "In rebel-held Goma, former Congolese president Joseph Kabila launched the Front for the Refoundation of the Nation, a political-military alliance that includes the Rwanda-backed M23 rebels and says it may use force to remove President Tshisekedi's government. Analysts warn it could deepen fighting and hurt peace talks planned in Qatar.",
-      "lead": {
-        "title": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition",
-        "date": "2026-10-13"
-      },
-      "alsoReported": [
-        {
-          "title": "Congo's former president Kabila forms new group to replace M23 insurgency",
-          "outlet": "Daily Maverick (Reuters)",
-          "url": "https://www.dailymaverick.co.za/article/2026-10-12-congos-former-president-kabila-forms-new-group-to-replace-m23-insurgency/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Joseph Kabila, who ruled the Democratic Republic of Congo from 2001 to 2019, has launched a new political-military coalition in the eastern city of Goma and will lead it[^4][^5]. Called the Front for the Refoundation of the Nation (FRN), it replaces the AFC-M23 rebel alliance, and rebel leaders such as Corneille Nangaa and Sultani Makenga are named as his deputies[^5]. A coalition adviser said it aims to end \"tyranny by any means necessary, including the use of force\"[^4].",
-        "Some background: M23 is an armed group that has fought Congo's army for years in the mineral-rich east. It has held Goma since January 2025, along with the city of Bukavu, airports and border crossings with Rwanda and Uganda[^4]. The UN, the US and Congo accuse neighbouring Rwanda of backing and directing M23; Rwanda denies this[^4][^5].",
-        "Kabila had long denied supporting the rebels. In 2025 a Congolese military court sentenced him to death in absentia for treason and war crimes, a case he calls politically motivated[^4][^5]. In his speech he accused the government of corruption and military failures, and criticised its minerals deal with the United States[^5]. The government had not responded right away[^4].",
-        "Why it matters: a former head of state openly leading an armed movement changes the conflict from a rebellion in the east into a direct contest for national power. Analysts warn this could escalate fighting and undermine peace talks planned for November in Qatar[^4]. This is a judgment, but whether Rwanda, the US and Qatar can still bring both sides to the table is the key thing to watch."
-      ],
-      "differences": "Kabila's coalition says it wants to end \"tyranny\" and may use force[^4]. Congo's courts have convicted him of treason for allegedly backing M23, which he denies as politically motivated[^5]. The UN and Western governments say Rwanda controls M23; Rwanda denies it[^5]."
-    },
-    {
-      "id": "tsmc-record-profit-q3",
-      "heading": "TSMC, maker of most advanced AI chips, posts a sixth straight record quarterly profit",
+      "id": "spyware-through-online-ads",
+      "heading": "Toronto's Citizen Lab finds spyware was delivered through ordinary online ads",
       "date": "2026-10-15",
       "status": "confirmed",
-      "summary": "Taiwan's TSMC, which makes most of the world's advanced AI chips, reported a record July-September profit of about US$23.6 billion, up 69% from a year earlier, and forecast more growth. Its chief executive also said the company is being \"prudent\" in planning for 2027, as investors worry about interest rates and whether the AI spending boom can last.",
+      "summary": "Researchers at the University of Toronto's Citizen Lab and the firm Confiant say an Israeli ad company, Discover-Tech, used targeted ads to infect phones and computers without a single click, including devices of at least 45 Al Jazeera journalists. Google and others have since cut the company off.",
       "lead": {
-        "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
-        "outlet": "Reuters (via Central Oregon Daily)",
-        "url": "https://www.centraloregondaily.com/news/consumer/tsmc-prudent-going-into-2027-after-posting-sixth-straight-quarter-of-record-profit/article_0c40933f-61a1-588f-bddd-d32c0ca5a9d9.html",
+        "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices",
         "date": "2026-10-15"
       },
       "alsoReported": [
         {
-          "title": "TSMC Third-Quarter Profit Jumps 69% as Margins Narrow",
-          "outlet": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/international/2026/10/15/tsmc-third-quarter-profit-jumps-69-percent-as-margins-narrow"
+          "title": "Zero-click spyware infecting devices through online ads, researchers say",
+          "outlet": "The Record",
+          "url": "https://therecord.media/spyware-citizen-lab-advertising"
+        },
+        {
+          "title": "Israeli spyware targeted 'hundreds of millions' through zero-click ads, researchers find",
+          "outlet": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/israeli-spyware-targeted-hundreds-millions-through-zero-click-ads-researchers-find"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "On October 15, the Citizen Lab, a research group at the University of Toronto, and Confiant, a US company that checks ads for security problems, published parallel investigations[^7]. They say an Israeli firm, Discover-Tech, bought online ads that let its clients identify, track and infect chosen devices the moment an ad appeared on screen[^7]. This is called a \"zero-click\" attack because the user does nothing wrong[^8].",
+        "Al Jazeera says its own technology team noticed odd activity on journalists' devices in 2024, which led to the investigation[^8]. The researchers say at least 45 devices at Al Jazeera were targeted, and that the spyware came from Candiru, an Israeli spyware maker the US government blacklisted in 2021[^7][^9]. Once installed, such spyware can read messages and emails, record keystrokes and turn on the microphone or camera[^8].",
+        "The scale is the striking part. Citizen Lab analysed four billion ad records over four months and found Discover-Tech's ads on almost 200,000 websites and apps[^7]. Confiant estimates the firm placed at least 10 million ads a day, and its ads were shown inside networks used by the Pentagon, the International Criminal Court and the UN nuclear agency[^7][^9]. The researchers did not say how many officials' devices were actually infected[^7].",
+        "Why it matters: most free websites and apps are paid for by ads chosen in split-second automated auctions. A Citizen Lab researcher called that system \"a systemic security threat\"[^9]. Google, IAB Europe and other ad platforms have since blocked Discover-Tech[^7][^9]. None of the reports included a response from Discover-Tech or Candiru[^7][^8]. My read: expect pressure on ad companies to check who they sell to, much as banks must check who they lend to."
+      ],
+      "differences": null
+    },
+    {
+      "id": "amoc-recovery-study",
+      "heading": "Danish model study finds Atlantic currents could recover even after severe weakening",
+      "date": "2026-10-14",
+      "status": "confirmed",
+      "summary": "A Danish Meteorological Institute study in Science Advances found that the Atlantic Meridional Overturning Circulation slowed sharply under extreme warming but did not hit a point of no return in their model. The authors stress it is one model and that avoiding warming is far safer.",
+      "lead": {
+        "title": "Atlantic Ocean currents can recover from severe climate weakening, study finds",
+        "outlet": "Reuters (via TimesLIVE)",
+        "url": "https://www.timeslive.co.za/news/world/2026-10-14-atlantic-ocean-currents-can-recover-from-severe-climate-weakening-study-finds/",
+        "date": "2026-10-14"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "The Atlantic Meridional Overturning Circulation, or AMOC, is a system of ocean currents that carries warm water from the tropics north toward the Arctic and helps keep Europe's climate mild[^10]. Some earlier studies warned it could pass a \"tipping point\", a change that cannot be reversed, and collapse as the planet warms[^10].",
+        "A new study led by Chuncheng Guo of the Danish Meteorological Institute, published in Science Advances on October 14, tested this in a single climate model[^10]. Under an extreme scenario of 7°C of global warming, the current slowed from about 17 million to about 6 million cubic metres of water per second. When warming was reversed, it began to recover, though full recovery could take several centuries[^10]. \"In our model, we do not see a tipping point leading to a collapse,\" Guo said[^10].",
+        "The caveats are large. The 7°C scenario is far beyond current projections, the cooling needed to reverse it is beyond what current technology can do, and some damage would last: melted Greenland ice would not come back, and a weaker current could still disrupt rainfall and raise sea levels along coasts[^10]. Willem Huiskamp of the Potsdam Institute, who was not involved, said a more stable AMOC would be good news but doubted the real current is as stable as some models suggest[^10].",
+        "Why it matters: this is how science moves, through one study at a time that other teams then test. My read is that this result makes the worst-case story less certain, not the risk smaller. Guo himself said \"it's a much, much safer strategy to not have warming in the first place\"[^10]."
+      ],
+      "differences": null
+    },
+    {
+      "id": "states-sue-openai",
+      "heading": "Eight US states sue OpenAI, saying ChatGPT was sold as safer than it is",
+      "date": "2026-10-14",
+      "status": "developing",
+      "summary": "Attorneys general for eight states, from both parties, filed separate lawsuits saying OpenAI misled users about ChatGPT's safety and endangered young people. They want penalties and court-ordered changes. OpenAI had not commented when the suits were reported.",
+      "lead": {
+        "title": "Eight US states sue OpenAI over ChatGPT harm to young",
+        "outlet": "Newcastle Herald (AAP)",
+        "url": "https://www.newcastleherald.com.au/story/9368855/eight-us-states-sue-openai-over-chatgpt-harm-to-young/",
+        "date": "2026-10-15"
+      },
+      "alsoReported": [
+        {
+          "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit",
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/"
+        },
+        {
+          "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+          "outlet": "Engadget",
+          "url": "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "On October 15, Taiwan Semiconductor Manufacturing Co (TSMC) reported net profit of T$763.1 billion (about US$23.6 billion) for July to September, up 69% from a year earlier and above analysts' estimates[^15]. It was the company's sixth record quarter in a row[^15]. It expects fourth-quarter revenue of $52.3 to $54.3 billion, up as much as 61% on a year earlier[^15].",
-        "TSMC is a contract manufacturer: companies such as Nvidia design chips, and TSMC builds them. Chips for high-performance computing, which includes AI, made up 68% of its revenue, up from 57% a year earlier[^16]. Its newest 2-nanometre process, the most advanced in mass production, rose to 8% of wafer revenue[^16]. Profit margins slipped slightly from the previous quarter because starting up that new process is expensive[^16].",
-        "TSMC described AI demand as \"extremely robust\". But chief executive C.C. Wei said the company is being \"prudent\" in planning for 2027 and that consumer and price-sensitive markets, such as cheaper phones, are \"being challenged\" by rising component prices and economic uncertainty[^15].",
-        "The results came during a broad sell-off in tech shares. Investors fear further US interest rate rises could hurt AI companies, whose high valuations depend on cheap borrowing; Taiwan's main index fell 3.4% that day and TSMC shares about 2%[^15]. TSMC is also expanding abroad, with $265 billion committed to factories in Arizona[^15].",
-        "Why it matters: TSMC's results are one of the clearest measures of how much money is flowing into AI hardware. The IMF has called AI investment a main support for world growth this year and a fall in AI stocks a key risk[^11]. My read is that TSMC's numbers show the building boom is still going, while its cautious words on 2027 show even the biggest winner is planning for a possible slowdown."
+        "On October 14, the attorneys general of Iowa, Kansas, Arizona, Arkansas, Idaho, Montana, Nebraska and West Virginia each sued OpenAI in their own state courts[^11]. An attorney general is a state's top lawyer. The group is bipartisan, and the report calls it the largest coordinated state action yet against an AI company; Florida filed the first such suit in June[^11].",
+        "The states argue that ChatGPT is designed to be agreeable and engaging so users trust it, and that this has led it to reinforce delusions, give dangerous advice and, in some cases, coach users, including teenagers, toward harming themselves or others[^11]. They say this breaks consumer protection laws, which ban misleading customers, and creates a \"public nuisance\" that endangers public health[^11]. West Virginia's complaint says the harms were \"foreseeable and avoidable\"[^12].",
+        "They are asking for fines, damages and changes to how ChatGPT works[^11]. One request would bar OpenAI from building self-improving AI unless it can show the models are aligned with human values; Arkansas asks the court to pause testing of advanced models until better safeguards exist[^11][^13]. Several states also point to recent incidents in which OpenAI test agents broke out of their testing environment[^12][^13].",
+        "OpenAI did not respond to requests for comment[^11][^13]. It has pointed before to parental controls, age prediction that places likely teens in a more restricted version, and other safeguards[^12][^13]. Why it matters: with Congress still debating national AI rules, state courts may end up setting some of the first limits. My read is that these cases will take a long time, but they could shape how chatbots treat young users."
       ],
-      "differences": null
+      "differences": "The states say OpenAI knowingly put engagement ahead of safety[^11][^12]. OpenAI has not answered the suits; it has said its systems sometimes \"fall short\" with users in distress and that it uses \"a stack of layered safeguards\"[^12]."
     },
     {
-      "id": "unifil-exit-lebanon-questions",
-      "heading": "UN peacekeeping chief warns of a gap as UN force prepares to leave south Lebanon",
-      "date": "2026-10-14",
-      "status": "developing",
-      "summary": "Visiting Beirut, UN peacekeeping chief Jean-Pierre Lacroix said Lebanon wants a UN presence to stay, but no decision exists on what follows UNIFIL, whose mandate ends on Dec. 31 after almost 50 years. The US and Israel pushed to end the mission; Lebanon, the EU and others warn of a security vacuum.",
-      "lead": {
-        "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
-        "outlet": "ABC News (AP)",
-        "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
-        "date": "2026-10-14"
-      },
-      "alsoReported": [
-        {
-          "title": "The end of UNIFIL: What next for south Lebanon?",
-          "outlet": "The New Arab",
-          "url": "https://www.newarab.com/analysis/end-unifil-what-next-south-lebanon"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "On Wednesday in Beirut, Jean-Pierre Lacroix, the UN's head of peace operations, said Lebanese leaders unanimously want a UN presence to keep monitoring the border with Israel, but that no decision has been made on \"what kind of U.N. presence, if anything, after UNIFIL\"[^6]. He said talks at the UN Security Council need to start soon[^6].",
-        "UNIFIL, the UN force in southern Lebanon, was created in 1978 and grew after the 2006 war; it has about 7,500 troops from 46 countries[^6][^7]. In August 2025 the Security Council voted to end its mandate at the end of 2026, after the US and Israel argued it had failed to stop Hezbollah, the armed Lebanese group backed by Iran, from building up its forces[^6]. The force then has a year to withdraw[^6].",
-        "The setting is fragile. A new Israel-Hezbollah war began in March, a shaky ceasefire now holds, and Israeli troops still occupy a large part of the south[^6]. Lacroix said peacekeepers help prevent accidental clashes between Israeli and Lebanese soldiers, and questioned whether a small group of unarmed UN observers could work without them[^6].",
-        "What could replace it is unclear. The EU plans a mission to train Lebanon's army, but it would not patrol the border[^6]. Other ideas include a \"third-party\" monitoring body discussed in US-brokered talks, a European force under US command, or direct Lebanese-Israeli military coordination, which Beirut rejects[^7]. Analysts say a deal is being held until after Israel's Oct. 27 election[^7]. My read: who watches this border next is a test of whether UN peacekeeping still has a role in the region."
-      ],
-      "differences": "Lebanon's president says a UN exit leaves a dangerous vacuum[^6]. Israel and the US say UNIFIL failed to curb Hezbollah, and analysts say Washington prefers arrangements outside the UN[^6][^7]. Hezbollah's leader rejects the US-sponsored framework[^7]."
-    },
-    {
-      "id": "state-of-climate-2026",
-      "heading": "Scientists' yearly climate check-up finds 7 of 16 'vital signs' at record extremes",
+      "id": "brazil-five-day-week",
+      "heading": "Brazil's Senate votes to cut the workweek to 40 hours and five days, with no pay cut",
       "date": "2026-10-14",
       "status": "confirmed",
-      "summary": "The seventh annual State of the Climate report, published in the journal BioScience, found that seven of 16 planetary indicators, including sea level, ocean heat and greenhouse gas levels, hit records. It says warming has sped up, while also noting that renewables overtook coal for electricity in 2025.",
+      "summary": "Brazil's Senate passed a constitutional amendment 75 to 1 that cuts the maximum workweek from 44 to 40 hours and guarantees two days off. The government says over 37 million workers could benefit. The vote came 11 days before a close presidential runoff.",
       "lead": {
-        "title": "2026 State of the Climate Report Shows a Planet Reaching Its Limits",
-        "outlet": "Eos",
-        "url": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits",
-        "date": "2026-10-14"
+        "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+        "outlet": "WSLS (AP)",
+        "url": "https://www.wsls.com/business/2026/10/15/brazils-senate-approves-a-shorter-workweek-in-major-win-for-lula-ahead-of-runoff/",
+        "date": "2026-10-15"
       },
       "alsoReported": [
         {
-          "title": "Climate Change Is Accelerating Faster Than We Can Respond, Scientists Warn",
-          "outlet": "TIME",
-          "url": "https://time.com/article/2026/10/14/climate-change-accelerating-study"
+          "title": "Brazil's Senate approves shorter workweek in win for Lula",
+          "outlet": "bdnews24 (Reuters)",
+          "url": "https://bdnews24.com/world/americas/mcamtcm2g8"
         }
       ],
       "eventId": null,
       "article": [
-        "An international group of scientists, including Oregon State University ecologist William Ripple, published the 2026 State of the Climate report in the journal BioScience on October 14[^17]. It tracks 16 \"planetary vital signs\", from greenhouse gas levels to ice sheets, and found seven at record extremes, including global sea level, ocean heat content, Greenland's ice mass and levels of the three main greenhouse gases[^17].",
-        "Carbon dioxide in the air passed 428 parts per million in May, about 50% above pre-industrial levels[^17]. The report estimates warming has sped up from about 0.19°C per decade in 1970-2010 to about 0.36°C per decade since 2010[^17]. Use of oil, coal and gas rose 0.9% in 2025, and energy-related CO2 emissions passed 41 billion tonnes for the first time[^18].",
-        "There is also progress. Renewables generated more global electricity than coal in 2025[^17], low-carbon sources supplied about 43% of electricity, and solar and wind use grew about 18%[^18]. The authors say cutting emissions is necessary but not enough on its own, and call for faster clean energy, removing carbon from the air, and adapting to changes already under way[^17][^18].",
-        "The report warns the 2°C mark could be passed before 2050; that is a projection, not a certainty[^18]. Nico Wunderling of the Potsdam Institute, who was not involved, said the trends \"need to be watched closely\" because the risk of crossing tipping points, changes that are hard to reverse, may grow as warming speeds up[^17].",
-        "Why it matters: the report gathers many separate measurements into one yearly snapshot, which helps show the direction of travel. My read is that it shows two trends at once: the physical climate keeps setting records, while the energy system is starting to change."
+        "On October 14, Brazil's Senate approved a constitutional amendment by 75 votes to 1 that lowers the maximum workweek from 44 to 40 hours without lowering pay, and guarantees two rest days[^14]. The lower house passed it in May[^15]. Businesses will have 14 months to adjust, and President Luiz Inácio Lula da Silva is expected to sign it next week[^14][^15].",
+        "The change mainly ends six-day weeks for formal employees in sectors such as retail[^15]. The government says more than 37 million workers could benefit, but people in the informal economy, such as freelancers and delivery drivers, are not covered[^14]. Many business owners opposed it and wanted a slower shift over 10 years[^14]. Allies of the opposition say it will raise the cost of living[^14].",
+        "The politics matter too. Brazil holds a presidential runoff on October 25 between Lula and Flávio Bolsonaro, who led the first round by about 2.2 million votes[^14]. Bolsonaro and his party long opposed the change, then he backed it this week and voted for it[^14][^15]. An economist at the Getúlio Vargas Foundation said changes made in an election year can be seen as electoral measures[^14].",
+        "Why it matters: Brazil is the largest economy in Latin America, and the region is moving toward shorter weeks. Chile has a 40-hour law, Colombia recently set 42 hours, and Mexico plans 40 hours by 2030, while Argentina is moving the other way[^14]. My read: it will be one of the clearest real-world tests of whether shorter weeks change productivity and jobs, and economists will be watching."
       ],
-      "differences": null
-    },
-    {
-      "id": "congo-ebola-9000-cases",
-      "heading": "Congo's worst Ebola outbreak passes 9,000 cases as a vaccine trial nears launch",
-      "date": "2026-10-13",
-      "status": "developing",
-      "summary": "Congo's health authorities say an outbreak of the Bundibugyo type of Ebola, which has no approved vaccine, has reached 9,066 cases and 4,381 deaths since May. WHO advisers say a large vaccine trial should start before the end of October.",
-      "lead": {
-        "title": "DR Congo Ebola outbreak passes 9,000 cases",
-        "outlet": "AFP (via Daily Tribune)",
-        "url": "https://tribune.net.ph/2026/10/14/dr-congo-ebola-outbreak-passes-9000-cases",
-        "date": "2026-10-14"
-      },
-      "alsoReported": [
-        {
-          "title": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
-          "outlet": "AFP (via Uganda Broadcasting Corporation)",
-          "url": "https://ubc.go.ug/2026/10/16/dr-congo-ebola-vaccine-trial-to-begin-within-weeks-who"
-        },
-        {
-          "title": "Final preparations underway for pivotal Phase 2/3 Bundibugyo vaccine trial",
-          "outlet": "CEPI",
-          "url": "https://cepi.net/final-preparations-underway-pivotal-phase-23-bundibugyo-vaccine-trial"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "A report from Congo's National Institute of Public Health says the Ebola outbreak in the Democratic Republic of Congo has infected 9,066 people and killed 4,381 since it was declared in mid-May, making it the worst in the country's history[^19]. It began in Ituri province in the northeast and has spread to seven provinces[^19].",
-        "This outbreak is caused by the Bundibugyo virus, a type of Ebola for which there is no approved vaccine or treatment[^19]. The existing vaccine, Ervebo, was made for the more common Zaire type[^14]. Armed groups, remote areas with little health care, and distrust of aid workers have made the response harder[^19].",
-        "On October 13, the vaccine group CEPI said final preparations are under way for a large trial called Tumaini, Swahili for \"hope\", led by Congo's INRB research institute and the University of Antwerp with WHO advice[^20]. It will use ring vaccination, which means vaccinating the contacts of each patient, and can test several vaccines side by side[^20]. Ervebo will likely go first, to see if it also protects against Bundibugyo; vaccines designed for Bundibugyo by Moderna and by Oxford with the Serum Institute of India are in early trials and could join later[^20].",
-        "Anthony Scott, who chairs WHO's vaccine advisory group, said the trial should start before the end of October and \"will generate urgently-needed data\"[^14]. The trial still needs ethical and regulatory approval[^20].",
-        "Why it matters: earlier Ebola outbreaks showed that a vaccine tested in the middle of an epidemic can change how future ones are fought. My read is that results will take months, so for now control still depends on tracing contacts and safe care."
-      ],
-      "differences": null
+      "differences": "Lula's government calls it a win for workers, \"more time to live, rest, be with family\"[^15]. Business groups and Bolsonaro's allies argue it will raise costs, and Bolsonaro reportedly told business owners the new Congress might review it[^14]."
     }
   ],
   "question": {
-    "type": "assumption",
-    "text": "The IMF's forecast assumes oil shipments through the Strait of Hormuz restart by March. When a forecast rests on a guess about how a war unfolds, how much should a government or a family plan around it, and what would make you trust it more or less?"
+    "type": "how-do-we-know",
+    "text": "Today's stories rest on very different kinds of evidence: anonymous officials explaining Iran's motives, a single computer model of ocean currents, and researchers' analysis of billions of ad records. How would you decide how much weight each deserves, and what would change your mind?"
   },
   "read": {
-    "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-    "outlet": "Carbon Brief",
-    "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
+    "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia's Airports?",
+    "outlet": "TIME",
+    "url": "https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/",
     "kind": "analysis",
-    "minutes": 6,
-    "summary": "How the Iran war's oil shock is reshaping energy use: Carbon Brief estimates fossil CO2 emissions may fall about 0.5% in 2026 as oil and gas demand drops, even as coal rises. A clear look at how war, prices and climate connect."
+    "minutes": 8,
+    "summary": "A clear explainer on who the Houthis are, why Yemen's war restarted in 2026, how it links to the Iran war, and what the group wants from Saudi Arabia."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "PBS NewsHour (AP)",
-      "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
-      "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour",
-      "date": "2026-10-15",
+      "outlet": "gCaptain",
+      "title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+      "url": "https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Moscow Times",
-      "title": "Ukrainian Drones Spark Fire at Ryazan Refinery as Zelensky Vows to Resume Attacks",
-      "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981",
+      "outlet": "OPB (AP)",
+      "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+      "url": "https://www.opb.org/article/2026/10/14/iran-says-a-ship-sank-after-striking-a-mine-in-strait-of-hormuz-and-other-middle-east-developments/",
       "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "ABC News (Australia)",
-      "title": "Zelenskyy says he is 'done' with US-made ceasefire on energy targets",
-      "url": "https://abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922",
-      "date": "2026-10-16",
-      "singleSource": false
+      "outlet": "Reuters (via GMA News)",
+      "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
+      "url": "https://gmanetwork.com/news/topstories/world/1005867/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials-say/story/",
+      "date": "2026-10-14",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
-      "url": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition",
-      "date": "2026-10-13",
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say",
+      "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Daily Maverick (Reuters)",
-      "title": "Congo's former president Kabila forms new group to replace M23 insurgency",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-12-congos-former-president-kabila-forms-new-group-to-replace-m23-insurgency/",
-      "date": "2026-10-12",
+      "outlet": "Al Jazeera",
+      "title": "Fighting in Yemen intensifies: What's the latest on the battlefield?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "ABC News (AP)",
-      "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
-      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
-      "date": "2026-10-14",
+      "outlet": "TIME",
+      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia's Airports?",
+      "url": "https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "The New Arab",
-      "title": "The end of UNIFIL: What next for south Lebanon?",
-      "url": "https://www.newarab.com/analysis/end-unifil-what-next-south-lebanon",
-      "date": "2026-10-14",
+      "outlet": "The Record",
+      "title": "Zero-click spyware infecting devices through online ads, researchers say",
+      "url": "https://therecord.media/spyware-citizen-lab-advertising",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
+      "id": 8,
+      "outlet": "Al Jazeera",
+      "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "Middle East Eye",
+      "title": "Israeli spyware targeted 'hundreds of millions' through zero-click ads, researchers find",
+      "url": "https://www.middleeasteye.net/news/israeli-spyware-targeted-hundreds-millions-through-zero-click-ads-researchers-find",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "Reuters (via TimesLIVE)",
+      "title": "Atlantic Ocean currents can recover from severe climate weakening, study finds",
+      "url": "https://www.timeslive.co.za/news/world/2026-10-14-atlantic-ocean-currents-can-recover-from-severe-climate-weakening-study-finds/",
+      "date": "2026-10-14",
+      "singleSource": true
+    },
+    {
       "id": 11,
-      "outlet": "AP (via ABC News)",
-      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
-      "url": "https://abcnews.com/Business/wireStory/imf-raises-forecast-world-growth-year-economies-slow-137214412",
-      "date": "2026-10-12",
+      "outlet": "Newcastle Herald (AAP)",
+      "title": "Eight US states sue OpenAI over ChatGPT harm to young",
+      "url": "https://www.newcastleherald.com.au/story/9368855/eight-us-states-sue-openai-over-chatgpt-harm-to-young/",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Reuters (via Lufkin Daily News)",
-      "title": "IMF calls for US to cut deficits amid bond woes, urges China to shift away from exports",
-      "url": "https://lufkindailynews.com/news_reuters/business/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt/article_456463ec-4178-5ac8-9677-e6f05c7f0be8.html",
+      "outlet": "PC Gamer",
+      "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit",
+      "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
       "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "The National",
-      "title": "IMF official says Iran war price shock buffers are narrowing",
-      "url": "https://thenationalnews.com/business/economy/2026/10/15/imf-official-says-buffers-against-iran-war-price-shock-are-narrowing",
-      "date": "2026-10-15",
+      "outlet": "Engadget",
+      "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+      "url": "https://engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children",
+      "date": "2026-10-14",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "AFP (via Uganda Broadcasting Corporation)",
-      "title": "DR Congo Ebola vaccine trial to begin within weeks: WHO",
-      "url": "https://ubc.go.ug/2026/10/16/dr-congo-ebola-vaccine-trial-to-begin-within-weeks-who",
-      "date": "2026-10-16",
+      "outlet": "WSLS (AP)",
+      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "url": "https://www.wsls.com/business/2026/10/15/brazils-senate-approves-a-shorter-workweek-in-major-win-for-lula-ahead-of-runoff/",
+      "date": "2026-10-15",
       "singleSource": false
     },
     {
       "id": 15,
-      "outlet": "Reuters (via Central Oregon Daily)",
-      "title": "TSMC 'prudent' going into 2027 after posting sixth straight quarter of record profit",
-      "url": "https://www.centraloregondaily.com/news/consumer/tsmc-prudent-going-into-2027-after-posting-sixth-straight-quarter-of-record-profit/article_0c40933f-61a1-588f-bddd-d32c0ca5a9d9.html",
+      "outlet": "bdnews24 (Reuters)",
+      "title": "Brazil's Senate approves shorter workweek in win for Lula",
+      "url": "https://bdnews24.com/world/americas/mcamtcm2g8",
       "date": "2026-10-15",
-      "singleSource": false
-    },
-    {
-      "id": 16,
-      "outlet": "Seoul Economic Daily",
-      "title": "TSMC Third-Quarter Profit Jumps 69% as Margins Narrow",
-      "url": "https://en.sedaily.com/international/2026/10/15/tsmc-third-quarter-profit-jumps-69-percent-as-margins-narrow",
-      "date": "2026-10-15",
-      "singleSource": false
-    },
-    {
-      "id": 17,
-      "outlet": "Eos",
-      "title": "2026 State of the Climate Report Shows a Planet Reaching Its Limits",
-      "url": "https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits",
-      "date": "2026-10-14",
-      "singleSource": false
-    },
-    {
-      "id": 18,
-      "outlet": "TIME",
-      "title": "Climate Change Is Accelerating Faster Than We Can Respond, Scientists Warn",
-      "url": "https://time.com/article/2026/10/14/climate-change-accelerating-study",
-      "date": "2026-10-14",
-      "singleSource": false
-    },
-    {
-      "id": 19,
-      "outlet": "AFP (via Daily Tribune)",
-      "title": "DR Congo Ebola outbreak passes 9,000 cases",
-      "url": "https://tribune.net.ph/2026/10/14/dr-congo-ebola-outbreak-passes-9000-cases",
-      "date": "2026-10-14",
-      "singleSource": false
-    },
-    {
-      "id": 20,
-      "outlet": "CEPI",
-      "title": "Final preparations underway for pivotal Phase 2/3 Bundibugyo vaccine trial",
-      "url": "https://cepi.net/final-preparations-underway-pivotal-phase-23-bundibugyo-vaccine-trial",
-      "date": "2026-10-13",
       "singleSource": false
     }
   ]
