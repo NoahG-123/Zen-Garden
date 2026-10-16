@@ -389,6 +389,18 @@ def main():
         dt.datetime.fromisoformat(idx.get("updated"))
     except (TypeError, ValueError):
         error("index.json.updated", "must be an ISO timestamp with offset, e.g. 2026-10-16T06:05:00-04:00")
+    run = idx.get("run")
+    if run is None:
+        warn("index.json.run", 'missing: add {"finished": <ISO time>, "issues": [...]} so the run card can report on today')
+    elif not isinstance(run, dict):
+        warn("index.json.run", "must be an object")
+    else:
+        try:
+            dt.datetime.fromisoformat(run.get("finished"))
+        except (TypeError, ValueError):
+            warn("index.json.run.finished", "must be an ISO timestamp with offset")
+        for j, x in enumerate(listing("index.json.run.issues", run.get("issues"), 0, 10)):
+            text(f"index.json.run.issues[{j}]", x, 200)
     files = idx.get("files")
     if not isinstance(files, list):
         error("index.json.files", "must be a list")

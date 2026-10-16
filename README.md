@@ -52,6 +52,29 @@ All at the top of `app.js`:
 { "updated": "2026-10-12T06:30:00-04:00", "files": ["world.json", "events.json", "canada.json", "china.json", "generation.json"] }
 ```
 
+### The run record in `index.json`
+
+The morning task also writes a `run` object, shown as the **Today's run** card at the top of the World sidebar:
+
+```json
+"run": {
+  "finished": "2026-10-16T05:52:00-04:00",
+  "issues": [
+    "Dropped “Port strike spreads to Rotterdam”: no source article could be verified.",
+    "China: kept yesterday’s brief because today’s file was broken."
+  ]
+}
+```
+
+| State | What the card shows |
+|---|---|
+| `finished` is today and `issues` is empty | **Run successful · 5:52 am** |
+| `finished` is today and `issues` has items | **Run finished · 5:52 am** and the list of issues |
+| `finished` is an earlier day | **No update has run today. Last run: …** |
+| no `run` object | **No run has been recorded yet.** |
+
+`issues` lists only problems that changed what you see (a dropped topic, a file kept from yesterday, a tab left out). Style notes and warnings are not listed. Because `index.json` is never cached, the card is always current, even when a tab's own file is from an earlier day.
+
 ## Navigation
 
 Five tabs: **World**, **Events**, **Canada**, **China**, **Generation**. Tabs are links (`#world`, `#events`, `#canada`, `#china`, `#generation`) and can be deep-linked. Citation clicks and in-page jumps never change the address-bar hash.

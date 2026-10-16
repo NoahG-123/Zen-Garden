@@ -194,6 +194,24 @@ function hero(label, title, sources, extra) {
     extra || null);
 }
 
+/* ---------------- daily run status (from index.json "run") ---------------- */
+function runCard() {
+  const run = index && index.run;
+  const finished = run ? new Date(str(run.finished)) : null;
+  const issues = arr(run && run.issues).map(str).filter((x) => x.trim());
+  const card = (badge, line, extra) => h("section", { class: "panel card run-card", "aria-labelledby": "run-h", role: "status" },
+    h("div", { class: "section-head" }, h("h2", { class: "label", id: "run-h" }, "Today’s run"), badge),
+    h("p", { class: "run-line" }, line), extra || null);
+  const pill = (state, text) => h("span", { class: "tag plain", "data-s": state }, text);
+  if (!finished || isNaN(finished)) return card(pill("stalled", "no record"), "No run has been recorded yet.");
+  const today = dayKey(finished) === dayKey(new Date());
+  const when = today ? clock(finished) : `${fmt(finished, { weekday: "short", month: "short", day: "numeric", timeZone: TZ })}, ${clock(finished)}`;
+  if (!today) return card(pill("disputed", "not run today"), `No update has run today. Last run: ${when}.`);
+  if (!issues.length) return card(pill("confirmed", "ok"), `Run successful · ${when}`);
+  return card(pill("disputed", issues.length === 1 ? "1 issue" : `${issues.length} issues`), `Run finished · ${when}`,
+    h("ul", { class: "run-list" }, issues.map((x) => h("li", null, x))));
+}
+
 const scrollOpts = () => ({ behavior: reduceMotion.matches ? "auto" : "smooth", block: "start" });
 
 /* ---------------- WORLD ---------------- */
@@ -259,7 +277,8 @@ function renderWorld(d, cleanup, eventsData) {
       region);
   });
 
-  const rail = h("aside", { class: "rail", "aria-label": "Reading and sources" },
+  const rail = h("aside", { class: "rail", "aria-label": "Run status, reading and sources" },
+    runCard(),
     d.question && str(d.question.text).trim() ? h("section", { class: "panel card", "aria-labelledby": "q-h" },
       h("div", { class: "section-head" }, h("h2", { class: "label", id: "q-h" }, "Think about this"), d.question.type ? tag(d.question.type, true) : null),
       h("p", { class: "q" }, rich(d.question.text, sources))) : null,
@@ -509,7 +528,7 @@ async function loadIndex() {
     const r = await fetch(`${DATA_BASE_URL}index.json?t=${Date.now()}`, { cache: "no-store" });
     if (!r.ok) throw new Error(r.status);
     const j = await r.json();
-    index = { updated: str(j.updated), files: arr(j.files) };
+    index = { updated: str(j.updated), files: arr(j.files), run: j.run && typeof j.run === "object" ? j.run : null };
   } catch { index = null; }
   renderUpdated();
 }
@@ -566,7 +585,7 @@ async function show(tab, { scroll = true } = {}) {
   const data = await loadFile(tab);
   if (token !== renderToken) return;
   document.getElementById("sample-flag").hidden = !(data && data.sample === true);
-  if (!data) { main.replaceChildren(missing()); return; }
+  if (!data) { main.replaceChildren(tab === "world" ? h("div", { class: "missing-wrap view" }, missing(), runCard()) : missing()); return; }
   let view;
   const eventsData = tab === "world" ? await loadFile("events") : null;
   if (token !== renderToken) return;
