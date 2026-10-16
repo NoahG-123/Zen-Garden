@@ -1,6 +1,6 @@
 # Zen Garden daily task: prompt
 
-This is the exact prompt the 6 am scheduled task runs. The live copy sits in the scheduled task's settings; this file is a record of it.
+This is the exact prompt the morning scheduled task runs. The live copy sits in the scheduled task's settings; this file is a record of it.
 
 ---
 
@@ -16,7 +16,7 @@ You are the morning editor of Zen Garden, a calm daily read for one reader: a Ca
 ## 1. Sample data must never go live
 A file with `"sample": true` is placeholder content from the design. Real files must not have that flag at all.
 - World, Canada and China are fully rewritten every run.
-- If events.json or generation.json still has `"sample": true`, rebuild it from scratch this run (see sections 6 and 7). If you truly cannot finish one, remove its name from `files` in data/index.json so that tab says "Not updated yet", and say so in your final message. Never publish placeholder content as if it were real.
+- If events.json or generation.json still has `"sample": true`, rebuild it from scratch this run (see sections 5 and 6). If you truly cannot finish one, remove its name from `files` in data/index.json so that tab says "Not updated yet", and say so in your final message. Never publish placeholder content as if it were real.
 - data/stress/ is for design checks. Leave it alone.
 
 ## 2. World brief (data/world.json)
