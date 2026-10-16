@@ -347,6 +347,15 @@ main { max-width: var(--page); margin: 0 auto; padding: 72px var(--gutter) 128px
 .tests li:first-child { border-top: 0; }
 .tests li::before { content: counter(q, decimal-leading-zero); font-family: var(--font-mono); font-size: 11px; color: var(--ink-3); padding-top: 4px; }
 
+/* Desktop: one centred text column shared by the heading and every box, so both sides have equal space */
+@media (min-width: 1024px) {
+  .brief, .gen { --col: 44rem; --pad: 48px; }
+  .brief .hero, .gen .hero { width: 100%; max-width: calc(var(--col) + 2 * var(--pad)); margin-inline: auto; padding-inline: var(--pad); }
+  .brief-body, .brief-reads, .gen-block { padding-inline: var(--pad); }
+  .brief-body > *, .brief-reads > *, .gen-block > * { width: 100%; max-width: var(--col); justify-self: center; }
+  .brief-body .prose p, .brief-body .differs, .brief-reads p, .stat .s, .stat .dt, .claim .dt, .gen .hero .read-sum { max-width: none; }
+}
+
 /* ---------- states ---------- */
 .skel { display: block; height: 12px; border-radius: 3px; background: var(--skel); animation: breathe 1.8s ease-in-out infinite; }
 .skel.h { height: 22px; }

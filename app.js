@@ -589,7 +589,7 @@ function renderGeneration(d) {
   const data = arr(d.data), why = arr(d.why), test = arr(d.test);
   const col = h("div", { class: "col" },
     hero(d.updated ? `This month · ${monthYear(d.updated)}` : "This month", d.topic, sources,
-      d.intro ? h("p", { class: "read-sum", style: "font-size:16.5px;max-width:65ch" }, rich(d.intro, sources)) : null),
+      d.intro ? h("p", { class: "read-sum", style: "font-size:16.5px" }, rich(d.intro, sources)) : null),
     data.length ? h("section", { class: "panel gen-block", "aria-labelledby": "g1" },
       h("h2", { class: "label", id: "g1" }, "What the data says"),
       data.map((x) => h("div", { class: "stat" },
