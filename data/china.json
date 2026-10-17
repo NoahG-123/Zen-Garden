@@ -1,77 +1,23 @@
 {
- "date": "2026-10-16",
- "summary": "Apple's AI features clear a key Chinese approval with Alibaba's help, DeepSeek recovers from a five-hour outage, and economists expect Q3 growth near 4.4% ahead of official data.",
+ "date": "2026-10-17",
+ "summary": "A fairly quiet day: official Q3 growth figures arrive Monday, prices rose a little in September, and China's open AI models keep winning users abroad.",
  "body": [
-  "Apple Intelligence, the iPhone's set of AI tools, moved closer to launching in China. China's Ministry of Industry and Information Technology updated device permits so iPhones, including the new iPhone Duo and iPhone 18 Pro, can use Alibaba's Qwen language models and its Tongyi Wanxiang image and video generator [^1]. China limits foreign AI services, so Apple relies on local partners, and officials must also approve future model updates [^2]. Bloomberg, as reported by MacRumors, says the first version will be basic, with photo editing but no AI Siri or Image Playground [^2].",
-  "DeepSeek, the Chinese AI lab whose chatbot is widely used in China, had an outage on Thursday. Problems began at 8:11 a.m. Beijing time and affected its website, app and API (the connection other software uses to reach its models) [^3][^4]. All services were back by 1:04 p.m. The company said it found the cause but did not say what it was [^3].",
-  "On household money: e-bikes, a main way many Chinese people get around cities, sold 9% more in the third quarter than a year earlier, the first rise this year, according to research firm AVC. But in early October authorities suspended safety certificates for many models after failed factory checks, and Caixin reports sales have nearly stalled [^5]. Bank lending in September beat forecasts, while household borrowing stayed roughly flat after two months of shrinking, central bank data show [^7]. Official third-quarter growth figures have not come out yet; economists surveyed by Caixin expect about 4.4%, with September retail sales up only about 1% [^6]. My read: a quiet-ish day, with exports still carrying an economy where shoppers remain cautious."
+  "The big number is still to come. China's statistics bureau will publish data for the first three quarters of 2026 on Monday, October 19, at a government press conference[^1]. A Reuters poll of 50 economists expects third-quarter growth of 4.4% from a year earlier, up slightly from 4.3% in the second quarter. That would be just under the government's target range of 4.5% to 5% for the year. The same release will include September retail sales, a rough gauge of how much households are spending[^2].",
+  "Prices for shoppers barely moved. Consumer prices in September were 0.9% higher than a year earlier, a little below forecasts, while factory-gate prices (what producers charge businesses) jumped 5%, the fastest rise since mid-2022[^3]. Chinese state media says higher energy and industrial goods prices drove the consumer increase, while cheaper food held it back[^4]. Investing.com reports that household spending stays soft because of the long property slump, weak wages and a tight job market[^3].",
+  "On the tech side, Rest of World reports that new Western open-weight AI models (models whose inner settings anyone can download and run) still trail the top Chinese ones. Chinese models from DeepSeek, Z.ai, Xiaomi and Tencent hold four of the top five spots on the OpenRouter usage ranking, and experts say they can do some tasks 50% to 90% more cheaply than leading U.S. models[^5]. Separately, phone maker Transsion, little known in Canada but a big seller in Africa and South Asia, began trading in Hong Kong on October 15. It raised about HK$3.06 billion to fund expansion overseas[^6].",
+  "A daily-life story: Sixth Tone reports that many ordinary people who \"sold\" their faces to AI platforms this spring have earned little or nothing. AI short dramas mostly want celebrities and online influencers, and some users joined mainly to protect their likeness from misuse[^7]. My read: it is a useful reminder that a hyped side hustle often pays off only for a few."
  ],
- "differences": "Timing of Apple's China AI launch differs. The South China Morning Post says Apple has confirmed an October launch [^1], while Bloomberg, as reported by MacRumors, says the features will arrive with iOS 27.3, expected in December [^2]. A test version in October and a wider release in December could both be true, but this is not confirmed.",
+ "differences": "Sources stress different reasons for September's small rise in consumer prices. Chinese state media points to higher energy and industrial goods prices[^4], while Investing.com credits mainly holiday spending and says demand overall stays weak[^3].",
  "reads": [
-  {
-   "title": "China's white-collar experts are training AI to pay the bills",
-   "outlet": "Rest of World",
-   "url": "https://restofworld.org/2026/china-expert-ai-trainers/",
-   "kind": "analysis",
-   "summary": "From September: lawyers, teachers and engineers in China take gig work writing hard problems for AI models, often earning 100 to 500 yuan per task, as job markets tighten."
-  }
+  {"title": "Western open-weight models still can't beat China", "outlet": "Rest of World", "url": "https://restofworld.org/2026/china-open-weight-models/", "kind": "analysis", "summary": "Why cheaper, downloadable Chinese AI models appeal to businesses and governments in lower-income countries, and what limits Chinese labs still face, such as shortages of computing power."}
  ],
  "sources": [
-  {
-   "id": 1,
-   "outlet": "South China Morning Post",
-   "title": "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets",
-   "url": "https://www.scmp.com/tech/big-tech/article/3370893/china-approves-alibaba-ai-models-use-iphone-duo-and-other-apple-handsets",
-   "date": "2026-10-14",
-   "singleSource": false
-  },
-  {
-   "id": 2,
-   "outlet": "MacRumors",
-   "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-   "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-   "date": "2026-10-14",
-   "singleSource": true
-  },
-  {
-   "id": 3,
-   "outlet": "Caixin Global",
-   "title": "DeepSeek Restores Services After Nearly Five-Hour Outage",
-   "url": "https://www.caixinglobal.com/2026-10-16/deepseek-restores-services-after-nearly-five-hour-outage-102493794.html",
-   "date": "2026-10-16",
-   "singleSource": false
-  },
-  {
-   "id": 4,
-   "outlet": "TechNode",
-   "title": "DeepSeek implements fix after partial outage affects chat and API services",
-   "url": "https://technode.com/2026/10/15/deepseek-implements-fix-after-partial-outage-affects-chat-and-api-services/",
-   "date": "2026-10-15",
-   "singleSource": false
-  },
-  {
-   "id": 5,
-   "outlet": "Caixin Global",
-   "title": "China's Electric Two-Wheeler Recovery Faces Regulatory Uncertainty",
-   "url": "https://www.caixinglobal.com/2026-10-15/chinas-electric-two-wheeler-recovery-faces-regulatory-uncertainty-102493476.html",
-   "date": "2026-10-15",
-   "singleSource": true
-  },
-  {
-   "id": 6,
-   "outlet": "Caixin Global",
-   "title": "China's Growth Seen Edging Up to 4.4% as Exports Offset Weak Demand",
-   "url": "https://www.caixinglobal.com/2026-10-14/chinas-growth-seen-edging-up-to-44-as-exports-offset-weak-demand-102493073.html",
-   "date": "2026-10-14",
-   "singleSource": true
-  },
-  {
-   "id": 7,
-   "outlet": "Caixin Global",
-   "title": "China's September Lending Rebounds, Beating Forecasts",
-   "url": "https://www.caixinglobal.com/2026-10-15/chinas-september-lending-rebounds-beating-forecasts-102493474.html",
-   "date": "2026-10-15",
-   "singleSource": true
-  }
+  {"id": 1, "outlet": "Caixin Global", "title": "The Week Ahead (Oct. 19-25): China Releases Quarterly Economic Data; APEC Finance Ministers Meet", "url": "https://www.caixinglobal.com/2026-10-16/the-week-ahead-oct-19-25-china-releases-quarterly-economic-data-apec-finance-ministers-meet-102494148.html", "date": "2026-10-16", "singleSource": false},
+  {"id": 2, "outlet": "Reuters (via Yahoo Finance Canada)", "title": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll", "url": "https://ca.finance.yahoo.com/news/china-q3-growth-set-pick-092516679.html", "date": "2026-10-15", "singleSource": false},
+  {"id": 3, "outlet": "Investing.com (via Yahoo Finance)", "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high", "url": "https://finance.yahoo.com/economy/articles/china-cpi-inflation-grows-less-021528930.html", "date": "2026-10-14", "singleSource": false},
+  {"id": 4, "outlet": "Xinhua (Chinese state media)", "title": "Economic Watch: China's consumer inflation ticks up, outlook for price recovery improves", "url": "https://english.news.cn/20261014/059323cfe841489ba505d833d4e0e896/c.html", "date": "2026-10-14", "singleSource": false},
+  {"id": 5, "outlet": "Rest of World", "title": "Western open-weight models still can't beat China", "url": "https://restofworld.org/2026/china-open-weight-models/", "date": "2026-10-16", "singleSource": true},
+  {"id": 6, "outlet": "TechNode", "title": "Smartphone maker Transsion completes Hong Kong listing, raising about HKD 3.06 billion", "url": "https://technode.com/2026/10/16/smartphone-maker-transsion-completes-hong-kong-listing-raising-about-hkd-3-06-billion/", "date": "2026-10-16", "singleSource": true},
+  {"id": 7, "outlet": "Sixth Tone", "title": "Chinese Users Find Little Money in 'Selling' Their Faces to AI", "url": "https://www.sixthtone.com/news/1019126", "date": "2026-10-15", "singleSource": true}
  ]
 }

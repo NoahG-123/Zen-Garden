@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-16",
+  "reviewed": "2026-10-17",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "US-Iran fighting is in a lull, but ship attacks near Hormuz are at their highest since the war began; two Iranian officials told Reuters Iran shifted tactics to keep oil prices high before the US vote [^22]. A Singapore-flagged container ship sank on Oct 13 [^3]. Brent was about $106 on Oct 14 [^1]. The Houthis hit Aramco's head office and Riyadh's airport as Yemen's war spreads into Saudi Arabia [^21]. Talks are stalled [^1].",
+      "standing": "US-Iran fighting is in a lull, but ship attacks near Hormuz are at their highest since the war began; two Iranian officials told Reuters Iran shifted tactics before the US vote [^22]. Brent oil closed at $109.86 on Oct 16, its highest since May, after a missile was aimed at Saudi Arabia's Yanbu port [^24]. The Houthis hit Aramco's head office and Riyadh's airport [^21]. Talks are stalled [^1].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -116,7 +116,8 @@
         3,
         4,
         21,
-        22
+        22,
+        24
       ]
     },
     {
@@ -125,7 +126,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] A US-announced pause on energy strikes fell apart within days: Ukraine says Russia kept hitting power plants, and on Oct 15 it struck a Rosneft refinery in Ryazan.[^5] Kyiv is in its sharpest dispute with Washington since 2022, after the US eased sanctions on Russian diesel, while Germany, France and the UK backed Zelenskyy.[^7] Two tankers caught fire in Romanian waters; Romania has not tied them to Russian drones seen nearby.[^6]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] A US-announced pause on energy strikes collapsed, and Ukraine hit a Rosneft refinery in Ryazan.[^5] Kyiv is in its sharpest dispute with Washington since 2022 over US easing of sanctions on Russian diesel.[^7] At an Oct 16 EU summit Zelenskyy asked for about €70 billion for 2027; leaders pledged support but decided nothing.[^25]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -133,12 +134,12 @@
       },
       "watch": [
         {
-          "date": "2026-10-16",
-          "what": "EU leaders meet in Brussels with Zelenskyy; Ukraine's 2027 funding and frozen Russian assets are on the agenda"
-        },
-        {
           "date": "2026-11-03",
           "what": "US midterm elections, which could change how much room Trump has on Ukraine policy and sanctions"
+        },
+        {
+          "date": "2026-11-26",
+          "what": "Special EU summit on the next long-term budget; Ukraine's 2027 funding gap is still open"
         }
       ],
       "connects": [
@@ -238,7 +239,8 @@
         5,
         6,
         7,
-        8
+        8,
+        25
       ]
     },
     {
@@ -479,7 +481,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF says AI investment props up world growth but a sharp pullback could cut 1.1% from global output by 2028 [^17]. Nvidia's China AI-chip share fell to 34% [^18]. Safety fights are moving to courts: eight US states sued OpenAI on Oct 14 over ChatGPT's safety [^23], while Washington debates national rules [^20].",
+      "standing": "Spending is still climbing: TSMC posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Safety fights are moving to courts and regulators: eight US states sued OpenAI on Oct 14 [^23], and on Oct 15 the FTC sent legally binding demands for safety records to OpenAI and Anthropic [^26]. Washington still debates national rules [^20].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -608,7 +610,8 @@
         18,
         19,
         20,
-        23
+        23,
+        26
       ]
     }
   ],
@@ -800,6 +803,30 @@
       "outlet": "Newcastle Herald (AAP)",
       "title": "Eight US states sue OpenAI over ChatGPT harm to young",
       "url": "https://www.newcastleherald.com.au/story/9368855/eight-us-states-sue-openai-over-chatgpt-harm-to-young/",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 24,
+      "outlet": "The Nation (Thailand)",
+      "title": "Brent hits US$110 a barrel on October 16 over supply fears",
+      "url": "https://www.nationthailand.com/news/world/40072388",
+      "date": "2026-10-17",
+      "singleSource": false
+    },
+    {
+      "id": 25,
+      "outlet": "Al Jazeera",
+      "title": "EU rallies in support of Ukraine amid Trump standoff",
+      "url": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff",
+      "date": "2026-10-16",
+      "singleSource": false
+    },
+    {
+      "id": 26,
+      "outlet": "Axios",
+      "title": "Scoop: FTC subpoenas OpenAI, Anthropic over consumer harms",
+      "url": "https://axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
       "date": "2026-10-15",
       "singleSource": false
     }
