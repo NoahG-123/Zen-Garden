@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-17",
+  "reviewed": "2026-10-18",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "US-Iran fighting is in a lull, but ship attacks near Hormuz are at their highest since the war began; two Iranian officials told Reuters Iran shifted tactics before the US vote [^22]. Brent oil closed at $109.86 on Oct 16, its highest since May, after a missile was aimed at Saudi Arabia's Yanbu port [^24]. The Houthis hit Aramco's head office and Riyadh's airport [^21]. Talks are stalled [^1].",
+      "standing": "Ship attacks near Hormuz are at their highest since the war began: a UK monitor counted at least 12 in the week to Oct 16 and says many go unreported [^27]. The US says it controls the strait; Iran says ships that ignore its rules hit mines, and on Oct 17 said a supertanker caught fire [^27]. Brent touched $110 on Oct 16 [^24]. US media report Trump wants the military ready for bigger strikes after the midterms; mediators pass messages without a breakthrough [^27].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -117,7 +117,8 @@
         4,
         21,
         22,
-        24
+        24,
+        27
       ]
     },
     {
@@ -126,7 +127,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] A US-announced pause on energy strikes collapsed, and Ukraine hit a Rosneft refinery in Ryazan.[^5] Kyiv is in its sharpest dispute with Washington since 2022 over US easing of sanctions on Russian diesel.[^7] At an Oct 16 EU summit Zelenskyy asked for about €70 billion for 2027; leaders pledged support but decided nothing.[^25]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After a US-announced energy pause collapsed, Russia hit more than 15 power sites on Oct 16-17, one of its largest grid attacks, Ukraine says.[^29] The UN says 2,570 civilians were killed from January to September, almost 60% more than a year earlier.[^28] Kyiv is at odds with Washington over eased sanctions on Russian diesel.[^7] At an Oct 16 EU summit Zelenskyy asked for about €70 billion for 2027.[^25]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -240,7 +241,9 @@
         6,
         7,
         8,
-        25
+        25,
+        28,
+        29
       ]
     },
     {
@@ -481,7 +484,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC posted its sixth straight record quarterly profit on Oct 15 [^19]. The IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Safety fights are moving to courts and regulators: eight US states sued OpenAI on Oct 14 [^23], and on Oct 15 the FTC sent legally binding demands for safety records to OpenAI and Anthropic [^26]. Washington still debates national rules [^20].",
+      "standing": "Spending is still climbing: TSMC posted a record quarterly profit on Oct 15 [^19], while the IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Safety fights are moving to courts and regulators: eight US states sued OpenAI [^23] and the FTC demanded safety records from OpenAI and Anthropic [^26]. On Oct 16 China drafted export controls on its largest AI models and some chip designs, a mirror of US curbs [^30].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -495,6 +498,10 @@
         {
           "date": "2026-11-03",
           "what": "US midterm elections; AI safety, data centres and power bills are campaign issues"
+        },
+        {
+          "date": "2026-11-15",
+          "what": "Comment period closes on China's draft export controls for large AI models and chip designs"
         },
         {
           "date": "2026-11-18",
@@ -611,11 +618,16 @@
         19,
         20,
         23,
-        26
+        26,
+        30
       ]
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-18",
+      "text": "Weekly review: all five events kept, with no status changes. Sudan's war was tested against the criteria; it is grave, but my read is that its reach beyond the region is narrower than these five, so it is followed in the World brief for now."
+    },
     {
       "date": "2026-10-15",
       "text": "List rebuilt from scratch with five events: the Iran war and Hormuz crisis, Russia's war in Ukraine, Gaza and Israel-Palestine, US politics and the economy, and the AI race. Each meets the test of lasting impact, wide reach and an unsettled outcome."
@@ -828,6 +840,38 @@
       "title": "Scoop: FTC subpoenas OpenAI, Anthropic over consumer harms",
       "url": "https://axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
       "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 27,
+      "outlet": "Al Jazeera",
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+      "date": "2026-10-17",
+      "singleSource": false
+    },
+    {
+      "id": 28,
+      "outlet": "Al Jazeera (with Reuters)",
+      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+      "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
+      "date": "2026-10-17",
+      "singleSource": false
+    },
+    {
+      "id": 29,
+      "outlet": "The Kyiv Independent",
+      "title": "Russia launches 'one of its largest attacks' on Ukraine's energy grid as US 'disregards' Graham's sanctions, Zelensky says",
+      "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
+      "date": "2026-10-17",
+      "singleSource": false
+    },
+    {
+      "id": 30,
+      "outlet": "The Next Web",
+      "title": "China proposes export controls on its advanced AI models and chip designs",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "date": "2026-10-16",
       "singleSource": false
     }
   ]

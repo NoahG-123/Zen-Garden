@@ -1,23 +1,61 @@
 {
- "date": "2026-10-17",
- "summary": "A fairly quiet day: official Q3 growth figures arrive Monday, prices rose a little in September, and China's open AI models keep winning users abroad.",
- "body": [
-  "The big number is still to come. China's statistics bureau will publish data for the first three quarters of 2026 on Monday, October 19, at a government press conference[^1]. A Reuters poll of 50 economists expects third-quarter growth of 4.4% from a year earlier, up slightly from 4.3% in the second quarter. That would be just under the government's target range of 4.5% to 5% for the year. The same release will include September retail sales, a rough gauge of how much households are spending[^2].",
-  "Prices for shoppers barely moved. Consumer prices in September were 0.9% higher than a year earlier, a little below forecasts, while factory-gate prices (what producers charge businesses) jumped 5%, the fastest rise since mid-2022[^3]. Chinese state media says higher energy and industrial goods prices drove the consumer increase, while cheaper food held it back[^4]. Investing.com reports that household spending stays soft because of the long property slump, weak wages and a tight job market[^3].",
-  "On the tech side, Rest of World reports that new Western open-weight AI models (models whose inner settings anyone can download and run) still trail the top Chinese ones. Chinese models from DeepSeek, Z.ai, Xiaomi and Tencent hold four of the top five spots on the OpenRouter usage ranking, and experts say they can do some tasks 50% to 90% more cheaply than leading U.S. models[^5]. Separately, phone maker Transsion, little known in Canada but a big seller in Africa and South Asia, began trading in Hong Kong on October 15. It raised about HK$3.06 billion to fund expansion overseas[^6].",
-  "A daily-life story: Sixth Tone reports that many ordinary people who \"sold\" their faces to AI platforms this spring have earned little or nothing. AI short dramas mostly want celebrities and online influencers, and some users joined mainly to protect their likeness from misuse[^7]. My read: it is a useful reminder that a hyped side hustle often pays off only for a few."
- ],
- "differences": "Sources stress different reasons for September's small rise in consumer prices. Chinese state media points to higher energy and industrial goods prices[^4], while Investing.com credits mainly holiday spending and says demand overall stays weak[^3].",
- "reads": [
-  {"title": "Western open-weight models still can't beat China", "outlet": "Rest of World", "url": "https://restofworld.org/2026/china-open-weight-models/", "kind": "analysis", "summary": "Why cheaper, downloadable Chinese AI models appeal to businesses and governments in lower-income countries, and what limits Chinese labs still face, such as shortages of computing power."}
- ],
- "sources": [
-  {"id": 1, "outlet": "Caixin Global", "title": "The Week Ahead (Oct. 19-25): China Releases Quarterly Economic Data; APEC Finance Ministers Meet", "url": "https://www.caixinglobal.com/2026-10-16/the-week-ahead-oct-19-25-china-releases-quarterly-economic-data-apec-finance-ministers-meet-102494148.html", "date": "2026-10-16", "singleSource": false},
-  {"id": 2, "outlet": "Reuters (via Yahoo Finance Canada)", "title": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll", "url": "https://ca.finance.yahoo.com/news/china-q3-growth-set-pick-092516679.html", "date": "2026-10-15", "singleSource": false},
-  {"id": 3, "outlet": "Investing.com (via Yahoo Finance)", "title": "China CPI inflation grows less than expected in Sept; PPI hits 4-yr high", "url": "https://finance.yahoo.com/economy/articles/china-cpi-inflation-grows-less-021528930.html", "date": "2026-10-14", "singleSource": false},
-  {"id": 4, "outlet": "Xinhua (Chinese state media)", "title": "Economic Watch: China's consumer inflation ticks up, outlook for price recovery improves", "url": "https://english.news.cn/20261014/059323cfe841489ba505d833d4e0e896/c.html", "date": "2026-10-14", "singleSource": false},
-  {"id": 5, "outlet": "Rest of World", "title": "Western open-weight models still can't beat China", "url": "https://restofworld.org/2026/china-open-weight-models/", "date": "2026-10-16", "singleSource": true},
-  {"id": 6, "outlet": "TechNode", "title": "Smartphone maker Transsion completes Hong Kong listing, raising about HKD 3.06 billion", "url": "https://technode.com/2026/10/16/smartphone-maker-transsion-completes-hong-kong-listing-raising-about-hkd-3-06-billion/", "date": "2026-10-16", "singleSource": true},
-  {"id": 7, "outlet": "Sixth Tone", "title": "Chinese Users Find Little Money in 'Selling' Their Faces to AI", "url": "https://www.sixthtone.com/news/1019126", "date": "2026-10-15", "singleSource": true}
- ]
+  "date": "2026-10-18",
+  "summary": "Beijing drafts limits on exporting its biggest AI models, growth figures arrive Monday, and Duolingo starts teaching Shanghainese.",
+  "body": [
+    "The biggest tech story is Beijing's draft list of technologies that would need a licence to leave China (see the World tab for the global angle). It would cover the core parts of China's largest AI models, such as their weights and code, plus some AI chip designs [^1][^2]. AP notes that models from Moonshot (Kimi K3) and Alibaba (Qwen 3.8-Max) are above the 2-trillion-parameter line, though the draft names no companies [^2]. Chinese firms could still sell to foreign users through apps and websites, and open-source code is exempt [^1]. Comments close November 15 [^1].",
+    "Tomorrow, Monday, China publishes third-quarter growth figures along with September retail sales, a rough measure of how much households spend [^3]. A Reuters poll of 50 economists expects 4.4% growth from a year earlier, just under the government's 4.5% to 5% target range, with the long property slump still weighing on spending [^3].",
+    "In daily life, Duolingo launched lessons in Shanghainese, a dialect spoken by about 10 million people that has faded as Mandarin spread through schools and media; China is the app's fastest-growing market [^4]. And an AI-generated girl group on Xiaohongshu (RedNote) drew mockery and criticism after announcing that one virtual member was pregnant and taking leave. Critics said it treated women's health as entertainment; the creators, who say they are students, said they had been harassed [^5]. My read: virtual idols are becoming common online in China, and so are fights over what they should be allowed to pretend."
+  ],
+  "differences": null,
+  "reads": [
+    {
+      "title": "She Sold 192 Porsches in a Year. Then Came an AI-Fueled Smear Campaign.",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1019071",
+      "kind": "news",
+      "summary": "A first-person account from a Qingdao car saleswoman targeted by fake AI videos: what platforms and police did, and why many women feel they have little protection."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "The Next Web",
+      "title": "China proposes export controls on its advanced AI models and chip designs",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "date": "2026-10-16",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "AP (via WHEC)",
+      "title": "China moves to curb tech exports, including AI, citing national security risks",
+      "url": "https://www.whec.com/ap-top-news/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
+      "date": "2026-10-17",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Reuters (via Investing.com)",
+      "title": "China Q3 growth set to pick up on stimulus, keeping 2026 goal within reach: Reuters poll",
+      "url": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895",
+      "date": "2026-10-15",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Sixth Tone",
+      "title": "Duolingo Launches Shanghainese Lessons, Its 2nd Chinese Dialect",
+      "url": "https://www.sixthtone.com/news/1019133/duolingo-launches-shanghainese-lessons%2C-its-2nd-chinese-dialect",
+      "date": "2026-10-16",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "Sixth Tone",
+      "title": "In China, an AI Idol's 'Maternity Leave' Backfires on Her Creators",
+      "url": "https://www.sixthtone.com/news/1019128/in-china%2C-an-ai-idol%E2%80%99s-%E2%80%98maternity-leave%E2%80%99-backfires-on-her-creators",
+      "date": "2026-10-16",
+      "singleSource": true
+    }
+  ]
 }
