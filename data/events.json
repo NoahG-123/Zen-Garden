@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-18",
+  "reviewed": "2026-10-19",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Ship attacks near Hormuz are at their highest since the war began: a UK monitor counted at least 12 in the week to Oct 16 and says many go unreported [^27]. The US says it controls the strait; Iran says ships that ignore its rules hit mines, and on Oct 17 said a supertanker caught fire [^27]. Brent touched $110 on Oct 16 [^24]. US media report Trump wants the military ready for bigger strikes after the midterms; mediators pass messages without a breakthrough [^27].",
+      "standing": "Ship attacks near Hormuz are at their highest since the war began; a UK monitor counted at least 12 in the week to Oct 16 [^27]. The war is widening on its edges: Egypt's president asked parliament on Oct 17 to approve sending forces to defend Saudi Arabia from Iran-backed Houthi attacks [^32]. Brent touched $110 on Oct 16 [^24]. US media report Trump wants the military ready for bigger strikes after the midterms; mediators pass messages without a breakthrough [^27].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -118,7 +118,8 @@
         21,
         22,
         24,
-        27
+        27,
+        32
       ]
     },
     {
@@ -127,7 +128,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After a US-announced energy pause collapsed, Russia hit more than 15 power sites on Oct 16-17, one of its largest grid attacks, Ukraine says.[^29] The UN says 2,570 civilians were killed from January to September, almost 60% more than a year earlier.[^28] Kyiv is at odds with Washington over eased sanctions on Russian diesel.[^7] At an Oct 16 EU summit Zelenskyy asked for about €70 billion for 2027.[^25]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] Both sides are hitting energy: Russia struck more than 15 power sites on Oct 16-17,[^29] and on Oct 18 Ukraine sent what Russia says were 1,015 drones, hitting a St Petersburg oil terminal.[^31] Trump paused new Russia sanctions for up to 60 days and said Zelenskyy \"doesn't want to end this war\".[^31] The UN says 2,570 civilians were killed January to September.[^28]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -243,7 +244,8 @@
         8,
         25,
         28,
-        29
+        29,
+        31
       ]
     },
     {
@@ -484,7 +486,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC posted a record quarterly profit on Oct 15 [^19], while the IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Safety fights are moving to courts and regulators: eight US states sued OpenAI [^23] and the FTC demanded safety records from OpenAI and Anthropic [^26]. On Oct 16 China drafted export controls on its largest AI models and some chip designs, a mirror of US curbs [^30].",
+      "standing": "Spending is still climbing: TSMC posted a record quarterly profit on Oct 15 [^19], but investors are questioning the debt behind it; AI cloud firms CoreWeave and Nebius fell more than 25% in the week to Oct 16 [^33]. The IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Eight US states sued OpenAI [^23], and on Oct 16 China drafted export controls on its largest AI models [^30].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -619,7 +621,8 @@
         20,
         23,
         26,
-        30
+        30,
+        33
       ]
     }
   ],
@@ -872,6 +875,30 @@
       "title": "China proposes export controls on its advanced AI models and chip designs",
       "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
       "date": "2026-10-16",
+      "singleSource": false
+    },
+    {
+      "id": 31,
+      "outlet": "Al Jazeera",
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 32,
+      "outlet": "The National",
+      "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+      "date": "2026-10-18",
+      "singleSource": false
+    },
+    {
+      "id": 33,
+      "outlet": "Yahoo Finance",
+      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+      "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
+      "date": "2026-10-18",
       "singleSource": false
     }
   ]

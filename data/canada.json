@@ -1,94 +1,61 @@
 {
-  "date": "2026-10-18",
-  "summary": "Albertans vote Monday on whether to stay in Canada, Ontario will import U.S. power this winter, and Anthropic picks Nova Scotia for its first Canadian data centre.",
+  "date": "2026-10-19",
+  "summary": "Four soldiers died in a fire and explosion at CFB Wainwright on Saturday, and Albertans vote today on whether to start a path toward leaving Canada.",
   "body": [
-    "Alberta votes tomorrow. Polls are open Monday from 9 a.m. to 8 p.m. Alberta time, and Question 10, on whether to stay in Canada or hold a second, binding vote on leaving, will be counted first, with early results expected Monday night [^1]. Ballots are counted by hand; results on the other nine questions, on topics such as immigration and the constitution, should come by Wednesday [^1]. Elections Alberta said more than 700,000 people had voted at advance polls by Saturday, and total ballots passed one million on Thursday [^2][^3]. A Leger online poll taken Oct. 14 to 16 found 74% planned to vote to remain and 21% to start the separation process [^4]. Polls are not results, so Monday night is what counts.",
-    "Closer to home: Ontario's grid operator (the IESO) has signed a six-month deal, starting Nov. 1, to import 600 megawatts of power from a U.S. company this winter [^5]. Ontario normally sells power to Michigan, New York and Minnesota, and in August Premier Doug Ford said he was willing to cut off electricity to the U.S. in the trade war [^5]. The IESO calls the deal normal planning for winter demand and maintenance; the Toronto Sun reports it will cover shortfalls while the Pickering nuclear plant is refurbished [^5][^6]. The cost was not disclosed [^6].",
-    "In Nova Scotia, Anthropic, the U.S. company that makes the Claude AI models, signed a 20-year lease at a planned data centre at Point Tupper in Cape Breton. Developer EverWind says it will invest $8 billion in the campus and $2 billion in wind farms; the first phase is due in late 2027 [^7][^8]. Disclosure: Anthropic makes the AI that writes this brief.",
-    "On the economy, Statistics Canada releases September inflation on Monday. Economists polled by Reuters expect 3.2%, up from 3.0% in August, ahead of the Bank of Canada's Oct. 28 rate decision; the bank's rate has been 2.25% for nearly a year [^9]."
+    "A fire and explosion during live training at CFB Wainwright in Alberta killed four Canadian Armed Forces members on Saturday, Prime Minister Mark Carney said; the government says 39 were injured, and Global News reports 19 in critical condition [^1][^2][^3]. Carney called it one of the forces' worst peacetime tragedies on Canadian soil and ordered flags to half-mast [^2]. Military sources told Global News a munition likely started a grass fire, driven by gusts near 100 km/h, that led to the blast; the military says the cause is under investigation and there is no sign of terrorism [^1][^3]. Some military sources gave a higher death toll that officials have not confirmed [^1].",
+    "Albertans vote today, Oct. 19. Question 10 asks whether to stay in Canada or begin a legal process toward a future, binding referendum on leaving; a vote for the second option would not by itself make Alberta independent [^4]. Polls suggest about four in five Albertans want to stay, and many \"leave\" voters say they want to send Ottawa a message [^4]. Premier Danielle Smith, who opposes independence, is urging a yes vote on the nine other questions, such as limiting temporary residents' access to health care [^4]. Early results on Question 10 are expected tonight; polls are not results.",
+    "Also today, Statistics Canada releases September inflation. Forecasters expect 3.2%, ahead of the Bank of Canada's Oct. 28 decision, where the rate is expected to stay at 2.25% [^5]."
   ],
-  "differences": "People read the Ontario power deal differently. The IESO says it is routine and that Ontario exported about seven times more power than it imported in 2025 [^5]. Critics, including Environmental Defence and the Ontario Clean Air Alliance, call it \"ironic\" given Ford's threats and say more clean power should have been built [^5][^6]. In Nova Scotia, the NDP asks how promises to protect ratepayers will be enforced; the premier says existing approvals are enough [^7].",
+  "differences": "Accounts of the Wainwright toll differ: the government confirms four dead and 39 injured, while some military sources told Global News at least seven died [^1][^2]. On Alberta, Carney warns voters not to treat Question 10 as a way to \"send a message\"; some separatists say a strong showing is itself a message [^4].",
   "reads": [
     {
-      "title": "What Albertans need to know about voting in the referendum",
-      "outlet": "The Canadian Press (via Yahoo News Canada)",
-      "url": "https://ca.news.yahoo.com/albertans-know-voting-referendum-120010505.html",
+      "title": "CFB Wainwright fire sparked by live training exercise, causes explosion: sources",
+      "outlet": "Global News",
+      "url": "https://globalnews.ca/news/12107062/cfb-wainwright-fire-what-we-know/",
       "kind": "news",
-      "summary": "A plain guide to Monday's vote: the 10 questions, hours, ID rules, and when results on Question 10 and the others are expected."
+      "summary": "What is known so far about Saturday's fire: the timeline, the high-wind warning, the medical response and the open questions for the investigation."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Yahoo News Canada (The Canadian Press)",
-      "title": "What Albertans need to know about voting in the referendum",
-      "url": "https://ca.news.yahoo.com/albertans-know-voting-referendum-120010505.html",
-      "date": "2026-10-17",
+      "outlet": "Global News (The Canadian Press)",
+      "title": "CFB Wainwright: Latest on deadly explosion, fire at Alberta military base",
+      "url": "https://globalnews.ca/news/12107237/cfb-wainwright-latest/",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CTV News",
-      "title": "Advance ballot turnout totals over 700,000 ahead of last day",
-      "url": "https://www.ctvnews.ca/calgary/article/advance-ballot-turnout-totals-over-700000-ahead-of-last-day/",
-      "date": "2026-10-17",
+      "outlet": "ABC News",
+      "title": "4 dead, 39 injured in explosion at Canadian military training base",
+      "url": "https://abcnews.com/International/multiple-people-killed-dozens-injured-explosion-canadian-military/story?id=137359465",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CTV News",
-      "title": "1 million votes cast in Alberta's referendum",
-      "url": "https://www.ctvnews.ca/edmonton/article/1-million-votes-cast-in-albertas-referendum/",
-      "date": "2026-10-16",
+      "outlet": "Global News",
+      "title": "CFB Wainwright fire sparked by live training exercise, causes explosion: sources",
+      "url": "https://globalnews.ca/news/12107062/cfb-wainwright-fire-what-we-know/",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Leger",
-      "title": "Alberta Referendum: The Gap Widens as Voting Day Approaches",
-      "url": "https://leger360.com/alberta-referendum-gap-widens-as-voting-day-approaches/",
-      "date": "2026-10-17",
-      "singleSource": true
+      "outlet": "Al Jazeera",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
+      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
+      "date": "2026-10-18",
+      "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Yahoo News Canada (CBC)",
-      "title": "Ontario to import U.S. electricity this winter, months after Ford threatened to cut power exports",
-      "url": "https://ca.news.yahoo.com/ontario-import-u-electricity-winter-184018676.html",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "Yahoo News Canada (Toronto Sun)",
-      "title": "Ontario signs contract to purchase electricity from United States",
-      "url": "https://ca.news.yahoo.com/ontario-signs-contract-purchase-electricity-190549028.html",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Global News",
-      "title": "EverWind's large-scale data centre in N.S. will power Anthropic's Claude AI",
-      "url": "https://globalnews.ca/news/12105095/everwind-nova-scotia-data-centre/",
-      "date": "2026-10-16",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "The Logic",
-      "title": "Anthropic revealed as client for EverWind's $10B Nova Scotia data centre",
-      "url": "https://thelogic.co/news/anthropic-data-centre-cape-breton-nova-scotia-everwind/",
-      "date": "2026-10-16",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "Bank of Canada set for pair of important data drops ahead of 'live' rate decision",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/16/bank-of-canada-set-for-pair-of-important-data-drops-ahead-of-live-rate-decision/",
-      "date": "2026-10-16",
-      "singleSource": false
+      "outlet": "FXStreet",
+      "title": "Canada CPI expected to show a pick-up in inflation in September",
+      "url": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-a-pick-up-in-inflation-in-september-202610190730",
+      "date": "2026-10-19",
+      "singleSource": true
     }
   ]
 }

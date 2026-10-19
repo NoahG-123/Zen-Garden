@@ -1,315 +1,247 @@
 {
-  "date": "2026-10-18",
-  "summary": "Rival claims over who controls Hormuz, a heavy Russian strike on Ukraine's grid, France's worst riots in years, China's draft AI export curbs, Sudan at the UN and Israel's tight race.",
+  "date": "2026-10-19",
+  "summary": "Ukraine strikes deep into Russia as Trump pauses sanctions, Egypt edges toward Yemen's war, France counts riot damage, China's exports lift growth, and AI debt wobbles.",
   "topics": [
     {
-      "id": "hormuz-rival-claims",
-      "heading": "US and Iran both claim control of Hormuz as Iran says a supertanker hit a mine",
-      "date": "2026-10-17",
-      "status": "disputed",
-      "summary": "Iran's Revolutionary Guards say a supertanker hit a mine on \"unauthorised\" routes; the US says it controls the strait and that ships are being hit by Iranian projectiles. A UK monitor counted at least 12 attacks in a week and says the true number is likely higher.",
+      "id": "ukraine-strikes-st-petersburg",
+      "heading": "Ukraine hits St Petersburg in a huge drone attack as Trump pauses new Russia sanctions",
+      "date": "2026-10-18",
+      "status": "developing",
+      "summary": "Russia says it stopped 1,015 Ukrainian drones overnight; strikes hit an oil terminal and depot in St Petersburg, killing one person. Trump defended pausing new sanctions on Moscow and said Zelenskyy \"doesn't want to end this war\".",
       "lead": {
-        "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+        "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
         "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-        "date": "2026-10-17"
+        "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+        "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "On Saturday, Iran's Revolutionary Guard Corps (IRGC) said a supertanker carrying more than two million barrels of crude caught fire after hitting a sea mine while using an \"unauthorised\" route through the Strait of Hormuz[^1][^2]. It accused the ship of switching off its tracking systems. Euronews notes the location is unclear and the footage has not been independently checked[^2].",
-        "The two sides tell very different stories. US Central Command chief Brad Cooper said 400 ships and 100 million barrels of oil moved through the strait last week, and that it is \"controlled by the United States and our regional partners, not Iran\"[^1]. The US says it has cleared the mines and that ships are being struck by projectiles; it says a container ship that sank this week, the GFS Pride, was hit by one, not by a mine as Iran said[^1]. Iran says the US is inflating its numbers, and that ships must coordinate with a new Iranian strait authority[^1].",
-        "Some numbers come from outside both governments. The UK Maritime Trade Operations centre (UKMTO) counted at least 12 attacks in the week to October 16, but warned that many ships do not report to it[^1]. Data firm Kpler estimates oil flows were about 68% of the pre-war level in the week to October 13[^1]. Brent crude touched $110 a barrel on Friday[^1].",
-        "Why it matters: about a quarter of the world's seaborne oil normally passes through this strait, so who controls it shows up in fuel prices worldwide, including in Canada[^2]. The US has not hit back for the recent attacks. US media report that Trump has told the military to be ready for larger strikes after the November 3 midterms, while Pakistan and Qatar keep passing messages[^1]. My read: the gap between the two sides' claims is itself a sign that neither can fully secure the route."
-      ],
-      "differences": "The US says it controls the strait, has cleared mines and that Iran is firing at ships out of \"desperation\"; Iran says ships are hitting mines on routes it has not approved and that US traffic figures are exaggerated[^1][^2]. Neither side's numbers have been independently confirmed; UKMTO says its own count is incomplete[^1]."
-    },
-    {
-      "id": "russia-energy-strike",
-      "heading": "Russia hits Ukraine's power grid in one of the war's largest energy attacks",
-      "date": "2026-10-17",
-      "status": "confirmed",
-      "summary": "Russian drones and missiles struck more than 15 power sites, Ukraine says, killing 7 to 8 people and leaving over a million without electricity. The UN says civilian deaths in 2026 are far above last year's.",
-      "lead": {
-        "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-        "outlet": "Al Jazeera (with Reuters)",
-        "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
-        "date": "2026-10-17"
-      },
-      "alsoReported": [
-        {
-          "title": "Russia launches 'one of its largest attacks' on Ukraine's energy grid as US 'disregards' Graham's sanctions, Zelensky says",
-          "outlet": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/"
+          "title": "Russia's war on Ukraine 'must be brought to an end', Zelenskyy says",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Russia launched a large drone and missile attack on Ukraine on Friday night into Saturday. Ukraine's air force said it downed 289 of 332 drones, and that drones and ballistic missiles hit 22 locations[^4]. President Volodymyr Zelenskyy called it one of the largest strikes on the energy system, aimed at more than 15 power generation and transmission sites[^4].",
-        "The death toll differs by count and time window. Al Jazeera, citing Ukrainian officials, reports at least eight killed and 60 injured across nine regions on Friday; the Kyiv Independent reports seven killed and about 90 injured over the past day[^3][^4]. Power was cut to more than a million people, most of whom had it back by Saturday, though some western cities near Poland were told blackouts could last a day or more[^3]. Russia's military chief told President Vladimir Putin the army had what it needs to keep up the campaign against Ukraine's grid[^3].",
-        "Background: since 2022, Russia has struck Ukraine's power system each autumn and winter, when people need heat and light most. A US-announced pause on energy strikes collapsed last week. Zelenskyy criticised Washington for setting aside a sanctions bill backed by Senator Lindsey Graham, and said concessions to Moscow encourage more attacks[^4].",
-        "Why it matters: the UN human rights mission says at least 2,570 civilians were killed in Ukraine from January to September 2026, almost 60% more than in the same months of 2025[^3]. Its head said the first two weeks of October were \"among the deadliest periods for civilians in years\"[^3]. My read: with talks stalled, the coming winter is likely to be a contest over the power grid, which is why Ukraine keeps asking Europe for air defence."
+        "Overnight into Sunday, Ukraine launched what Russia's defence ministry called 1,015 drones at 15 Russian regions, Crimea and the Black Sea, all of which it says were \"neutralised\"[^1]. Even so, St Petersburg's governor said drones hit the city's oil terminal, an oil depot and warehouses, killing at least one person and injuring five; the airport restricted flights, and about 20,000 people in the surrounding region lost power[^1]. Russian state media called it the largest attack on the city since 2022[^2].",
+        "The strike came as Ukraine and the US openly disagree. On Friday, President Donald Trump waived parts of a new law that targets Russia's energy income; Secretary of State Marco Rubio said Trump wants up to 60 days to study the economic effects[^2]. Trump said he did not want to drive Moscow \"away from the bargaining table\", criticised Ukraine's strikes on Russian oil, and wrote that Zelenskyy \"doesn't want to end this war\"[^1][^2].",
+        "Ukraine's case is that it is answering Russia's own energy campaign. President Volodymyr Zelenskyy said Russia hit Ukraine's energy, oil and gas sites 76 times in the week after Trump announced an \"energy ceasefire\" on October 11, and used almost 2,700 attack drones in a week[^1]. He also said US intelligence sharing has resumed after a pause, and that talks with US envoys continue[^1][^2].",
+        "Why it matters: both sides are now trying to damage the other's energy system before winter, and the main outside player is pressing the side that was invaded. My read: Kyiv is betting that hurting Russia's oil income gives it more leverage than waiting on Washington, and that is a risk if US support keeps cooling."
       ],
-      "differences": null
+      "differences": "Russia says it stopped all 1,015 drones; St Petersburg officials still report a death, fires and power cuts[^1]. Trump frames Ukraine's strikes as an obstacle to peace; Zelenskyy frames them as a reply to Russia's strikes during a truce he says Russia ignored[^1][^2]."
     },
     {
-      "id": "france-protest-day",
-      "heading": "Hundreds of thousands march across France over living costs and schools",
-      "date": "2026-10-17",
-      "status": "confirmed",
-      "summary": "Students, unions and revived \"yellow vest\" groups marched in many cities. Most marches were peaceful, but riots hit Paris, Marseille, Lyon and Limoges, and the prime minister said about 1,200 people were arrested.",
+      "id": "egypt-saudi-houthis",
+      "heading": "Egypt moves toward sending troops to defend Saudi Arabia from Houthi attacks",
+      "date": "2026-10-18",
+      "status": "developing",
+      "summary": "Egypt's president asked parliament to approve sending forces abroad after pledging \"all possible\" support to Saudi Arabia, which faces near-daily Houthi missile and drone attacks. The Houthis warned Cairo to stay out.",
       "lead": {
-        "title": "Mass protests in France spiral into worst riots in years",
-        "outlet": "The Korea Times (Reuters)",
-        "url": "https://www.koreatimes.co.kr/world/20261018/mass-protests-in-france-spiral-into-worst-riots-in-years",
+        "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
+        "outlet": "The National",
+        "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
         "date": "2026-10-18"
       },
       "alsoReported": [
         {
-          "title": "Protests erupt across France against rising living costs and in support of students",
-          "outlet": "CBS News (AP)",
+          "title": "Egypt's president vows to use 'any measure' to defend Saudi Arabia and seeks authorization to deploy troops abroad as battle against Houthis escalates",
+          "outlet": "AP (via Fortune)",
+          "url": "https://fortune.com/2026/10/18/egypt-saudi-arabia-defense-authorization-troops-houthis-escalation/"
+        }
+      ],
+      "eventId": "iran-war",
+      "article": [
+        "Egypt's National Defence Council, chaired by President Abdel Fattah el-Sisi, pledged \"all necessary and possible forms of support\" to Saudi Arabia, and Sisi asked parliament on Saturday to authorise sending troops and equipment abroad[^3][^4]. Egypt's constitution requires a two-thirds vote for that; parliament met Sunday and resumes Monday[^3][^4]. Sisi said Egypt would act only if Riyadh asks, and approval alone would not mean troops are sent[^3].",
+        "Background: the Houthis, an Iran-backed movement that controls much of northern Yemen, have stepped up attacks on Saudi Arabia, which backs Yemen's recognised government. AP says the fighting has reignited Yemen's civil war after four years of ceasefire[^4]. A Saudi-led coalition spokesman says Houthi attacks on Saudi airports have killed 19 people since October 1[^3]. On Sunday the Houthi-run health ministry said an airstrike in Saada killed at least nine people, including five children, and blamed Saudi Arabia, which had not commented[^4].",
+        "It sits inside the wider Iran war. On Monday, Iran's Revolutionary Guards said another oil tanker caught fire after hitting a mine in the Strait of Hormuz, and Russia's foreign minister Sergei Lavrov was due in Tehran[^5]. Iran says it is reviewing a US reply to its proposal to end the eight-month war[^4].",
+        "Why it matters: Egypt has the Arab world's largest army and lost heavily in Yemen in the 1960s, which commentators cite as a reason for caution[^3]. My read: if Cairo does send forces, a Gulf conflict that began between Iran, Israel and the US would draw in another major state, making a negotiated end harder."
+      ],
+      "differences": "Riyadh's coalition describes the Houthi strikes as attacks on civilians and airports, and the UN Security Council called them \"escalatory\"[^3]. The Houthis say Saudi Arabia has waged \"aggression and siege\" on Yemen for over 12 years and warned Egypt that joining would endanger its own security[^3]."
+    },
+    {
+      "id": "france-riots-macron",
+      "heading": "France counts the damage after its worst rioting in years; Macron promises accountability",
+      "date": "2026-10-18",
+      "status": "confirmed",
+      "summary": "Protests over living costs and schools turned violent on Saturday, with looting and a city hall burned in Limoges. Arrest counts range from 1,800 to about 2,400. Macron spoke of \"anger and shame\" but declared no emergency.",
+      "lead": {
+        "title": "'Anger and shame': Macron denounces France's nationwide rioting, looting",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+        "date": "2026-10-18"
+      },
+      "alsoReported": [
+        {
+          "title": "French police arrest more than 1,800 people after violent protests erupt across country",
+          "outlet": "AP (via CBS News)",
           "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/"
         }
       ],
       "eventId": null,
       "article": [
-        "Reuters described Saturday's protests in France as the country's worst riots in years, though most people marched peacefully. The interior minister put turnout at about 550,000 across the country; the CGT union, one of the organisers, said 800,000[^5]. People marched against rising living costs and fuel prices and in support of high school students who have been protesting since September[^5][^6]. Calls on social media to revive the 2018 \"yellow vest\" movement added to the crowds[^6].",
-        "Violence broke out in several cities. Reuters reports Limoges city hall was set on fire, Marseille's city hall was broken into, and shops and banks were attacked in Paris[^5]. Prime Minister Sébastien Lecornu said about 1,200 people were arrested and more than 150 police officers injured, and blamed the \"ultra-left\" and criminals[^5]. A police watchdog is looking into at least two dozen complaints of police violence[^5].",
-        "Background: the student movement began on September 21, when pupils in poorer parts of Paris boycotted classes over unreplaced teachers, crowded classes and run-down buildings[^7]. It grew alongside public-sector strikes against a 2027 budget plan that would cut about €54 billion in spending, including a pay freeze for public workers[^7]. Weeks of clashes have led to thousands of arrests, and a 15-year-old lost a hand to a police stun grenade; the interior minister has since suspended that type of grenade[^6][^7].",
-        "Why it matters: France is trying to cut a large deficit while prices rise, and the protests are now shaping the presidential campaign[^6]. President Emmanuel Macron promised to punish those behind the attacks[^5]. My read: the key question is whether the government's promised response to students' demands can separate the peaceful majority from the violent fringe."
+        "Saturday's nationwide marches over living costs and underfunded schools were followed by looting and fires in several cities. In Limoges, the 19th-century City Hall burned and its roof collapsed; the local prefect said the fire was set on purpose[^6]. The interior minister said hundreds of businesses were looted in Paris, Marseille, Lyon and Bordeaux[^6].",
+        "Numbers depend on who counts and when. AP reported at least 1,800 arrests and more than 500 police, gendarmes and firefighters injured on Saturday; by Sunday, Al Jazeera cited the Interior Ministry at nearly 2,400 arrests and about 1,000 officers injured[^6][^7]. Authorities put the crowds at about 550,000, organisers at about 800,000[^6].",
+        "In a televised address on Sunday, President Emmanuel Macron spoke of \"anger and shame\", separated protesters with \"legitimate demands\" from those who looted, and promised a crisis unit for people in difficulty; he did not declare a state of emergency or a curfew[^7]. He has blamed \"insurrectionist elements\" from the radical far left, joined by criminals[^6].",
+        "Why it matters: France votes for a new president next spring, and every camp is using the unrest[^6][^7]. My read: the deeper issue, how to fund schools and services while cutting a deficit, was there before the riots and will still be there after them."
       ],
-      "differences": "Turnout figures differ: about 550,000 according to the interior minister, 800,000 according to the CGT union[^5]. The government blames the ultra-left and criminals for the violence; protesters say most marchers were peaceful and troublemakers were to blame, and rights groups have criticised police force used against minors[^5][^7]."
+      "differences": "Macron blames radical far-left groups and criminals[^6]. Left-wing leader Jean-Luc Mélenchon says the government is \"solely responsible\"; far-right figure Jordan Bardella called Macron's speech \"cowardly\"[^7]. US President Trump linked the unrest to immigration; AP notes French authorities have made no such link[^6]."
     },
     {
-      "id": "china-ai-export-curbs",
-      "heading": "China drafts export controls on its most advanced AI models and chip designs",
-      "date": "2026-10-16",
-      "status": "developing",
-      "summary": "Two Chinese ministries proposed restricting exports of 40 technologies, 23 of them in AI, including very large models and some chip designs. Comments are open until November 15; a temporary registration rule is already in force.",
+      "id": "china-q3-growth",
+      "heading": "China's economy grows 4.5% in the third quarter, carried by exports",
+      "date": "2026-10-19",
+      "status": "confirmed",
+      "summary": "Growth beat forecasts and rose from 4.3% the quarter before, but most of the lift came from exports. Retail sales grew just 1.1% and property investment is down 20.6% this year.",
       "lead": {
-        "title": "China moves to curb tech exports, including AI, citing national security risks",
-        "outlet": "AP (via WHEC)",
-        "url": "https://www.whec.com/ap-top-news/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
-        "date": "2026-10-17"
+        "title": "China's economy accelerated in the July-September quarter on robust exports",
+        "outlet": "AP (via WSLS)",
+        "url": "https://www.wsls.com/business/2026/10/19/chinas-economy-grew-45-in-the-previous-quarter-fueled-by-robust-exports/",
+        "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "China proposes export controls on its advanced AI models and chip designs",
-          "outlet": "The Next Web",
-          "url": "https://thenextweb.com/news/china-ai-export-controls-draft"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "On Friday, China's commerce and science ministries published a draft update to the list of technologies that need permission to be exported, or cannot be exported at all[^8]. It covers 40 items: 23 in AI, 12 in solar power, including polysilicon manufacturing, and 5 in biomedicine, such as gene therapy[^8][^9].",
-        "The AI part is the most watched. It would cover the core parts of large models, such as model weights (the learned numbers that make a model work) and source code, for models with at least 2 trillion parameters or that rank among the world's top 10, according to reporting cited by The Next Web[^9]. It also covers AI agents for sensitive uses like defence, and the know-how to design some advanced AI and memory chips[^8][^9]. Open-source code and published research are exempt, and Chinese companies could still serve foreign users through apps and websites[^9]. Public comments are open until November 15, and firms must already register before exporting listed items[^9].",
-        "Background: for years the US has blocked China from buying the most advanced AI chips and chipmaking machines[^8]. Now China is using similar tools on its own technology. A commerce ministry spokesperson called the move \"necessary\" for national security and said it aims to keep AI \"under human control\"; the ministry says it does not target any country[^8][^9].",
-        "Why it matters: Chinese AI models are popular abroad because they are cheap and often free to download. One analyst told AP the rules are a response to Western demands for control over key technologies, and another said access to technology is becoming more split between blocs[^8]. My read: if the final rules are strict, companies outside China may find it harder to run the biggest Chinese models on their own computers."
-      ],
-      "differences": null
-    },
-    {
-      "id": "un-sudan-drones",
-      "heading": "UN calls for an end to drone strikes in Sudan as famine risk grows",
-      "date": "2026-10-16",
-      "status": "developing",
-      "summary": "At the UN Security Council, a senior UN official said drones are now the leading cause of civilian deaths in Sudan's war and urged a mutual ban. Sudan's army-led government opposed widening the arms embargo.",
-      "lead": {
-        "title": "UN demands immediate end to drone attacks in Sudan as civilian deaths mount",
-        "outlet": "The National",
-        "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-demands-immediate-end-to-drone-attacks-in-sudan-as-civilian-deaths-mount/",
-        "date": "2026-10-16"
-      },
-      "alsoReported": [
-        {
-          "title": "Security Council LIVE: Sudan's war spreads as drones and hunger take a deadly toll",
-          "outlet": "UN News",
-          "url": "https://news.un.org/en/story/2026/10/1168612"
+          "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
+          "outlet": "investingLive",
+          "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/"
         }
       ],
       "eventId": null,
       "article": [
-        "On Friday, the UN Security Council met on Sudan, where the army and the Rapid Support Forces (RSF), a paramilitary group, have fought since April 2023. UN political chief Rosemary DiCarlo said drones have become the leading cause of civilian casualties this year, and that a mutual ban on them could \"dramatically improve\" protection for civilians[^10]. UN data show more than 1,100 people were killed by drone strikes in the first half of 2026[^10].",
-        "DiCarlo said neither side is moving toward talks, because each believes it can still gain on the battlefield with outside support[^10][^12]. Britain called for tougher sanctions on people who supply and fund the fighting, and the US called for a humanitarian truce and a wider arms embargo[^10]. Recent strikes include an attack on a displacement shelter in Blue Nile state; a US diplomat said it was reportedly carried out by the RSF[^10].",
-        "The hunger crisis is deepening. About 20 million people face acute hunger, according to UN figures[^11]. A UN-backed hunger monitor warned on October 12 that drought linked to El Niño, on top of the war, is pushing parts of Darfur and Kordofan toward famine, and that the aid appeal is less than half funded[^13].",
-        "Why it matters: the UN calls Sudan the world's largest hunger and displacement crisis[^11]. More than 700,000 displaced people in the town of Tawila alone are short of food, water and health care[^11]. The arms embargo still covers only Darfur, and sanctions run to December 11[^11]. My read: without pressure on the outside suppliers of drones and weapons, a UN call alone is unlikely to change much."
+        "China said on Monday that its economy grew 4.5% in July to September compared with a year earlier, slightly better than economists expected and up from 4.3% in the spring, the slowest pace in more than three years[^8][^9]. Growth for the first nine months was 4.6%, inside Beijing's 2026 target of 4.5% to 5%[^9].",
+        "Exports did most of the work. AP reports exports rose 36% in September and the trade surplus reached $938 billion from January to September, on track to pass last year's record[^8]. At home the picture is weaker: retail sales, a measure of shopping, grew 1.1% in September; investment in property fell 20.6% so far this year[^9]. A statistics bureau official said weak domestic demand remains a \"prominent problem\"[^8].",
+        "Why it matters: when the world's second-largest economy grows by selling far more than it buys, other countries feel it. The EU runs a trade deficit with China of more than $1.1 billion a day, AP says, and has moved to limit some Chinese car imports[^8]. One Cornell economist told AP this reliance on foreign demand is unsustainable; others expect exports to stay strong[^8]. My read: the headline number is fine, but how households in China feel about money matters more for what comes next."
       ],
-      "differences": "Sudan's UN representative said any truce requires the RSF to leave towns it holds, and opposed expanding the arms embargo; Russia, Egypt and Pakistan warned that sanctions should not weaken Sudan's state institutions, while the US and UK want wider sanctions[^12][^10]. Ethiopia said reports indicate a neighbouring state ran drone strikes inside Sudan[^12]."
+      "differences": null
     },
     {
-      "id": "israel-election-final-stretch",
-      "heading": "Ten days before Israel votes, polls show no clear majority for either bloc",
-      "date": "2026-10-17",
+      "id": "ai-debt-selloff",
+      "heading": "Investors sour on the debt paying for AI data centres in a rough week for tech",
+      "date": "2026-10-18",
       "status": "developing",
-      "summary": "Israel holds a general election on October 27. A Maariv poll has former army chief Gadi Eisenkot ahead of Prime Minister Benjamin Netanyahu as preferred leader, but neither bloc near the 61 seats needed to govern.",
+      "summary": "Shares of AI cloud firms CoreWeave and Nebius fell more than 25% last week and some data-centre bonds slid well below face value. Bulls call it \"just another scare\"; skeptics question whether AI revenue can cover the debt.",
       "lead": {
-        "title": "The Israeli politicians seeking to replace Netanyahu",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
-        "date": "2026-10-17"
+        "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+        "outlet": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
+        "date": "2026-10-18"
       },
       "alsoReported": [
         {
-          "title": "Israelis prefer unity gov't to another election, Benjamin Netanyahu falls behind Gadi Eisenkot",
-          "outlet": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-911902"
+          "title": "Investors turn on the debt behind the AI build-out",
+          "outlet": "Enterprise (EnterpriseAM)",
+          "url": "https://enterpriseam.com/egypt/2026/10/19/investors-turn-on-the-debt-behind-the-ai-build-out/"
         }
       ],
-      "eventId": "gaza",
+      "eventId": "ai-race",
       "article": [
-        "Israelis vote on October 27 for all 120 seats in the Knesset, their parliament. A party leader becomes prime minister by putting together a coalition with at least 61 seats[^15]. Prime Minister Benjamin Netanyahu faces five main rivals who signed a pact in September to avoid attacking each other and to try to replace him[^14].",
-        "A poll by Lazar Research for the Maariv newspaper, taken October 14 and 15, found 48% preferred Gadi Eisenkot as prime minister and 41% Netanyahu[^15]. It projected Eisenkot's new Yashar party as the largest with 21 seats, but both Netanyahu's bloc and the opposition bloc at 51 seats each, with Arab parties holding 14[^15]. That is one poll from one firm, so treat it as a snapshot rather than a forecast; Israeli polls have often missed by a few seats, and a few seats decide who can govern (my read).",
-        "Al Jazeera notes the opposition is not mainly left-wing[^14]. Eisenkot, a former army chief, and Naftali Bennett, who leads a joint list with Yair Lapid, take broadly right-leaning security positions; only Yair Golan's Democrats mention a Palestinian state, and only as a distant goal[^14]. Most opposition leaders rule out governing with Arab parties, which makes reaching 61 seats harder[^14].",
-        "Why it matters: the result will shape how Israel handles the stalled Gaza truce, Lebanon and the war with Iran[^14]. Most Israelis in the Maariv poll said they would prefer a unity government over another election if the result is unclear[^15]. My read: the likeliest outcome is weeks of coalition bargaining rather than a quick winner."
+        "Tech stocks ended last week lower as worries grew about how the AI building boom is being paid for. CoreWeave and Nebius, which rent out AI computing power, each closed the week down more than 25%, and Oracle was also hit[^10]. Analysts pointed to higher borrowing costs and \"circular\" deals, in which AI firms invest in customers that then buy their products[^10].",
+        "The pressure is clearest in debt. Citing the Financial Times, Enterprise reports that bonds tied to big data-centre projects have fallen below what they were issued at, that one CoreWeave bond fell under 80 cents on the dollar, and that a research firm counts at least 47 large US projects delayed, withdrawn or blocked this year[^11]. An Allianz executive called it a \"Darwin moment\" for weaker borrowers[^11].",
+        "Not everyone is worried. Wedbush's Dan Ives called it the \"same script, different cast\", UBS called it a \"recalibration of expectations\", and chipmakers ASML and TSMC still report strong demand[^10]. The same report says OpenAI's revenue came in below guidance and Anthropic's third-quarter growth fell short of expectations, though its revenue still rose about 50%[^11]. Disclosure: Anthropic makes the AI that writes this brief.",
+        "Why it matters: trillions of dollars of planned spending on chips, power and buildings depend on AI earning enough to repay the loans. My read: one bad week proves little, but the question has moved from whether AI works to whether it pays."
       ],
-      "differences": null
+      "differences": "Bulls such as Wedbush and UBS see a temporary scare after big gains[^10]. Skeptics cited in the FT's reporting warn that AI revenue may not cover the debt and that much of the planned build may never happen[^11]."
     }
   ],
   "question": {
-    "type": "how-do-we-know",
-    "text": "The US and Iran give opposite accounts of Hormuz, and France's government and unions counted very different crowds. When the people giving a number have a stake in it, what would you check before deciding which figure to trust?"
+    "type": "second-order",
+    "text": "Investors are pulling back from the loans that pay for AI data centres. If building slows, who besides the AI companies would feel it first, and how might that reach someone in Toronto?"
   },
   "read": {
-    "title": "France protests: What we know as schools face nationwide action",
+    "title": "Alberta independence referendum: Will separatists survive a loss?",
     "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action",
-    "kind": "news",
-    "minutes": 7,
-    "summary": "How a class boycott in poorer Paris suburbs grew into a national movement: students' complaints, the budget cuts behind union strikes, and the government's response."
+    "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
+    "kind": "analysis",
+    "minutes": 8,
+    "summary": "Before today's vote: what Question 10 actually does, why many 'yes' voters may be sending a message, and what separatists could do next if they lose."
   },
-  "weeklyRead": {
-    "title": "The 2026 state of the climate report: challenges and opportunities",
-    "outlet": "BioScience",
-    "url": "https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag125/8836482",
-    "kind": "paper",
-    "minutes": 30,
-    "summary": "Scientists track 16 of Earth's \"vital signs\": seven are at record extremes, yet renewables passed coal in 2025. A clear, data-heavy look at where climate change stands."
-  },
+  "weeklyRead": null,
   "sources": [
     {
       "id": 1,
       "outlet": "Al Jazeera",
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-      "date": "2026-10-17",
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Euronews",
-      "title": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
-      "url": "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "Al Jazeera (with Reuters)",
-      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-      "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "The Kyiv Independent",
-      "title": "Russia launches 'one of its largest attacks' on Ukraine's energy grid as US 'disregards' Graham's sanctions, Zelensky says",
-      "url": "https://kyivindependent.com/russian-attacks-kill-7-injure-dozens-across-ukraine-amid-continued-strikes-on-energy-infrastructure/",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "The Korea Times (Reuters)",
-      "title": "Mass protests in France spiral into worst riots in years",
-      "url": "https://www.koreatimes.co.kr/world/20261018/mass-protests-in-france-spiral-into-worst-riots-in-years",
+      "outlet": "Al Jazeera",
+      "title": "Russia's war on Ukraine 'must be brought to an end', Zelenskyy says",
+      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says",
       "date": "2026-10-18",
       "singleSource": false
     },
     {
+      "id": 3,
+      "outlet": "The National",
+      "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+      "date": "2026-10-18",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "AP (via Fortune)",
+      "title": "Egypt's president vows to use 'any measure' to defend Saudi Arabia and seeks authorization to deploy troops abroad as battle against Houthis escalates",
+      "url": "https://fortune.com/2026/10/18/egypt-saudi-arabia-defense-authorization-troops-houthis-escalation/",
+      "date": "2026-10-18",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "The New Arab",
+      "title": "US issues security alerts for Middle East, Yemen war rages",
+      "url": "https://www.newarab.com/news/us-issues-security-alerts-middle-east-yemen-war-rages",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
       "id": 6,
-      "outlet": "CBS News (AP)",
-      "title": "Protests erupt across France against rising living costs and in support of students",
+      "outlet": "AP (via CBS News)",
+      "title": "French police arrest more than 1,800 people after violent protests erupt across country",
       "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Al Jazeera (with Reuters)",
-      "title": "France protests: What we know as schools face nationwide action",
-      "url": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action",
-      "date": "2026-10-06",
+      "outlet": "Al Jazeera",
+      "title": "'Anger and shame': Macron denounces France's nationwide rioting, looting",
+      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "AP (via WHEC)",
-      "title": "China moves to curb tech exports, including AI, citing national security risks",
-      "url": "https://www.whec.com/ap-top-news/china-moves-to-curb-tech-exports-including-ai-citing-national-security-risks/",
-      "date": "2026-10-17",
+      "outlet": "AP (via WSLS)",
+      "title": "China's economy accelerated in the July-September quarter on robust exports",
+      "url": "https://www.wsls.com/business/2026/10/19/chinas-economy-grew-45-in-the-previous-quarter-fueled-by-robust-exports/",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "The Next Web",
-      "title": "China proposes export controls on its advanced AI models and chip designs",
-      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
-      "date": "2026-10-16",
+      "outlet": "investingLive",
+      "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
+      "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "The National",
-      "title": "UN demands immediate end to drone attacks in Sudan as civilian deaths mount",
-      "url": "https://www.thenationalnews.com/news/us/2026/10/16/un-demands-immediate-end-to-drone-attacks-in-sudan-as-civilian-deaths-mount/",
-      "date": "2026-10-16",
+      "outlet": "Yahoo Finance",
+      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+      "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
+      "date": "2026-10-18",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "UN News",
-      "title": "Security Council LIVE: Sudan's war spreads as drones and hunger take a deadly toll",
-      "url": "https://news.un.org/en/story/2026/10/1168612",
-      "date": "2026-10-16",
-      "singleSource": false
-    },
-    {
-      "id": 12,
-      "outlet": "The European Times (UN meeting coverage)",
-      "title": "Fuelled by relentless fighting, drone attacks, Sudan's conflict, plight of its people remains bleak, political chief warns Security Council",
-      "url": "https://europeantimes.news/2026/10/fuelled-by-relentless-fighting-drone-attacks-sudans-conflict-plight-of-its-people-remains-bleak-political-and-peacebuilding-affairs-chief-warns-security-council/",
-      "date": "2026-10-16",
-      "singleSource": true
-    },
-    {
-      "id": 13,
-      "outlet": "UN News",
-      "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
-      "url": "https://news.un.org/en/story/2026/10/1168577",
-      "date": "2026-10-12",
-      "singleSource": false
-    },
-    {
-      "id": 14,
-      "outlet": "Al Jazeera",
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
-      "date": "2026-10-17",
-      "singleSource": false
-    },
-    {
-      "id": 15,
-      "outlet": "The Jerusalem Post",
-      "title": "Israelis prefer unity gov't to another election, Benjamin Netanyahu falls behind Gadi Eisenkot",
-      "url": "https://www.jpost.com/israel-election-2026/article-911902",
-      "date": "2026-10-16",
+      "outlet": "Enterprise (EnterpriseAM)",
+      "title": "Investors turn on the debt behind the AI build-out",
+      "url": "https://enterpriseam.com/egypt/2026/10/19/investors-turn-on-the-debt-behind-the-ai-build-out/",
+      "date": "2026-10-19",
       "singleSource": true
     }
   ]
