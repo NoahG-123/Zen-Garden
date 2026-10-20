@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-19",
+  "reviewed": "2026-10-20",
   "events": [
     {
       "id": "iran-war",
@@ -7,13 +7,17 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Ship attacks near Hormuz are at their highest since the war began; a UK monitor counted at least 12 in the week to Oct 16 [^27]. The war is widening on its edges: Egypt's president asked parliament on Oct 17 to approve sending forces to defend Saudi Arabia from Iran-backed Houthi attacks [^32]. Brent touched $110 on Oct 16 [^24]. US media report Trump wants the military ready for bigger strikes after the midterms; mediators pass messages without a breakthrough [^27].",
+      "standing": "Ship attacks near Hormuz are at their highest since the war began, with at least 12 in the week to Oct 16 [^27]. The war is widening at its edges: Houthi strikes led Saudi Arabia to postpone its flagship investment summit to 2027 [^34], and Egypt's parliament votes Oct 26 on helping defend the kingdom [^35]. Brent was near $108 on Oct 19 [^36]. Trump endorsed Netanyahu and says the US will \"soon finish the job\" unless Iran changes course [^36].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
+        {
+          "date": "2026-10-26",
+          "what": "Egypt's parliament votes on authorising forces to help defend Saudi Arabia"
+        },
         {
           "date": "2026-10-27",
           "what": "Israel's general election; Netanyahu says he won't seek an Iran strike before it"
@@ -119,7 +123,10 @@
         22,
         24,
         27,
-        32
+        32,
+        34,
+        35,
+        36
       ]
     },
     {
@@ -128,7 +135,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] Both sides are hitting energy: Russia struck more than 15 power sites on Oct 16-17,[^29] and on Oct 18 Ukraine sent what Russia says were 1,015 drones, hitting a St Petersburg oil terminal.[^31] Trump paused new Russia sanctions for up to 60 days and said Zelenskyy \"doesn't want to end this war\".[^31] The UN says 2,570 civilians were killed January to September.[^28]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] Both sides are hitting energy: Russia struck more than 15 power sites on Oct 16-17,[^29] and Ukraine hit a St Petersburg oil terminal on Oct 18.[^31] Trump paused new Russia sanctions for up to 60 days.[^31] The Kremlin says Putin, Trump and Xi could meet at APEC in November; Kyiv says talks without it would reward Russia.[^37] The UN says 2,570 civilians were killed January to September.[^28]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -138,6 +145,10 @@
         {
           "date": "2026-11-03",
           "what": "US midterm elections, which could change how much room Trump has on Ukraine policy and sanctions"
+        },
+        {
+          "date": "2026-11-18",
+          "what": "APEC summit in Shenzhen, where the Kremlin says a Putin-Trump-Xi meeting could happen"
         },
         {
           "date": "2026-11-26",
@@ -245,7 +256,8 @@
         25,
         28,
         29,
-        31
+        31,
+        37
       ]
     },
     {
@@ -899,6 +911,38 @@
       "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
       "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
       "date": "2026-10-18",
+      "singleSource": false
+    },
+    {
+      "id": 34,
+      "outlet": "The National",
+      "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
+      "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 35,
+      "outlet": "Al Jazeera",
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 36,
+      "outlet": "Al Jazeera",
+      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 37,
+      "outlet": "Reuters (via AOL)",
+      "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
+      "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
+      "date": "2026-10-19",
       "singleSource": false
     }
   ]

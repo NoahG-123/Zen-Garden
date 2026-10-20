@@ -1,53 +1,21 @@
 {
-  "date": "2026-10-19",
-  "summary": "Exports lift China's growth to 4.5% while shoppers stay cautious, Beijing proposes curbs on exporting solar know-how, and face-licensing for AI dramas disappoints.",
-  "body": [
-    "China's economy grew 4.5% from July to September compared with a year earlier, a bit better than expected, but the gain came mostly from exports, which jumped 36% in September [^1]. At home, retail sales grew only 1.1% and property investment is down 20.6% this year, a sign that families hit by falling home values are still saving rather than spending [^1][^2]. A statistics official called weak domestic demand a \"prominent problem\" [^1].",
-    "On technology, the Commerce Ministry proposed export curbs on 12 solar manufacturing technologies, citing national security, as part of the same review that covers large AI models [^3]. Know-how for thin silicon wafers and next-generation perovskite and tandem solar cells would be banned from export; several advanced cell technologies would need approval [^3]. China dominates world solar manufacturing, so this would make it harder for the US, India and others to catch up. Comments close Nov. 15 [^3].",
-    "In daily life, a short-lived trend of \"selling your face\" to AI is fading. Since about May, platforms have let people license their likeness for AI-made short dramas, which officials say made up over 90% of the 430,000 such dramas released this year [^4]. Many users now report few requests and little pay, and Beijing's market regulator warned that criminals scrape selfies and voices to make AI avatars [^4]."
-  ],
-  "differences": null,
-  "reads": [
-    {
-      "title": "Western open-weight models still can't beat China",
-      "outlet": "Rest of World",
-      "url": "https://restofworld.org/2026/china-open-weight-models/",
-      "kind": "analysis",
-      "summary": "Why Chinese AI models that anyone can download, such as DeepSeek and Kimi, lead their Western rivals on cost and popularity, and what that means for who depends on whom."
-    }
-  ],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "AP (via WSLS)",
-      "title": "China's economy accelerated in the July-September quarter on robust exports",
-      "url": "https://www.wsls.com/business/2026/10/19/chinas-economy-grew-45-in-the-previous-quarter-fueled-by-robust-exports/",
-      "date": "2026-10-19",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "investingLive",
-      "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
-      "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
-      "date": "2026-10-19",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "Yahoo Finance (Investing.com)",
-      "title": "China proposes export curbs on 12 key solar manufacturing technologies",
-      "url": "https://uk.finance.yahoo.com/news/china-proposes-export-curbs-12-084010266.html",
-      "date": "2026-10-18",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Sixth Tone",
-      "title": "Chinese Users Find Little Money in 'Selling' Their Faces to AI",
-      "url": "https://www.sixthtone.com/news/1019126/chinese-users-find-little-money-in-%E2%80%98selling%E2%80%99-their-faces-to-ai",
-      "date": "2026-10-15",
-      "singleSource": true
-    }
-  ]
+ "date": "2026-10-20",
+ "summary": "More than 150 Chinese apps, WeChat and Alipay among them, have shut ByteDance's AI phone assistant out. Beijing also issued a plan to put more AI into consumer goods.",
+ "body": [
+  "China's biggest apps are refusing to let an AI assistant use them on a user's behalf. ByteDance's Doubao assistant can tap and type its way through other apps, a method called GUI automation (the AI works the on-screen buttons the way a person would). It runs on Nubia's NaviX Ultra phone, which went on sale Sept. 16 [^1][^2]. On Oct. 14, Doubao posted a list of more than 150 apps that have opted out. Nearly 60% belong to Tencent or Alibaba, including WeChat and Alipay. Meituan, Didi, Xiaohongshu, several banks and the rival AI apps DeepSeek and Kimi are also on it [^1]. People can still use these apps by hand. The assistant just cannot do tasks inside them for you [^1][^2]. A Tsinghua University researcher told Chinese media that China has no rules yet on how AI agents may operate other companies' apps [^1].",
+  "Beijing is pushing in the same direction from the policy side. On Oct. 19, the Ministry of Commerce and eight other government departments issued guidelines on what they call technology-driven commerce. The guidelines call for more AI in manufacturing and more smart products such as phones, PCs and robots [^3]. Chinese state media says the plan is meant to lift spending on both goods and services [^4]. My read: the government wants AI in everyday devices, but the Doubao dispute shows the big platforms still decide how far an assistant can reach.",
+  "Outside China, the U.S. Department of Homeland Security has ordered civilian federal agencies to remove products from the Chinese AI company DeepSeek and to stop buying them, according to reporting that cites Bloomberg and Reuters. The order points to data security concerns [^5]. On the everyday side, Duolingo launched a course of about 50 lessons in Shanghainese, a local dialect that about 10 million people speak. Shanghainese has faded as schools promote Mandarin, and this is the app's second Chinese dialect after Cantonese [^6]."
+ ],
+ "differences": "The reason for the opt-outs is disputed. None of the listed app makers had publicly commented as of Monday [^1]. Caixin describes the dispute as a clash over data compliance, privacy and automated access [^2]. A Tsinghua researcher quoted by Sixth Tone said privacy concerns make the refusals understandable, but that they may also protect the platforms' own AI ecosystems from a rival [^1].",
+ "reads": [
+  {"title": "China's Agentic AI Controversy", "outlet": "Lawfare", "url": "https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy", "kind": "analysis", "summary": "Background from March 2026. Samm Sacks, of New America and Yale Law School, explains why the Doubao phone set off a fight over data, privacy and platform power, and what other countries might learn from it."}
+ ],
+ "sources": [
+  {"id": 1, "outlet": "Sixth Tone", "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone", "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone", "date": "2026-10-19", "singleSource": false},
+  {"id": 2, "outlet": "Caixin Global", "title": "More Than 150 Apps Opt Out of ByteDance's AI Phone Assistant", "url": "https://www.caixinglobal.com/2026-10-15/more-than-150-apps-opt-out-of-bytedances-ai-phone-assistant-102493470.html", "date": "2026-10-15", "singleSource": false},
+  {"id": 3, "outlet": "DIGITIMES", "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots", "url": "https://www.digitimes.com/news/a20261020VL202/government-2026-manufacturing-production-policy.html", "date": "2026-10-20", "singleSource": false},
+  {"id": 4, "outlet": "Global Times (Chinese state media)", "title": "China rolls out tech-driven commerce plan to push AI-powered manufacturing, BCI, embodied intelligence commercialization", "url": "https://www.globaltimes.cn/page/202610/1372530.shtml", "date": "2026-10-19", "singleSource": false},
+  {"id": 5, "outlet": "The Next Web", "title": "US orders civilian federal agencies to remove DeepSeek from their systems", "url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies", "date": "2026-10-19", "singleSource": true},
+  {"id": 6, "outlet": "Sixth Tone", "title": "Duolingo Launches Shanghainese Lessons, Its 2nd Chinese Dialect", "url": "https://www.sixthtone.com/news/1019133/duolingo-launches-shanghainese-lessons%2C-its-2nd-chinese-dialect", "date": "2026-10-16", "singleSource": true}
+ ]
 }

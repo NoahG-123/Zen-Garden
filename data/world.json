@@ -1,248 +1,287 @@
 {
-  "date": "2026-10-19",
-  "summary": "Ukraine strikes deep into Russia as Trump pauses sanctions, Egypt edges toward Yemen's war, France counts riot damage, China's exports lift growth, and AI debt wobbles.",
+  "date": "2026-10-20",
+  "summary": "The Kremlin floats a three-power summit on Ukraine, Houthi attacks cancel Riyadh's showcase, France brings in curfews, Japan heads for a Mars moon, and an AI lab hires fewer juniors.",
   "topics": [
     {
-      "id": "ukraine-strikes-st-petersburg",
-      "heading": "Ukraine hits St Petersburg in a huge drone attack as Trump pauses new Russia sanctions",
-      "date": "2026-10-18",
+      "id": "putin-trump-xi-summit-idea",
+      "heading": "Kremlin floats a Putin-Trump-Xi meeting on Ukraine; Kyiv objects to being left out",
+      "date": "2026-10-19",
       "status": "developing",
-      "summary": "Russia says it stopped 1,015 Ukrainian drones overnight; strikes hit an oil terminal and depot in St Petersburg, killing one person. Trump defended pausing new sanctions on Moscow and said Zelenskyy \"doesn't want to end this war\".",
+      "summary": "The Kremlin says Putin, Trump and Xi could meet at next month's APEC summit in China to discuss the war, though nothing is agreed. Ukraine's foreign minister says talks without Kyiv would only encourage Russia to keep fighting.",
       "lead": {
-        "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+        "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
+        "outlet": "Reuters (via AOL)",
+        "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
         "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "Russia's war on Ukraine 'must be brought to an end', Zelenskyy says",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says"
+          "title": "Putin, Xi And Trump Could Meet At APEC Summit, Says Kremlin",
+          "outlet": "Channels Television (AFP)",
+          "url": "https://www.channelstv.com/2026/10/19/putin-xi-and-trump-could-meet-at-apec-summit-says-kremlin/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Overnight into Sunday, Ukraine launched what Russia's defence ministry called 1,015 drones at 15 Russian regions, Crimea and the Black Sea, all of which it says were \"neutralised\"[^1]. Even so, St Petersburg's governor said drones hit the city's oil terminal, an oil depot and warehouses, killing at least one person and injuring five; the airport restricted flights, and about 20,000 people in the surrounding region lost power[^1]. Russian state media called it the largest attack on the city since 2022[^2].",
-        "The strike came as Ukraine and the US openly disagree. On Friday, President Donald Trump waived parts of a new law that targets Russia's energy income; Secretary of State Marco Rubio said Trump wants up to 60 days to study the economic effects[^2]. Trump said he did not want to drive Moscow \"away from the bargaining table\", criticised Ukraine's strikes on Russian oil, and wrote that Zelenskyy \"doesn't want to end this war\"[^1][^2].",
-        "Ukraine's case is that it is answering Russia's own energy campaign. President Volodymyr Zelenskyy said Russia hit Ukraine's energy, oil and gas sites 76 times in the week after Trump announced an \"energy ceasefire\" on October 11, and used almost 2,700 attack drones in a week[^1]. He also said US intelligence sharing has resumed after a pause, and that talks with US envoys continue[^1][^2].",
-        "Why it matters: both sides are now trying to damage the other's energy system before winter, and the main outside player is pressing the side that was invaded. My read: Kyiv is betting that hurting Russia's oil income gives it more leverage than waiting on Washington, and that is a risk if US support keeps cooling."
+        "On Monday, Kremlin spokesman Dmitry Peskov said a three-way meeting between Vladimir Putin, Donald Trump and Xi Jinping \"came up\" in talks and could happen at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen on November 18-19[^1][^2]. He stressed that no proposal, date or agenda has been agreed[^2]. The comments followed a Wall Street Journal report that Putin wants such a meeting to settle the war on terms that favour Moscow[^1].",
+        "Ukraine pushed back quickly. Foreign Minister Andrii Sybiha wrote that a meeting of Ukraine, the US and Russia could end the war sooner, but a Russia-China-US meeting would encourage Putin to keep fighting[^2]. US Secretary of State Marco Rubio said he did not know if anything was finalised but that Trump wants the war to end; China's foreign ministry said it had no information[^1].",
+        "Background: the last US-mediated peace talks were in February, before the US and Israel went to war with Iran, and Russia and Ukraine remain far apart on territory and guarantees[^2]. Peskov also said a final deal is impossible without someone in Kyiv who can take responsibility for it, which signals that Russia does not see a three-power meeting as a substitute for Ukraine's signature[^1][^2].",
+        "Why it matters: the meeting would take place on Chinese soil, with Ukraine absent. My read is that the idea tests whether great powers will try to decide Ukraine's future over its head, a worry for Kyiv and for Europe. Watch whether the White House accepts, and whether Ukraine is offered a seat."
       ],
-      "differences": "Russia says it stopped all 1,015 drones; St Petersburg officials still report a death, fires and power cuts[^1]. Trump frames Ukraine's strikes as an obstacle to peace; Zelenskyy frames them as a reply to Russia's strikes during a truce he says Russia ignored[^1][^2]."
+      "differences": "The Kremlin presents the idea as a path to peace and says US mediation continues[^2]. Ukraine's foreign minister calls a meeting without Kyiv a reward for Russia[^2]. Washington has not committed, and Beijing says it has no information[^1]."
     },
     {
-      "id": "egypt-saudi-houthis",
-      "heading": "Egypt moves toward sending troops to defend Saudi Arabia from Houthi attacks",
-      "date": "2026-10-18",
-      "status": "developing",
-      "summary": "Egypt's president asked parliament to approve sending forces abroad after pledging \"all possible\" support to Saudi Arabia, which faces near-daily Houthi missile and drone attacks. The Houthis warned Cairo to stay out.",
-      "lead": {
-        "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
-        "outlet": "The National",
-        "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
-        "date": "2026-10-18"
-      },
-      "alsoReported": [
-        {
-          "title": "Egypt's president vows to use 'any measure' to defend Saudi Arabia and seeks authorization to deploy troops abroad as battle against Houthis escalates",
-          "outlet": "AP (via Fortune)",
-          "url": "https://fortune.com/2026/10/18/egypt-saudi-arabia-defense-authorization-troops-houthis-escalation/"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "Egypt's National Defence Council, chaired by President Abdel Fattah el-Sisi, pledged \"all necessary and possible forms of support\" to Saudi Arabia, and Sisi asked parliament on Saturday to authorise sending troops and equipment abroad[^3][^4]. Egypt's constitution requires a two-thirds vote for that; parliament met Sunday and resumes Monday[^3][^4]. Sisi said Egypt would act only if Riyadh asks, and approval alone would not mean troops are sent[^3].",
-        "Background: the Houthis, an Iran-backed movement that controls much of northern Yemen, have stepped up attacks on Saudi Arabia, which backs Yemen's recognised government. AP says the fighting has reignited Yemen's civil war after four years of ceasefire[^4]. A Saudi-led coalition spokesman says Houthi attacks on Saudi airports have killed 19 people since October 1[^3]. On Sunday the Houthi-run health ministry said an airstrike in Saada killed at least nine people, including five children, and blamed Saudi Arabia, which had not commented[^4].",
-        "It sits inside the wider Iran war. On Monday, Iran's Revolutionary Guards said another oil tanker caught fire after hitting a mine in the Strait of Hormuz, and Russia's foreign minister Sergei Lavrov was due in Tehran[^5]. Iran says it is reviewing a US reply to its proposal to end the eight-month war[^4].",
-        "Why it matters: Egypt has the Arab world's largest army and lost heavily in Yemen in the 1960s, which commentators cite as a reason for caution[^3]. My read: if Cairo does send forces, a Gulf conflict that began between Iran, Israel and the US would draw in another major state, making a negotiated end harder."
-      ],
-      "differences": "Riyadh's coalition describes the Houthi strikes as attacks on civilians and airports, and the UN Security Council called them \"escalatory\"[^3]. The Houthis say Saudi Arabia has waged \"aggression and siege\" on Yemen for over 12 years and warned Egypt that joining would endanger its own security[^3]."
-    },
-    {
-      "id": "france-riots-macron",
-      "heading": "France counts the damage after its worst rioting in years; Macron promises accountability",
-      "date": "2026-10-18",
-      "status": "confirmed",
-      "summary": "Protests over living costs and schools turned violent on Saturday, with looting and a city hall burned in Limoges. Arrest counts range from 1,800 to about 2,400. Macron spoke of \"anger and shame\" but declared no emergency.",
-      "lead": {
-        "title": "'Anger and shame': Macron denounces France's nationwide rioting, looting",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
-        "date": "2026-10-18"
-      },
-      "alsoReported": [
-        {
-          "title": "French police arrest more than 1,800 people after violent protests erupt across country",
-          "outlet": "AP (via CBS News)",
-          "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Saturday's nationwide marches over living costs and underfunded schools were followed by looting and fires in several cities. In Limoges, the 19th-century City Hall burned and its roof collapsed; the local prefect said the fire was set on purpose[^6]. The interior minister said hundreds of businesses were looted in Paris, Marseille, Lyon and Bordeaux[^6].",
-        "Numbers depend on who counts and when. AP reported at least 1,800 arrests and more than 500 police, gendarmes and firefighters injured on Saturday; by Sunday, Al Jazeera cited the Interior Ministry at nearly 2,400 arrests and about 1,000 officers injured[^6][^7]. Authorities put the crowds at about 550,000, organisers at about 800,000[^6].",
-        "In a televised address on Sunday, President Emmanuel Macron spoke of \"anger and shame\", separated protesters with \"legitimate demands\" from those who looted, and promised a crisis unit for people in difficulty; he did not declare a state of emergency or a curfew[^7]. He has blamed \"insurrectionist elements\" from the radical far left, joined by criminals[^6].",
-        "Why it matters: France votes for a new president next spring, and every camp is using the unrest[^6][^7]. My read: the deeper issue, how to fund schools and services while cutting a deficit, was there before the riots and will still be there after them."
-      ],
-      "differences": "Macron blames radical far-left groups and criminals[^6]. Left-wing leader Jean-Luc Mélenchon says the government is \"solely responsible\"; far-right figure Jordan Bardella called Macron's speech \"cowardly\"[^7]. US President Trump linked the unrest to immigration; AP notes French authorities have made no such link[^6]."
-    },
-    {
-      "id": "china-q3-growth",
-      "heading": "China's economy grows 4.5% in the third quarter, carried by exports",
+      "id": "saudi-postpones-fii",
+      "heading": "Saudi Arabia postpones its flagship investment summit after Houthi attacks",
       "date": "2026-10-19",
       "status": "confirmed",
-      "summary": "Growth beat forecasts and rose from 4.3% the quarter before, but most of the lift came from exports. Retail sales grew just 1.1% and property investment is down 20.6% this year.",
+      "summary": "The Future Investment Initiative, set for October 26-29 in Riyadh, is pushed to 2027 after Houthi missile and drone strikes, including on the capital's airport. Egypt's parliament delayed its vote on helping defend Saudi Arabia to October 26.",
       "lead": {
-        "title": "China's economy accelerated in the July-September quarter on robust exports",
-        "outlet": "AP (via WSLS)",
-        "url": "https://www.wsls.com/business/2026/10/19/chinas-economy-grew-45-in-the-previous-quarter-fueled-by-robust-exports/",
+        "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
+        "outlet": "The National",
+        "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
         "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
-          "outlet": "investingLive",
-          "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/"
+          "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia"
         }
       ],
-      "eventId": null,
+      "eventId": "iran-war",
       "article": [
-        "China said on Monday that its economy grew 4.5% in July to September compared with a year earlier, slightly better than economists expected and up from 4.3% in the spring, the slowest pace in more than three years[^8][^9]. Growth for the first nine months was 4.6%, inside Beijing's 2026 target of 4.5% to 5%[^9].",
-        "Exports did most of the work. AP reports exports rose 36% in September and the trade surplus reached $938 billion from January to September, on track to pass last year's record[^8]. At home the picture is weaker: retail sales, a measure of shopping, grew 1.1% in September; investment in property fell 20.6% so far this year[^9]. A statistics bureau official said weak domestic demand remains a \"prominent problem\"[^8].",
-        "Why it matters: when the world's second-largest economy grows by selling far more than it buys, other countries feel it. The EU runs a trade deficit with China of more than $1.1 billion a day, AP says, and has moved to limit some Chinese car imports[^8]. One Cornell economist told AP this reliance on foreign demand is unsustainable; others expect exports to stay strong[^8]. My read: the headline number is fine, but how households in China feel about money matters more for what comes next."
+        "Saudi Arabia has postponed the 10th Future Investment Initiative, nicknamed \"Davos in the Desert\", which was due to bring global bankers such as BlackRock's Larry Fink and JPMorgan's Jamie Dimon to Riyadh next week[^3]. The organisers said it will now take place in 2027, with dates still to come[^3]. Two other business events in the kingdom were also moved[^3].",
+        "The reason is the war on Saudi Arabia's southern border. Yemen's Houthi movement, which is aligned with Iran, has stepped up missile and drone attacks on Saudi oil sites and on Riyadh's King Khalid International Airport[^4][^5]. Saudi authorities say 13 people were killed in the October 10 airport attack[^4]. The fighting has grown since the US and Israel attacked Iran in February[^5].",
+        "Egypt is weighing whether to join in. Its National Defence Council approved a plan to support Saudi Arabia on Sunday, but parliament, which needs a two-thirds majority to send troops on a combat mission abroad, adjourned the vote to October 26[^4]. Analysts quoted by Reuters expect air-defence and naval help rather than ground troops in Yemen[^5]. Egypt depends on Gulf money and on Red Sea shipping through the Suez Canal, which the Houthis have disrupted since 2023[^4][^5].",
+        "Why it matters: the summit is a showcase for Saudi Arabia's plan to diversify away from oil, known as Vision 2030[^3]. Calling it off is a sign that the Iran war's side conflicts are now costing the Gulf economically, not only militarily. My read: the Egyptian vote next week is the next test of whether the war widens."
       ],
       "differences": null
     },
     {
-      "id": "ai-debt-selloff",
-      "heading": "Investors sour on the debt paying for AI data centres in a rough week for tech",
-      "date": "2026-10-18",
+      "id": "france-curfews",
+      "heading": "France imposes local curfews after a weekend of riots and looting",
+      "date": "2026-10-19",
       "status": "developing",
-      "summary": "Shares of AI cloud firms CoreWeave and Nebius fell more than 25% last week and some data-centre bonds slid well below face value. Bulls call it \"just another scare\"; skeptics question whether AI revenue can cover the debt.",
+      "summary": "After protests over living costs and schools turned violent, France ordered night curfews in parts of Paris, Lille, Lyon and Nice. About 2,400 people were arrested over the weekend, and Macron refused his interior minister's resignation.",
       "lead": {
-        "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-        "outlet": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
+        "title": "France announces partial curfews after weekend of violence",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+        "date": "2026-10-19"
+      },
+      "alsoReported": [
+        {
+          "title": "France announces curfews in aftermath of violent protests",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Prime Minister Sébastien Lecornu asked regional authorities to impose \"partial\" and \"localised\" curfews after two nights of looting and arson[^7]. In Paris, a curfew from 11 pm to 6 am covers areas around Place de la République and Les Halles, and demonstrations are banned in several areas at night; Lille and nearby towns have curfews Monday and Tuesday, and Nice has one for minors in its centre[^6][^7]. Lecornu said putting all of Paris under curfew is \"out of the question\"[^7].",
+        "The government says about 2,400 people were arrested over the weekend and almost 1,000 police and gendarmes were injured on Saturday; Lecornu called it \"a miracle\" that no one was killed[^6][^7]. Interior Minister Laurent Nuñez admitted police \"lost control\" in some cities and offered to resign; President Emmanuel Macron refused and asked him for transparency about planning and intelligence failures[^6][^7].",
+        "The protests began with grievances many people share. Students have marched against crowded classrooms and teacher shortages, and others against the cost of living and weaker public services; more than half a million people joined Saturday's protests, most of them peacefully[^7]. Al Jazeera reports the violent weekend marches were led by the \"yellow vest\" movement, which has called more protests for Saturday[^7].",
+        "Why it matters: France votes for a new president in about six months, with a weak economy and rising debt[^7]. My read: how the government answers the underlying complaints, not only the riots, will shape that race."
+      ],
+      "differences": null
+    },
+    {
+      "id": "japan-mmx-launch",
+      "heading": "Japan launches a mission to bring back the first samples from a moon of Mars",
+      "date": "2026-10-19",
+      "status": "confirmed",
+      "summary": "JAXA's Martian Moons eXploration spacecraft left Earth on an H3 rocket and is on course for Mars. It aims to land on the moon Phobos, collect samples and return them to Earth in 2031.",
+      "lead": {
+        "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
+        "outlet": "Space.com",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+        "date": "2026-10-19"
+      },
+      "alsoReported": [
+        {
+          "title": "JAXA's MMX Enroute to Mars To Return Samples of Phobos",
+          "outlet": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Japan's space agency, JAXA, launched the Martian Moons eXploration (MMX) spacecraft from Tanegashima at 3:41 pm Toronto time on Monday (early Tuesday in Japan)[^8][^9]. About 71 minutes later it separated from the rocket on a path to Mars, where it should arrive in August 2027[^8].",
+        "MMX will not land on Mars itself. It will study Mars's two small moons, Phobos (about 22 km across) and Deimos, touch down on Phobos twice to collect about 10 grams of material, and drop a small rover called Idefix, built by France and Germany[^8][^9]. NASA supplied two instruments, including the sampler, and will receive a share of the sample[^8]. The capsule is due to land in Australia in 2031[^8][^9].",
+        "The science question is where these moons came from. One idea is that they are asteroids captured by Mars's gravity; another is that they formed from debris after something large hit Mars[^8][^9]. Phobos's near-circular orbit, lined up with Mars's equator, points toward the impact idea, but only a sample can settle it[^9]. If MMX succeeds, it would be the first sample brought back from any moon other than our own[^9].",
+        "Why it matters: Japan already returned asteroid samples with its Hayabusa missions, and this is a harder trip[^9]. Russia's 2011 attempt to reach Phobos failed in Earth orbit, a reminder that the hard parts are still ahead[^8]."
+      ],
+      "differences": null
+    },
+    {
+      "id": "anthropic-junior-hiring-report",
+      "heading": "An AI lab reports hiring far fewer junior technical staff as its AI agents take on work",
+      "date": "2026-10-16",
+      "status": "confirmed",
+      "summary": "Anthropic, the maker of the Claude AI models, published data on its own workforce: juniors fell from 27% to 9% of its technical hires, while total hiring grew. The authors stress that one unusual company is a limited guide.",
+      "lead": {
+        "title": "Is AI squeezing entry level tech jobs? Anthropic's junior technical hiring drops from 27% to 9%",
+        "outlet": "Business Today",
+        "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19",
+        "date": "2026-10-19"
+      },
+      "alsoReported": [],
+      "eventId": "ai-race",
+      "article": [
+        "Anthropic, one of the main US developers of AI models, released a study of how work has changed inside the company[^10]. Its researchers report that junior employees fell from 21% to 14% of technical staff since early 2025, and that juniors made up 9% of technical hires, down from 27%[^10][^11]. Overall headcount is still growing; the change is in the share of beginners, not layoffs[^11].",
+        "The report links this to AI agents, programs that carry out multi-step tasks on their own. It says agents directed by individual employees logged six times as many hours as the employees themselves by August, and code output per engineer rose about fivefold in six months[^10]. People also spend about 20% more time in meetings, partly to direct and check the AI's work[^10][^11].",
+        "The authors list real limits. Anthropic is a single, fast-growing AI company; the link between AI and junior hiring is described, not proven to be cause and effect; and much of the measurement was itself done by automated tools[^10]. They write that none of the company's own measures will prevent powerful AI from disrupting jobs, and call for government help with retraining and income support[^10]. (Note: this brief is written with help from an Anthropic model, so I have kept to the report's own figures and caveats.)",
+        "Why it matters: entry-level jobs are how most people learn a trade. If firms need fewer beginners, the path into careers like software could narrow. My read: this is one early data point from inside the industry, worth watching against wider job statistics."
+      ],
+      "differences": null
+    },
+    {
+      "id": "trump-endorses-netanyahu",
+      "heading": "Trump endorses Netanyahu nine days before Israel's election",
+      "date": "2026-10-18",
+      "status": "confirmed",
+      "summary": "Trump backed Prime Minister Benjamin Netanyahu for the October 27 vote, tying the choice to Iran. Netanyahu trails his main rival, former army chief Gadi Eisenkot, in recent polls, and Eisenkot asked for no foreign interference.",
+      "lead": {
+        "title": "Trump endorses Netanyahu ahead of Israeli elections, citing Iranian threat",
+        "outlet": "Jewish Telegraphic Agency",
+        "url": "https://www.jta.org/2026/10/18/global/trump-endorses-netanyahu-ahead-of-israeli-elections-citing-iranian-threat",
         "date": "2026-10-18"
       },
       "alsoReported": [
         {
-          "title": "Investors turn on the debt behind the AI build-out",
-          "outlet": "Enterprise (EnterpriseAM)",
-          "url": "https://enterpriseam.com/egypt/2026/10/19/investors-turn-on-the-debt-behind-the-ai-build-out/"
+          "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel"
         }
       ],
-      "eventId": "ai-race",
+      "eventId": "gaza",
       "article": [
-        "Tech stocks ended last week lower as worries grew about how the AI building boom is being paid for. CoreWeave and Nebius, which rent out AI computing power, each closed the week down more than 25%, and Oracle was also hit[^10]. Analysts pointed to higher borrowing costs and \"circular\" deals, in which AI firms invest in customers that then buy their products[^10].",
-        "The pressure is clearest in debt. Citing the Financial Times, Enterprise reports that bonds tied to big data-centre projects have fallen below what they were issued at, that one CoreWeave bond fell under 80 cents on the dollar, and that a research firm counts at least 47 large US projects delayed, withdrawn or blocked this year[^11]. An Allianz executive called it a \"Darwin moment\" for weaker borrowers[^11].",
-        "Not everyone is worried. Wedbush's Dan Ives called it the \"same script, different cast\", UBS called it a \"recalibration of expectations\", and chipmakers ASML and TSMC still report strong demand[^10]. The same report says OpenAI's revenue came in below guidance and Anthropic's third-quarter growth fell short of expectations, though its revenue still rose about 50%[^11]. Disclosure: Anthropic makes the AI that writes this brief.",
-        "Why it matters: trillions of dollars of planned spending on chips, power and buildings depend on AI earning enough to repay the loans. My read: one bad week proves little, but the question has moved from whether AI works to whether it pays."
+        "On Sunday, Donald Trump endorsed Benjamin Netanyahu on Truth Social, calling him a \"great warrior prime minister\" and saying the US would \"soon finish the job\" with Iran unless Tehran changed course[^13]. JTA reports Trump also said that if Israel chose another leader, the US would have to handle Iran itself[^12]. He had previously held back from endorsing anyone[^12].",
+        "Israelis vote on October 27. Netanyahu has trailed former army chief of staff Gadi Eisenkot in recent surveys[^12]. A seat tracker cited by Al Jazeera projects Eisenkot's opposition alliance at 52 of 120 seats and Netanyahu's coalition at 51, so neither would have a majority on its own[^13].",
+        "Reactions split along predictable lines. Eisenkot called Trump a great friend of Israel but said the vote is an internal matter[^12]. Finance Minister Bezalel Smotrich, a Netanyahu ally, said Israel should listen to Trump[^12]. Iran's foreign minister said Iran has \"unfinished jobs too\" and repeated an offer to reopen the Strait of Hormuz if the US accepts its conditions[^13].",
+        "Why it matters: the next Israeli government will shape the stalled Gaza truce and any renewed war with Iran. Analysts quoted by Al Jazeera say the endorsement helps Netanyahu but cannot by itself build him a majority[^13]. This is a judgment, but the result may depend more on coalition arithmetic after the vote than on outside support."
       ],
-      "differences": "Bulls such as Wedbush and UBS see a temporary scare after big gains[^10]. Skeptics cited in the FT's reporting warn that AI revenue may not cover the debt and that much of the planned build may never happen[^11]."
+      "differences": "Supporters, including Netanyahu's allies, frame the endorsement as a vote of confidence on Iran policy[^12]. Eisenkot and a US pro-Israel Democratic group see it as interference in a democratic election[^12]. Analysts disagree on how much it changes the odds of new strikes on Iran[^13]."
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "Investors are pulling back from the loans that pay for AI data centres. If building slows, who besides the AI companies would feel it first, and how might that reach someone in Toronto?"
+    "type": "how-do-we-know",
+    "text": "An AI company published data about how AI is changing its own hiring. What would you want to know, and from whom, before deciding how much that tells you about the jobs waiting for your generation?"
   },
   "read": {
-    "title": "Alberta independence referendum: Will separatists survive a loss?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
+    "title": "Explainer: Why is Egypt moving towards possible involvement in Saudi-Yemen conflict?",
+    "outlet": "Reuters (via TimesLIVE)",
+    "url": "https://www.timeslive.co.za/news/world/2026-10-19-explainer-why-is-egypt-moving-towards-possible-involvement-in-saudi-yemen-conflict/",
     "kind": "analysis",
-    "minutes": 8,
-    "summary": "Before today's vote: what Question 10 actually does, why many 'yes' voters may be sending a message, and what separatists could do next if they lose."
+    "minutes": 6,
+    "summary": "A short explainer on why Egypt is considering helping defend Saudi Arabia: Gulf money, Red Sea shipping, the Suez Canal, and what kind of forces it might actually send."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Al Jazeera",
-      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "outlet": "Channels Television (AFP)",
+      "title": "Putin, Xi And Trump Could Meet At APEC Summit, Says Kremlin",
+      "url": "https://www.channelstv.com/2026/10/19/putin-xi-and-trump-could-meet-at-apec-summit-says-kremlin/",
       "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Al Jazeera",
-      "title": "Russia's war on Ukraine 'must be brought to an end', Zelenskyy says",
-      "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says",
-      "date": "2026-10-18",
+      "outlet": "Reuters (via AOL)",
+      "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
+      "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 3,
       "outlet": "The National",
-      "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
-      "url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
-      "date": "2026-10-18",
+      "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
+      "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "AP (via Fortune)",
-      "title": "Egypt's president vows to use 'any measure' to defend Saudi Arabia and seeks authorization to deploy troops abroad as battle against Houthis escalates",
-      "url": "https://fortune.com/2026/10/18/egypt-saudi-arabia-defense-authorization-troops-houthis-escalation/",
-      "date": "2026-10-18",
+      "outlet": "Al Jazeera",
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "The New Arab",
-      "title": "US issues security alerts for Middle East, Yemen war rages",
-      "url": "https://www.newarab.com/news/us-issues-security-alerts-middle-east-yemen-war-rages",
+      "outlet": "Reuters (via TimesLIVE)",
+      "title": "Explainer: Why is Egypt moving towards possible involvement in Saudi-Yemen conflict?",
+      "url": "https://www.timeslive.co.za/news/world/2026-10-19-explainer-why-is-egypt-moving-towards-possible-involvement-in-saudi-yemen-conflict/",
       "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "AP (via CBS News)",
-      "title": "French police arrest more than 1,800 people after violent protests erupt across country",
-      "url": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
-      "date": "2026-10-18",
+      "outlet": "Euronews",
+      "title": "France announces partial curfews after weekend of violence",
+      "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 7,
       "outlet": "Al Jazeera",
-      "title": "'Anger and shame': Macron denounces France's nationwide rioting, looting",
-      "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting",
-      "date": "2026-10-18",
+      "title": "France announces curfews in aftermath of violent protests",
+      "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "AP (via WSLS)",
-      "title": "China's economy accelerated in the July-September quarter on robust exports",
-      "url": "https://www.wsls.com/business/2026/10/19/chinas-economy-grew-45-in-the-previous-quarter-fueled-by-robust-exports/",
+      "outlet": "Space.com",
+      "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
       "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "investingLive",
-      "title": "China Q3 GDP beats forecasts at 4.5%, retail sales grow at fastest pace since March",
-      "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/",
+      "outlet": "SpacePolicyOnline",
+      "title": "JAXA's MMX Enroute to Mars To Return Samples of Phobos",
+      "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
       "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Yahoo Finance",
-      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-      "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
+      "outlet": "Anthropic",
+      "title": "How employment is changing at Anthropic",
+      "url": "https://anthropic.com/research/employment-at-anthropic",
+      "date": "2026-10-16",
+      "singleSource": true
+    },
+    {
+      "id": 11,
+      "outlet": "Business Today",
+      "title": "Is AI squeezing entry level tech jobs? Anthropic's junior technical hiring drops from 27% to 9%",
+      "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "Jewish Telegraphic Agency",
+      "title": "Trump endorses Netanyahu ahead of Israeli elections, citing Iranian threat",
+      "url": "https://www.jta.org/2026/10/18/global/trump-endorses-netanyahu-ahead-of-israeli-elections-citing-iranian-threat",
       "date": "2026-10-18",
       "singleSource": false
     },
     {
-      "id": 11,
-      "outlet": "Enterprise (EnterpriseAM)",
-      "title": "Investors turn on the debt behind the AI build-out",
-      "url": "https://enterpriseam.com/egypt/2026/10/19/investors-turn-on-the-debt-behind-the-ai-build-out/",
+      "id": 13,
+      "outlet": "Al Jazeera",
+      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel",
       "date": "2026-10-19",
-      "singleSource": true
+      "singleSource": false
     }
   ]
 }

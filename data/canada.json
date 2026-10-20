@@ -1,61 +1,69 @@
 {
-  "date": "2026-10-19",
-  "summary": "Four soldiers died in a fire and explosion at CFB Wainwright on Saturday, and Albertans vote today on whether to start a path toward leaving Canada.",
-  "body": [
-    "A fire and explosion during live training at CFB Wainwright in Alberta killed four Canadian Armed Forces members on Saturday, Prime Minister Mark Carney said; the government says 39 were injured, and Global News reports 19 in critical condition [^1][^2][^3]. Carney called it one of the forces' worst peacetime tragedies on Canadian soil and ordered flags to half-mast [^2]. Military sources told Global News a munition likely started a grass fire, driven by gusts near 100 km/h, that led to the blast; the military says the cause is under investigation and there is no sign of terrorism [^1][^3]. Some military sources gave a higher death toll that officials have not confirmed [^1].",
-    "Albertans vote today, Oct. 19. Question 10 asks whether to stay in Canada or begin a legal process toward a future, binding referendum on leaving; a vote for the second option would not by itself make Alberta independent [^4]. Polls suggest about four in five Albertans want to stay, and many \"leave\" voters say they want to send Ottawa a message [^4]. Premier Danielle Smith, who opposes independence, is urging a yes vote on the nine other questions, such as limiting temporary residents' access to health care [^4]. Early results on Question 10 are expected tonight; polls are not results.",
-    "Also today, Statistics Canada releases September inflation. Forecasters expect 3.2%, ahead of the Bank of Canada's Oct. 28 decision, where the rate is expected to stay at 2.25% [^5]."
-  ],
-  "differences": "Accounts of the Wainwright toll differ: the government confirms four dead and 39 injured, while some military sources told Global News at least seven died [^1][^2]. On Alberta, Carney warns voters not to treat Question 10 as a way to \"send a message\"; some separatists say a strong showing is itself a message [^4].",
-  "reads": [
-    {
-      "title": "CFB Wainwright fire sparked by live training exercise, causes explosion: sources",
-      "outlet": "Global News",
-      "url": "https://globalnews.ca/news/12107062/cfb-wainwright-fire-what-we-know/",
-      "kind": "news",
-      "summary": "What is known so far about Saturday's fire: the timeline, the high-wind warning, the medical response and the open questions for the investigation."
-    }
-  ],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "Global News (The Canadian Press)",
-      "title": "CFB Wainwright: Latest on deadly explosion, fire at Alberta military base",
-      "url": "https://globalnews.ca/news/12107237/cfb-wainwright-latest/",
-      "date": "2026-10-18",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "ABC News",
-      "title": "4 dead, 39 injured in explosion at Canadian military training base",
-      "url": "https://abcnews.com/International/multiple-people-killed-dozens-injured-explosion-canadian-military/story?id=137359465",
-      "date": "2026-10-18",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "Global News",
-      "title": "CFB Wainwright fire sparked by live training exercise, causes explosion: sources",
-      "url": "https://globalnews.ca/news/12107062/cfb-wainwright-fire-what-we-know/",
-      "date": "2026-10-18",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "Alberta independence referendum: Will separatists survive a loss?",
-      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss",
-      "date": "2026-10-18",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "FXStreet",
-      "title": "Canada CPI expected to show a pick-up in inflation in September",
-      "url": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-a-pick-up-in-inflation-in-september-202610190730",
-      "date": "2026-10-19",
-      "singleSource": true
-    }
-  ]
+ "date": "2026-10-20",
+ "summary": "Alberta voted by about 76% to stay in Canada in Monday's referendum, and September inflation rose to 3.1%, a bit below forecasts, ahead of the Bank of Canada's Oct. 28 rate decision.",
+ "body": [
+  "Early results from Alberta's Oct. 19 referendum show about 76% of voters chose to remain in Canada on Question 10, while about 24% backed a second, binding vote on leaving[^1][^2]. Prime Minister Mark Carney said Albertans \"chose unity\", and Premier Danielle Smith, who said she voted to stay, plans a televised address Tuesday night[^2]. The other nine questions, on immigration and the Constitution, are still being counted, with results expected by Wednesday[^1]. Smith needs yes votes on those to claim a mandate to bargain with Ottawa; Carney urged a no[^1].",
+  "Statistics Canada said prices rose 3.1% over the year to September, up from 3.0% in August[^3]. Gasoline was the main driver, up 27.8%; without gas, inflation was 2.2%[^3]. Grocery prices rose 1.7%, the smallest yearly gain since May 2024, and university tuition rose 2.4% nationally and 2.1% in Ontario after the province ended its tuition freeze[^3]. Ontario's overall rate, 2.5%, was the lowest of any province[^5][^4]. Economists had expected 3.2%[^4].",
+  "The Bank of Canada sets its key interest rate (which shapes loan and mortgage costs) on Oct. 28[^4]. Federal officials say 50 investigators, led by the military police's National Investigation Service with RCMP support, are looking into the Oct. 17 fire at CFB Wainwright in Alberta that killed four soldiers and injured 39 people[^7][^6]. The cause has not been determined, and the Armed Forces say there is no sign of terrorism[^6]. Otherwise, there was no major Canada-US tariff or Ontario news in this window."
+ ],
+ "differences": "Separatist organizer Jeff Rath said \"we're not going anywhere\", while pro-Canada campaigners said separatists should accept they are not the majority[^2]. Smith has said she expects people to \"accept it and move on\"[^1]. On rates, Governor Tiff Macklem said the bank is ready to raise rates if energy prices spread to other prices. BMO's Douglas Porter said the inflation report does not strengthen the case for a hike. My read: these views are not far apart, because both depend on whether the gas-price jump spreads[^4].",
+ "reads": [],
+ "sources": [
+  {
+   "id": 1,
+   "outlet": "Global News",
+   "title": "Alberta referendum voters reject separatism, choose to stay in Canada",
+   "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/",
+   "date": "2026-10-20",
+   "singleSource": false
+  },
+  {
+   "id": 2,
+   "outlet": "The Canadian Press (via The Chronicle-Journal)",
+   "title": "Maple leaf love: Albertans vote strongly to stay in Canada",
+   "url": "https://www.chroniclejournal.com/news/national/maple-leaf-love-albertans-vote-overwhelmingly-in-referendum-to-stay-in-canada/article_51154a55-a08b-5cb1-8a3b-c70aa43d9302.html",
+   "date": "2026-10-19",
+   "singleSource": false
+  },
+  {
+   "id": 3,
+   "outlet": "Statistics Canada",
+   "title": "The Daily: Consumer Price Index, September 2026",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+   "date": "2026-10-19",
+   "singleSource": false
+  },
+  {
+   "id": 4,
+   "outlet": "The Canadian Press (via CP24)",
+   "title": "Higher gas prices drove inflation up to 3.1% in September: StatCan",
+   "url": "https://www.cp24.com/news/money/2026/10/19/higher-gas-prices-drove-inflation-up-to-31-in-september-statcan/",
+   "date": "2026-10-19",
+   "singleSource": false
+  },
+  {
+   "id": 5,
+   "outlet": "BNN Bloomberg (The Canadian Press)",
+   "title": "Here's a list of September inflation rates for Canadian provinces",
+   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/19/heres-a-list-of-september-inflation-rates-for-canadian-provinces/",
+   "date": "2026-10-19",
+   "singleSource": false
+  },
+  {
+   "id": 6,
+   "outlet": "Global News",
+   "title": "CFB Wainwright: Latest on deadly explosion, fire at Alberta military base",
+   "url": "https://globalnews.ca/news/12107237/cfb-wainwright-latest/",
+   "date": "2026-10-19",
+   "singleSource": false
+  },
+  {
+   "id": 7,
+   "outlet": "The National News Desk (with AP)",
+   "title": "Canada sends 50 investigators to probe deadly fire at military base",
+   "url": "https://wjactv.com/news/nation-world/canada-sends-50-investigators-to-probe-deadly-fire-at-cfb-wainwright-alberta-military-base-prime-minister-mark-carney-royal-canadian-mounted-police-flags-half-staff",
+   "date": "2026-10-19",
+   "singleSource": true
+  }
+ ]
 }
