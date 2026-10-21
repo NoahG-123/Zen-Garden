@@ -1,21 +1,61 @@
 {
- "date": "2026-10-20",
- "summary": "More than 150 Chinese apps, WeChat and Alipay among them, have shut ByteDance's AI phone assistant out. Beijing also issued a plan to put more AI into consumer goods.",
- "body": [
-  "China's biggest apps are refusing to let an AI assistant use them on a user's behalf. ByteDance's Doubao assistant can tap and type its way through other apps, a method called GUI automation (the AI works the on-screen buttons the way a person would). It runs on Nubia's NaviX Ultra phone, which went on sale Sept. 16 [^1][^2]. On Oct. 14, Doubao posted a list of more than 150 apps that have opted out. Nearly 60% belong to Tencent or Alibaba, including WeChat and Alipay. Meituan, Didi, Xiaohongshu, several banks and the rival AI apps DeepSeek and Kimi are also on it [^1]. People can still use these apps by hand. The assistant just cannot do tasks inside them for you [^1][^2]. A Tsinghua University researcher told Chinese media that China has no rules yet on how AI agents may operate other companies' apps [^1].",
-  "Beijing is pushing in the same direction from the policy side. On Oct. 19, the Ministry of Commerce and eight other government departments issued guidelines on what they call technology-driven commerce. The guidelines call for more AI in manufacturing and more smart products such as phones, PCs and robots [^3]. Chinese state media says the plan is meant to lift spending on both goods and services [^4]. My read: the government wants AI in everyday devices, but the Doubao dispute shows the big platforms still decide how far an assistant can reach.",
-  "Outside China, the U.S. Department of Homeland Security has ordered civilian federal agencies to remove products from the Chinese AI company DeepSeek and to stop buying them, according to reporting that cites Bloomberg and Reuters. The order points to data security concerns [^5]. On the everyday side, Duolingo launched a course of about 50 lessons in Shanghainese, a local dialect that about 10 million people speak. Shanghainese has faded as schools promote Mandarin, and this is the app's second Chinese dialect after Cantonese [^6]."
- ],
- "differences": "The reason for the opt-outs is disputed. None of the listed app makers had publicly commented as of Monday [^1]. Caixin describes the dispute as a clash over data compliance, privacy and automated access [^2]. A Tsinghua researcher quoted by Sixth Tone said privacy concerns make the refusals understandable, but that they may also protect the platforms' own AI ecosystems from a rival [^1].",
- "reads": [
-  {"title": "China's Agentic AI Controversy", "outlet": "Lawfare", "url": "https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy", "kind": "analysis", "summary": "Background from March 2026. Samm Sacks, of New America and Yale Law School, explains why the Doubao phone set off a fight over data, privacy and platform power, and what other countries might learn from it."}
- ],
- "sources": [
-  {"id": 1, "outlet": "Sixth Tone", "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone", "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone", "date": "2026-10-19", "singleSource": false},
-  {"id": 2, "outlet": "Caixin Global", "title": "More Than 150 Apps Opt Out of ByteDance's AI Phone Assistant", "url": "https://www.caixinglobal.com/2026-10-15/more-than-150-apps-opt-out-of-bytedances-ai-phone-assistant-102493470.html", "date": "2026-10-15", "singleSource": false},
-  {"id": 3, "outlet": "DIGITIMES", "title": "China's tech-driven commerce plan pushes AI into phones, PCs, and robots", "url": "https://www.digitimes.com/news/a20261020VL202/government-2026-manufacturing-production-policy.html", "date": "2026-10-20", "singleSource": false},
-  {"id": 4, "outlet": "Global Times (Chinese state media)", "title": "China rolls out tech-driven commerce plan to push AI-powered manufacturing, BCI, embodied intelligence commercialization", "url": "https://www.globaltimes.cn/page/202610/1372530.shtml", "date": "2026-10-19", "singleSource": false},
-  {"id": 5, "outlet": "The Next Web", "title": "US orders civilian federal agencies to remove DeepSeek from their systems", "url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies", "date": "2026-10-19", "singleSource": true},
-  {"id": 6, "outlet": "Sixth Tone", "title": "Duolingo Launches Shanghainese Lessons, Its 2nd Chinese Dialect", "url": "https://www.sixthtone.com/news/1019133/duolingo-launches-shanghainese-lessons%2C-its-2nd-chinese-dialect", "date": "2026-10-16", "singleSource": true}
- ]
+  "date": "2026-10-21",
+  "summary": "China's economy grew 4.5% last quarter on strong exports while shoppers held back, and a report says DeepSeek is helping Huawei design its next AI chips.",
+  "body": [
+    "China's National Bureau of Statistics said on Monday that the economy grew 4.5% in July to September compared with a year earlier, up from 4.3% in the spring quarter and a little above what economists expected [^1][^2][^3]. Growth for the first nine months was 4.6%, which keeps the country within this year's official target of 4.5% to 5% [^1][^3]. Factories and exports did most of the work: industrial output rose 5.5% in September, while retail sales, a measure of what households buy in shops and online, grew only 1.1% [^1][^2]. Investment in things like buildings and infrastructure fell 7.2% over the first nine months, and the property market is still shrinking [^1][^2].",
+    "For daily life, the numbers point to caution. The official urban unemployment rate was 5.2% in September [^1][^5], but economists told Reuters that figure looks better than reality because anyone who works even one hour a week counts as employed [^1]. The jobless rate for 16-to-24-year-olds not in school reached 18.9% in August, its highest point this year [^5]. A 26-year-old accountant told Reuters her bonus was nearly cut in half [^1]. My read: China is selling a lot to the world, but families at home are still careful with money.",
+    "In tech, The Information reported on Oct 19 that Huawei engineers are working inside DeepSeek's offices so that the AI start-up's needs shape Huawei's future Ascend chips (Ascend is Huawei's line of AI processors, a home-grown alternative to Nvidia's) [^4]. DeepSeek reportedly plans to start training models on the Ascend 950DT by the end of this year [^4]. Neither company has commented, and the report says DeepSeek still wants access to Nvidia chips, which remain far more powerful [^4]."
+  ],
+  "differences": null,
+  "reads": [
+    {
+      "title": "China's economic growth picks up as exports boom, consumers balk",
+      "outlet": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-economic-growth-picks-third-022621114.html",
+      "kind": "news",
+      "summary": "A clear walk-through of the third-quarter data, with voices from a restaurant owner and a young accountant on jobs, pay and spending."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Reuters (via Yahoo Finance)",
+      "title": "China's economic growth picks up as exports boom, consumers balk",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-economic-growth-picks-third-022621114.html",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "Al Jazeera",
+      "title": "China's economy grows 4.5 percent in Q3, beating forecasts",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "South China Morning Post",
+      "title": "China's economy grows 4.5% in third quarter, staying on track for annual target",
+      "url": "https://scmp.com/economy/economic-indicators/article/3371335/chinas-economy-grows-45-third-quarter-staying-track-annual-target",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Investing.com (citing The Information)",
+      "title": "DeepSeek teams up with Huawei to challenge Nvidia",
+      "url": "https://www.investing.com/news/stock-market-news/deepseek-teams-up-with-huawei-to-challenge-nvidia-4958123",
+      "date": "2026-10-19",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "TrendForce DataTrack",
+      "title": "China's Q3 2026 surveyed urban unemployment rate edges down to 5.2%; high working hours and youth employment pressure persist",
+      "url": "https://datatrack.trendforce.com/blog/content/65508/chinas-q3-2026-surveyed-urban-unemployment-rate-edges-down-to-52-high-working-hours-and-youth-employment-pressure-persist",
+      "date": "2026-10-19",
+      "singleSource": true
+    }
+  ]
 }

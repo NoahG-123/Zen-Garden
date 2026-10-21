@@ -1,69 +1,77 @@
 {
- "date": "2026-10-20",
- "summary": "Alberta voted by about 76% to stay in Canada in Monday's referendum, and September inflation rose to 3.1%, a bit below forecasts, ahead of the Bank of Canada's Oct. 28 rate decision.",
- "body": [
-  "Early results from Alberta's Oct. 19 referendum show about 76% of voters chose to remain in Canada on Question 10, while about 24% backed a second, binding vote on leaving[^1][^2]. Prime Minister Mark Carney said Albertans \"chose unity\", and Premier Danielle Smith, who said she voted to stay, plans a televised address Tuesday night[^2]. The other nine questions, on immigration and the Constitution, are still being counted, with results expected by Wednesday[^1]. Smith needs yes votes on those to claim a mandate to bargain with Ottawa; Carney urged a no[^1].",
-  "Statistics Canada said prices rose 3.1% over the year to September, up from 3.0% in August[^3]. Gasoline was the main driver, up 27.8%; without gas, inflation was 2.2%[^3]. Grocery prices rose 1.7%, the smallest yearly gain since May 2024, and university tuition rose 2.4% nationally and 2.1% in Ontario after the province ended its tuition freeze[^3]. Ontario's overall rate, 2.5%, was the lowest of any province[^5][^4]. Economists had expected 3.2%[^4].",
-  "The Bank of Canada sets its key interest rate (which shapes loan and mortgage costs) on Oct. 28[^4]. Federal officials say 50 investigators, led by the military police's National Investigation Service with RCMP support, are looking into the Oct. 17 fire at CFB Wainwright in Alberta that killed four soldiers and injured 39 people[^7][^6]. The cause has not been determined, and the Armed Forces say there is no sign of terrorism[^6]. Otherwise, there was no major Canada-US tariff or Ontario news in this window."
- ],
- "differences": "Separatist organizer Jeff Rath said \"we're not going anywhere\", while pro-Canada campaigners said separatists should accept they are not the majority[^2]. Smith has said she expects people to \"accept it and move on\"[^1]. On rates, Governor Tiff Macklem said the bank is ready to raise rates if energy prices spread to other prices. BMO's Douglas Porter said the inflation report does not strengthen the case for a hike. My read: these views are not far apart, because both depend on whether the gas-price jump spreads[^4].",
- "reads": [],
- "sources": [
-  {
-   "id": 1,
-   "outlet": "Global News",
-   "title": "Alberta referendum voters reject separatism, choose to stay in Canada",
-   "url": "https://globalnews.ca/news/12108827/alberta-referendum-result/",
-   "date": "2026-10-20",
-   "singleSource": false
-  },
-  {
-   "id": 2,
-   "outlet": "The Canadian Press (via The Chronicle-Journal)",
-   "title": "Maple leaf love: Albertans vote strongly to stay in Canada",
-   "url": "https://www.chroniclejournal.com/news/national/maple-leaf-love-albertans-vote-overwhelmingly-in-referendum-to-stay-in-canada/article_51154a55-a08b-5cb1-8a3b-c70aa43d9302.html",
-   "date": "2026-10-19",
-   "singleSource": false
-  },
-  {
-   "id": 3,
-   "outlet": "Statistics Canada",
-   "title": "The Daily: Consumer Price Index, September 2026",
-   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
-   "date": "2026-10-19",
-   "singleSource": false
-  },
-  {
-   "id": 4,
-   "outlet": "The Canadian Press (via CP24)",
-   "title": "Higher gas prices drove inflation up to 3.1% in September: StatCan",
-   "url": "https://www.cp24.com/news/money/2026/10/19/higher-gas-prices-drove-inflation-up-to-31-in-september-statcan/",
-   "date": "2026-10-19",
-   "singleSource": false
-  },
-  {
-   "id": 5,
-   "outlet": "BNN Bloomberg (The Canadian Press)",
-   "title": "Here's a list of September inflation rates for Canadian provinces",
-   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/19/heres-a-list-of-september-inflation-rates-for-canadian-provinces/",
-   "date": "2026-10-19",
-   "singleSource": false
-  },
-  {
-   "id": 6,
-   "outlet": "Global News",
-   "title": "CFB Wainwright: Latest on deadly explosion, fire at Alberta military base",
-   "url": "https://globalnews.ca/news/12107237/cfb-wainwright-latest/",
-   "date": "2026-10-19",
-   "singleSource": false
-  },
-  {
-   "id": 7,
-   "outlet": "The National News Desk (with AP)",
-   "title": "Canada sends 50 investigators to probe deadly fire at military base",
-   "url": "https://wjactv.com/news/nation-world/canada-sends-50-investigators-to-probe-deadly-fire-at-cfb-wainwright-alberta-military-base-prime-minister-mark-carney-royal-canadian-mounted-police-flags-half-staff",
-   "date": "2026-10-19",
-   "singleSource": true
-  }
- ]
+  "date": "2026-10-21",
+  "summary": "Premier Smith says Alberta stays in Canada with no second separation vote, while early counts show most immigration questions passing narrowly. A U.S. importer has sued over the 50% tariffs.",
+  "body": [
+    "Alberta's referendum is still the main story. In a televised address Tuesday evening, Premier Danielle Smith said Albertans had \"made their choice\" and that she will not hold another separation referendum while she is premier [^1][^2]. She acknowledged \"legitimate frustrations\" with Ottawa but said disputes should go through political and legal channels [^1]. Prime Minister Mark Carney's office issued a statement saying \"Albertans chose Canada\" and focused on trade and building projects [^5]. Ontario Premier Doug Ford said he was \"thrilled\" with the result and called for new pipelines [^2].",
+    "The other nine questions are closer. In unofficial counts on Tuesday, yes was ahead on all five immigration questions, mostly at about 54 to 58 per cent. Requiring proof of citizenship to vote had roughly two-thirds support [^1][^3]. On the four constitutional questions (changes to Canada's basic legal rulebook), yes led narrowly on three. The exception was letting Alberta opt out of federal programs without losing federal money, which was trailing at about 51 per cent no [^1][^3]. Edmonton voted no on all nine [^1]. These results are non-binding, meaning they guide the government but do not force it to act. Official results are expected Oct. 29 [^3]. Carney said immigration disputes can be settled without changing the Constitution [^1]. Ottawa's updated immigration plan is due in November [^4]. My read: these questions set up negotiations with Ottawa rather than immediate changes.",
+    "On trade, a U.S. food importer filed a lawsuit Tuesday in the U.S. Court of International Trade. It challenges the 50 per cent tariffs (taxes on imports) on about $20 billion US of Canadian goods. Those tariffs took effect Aug. 22 [^6][^7]. The suit argues President Donald Trump went beyond his authority under a 1930 law and asks for the tariffs to be blocked and refunded [^6][^7]. Otherwise it was a quiet day for economic news, with no major data releases. The Bank of Canada's interest rate decision is still set for Oct. 28."
+  ],
+  "differences": "Reactions to the vote differ. Conservative Leader Pierre Poilievre backed Smith's push for more provincial say on immigration. Separatist organizer Jeff Rath said he would seek a UCP meeting to remove Smith. Avnish Nanda, who campaigned against the immigration questions, cited polls suggesting some voters were confused by the wording. Alberta NDP Leader Naheed Nenshi called the referendum a mistake [^1][^2].",
+  "reads": [
+    {
+      "title": "Albertans mixed on other referendum questions after rejecting separation",
+      "outlet": "Global News",
+      "url": "https://globalnews.ca/news/12109093/alberta-referendum-separation-other-results/",
+      "kind": "news",
+      "summary": "A plain explainer of each of the nine non-separation questions, covering immigration, voter ID, judges, the Senate and federal programs, with Tuesday's unofficial results."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Global News",
+      "title": "Danielle Smith calls for unity after separatism rejected in Alberta referendum",
+      "url": "https://globalnews.ca/news/12110203/alberta-referendum-danielle-smith-results-speech/",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "BNN Bloomberg (CTV News)",
+      "title": "Alberta referendum: Danielle Smith to honour voter mandate. Live updates.",
+      "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/21/i-will-honour-this-mandate-smith-vows-not-to-hold-another-referendum-on-separation-live-updates/",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Global News",
+      "title": "Albertans mixed on other referendum questions after rejecting separation",
+      "url": "https://globalnews.ca/news/12109093/alberta-referendum-separation-other-results/",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "CP24",
+      "title": "Alberta referendum: Immigration vote close, separation rejected. Live updates",
+      "url": "https://www.cp24.com/news/canada/2026/10/20/albertans-reject-separation-in-historic-vote-ctv-news-projects-live-updates/",
+      "date": "2026-10-20",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "Prime Minister's Office",
+      "title": "Statement by Prime Minister Carney on Albertans choosing to build a stronger Canada, together",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/10/20/statement-prime-minister-carney-albertans-choosing-build-stronger-canada",
+      "date": "2026-10-20",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Supply Chain Dive",
+      "title": "Trump's 50% Canada tariffs challenged in court",
+      "url": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Quartz",
+      "title": "Food importer sues to block Trump's 50% tariffs on Canadian goods",
+      "url": "https://qz.com/food-importer-lawsuit-trump-canada-tariffs-section-338-102026",
+      "date": "2026-10-20",
+      "singleSource": false
+    }
+  ]
 }

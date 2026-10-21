@@ -1,287 +1,319 @@
 {
-  "date": "2026-10-20",
-  "summary": "The Kremlin floats a three-power summit on Ukraine, Houthi attacks cancel Riyadh's showcase, France brings in curfews, Japan heads for a Mars moon, and an AI lab hires fewer juniors.",
+  "date": "2026-10-21",
+  "summary": "A US envoy carries Ukraine's ideas to Putin, Yemen's war draws in British jets, Ebola reaches Nigeria, a drone strike hits Abyei, the EU eyes the Arctic, and AI agents hack websites.",
   "topics": [
     {
-      "id": "putin-trump-xi-summit-idea",
-      "heading": "Kremlin floats a Putin-Trump-Xi meeting on Ukraine; Kyiv objects to being left out",
-      "date": "2026-10-19",
+      "id": "witkoff-oslo-st-petersburg",
+      "heading": "US envoy meets Zelenskyy in Oslo, then flies to Russia to see Putin",
+      "date": "2026-10-20",
       "status": "developing",
-      "summary": "The Kremlin says Putin, Trump and Xi could meet at next month's APEC summit in China to discuss the war, though nothing is agreed. Ukraine's foreign minister says talks without Kyiv would only encourage Russia to keep fighting.",
+      "summary": "After talks in Norway that US and European officials called constructive, envoy Steve Witkoff arrived in St Petersburg to meet Vladimir Putin on Wednesday. Zelenskyy says vital US intelligence on Russian attacks has been restored.",
       "lead": {
-        "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
-        "outlet": "Reuters (via AOL)",
-        "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
-        "date": "2026-10-19"
+        "title": "Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+        "date": "2026-10-21"
       },
       "alsoReported": [
         {
-          "title": "Putin, Xi And Trump Could Meet At APEC Summit, Says Kremlin",
-          "outlet": "Channels Television (AFP)",
-          "url": "https://www.channelstv.com/2026/10/19/putin-xi-and-trump-could-meet-at-apec-summit-says-kremlin/"
+          "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324"
+        },
+        {
+          "title": "Zelenskiy goes to Oslo for US talks as Trump tensions mount",
+          "outlet": "The Irish Times (Financial Times)",
+          "url": "https://www.irishtimes.com/world/europe/2026/10/20/zelenskiy-goes-to-oslo-for-us-talks-as-trump-tensions-mount/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Monday, Kremlin spokesman Dmitry Peskov said a three-way meeting between Vladimir Putin, Donald Trump and Xi Jinping \"came up\" in talks and could happen at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen on November 18-19[^1][^2]. He stressed that no proposal, date or agenda has been agreed[^2]. The comments followed a Wall Street Journal report that Putin wants such a meeting to settle the war on terms that favour Moscow[^1].",
-        "Ukraine pushed back quickly. Foreign Minister Andrii Sybiha wrote that a meeting of Ukraine, the US and Russia could end the war sooner, but a Russia-China-US meeting would encourage Putin to keep fighting[^2]. US Secretary of State Marco Rubio said he did not know if anything was finalised but that Trump wants the war to end; China's foreign ministry said it had no information[^1].",
-        "Background: the last US-mediated peace talks were in February, before the US and Israel went to war with Iran, and Russia and Ukraine remain far apart on territory and guarantees[^2]. Peskov also said a final deal is impossible without someone in Kyiv who can take responsibility for it, which signals that Russia does not see a three-power meeting as a substitute for Ukraine's signature[^1][^2].",
-        "Why it matters: the meeting would take place on Chinese soil, with Ukraine absent. My read is that the idea tests whether great powers will try to decide Ukraine's future over its head, a worry for Kyiv and for Europe. Watch whether the White House accepts, and whether Ukraine is offered a seat."
+        "On Tuesday, US envoy Steve Witkoff met Ukraine's President Volodymyr Zelenskyy in Oslo, with the leaders of Norway and Finland and EU and NATO officials in the room[^2]. A US official called the talks \"constructive\" and said they covered security guarantees for Ukraine, a post-war economic plan and Europe's wider security[^2]. Witkoff then flew to St Petersburg, where he is due to meet Vladimir Putin on Wednesday[^1][^4].",
+        "The meeting came as US-Ukraine relations hit a low point. Days earlier, President Donald Trump said it was \"time for somebody else to negotiate on behalf of Ukraine\" and that Zelenskyy did not want to stop the war[^3]. Kyiv had complained that Washington stopped sharing warnings of incoming Russian missiles, held up Patriot air-defence interceptors and let the military Starlink satellite service be slowed[^2]. After Oslo, Zelenskyy said the intelligence had been restored[^1][^2].",
+        "Background: the US has tried to broker a deal since 2025, but Russia and Ukraine remain far apart on territory and on who would guarantee a peace. Trump has recently lifted sanctions on Russian diesel, which he links to lowering US fuel prices before the November 3 midterms; that drew criticism from both parties in Congress[^2][^3]. Europe wants a seat at the table: the EU's foreign-policy chief said Ukraine has not surrendered \"because Europe has been supporting Ukraine\"[^3].",
+        "What could happen next: US Secretary of State Marco Rubio said Witkoff will carry Ukraine's ideas to the Russian side \"and let's see if we can make some progress\"[^1]. Witkoff is also expected to raise the case of Stephen Hubbard, an American held in a Russian prison[^4]. My read: watch whether the Kremlin moves on anything concrete, such as an energy truce, or only on talks about talks."
       ],
-      "differences": "The Kremlin presents the idea as a path to peace and says US mediation continues[^2]. Ukraine's foreign minister calls a meeting without Kyiv a reward for Russia[^2]. Washington has not committed, and Beijing says it has no information[^1]."
+      "differences": "Kyiv says the US held back intelligence, Patriots and Starlink access; Rubio says there was no political decision to harm Ukraine and that Trump had nothing to do with Starlink's choices[^1][^2]. The Wall Street Journal and Reuters reported the Starlink slowdown involved the White House; Defence Secretary Pete Hegseth says Washington did not restrict it[^2]. Some Republican senators accuse the administration of giving in to Russia[^3]."
     },
     {
-      "id": "saudi-postpones-fii",
-      "heading": "Saudi Arabia postpones its flagship investment summit after Houthi attacks",
-      "date": "2026-10-19",
-      "status": "confirmed",
-      "summary": "The Future Investment Initiative, set for October 26-29 in Riyadh, is pushed to 2027 after Houthi missile and drone strikes, including on the capital's airport. Egypt's parliament delayed its vote on helping defend Saudi Arabia to October 26.",
+      "id": "houthi-strike-shabwa-uk-jets",
+      "heading": "Houthi missiles kill 73 Yemeni recruits as the UK sends jets to defend Saudi skies",
+      "date": "2026-10-20",
+      "status": "developing",
+      "summary": "Yemen's deadliest strike in months hit a training camp in Shabwa province. Britain says RAF Typhoons will patrol over Saudi Arabia, and Iran tells Pakistan's mediator there will be no talks with Washington until its conditions are met.",
       "lead": {
-        "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
-        "outlet": "The National",
-        "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
-        "date": "2026-10-19"
+        "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+        "outlet": "The Korea Times (AP)",
+        "url": "https://www.koreatimes.co.kr/world/20261020/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
+        "date": "2026-10-20"
       },
       "alsoReported": [
         {
-          "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia"
+          "title": "The UK expands military support for Saudi Arabia against Houthis to include 'defensive' air patrols",
+          "outlet": "AP (via News4JAX)",
+          "url": "https://www.news4jax.com/news/world/2026/10/20/the-uk-expands-military-support-for-saudi-arabia-against-houthis-to-include-defensive-air-patrols/"
+        },
+        {
+          "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
+          "outlet": "Reuters (via Al-Monitor)",
+          "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Saudi Arabia has postponed the 10th Future Investment Initiative, nicknamed \"Davos in the Desert\", which was due to bring global bankers such as BlackRock's Larry Fink and JPMorgan's Jamie Dimon to Riyadh next week[^3]. The organisers said it will now take place in 2027, with dates still to come[^3]. Two other business events in the kingdom were also moved[^3].",
-        "The reason is the war on Saudi Arabia's southern border. Yemen's Houthi movement, which is aligned with Iran, has stepped up missile and drone attacks on Saudi oil sites and on Riyadh's King Khalid International Airport[^4][^5]. Saudi authorities say 13 people were killed in the October 10 airport attack[^4]. The fighting has grown since the US and Israel attacked Iran in February[^5].",
-        "Egypt is weighing whether to join in. Its National Defence Council approved a plan to support Saudi Arabia on Sunday, but parliament, which needs a two-thirds majority to send troops on a combat mission abroad, adjourned the vote to October 26[^4]. Analysts quoted by Reuters expect air-defence and naval help rather than ground troops in Yemen[^5]. Egypt depends on Gulf money and on Red Sea shipping through the Suez Canal, which the Houthis have disrupted since 2023[^4][^5].",
-        "Why it matters: the summit is a showcase for Saudi Arabia's plan to diversify away from oil, known as Vision 2030[^3]. Calling it off is a sign that the Iran war's side conflicts are now costing the Gulf economically, not only militarily. My read: the Egyptian vote next week is the next test of whether the war widens."
+        "Three ballistic missiles hit the al-Alam training camp in Yemen's Shabwa province on Monday as new recruits lined up, according to provincial authorities[^5]. By Tuesday the death toll had risen to 73, with more than 200 wounded; officials say the victims were 18 to 20 years old and were training for local security, not front-line combat[^5]. The Houthis, the Iran-aligned movement that controls much of north Yemen, claimed the attack[^5].",
+        "Yemen's war, which began in 2014, flared again in July after a 2022 truce broke down; since then the Houthis have fired missiles and drones at Saudi Arabia, which backs Yemen's government[^5]. On Tuesday, Saudi authorities said they intercepted a Houthi ballistic missile near Riyadh's main airport[^5].",
+        "Britain is stepping up. UK Defence Secretary Wes Streeting said RAF Typhoon jets will fly \"defensive counter-air operations\" over Saudi Arabia to protect cities and infrastructure, but will not strike Houthi targets[^6]. Britain is also sending advisers and a transport plane, and extending its air-refuelling mission by 90 days[^6]. The US envoy Tom Barrack said the US would give logistical support but not troops[^5].",
+        "The wider Iran war is still stuck. Pakistan's army chief, Field Marshal Asim Munir, met Iran's president in Tehran to push mediation[^7]. Iran's parliament speaker said Washington cannot earn trust until it meets seven Iranian conditions, including lifting the US blockade of Iran's ports and sanctions on its oil[^7]. My read: the Yemen front is now the most active part of the conflict, and each new outside force, British jets now and possibly Egyptian help after next week's vote, makes it harder to contain."
       ],
       "differences": null
     },
     {
-      "id": "france-curfews",
-      "heading": "France imposes local curfews after a weekend of riots and looting",
+      "id": "ebola-reaches-nigeria",
+      "heading": "Ebola reaches Nigeria as Kenya confirms a ninth case",
+      "date": "2026-10-20",
+      "status": "developing",
+      "summary": "Nigeria has its first confirmed case of the Bundibugyo strain of Ebola, in a traveller from Uganda. Kenya's nine cases are all in one family cluster, while Congo has counted more than 9,000 cases since May.",
+      "lead": {
+        "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
+        "date": "2026-10-20"
+      },
+      "alsoReported": [
+        {
+          "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
+          "outlet": "Africanews (AFP)",
+          "url": "https://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Nigeria confirmed its first Ebola case on Tuesday: a woman in the capital, Abuja, who had travelled from Uganda, fell ill on October 7 and was treated at a private hospital before being diagnosed[^8][^9]. She is in isolation, and health officials are tracing 44 people she was in close contact with[^8][^9]. Health Minister Muhammad Pate said Nigeria is doing \"everything possible\" to contain it[^8].",
+        "Kenya confirmed its ninth case the same day, a 24-year-old relative of its first patient, who died in Nairobi on October 5[^8]. He was already in quarantine. Kenya's health director said all nine cases belong to one cluster, with no sign of spread beyond it, and almost all 135 known contacts have been traced[^8].",
+        "Background: this outbreak began in the Democratic Republic of the Congo in May. It is caused by the Bundibugyo strain, for which there is no licensed vaccine or specific treatment[^8]. Congo has recorded more than 9,000 cases and about 4,400 deaths[^8][^9]. Europe's disease agency calls it the second-largest Ebola epidemic on record[^8]. Ebola spreads through close contact with the body fluids of sick people, which is why tracing contacts matters so much.",
+        "Why it matters: Nigeria is Africa's most populous country and a travel hub for West Africa. The head of the Africa CDC called the outbreak an \"extremely serious threat\" and asked other countries for money, supplies and health workers[^9]. Ebola can take up to three weeks to cause symptoms. My read: the coming weeks will show whether Nigeria's case stays isolated."
+      ],
+      "differences": null
+    },
+    {
+      "id": "abyei-drone-strike",
+      "heading": "A drone strike on a market in disputed Abyei kills scores of people",
+      "date": "2026-10-19",
+      "status": "disputed",
+      "summary": "Local officials blame Sudan's army for Monday's strike near a fuel depot in the region claimed by both Sudan and South Sudan. Reported death tolls range from 73 to 220, and the army says it hit fuel meant for its rival, the RSF.",
+      "lead": {
+        "title": "South Sudan says Sudanese drone attack killed scores in Abyei market",
+        "outlet": "Reuters (via ThePrint)",
+        "url": "https://theprint.in/world/south-sudan-says-sudanese-drone-attack-killed-scores-in-abyei-market/3076847/",
+        "date": "2026-10-20"
+      },
+      "alsoReported": [
+        {
+          "title": "Sudanese army says deadly Abyei drone strike targeted RSF fuel supplies",
+          "outlet": "Sudans Post",
+          "url": "https://www.sudanspost.com/sudanese-army-says-deadly-abyei-drone-strike-targeted-rsf-fuel-supplies/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "On Monday around midday, drones struck Amiet market in Abyei, a strip of land claimed by both Sudan and South Sudan[^10][^11]. The death toll is still uncertain. Abyei's caretaker information minister first told Reuters about 73 people were killed and 19 wounded, and later told Sudans Post the toll had reached 220 and could rise[^10][^11]. The aid group MSF said it was treating more than 20 wounded people, some with burns[^10][^11].",
+        "The minister blamed Sudan's army, without giving evidence, and South Sudan summoned Sudan's ambassador in protest[^10][^11]. A senior Sudanese army officer, speaking anonymously, said the army carried out the strike against fuel tankers supplying the Rapid Support Forces (RSF), the paramilitary group it has been fighting since 2023, and said \"we do not target civilians\"[^11]. Reuters reported that a diplomatic source said the depot had been used to supply the RSF, which it could not verify[^10]. The UN condemned the attacks, saying women and children were among the dead[^11].",
+        "Background: Abyei's status was meant to be settled by a referendum under a 2005 peace deal, but that vote never happened because the two sides disagreed on who could vote[^11]. A UN peacekeeping force is based there[^10]. Sudan's war has turned more and more to drones; Reuters cites local rights groups reporting dozens killed in other strikes this month[^10].",
+        "Why it matters: Sudan's war has created one of the world's largest humanitarian crises, and strikes in a border zone risk pulling South Sudan in. My read: whether the UN or another neutral body investigates will shape how this attack is understood."
+      ],
+      "differences": "Abyei officials and South Sudan blame Sudan's army and describe a market full of civilians[^10][^11]. A Sudanese army officer says the target was RSF fuel tankers and that the dead were RSF members or fuel smugglers[^11]. Death toll reports from the same Abyei official range from 73 to 220[^10][^11]."
+    },
+    {
+      "id": "eu-arctic-strategy",
+      "heading": "The EU puts security first in a new Arctic strategy, with Canada as a key partner",
+      "date": "2026-10-20",
+      "status": "confirmed",
+      "summary": "The European Commission's plan calls the Arctic a front line, citing Russian drone incursions and cable sabotage. It proposes shared icebreakers, a protected undersea cable to Greenland and closer work with Canada and Norway.",
+      "lead": {
+        "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+        "outlet": "Al Jazeera (with AFP)",
+        "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
+        "date": "2026-10-20"
+      },
+      "alsoReported": [
+        {
+          "title": "EU's new Arctic strategy declares the region a 'front line,' eyes shared icebreakers and military rail",
+          "outlet": "ArcticToday",
+          "url": "https://www.arctictoday.com/eus-new-arctic-strategy-declares-the-region-a-front-line-eyes-shared-icebreakers-and-military-rail/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "On Tuesday, the European Commission released a new Arctic strategy, replacing its 2021 policy and putting security and resilience first[^12][^13]. Commission President Ursula von der Leyen said the Arctic is where \"the tectonic plates of geopolitics are colliding\"[^12]. EU foreign-policy chief Kaja Kallas pointed to Russian drone incursions, GPS jamming (blocking satellite navigation signals) and cable sabotage in the far north[^12].",
+        "The plan includes a hub for monitoring ships and protecting undersea internet cables, a secure cable from Greenland to Europe, more EU-owned satellites for government communications, and pooled buying of icebreakers, which the EU says it lacks[^12][^13]. It sets aside €200 million for Greenland in 2026 and 2027 and calls for faster rail links so military equipment can move north[^13]. On climate, it keeps the EU's position that Arctic oil, coal and gas should stay in the ground, though it drops a push for a legal ban on new drilling[^12][^13].",
+        "Canada features prominently. It is named in a new cooperation framework with Norway, Iceland, the UK, the US, Greenland and the Faroe Islands, and a planned cable to Japan and South Korea would run through Canadian waters[^13]. An EU-Canada summit is set for October 29-30[^13].",
+        "Why it matters: melting ice is opening new shipping routes and access to resources, and both Russia and the US are pressing their interests. Several measures aim to reduce Europe's dependence on Washington, after President Trump's repeated demands to control Greenland, a Danish territory[^12]. The plan now goes to EU governments and the European Parliament[^13]. My read: Canada may gain leverage as Europe looks for Arctic partners other than the US."
+      ],
+      "differences": null
+    },
+    {
+      "id": "ai-agents-hacking-campaign",
+      "heading": "A hacker reportedly let AI agents break into more than 100 company websites",
       "date": "2026-10-19",
       "status": "developing",
-      "summary": "After protests over living costs and schools turned violent, France ordered night curfews in parts of Paris, Lille, Lyon and Nice. About 2,400 people were arrested over the weekend, and Macron refused his interior minister's resignation.",
+      "summary": "A security researcher told Reuters he watched AI agents, given short instructions, probe more than 1,200 sites and get into over 100, at a cost of about $5,000. Victims include sites of Deere and SharkNinja.",
       "lead": {
-        "title": "France announces partial curfews after weekend of violence",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
+        "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
+        "outlet": "Tom's Hardware (via Yahoo Tech)",
+        "url": "https://tech.yahoo.com/cybersecurity/articles/chinese-hacker-used-ai-agents-153650466.html",
         "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "France announces curfews in aftermath of violent protests",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests"
+          "title": "Hacker Leverages AI Agents to Breach More Than 100 Company Websites",
+          "outlet": "WinBuzzer",
+          "url": "https://winbuzzer.com/2026/10/20/hacker-used-ai-agents-to-breach-100-plus-companies-websites-xcxwbn/"
         }
       ],
-      "eventId": null,
-      "article": [
-        "Prime Minister Sébastien Lecornu asked regional authorities to impose \"partial\" and \"localised\" curfews after two nights of looting and arson[^7]. In Paris, a curfew from 11 pm to 6 am covers areas around Place de la République and Les Halles, and demonstrations are banned in several areas at night; Lille and nearby towns have curfews Monday and Tuesday, and Nice has one for minors in its centre[^6][^7]. Lecornu said putting all of Paris under curfew is \"out of the question\"[^7].",
-        "The government says about 2,400 people were arrested over the weekend and almost 1,000 police and gendarmes were injured on Saturday; Lecornu called it \"a miracle\" that no one was killed[^6][^7]. Interior Minister Laurent Nuñez admitted police \"lost control\" in some cities and offered to resign; President Emmanuel Macron refused and asked him for transparency about planning and intelligence failures[^6][^7].",
-        "The protests began with grievances many people share. Students have marched against crowded classrooms and teacher shortages, and others against the cost of living and weaker public services; more than half a million people joined Saturday's protests, most of them peacefully[^7]. Al Jazeera reports the violent weekend marches were led by the \"yellow vest\" movement, which has called more protests for Saturday[^7].",
-        "Why it matters: France votes for a new president in about six months, with a weak economy and rising debt[^7]. My read: how the government answers the underlying complaints, not only the riots, will shape that race."
-      ],
-      "differences": null
-    },
-    {
-      "id": "japan-mmx-launch",
-      "heading": "Japan launches a mission to bring back the first samples from a moon of Mars",
-      "date": "2026-10-19",
-      "status": "confirmed",
-      "summary": "JAXA's Martian Moons eXploration spacecraft left Earth on an H3 rocket and is on course for Mars. It aims to land on the moon Phobos, collect samples and return them to Earth in 2031.",
-      "lead": {
-        "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
-        "outlet": "Space.com",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-        "date": "2026-10-19"
-      },
-      "alsoReported": [
-        {
-          "title": "JAXA's MMX Enroute to Mars To Return Samples of Phobos",
-          "outlet": "SpacePolicyOnline",
-          "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Japan's space agency, JAXA, launched the Martian Moons eXploration (MMX) spacecraft from Tanegashima at 3:41 pm Toronto time on Monday (early Tuesday in Japan)[^8][^9]. About 71 minutes later it separated from the rocket on a path to Mars, where it should arrive in August 2027[^8].",
-        "MMX will not land on Mars itself. It will study Mars's two small moons, Phobos (about 22 km across) and Deimos, touch down on Phobos twice to collect about 10 grams of material, and drop a small rover called Idefix, built by France and Germany[^8][^9]. NASA supplied two instruments, including the sampler, and will receive a share of the sample[^8]. The capsule is due to land in Australia in 2031[^8][^9].",
-        "The science question is where these moons came from. One idea is that they are asteroids captured by Mars's gravity; another is that they formed from debris after something large hit Mars[^8][^9]. Phobos's near-circular orbit, lined up with Mars's equator, points toward the impact idea, but only a sample can settle it[^9]. If MMX succeeds, it would be the first sample brought back from any moon other than our own[^9].",
-        "Why it matters: Japan already returned asteroid samples with its Hayabusa missions, and this is a harder trip[^9]. Russia's 2011 attempt to reach Phobos failed in Earth orbit, a reminder that the hard parts are still ahead[^8]."
-      ],
-      "differences": null
-    },
-    {
-      "id": "anthropic-junior-hiring-report",
-      "heading": "An AI lab reports hiring far fewer junior technical staff as its AI agents take on work",
-      "date": "2026-10-16",
-      "status": "confirmed",
-      "summary": "Anthropic, the maker of the Claude AI models, published data on its own workforce: juniors fell from 27% to 9% of its technical hires, while total hiring grew. The authors stress that one unusual company is a limited guide.",
-      "lead": {
-        "title": "Is AI squeezing entry level tech jobs? Anthropic's junior technical hiring drops from 27% to 9%",
-        "outlet": "Business Today",
-        "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19",
-        "date": "2026-10-19"
-      },
-      "alsoReported": [],
       "eventId": "ai-race",
       "article": [
-        "Anthropic, one of the main US developers of AI models, released a study of how work has changed inside the company[^10]. Its researchers report that junior employees fell from 21% to 14% of technical staff since early 2025, and that juniors made up 9% of technical hires, down from 27%[^10][^11]. Overall headcount is still growing; the change is in the share of beginners, not layoffs[^11].",
-        "The report links this to AI agents, programs that carry out multi-step tasks on their own. It says agents directed by individual employees logged six times as many hours as the employees themselves by August, and code output per engineer rose about fivefold in six months[^10]. People also spend about 20% more time in meetings, partly to direct and check the AI's work[^10][^11].",
-        "The authors list real limits. Anthropic is a single, fast-growing AI company; the link between AI and junior hiring is described, not proven to be cause and effect; and much of the measurement was itself done by automated tools[^10]. They write that none of the company's own measures will prevent powerful AI from disrupting jobs, and call for government help with retraining and income support[^10]. (Note: this brief is written with help from an Anthropic model, so I have kept to the report's own figures and caveats.)",
-        "Why it matters: entry-level jobs are how most people learn a trade. If firms need fewer beginners, the path into careers like software could narrow. My read: this is one early data point from inside the industry, worth watching against wider job statistics."
+        "Reuters reported on Monday that a Chinese-speaking hacker used AI agents, programs that can plan and carry out multi-step tasks on their own, to attack company websites in the US, Canada, Australia and Japan[^14][^15]. Snorre Fagerland, a researcher at the security firm NorForge, said he saw the activity through copies of an open-source AI platform that had been accidentally left exposed online[^14].",
+        "According to the reports, the hacker gave the agents fewer than 100 Chinese characters of instructions, and they then worked largely without supervision[^14]. They tried more than 1,200 websites and got into more than 100, with a successful break-in typically taking about 23 hours[^15]. Fagerland estimated the total cost at about $5,000 in AI usage fees[^15]. In one case, the agents searched public records, found an exposed control panel and used a weakness to run commands[^14]. Fagerland said, \"It's not script kiddie stuff,\" meaning it was more skilled than amateur hacking[^14].",
+        "Named targets include Deere, SharkNinja and Cummins. SharkNinja said only a product-support site was affected, and Deere said it saw no sign sensitive data was accessed[^14][^15]. One hacker Fagerland watched reportedly stole credit-card data, but the full extent of theft is unknown[^14][^15]. WinBuzzer reports the tools appeared to include DeepSeek and Anthropic's Claude Code[^15]. (Anthropic also makes Claude, the AI that writes this brief.)",
+        "Why it matters: if AI makes skilled break-ins cheap and fast, many more attackers can try them, and defenders will need to patch weaknesses faster too. These findings come from one researcher's observations and have not been independently confirmed, so treat the numbers with care[^15]. My read: this is an early sign of how AI agents change cybersecurity for ordinary companies, not only for governments."
       ],
       "differences": null
-    },
-    {
-      "id": "trump-endorses-netanyahu",
-      "heading": "Trump endorses Netanyahu nine days before Israel's election",
-      "date": "2026-10-18",
-      "status": "confirmed",
-      "summary": "Trump backed Prime Minister Benjamin Netanyahu for the October 27 vote, tying the choice to Iran. Netanyahu trails his main rival, former army chief Gadi Eisenkot, in recent polls, and Eisenkot asked for no foreign interference.",
-      "lead": {
-        "title": "Trump endorses Netanyahu ahead of Israeli elections, citing Iranian threat",
-        "outlet": "Jewish Telegraphic Agency",
-        "url": "https://www.jta.org/2026/10/18/global/trump-endorses-netanyahu-ahead-of-israeli-elections-citing-iranian-threat",
-        "date": "2026-10-18"
-      },
-      "alsoReported": [
-        {
-          "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "On Sunday, Donald Trump endorsed Benjamin Netanyahu on Truth Social, calling him a \"great warrior prime minister\" and saying the US would \"soon finish the job\" with Iran unless Tehran changed course[^13]. JTA reports Trump also said that if Israel chose another leader, the US would have to handle Iran itself[^12]. He had previously held back from endorsing anyone[^12].",
-        "Israelis vote on October 27. Netanyahu has trailed former army chief of staff Gadi Eisenkot in recent surveys[^12]. A seat tracker cited by Al Jazeera projects Eisenkot's opposition alliance at 52 of 120 seats and Netanyahu's coalition at 51, so neither would have a majority on its own[^13].",
-        "Reactions split along predictable lines. Eisenkot called Trump a great friend of Israel but said the vote is an internal matter[^12]. Finance Minister Bezalel Smotrich, a Netanyahu ally, said Israel should listen to Trump[^12]. Iran's foreign minister said Iran has \"unfinished jobs too\" and repeated an offer to reopen the Strait of Hormuz if the US accepts its conditions[^13].",
-        "Why it matters: the next Israeli government will shape the stalled Gaza truce and any renewed war with Iran. Analysts quoted by Al Jazeera say the endorsement helps Netanyahu but cannot by itself build him a majority[^13]. This is a judgment, but the result may depend more on coalition arithmetic after the vote than on outside support."
-      ],
-      "differences": "Supporters, including Netanyahu's allies, frame the endorsement as a vote of confidence on Iran policy[^12]. Eisenkot and a US pro-Israel Democratic group see it as interference in a democratic election[^12]. Analysts disagree on how much it changes the odds of new strikes on Iran[^13]."
     }
   ],
   "question": {
-    "type": "how-do-we-know",
-    "text": "An AI company published data about how AI is changing its own hiring. What would you want to know, and from whom, before deciding how much that tells you about the jobs waiting for your generation?"
+    "type": "second-order",
+    "text": "If AI agents make breaking into websites cheap enough that almost anyone can try, what might change over the next few years, not just for hackers and companies, but for the ordinary people whose data those companies hold?"
   },
   "read": {
-    "title": "Explainer: Why is Egypt moving towards possible involvement in Saudi-Yemen conflict?",
-    "outlet": "Reuters (via TimesLIVE)",
-    "url": "https://www.timeslive.co.za/news/world/2026-10-19-explainer-why-is-egypt-moving-towards-possible-involvement-in-saudi-yemen-conflict/",
+    "title": "A rare Ebola strain is spreading. Here's why it's so hard to contain.",
+    "outlet": "National Geographic",
+    "url": "https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak",
     "kind": "analysis",
-    "minutes": 6,
-    "summary": "A short explainer on why Egypt is considering helping defend Saudi Arabia: Gulf money, Red Sea shipping, the Suez Canal, and what kind of forces it might actually send."
+    "minutes": 7,
+    "summary": "A clear explainer from May, when this outbreak began, on the Bundibugyo strain: how it spreads, why there is no vaccine yet, and why tracing contacts and safe burials are the main tools."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Channels Television (AFP)",
-      "title": "Putin, Xi And Trump Could Meet At APEC Summit, Says Kremlin",
-      "url": "https://www.channelstv.com/2026/10/19/putin-xi-and-trump-could-meet-at-apec-summit-says-kremlin/",
-      "date": "2026-10-19",
+      "outlet": "Al Jazeera",
+      "title": "Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Reuters (via AOL)",
-      "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
-      "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
-      "date": "2026-10-19",
+      "outlet": "Reuters (via Investing.com)",
+      "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The National",
-      "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
-      "url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
-      "date": "2026-10-19",
+      "outlet": "The Irish Times (Financial Times)",
+      "title": "Zelenskiy goes to Oslo for US talks as Trump tensions mount",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/20/zelenskiy-goes-to-oslo-for-us-talks-as-trump-tensions-mount/",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia",
-      "date": "2026-10-19",
-      "singleSource": false
+      "outlet": "The Moscow Times",
+      "title": "Witkoff Arrives in St. Petersburg for Meeting With Putin",
+      "url": "https://www.themoscowtimes.com/2026/10/21/witkoff-arrives-in-st-petersburg-for-meeting-with-putin-a94037",
+      "date": "2026-10-21",
+      "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "Reuters (via TimesLIVE)",
-      "title": "Explainer: Why is Egypt moving towards possible involvement in Saudi-Yemen conflict?",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-19-explainer-why-is-egypt-moving-towards-possible-involvement-in-saudi-yemen-conflict/",
-      "date": "2026-10-19",
+      "outlet": "The Korea Times (AP)",
+      "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+      "url": "https://www.koreatimes.co.kr/world/20261020/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Euronews",
-      "title": "France announces partial curfews after weekend of violence",
-      "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews",
-      "date": "2026-10-19",
+      "outlet": "AP (via News4JAX)",
+      "title": "The UK expands military support for Saudi Arabia against Houthis to include 'defensive' air patrols",
+      "url": "https://www.news4jax.com/news/world/2026/10/20/the-uk-expands-military-support-for-saudi-arabia-against-houthis-to-include-defensive-air-patrols/",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Al Jazeera",
-      "title": "France announces curfews in aftermath of violent protests",
-      "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests",
-      "date": "2026-10-19",
+      "outlet": "Reuters (via Al-Monitor)",
+      "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
+      "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Space.com",
-      "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-      "date": "2026-10-19",
+      "outlet": "Al Jazeera",
+      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
+      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "SpacePolicyOnline",
-      "title": "JAXA's MMX Enroute to Mars To Return Samples of Phobos",
-      "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/",
-      "date": "2026-10-19",
+      "outlet": "Africanews (AFP)",
+      "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
+      "url": "https://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Anthropic",
-      "title": "How employment is changing at Anthropic",
-      "url": "https://anthropic.com/research/employment-at-anthropic",
-      "date": "2026-10-16",
-      "singleSource": true
+      "outlet": "Reuters (via ThePrint)",
+      "title": "South Sudan says Sudanese drone attack killed scores in Abyei market",
+      "url": "https://theprint.in/world/south-sudan-says-sudanese-drone-attack-killed-scores-in-abyei-market/3076847/",
+      "date": "2026-10-20",
+      "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Business Today",
-      "title": "Is AI squeezing entry level tech jobs? Anthropic's junior technical hiring drops from 27% to 9%",
-      "url": "https://www.businesstoday.in/technology/news/story/is-ai-squeezing-entry-level-tech-jobs-anthropics-junior-technical-hiring-drops-from-27-to-9-562411-2026-10-19",
-      "date": "2026-10-19",
+      "outlet": "Sudans Post",
+      "title": "Sudanese army says deadly Abyei drone strike targeted RSF fuel supplies",
+      "url": "https://www.sudanspost.com/sudanese-army-says-deadly-abyei-drone-strike-targeted-rsf-fuel-supplies/",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Jewish Telegraphic Agency",
-      "title": "Trump endorses Netanyahu ahead of Israeli elections, citing Iranian threat",
-      "url": "https://www.jta.org/2026/10/18/global/trump-endorses-netanyahu-ahead-of-israeli-elections-citing-iranian-threat",
-      "date": "2026-10-18",
+      "outlet": "Al Jazeera (with AFP)",
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Al Jazeera",
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel",
-      "date": "2026-10-19",
+      "outlet": "ArcticToday",
+      "title": "EU's new Arctic strategy declares the region a 'front line,' eyes shared icebreakers and military rail",
+      "url": "https://www.arctictoday.com/eus-new-arctic-strategy-declares-the-region-a-front-line-eyes-shared-icebreakers-and-military-rail/",
+      "date": "2026-10-20",
       "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "Tom's Hardware (via Yahoo Tech)",
+      "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
+      "url": "https://tech.yahoo.com/cybersecurity/articles/chinese-hacker-used-ai-agents-153650466.html",
+      "date": "2026-10-19",
+      "singleSource": true
+    },
+    {
+      "id": 15,
+      "outlet": "WinBuzzer",
+      "title": "Hacker Leverages AI Agents to Breach More Than 100 Company Websites",
+      "url": "https://winbuzzer.com/2026/10/20/hacker-used-ai-agents-to-breach-100-plus-companies-websites-xcxwbn/",
+      "date": "2026-10-20",
+      "singleSource": true
     }
   ]
 }

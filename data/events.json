@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-20",
+  "reviewed": "2026-10-21",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Ship attacks near Hormuz are at their highest since the war began, with at least 12 in the week to Oct 16 [^27]. The war is widening at its edges: Houthi strikes led Saudi Arabia to postpone its flagship investment summit to 2027 [^34], and Egypt's parliament votes Oct 26 on helping defend the kingdom [^35]. Brent was near $108 on Oct 19 [^36]. Trump endorsed Netanyahu and says the US will \"soon finish the job\" unless Iran changes course [^36].",
+      "standing": "Ship attacks near Hormuz are at their highest since the war began [^27]. Yemen is now the most active front: a Houthi strike killed 73 recruits on Oct 19 [^40], Britain will fly RAF patrols over Saudi Arabia [^41], and Egypt's parliament votes Oct 26 on helping defend the kingdom [^35]. Iran told Pakistan's army chief there will be no talks until the US lifts its blockade of Iran's ports and its oil sanctions [^42]. Brent was near $108 on Oct 19 [^36].",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -126,7 +126,10 @@
         32,
         34,
         35,
-        36
+        36,
+        40,
+        41,
+        42
       ]
     },
     {
@@ -135,13 +138,17 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] Both sides are hitting energy: Russia struck more than 15 power sites on Oct 16-17,[^29] and Ukraine hit a St Petersburg oil terminal on Oct 18.[^31] Trump paused new Russia sanctions for up to 60 days.[^31] The Kremlin says Putin, Trump and Xi could meet at APEC in November; Kyiv says talks without it would reward Russia.[^37] The UN says 2,570 civilians were killed January to September.[^28]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After Oslo talks on Oct 20 that US and European officials called constructive, US envoy Steve Witkoff is meeting Putin in St Petersburg on Oct 21.[^38][^39] Zelenskyy says US warnings of Russian strikes, briefly cut off, are back.[^38] Trump says someone else should negotiate for Ukraine.[^39] Both sides keep hitting energy sites.[^29][^31] The UN says 2,570 civilians were killed January to September.[^28]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
         "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
+        {
+          "date": "2026-10-21",
+          "what": "Witkoff meets Putin in St Petersburg, carrying ideas from the Oslo talks with Ukraine and Europe"
+        },
         {
           "date": "2026-11-03",
           "what": "US midterm elections, which could change how much room Trump has on Ukraine policy and sanctions"
@@ -257,7 +264,9 @@
         28,
         29,
         31,
-        37
+        37,
+        38,
+        39
       ]
     },
     {
@@ -943,6 +952,46 @@
       "title": "Kremlin says Putin, Trump and Xi could hold a three-way meeting in China next month",
       "url": "https://www.aol.com/articles/kremlin-says-putin-trump-xi-115446000.html",
       "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 38,
+      "outlet": "Al Jazeera",
+      "title": "Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
+      "id": 39,
+      "outlet": "Reuters (via Investing.com)",
+      "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 40,
+      "outlet": "The Korea Times (AP)",
+      "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+      "url": "https://www.koreatimes.co.kr/world/20261020/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 41,
+      "outlet": "AP (via News4JAX)",
+      "title": "The UK expands military support for Saudi Arabia against Houthis to include 'defensive' air patrols",
+      "url": "https://www.news4jax.com/news/world/2026/10/20/the-uk-expands-military-support-for-saudi-arabia-against-houthis-to-include-defensive-air-patrols/",
+      "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 42,
+      "outlet": "Reuters (via Al-Monitor)",
+      "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
+      "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief",
+      "date": "2026-10-20",
       "singleSource": false
     }
   ]
