@@ -1,319 +1,360 @@
 {
-  "date": "2026-10-21",
-  "summary": "A US envoy carries Ukraine's ideas to Putin, Yemen's war draws in British jets, Ebola reaches Nigeria, a drone strike hits Abyei, the EU eyes the Arctic, and AI agents hack websites.",
+  "date": "2026-10-22",
+  "summary": "Russia agrees to new Ukraine talks, an attack hits a Saudi airport, the UN says 1.5C will be breached, Brazil's runoff turns legal, Gantz quits Israel's race, and students protest AI.",
   "topics": [
     {
-      "id": "witkoff-oslo-st-petersburg",
-      "heading": "US envoy meets Zelenskyy in Oslo, then flies to Russia to see Putin",
-      "date": "2026-10-20",
+      "id": "russia-agrees-new-talks",
+      "heading": "Russia agrees in principle to new three-way talks with Ukraine and the US",
+      "date": "2026-10-21",
       "status": "developing",
-      "summary": "After talks in Norway that US and European officials called constructive, envoy Steve Witkoff arrived in St Petersburg to meet Vladimir Putin on Wednesday. Zelenskyy says vital US intelligence on Russian attacks has been restored.",
+      "summary": "After about three hours with US envoy Steve Witkoff, the Kremlin said it is ready in principle to resume talks with Ukraine and the US, the first since February. Russia also freed a jailed American, Stephen Hubbard.",
       "lead": {
-        "title": "Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+        "title": "Trump envoy Witkoff meets Putin in St. Petersburg as Russia agrees to resume Ukraine talks",
+        "outlet": "AP (via WTOC)",
+        "url": "https://www.wtoc.com/2026/10/21/trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/?outputType=amp",
         "date": "2026-10-21"
       },
       "alsoReported": [
         {
-          "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
-          "outlet": "Reuters (via Investing.com)",
-          "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324"
+          "title": "What happened during Witkoff and Kushner's latest meeting with Putin",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin"
         },
         {
-          "title": "Zelenskiy goes to Oslo for US talks as Trump tensions mount",
-          "outlet": "The Irish Times (Financial Times)",
-          "url": "https://www.irishtimes.com/world/europe/2026/10/20/zelenskiy-goes-to-oslo-for-us-talks-as-trump-tensions-mount/"
+          "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Tuesday, US envoy Steve Witkoff met Ukraine's President Volodymyr Zelenskyy in Oslo, with the leaders of Norway and Finland and EU and NATO officials in the room[^2]. A US official called the talks \"constructive\" and said they covered security guarantees for Ukraine, a post-war economic plan and Europe's wider security[^2]. Witkoff then flew to St Petersburg, where he is due to meet Vladimir Putin on Wednesday[^1][^4].",
-        "The meeting came as US-Ukraine relations hit a low point. Days earlier, President Donald Trump said it was \"time for somebody else to negotiate on behalf of Ukraine\" and that Zelenskyy did not want to stop the war[^3]. Kyiv had complained that Washington stopped sharing warnings of incoming Russian missiles, held up Patriot air-defence interceptors and let the military Starlink satellite service be slowed[^2]. After Oslo, Zelenskyy said the intelligence had been restored[^1][^2].",
-        "Background: the US has tried to broker a deal since 2025, but Russia and Ukraine remain far apart on territory and on who would guarantee a peace. Trump has recently lifted sanctions on Russian diesel, which he links to lowering US fuel prices before the November 3 midterms; that drew criticism from both parties in Congress[^2][^3]. Europe wants a seat at the table: the EU's foreign-policy chief said Ukraine has not surrendered \"because Europe has been supporting Ukraine\"[^3].",
-        "What could happen next: US Secretary of State Marco Rubio said Witkoff will carry Ukraine's ideas to the Russian side \"and let's see if we can make some progress\"[^1]. Witkoff is also expected to raise the case of Stephen Hubbard, an American held in a Russian prison[^4]. My read: watch whether the Kremlin moves on anything concrete, such as an energy truce, or only on talks about talks."
+        "On Wednesday, US envoy Steve Witkoff met Vladimir Putin in St Petersburg for about three hours, with Jared Kushner joining by video[^1]. Afterwards, Kremlin adviser Yuri Ushakov said Russia agreed \"in principle\" to restart three-way talks with the US and Ukraine after November 10, focused on a security system for both countries once the fighting ends[^1]. The Kremlin says the talks may be held in Abu Dhabi[^2].",
+        "The meeting opened with a gesture: Russia released Stephen Hubbard, a 74-year-old retired American teacher held for more than four years on charges of fighting as a mercenary for Ukraine, after Trump asked Putin to free him[^1][^2]. Witkoff told Putin, \"You are a humanitarian also, sir,\" which drew criticism in Washington, including from Republican Senator Thom Tillis[^2][^3].",
+        "Background: the last talks of this kind, in Abu Dhabi and Geneva early this year, produced little beyond prisoner exchanges[^1]. The two sides remain far apart. Ushakov said the ideas Witkoff brought from Ukraine's side \"contained little of real value\", though he later called them a step in the right direction[^1]. Kremlin officials, quoted by Russian state media, said a deal is possible only if Kyiv makes \"necessary decisions\"[^3].",
+        "Ukraine's President Volodymyr Zelenskyy backed restarting talks quickly, adding, \"We'll see what happens this time\"[^1]. He told Fox News he would reject any deal written by the US, Russia and China without Ukraine, and that Ukraine's parliament would have to approve any settlement[^3]. The war went on overnight: Kyiv's city authorities said Russian strikes killed three people there, and Russia said it shot down 373 Ukrainian drones[^1].",
+        "What could happen next: Norway's prime minister expects talks in mid-November[^1], and a possible Trump-Putin-Xi meeting at next month's APEC summit in China is still unconfirmed[^2]. My read: agreeing to talk is a real step, but the hard questions of territory and guarantees are still untouched."
       ],
-      "differences": "Kyiv says the US held back intelligence, Patriots and Starlink access; Rubio says there was no political decision to harm Ukraine and that Trump had nothing to do with Starlink's choices[^1][^2]. The Wall Street Journal and Reuters reported the Starlink slowdown involved the White House; Defence Secretary Pete Hegseth says Washington did not restrict it[^2]. Some Republican senators accuse the administration of giving in to Russia[^3]."
+      "differences": "Accounts of the timing differ: the AP quotes Ushakov as saying talks could resume after November 10, CBS reports \"early November\", and Norway's prime minister expects mid-November[^1][^3]. Russia frames the talks as Kyiv making \"necessary decisions\"; Zelenskyy says nothing can be decided about Ukraine without Ukraine[^3]."
     },
     {
-      "id": "houthi-strike-shabwa-uk-jets",
-      "heading": "Houthi missiles kill 73 Yemeni recruits as the UK sends jets to defend Saudi skies",
-      "date": "2026-10-20",
+      "id": "dammam-airport-us-departures",
+      "heading": "Deadly strike on Saudi Arabia's Dammam airport as the US orders staff to leave",
+      "date": "2026-10-21",
       "status": "developing",
-      "summary": "Yemen's deadliest strike in months hit a training camp in Shabwa province. Britain says RAF Typhoons will patrol over Saudi Arabia, and Iran tells Pakistan's mediator there will be no talks with Washington until its conditions are met.",
+      "summary": "An attack on King Fahd International Airport in Dammam killed one or two people, and the US told non-emergency embassy staff to leave Saudi Arabia. Iran's Revolutionary Guards say they hit seven ships in the Gulf.",
       "lead": {
-        "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
-        "outlet": "The Korea Times (AP)",
-        "url": "https://www.koreatimes.co.kr/world/20261020/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
-        "date": "2026-10-20"
+        "title": "Middle East war: Saudi airport attack kills one as US orders embassy departures",
+        "outlet": "Gulf News",
+        "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174",
+        "date": "2026-10-22"
       },
       "alsoReported": [
         {
-          "title": "The UK expands military support for Saudi Arabia against Houthis to include 'defensive' air patrols",
-          "outlet": "AP (via News4JAX)",
-          "url": "https://www.news4jax.com/news/world/2026/10/20/the-uk-expands-military-support-for-saudi-arabia-against-houthis-to-include-defensive-air-patrols/"
+          "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response",
+          "outlet": "Reuters (via bdnews24)",
+          "url": "https://bdnews24.com/world/middle-east/bwfe7hf0o9"
         },
         {
-          "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
-          "outlet": "Reuters (via Al-Monitor)",
-          "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief"
+          "title": "Iran claims seven vessels hit in new wave of Hormuz attacks",
+          "outlet": "Splash247",
+          "url": "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Three ballistic missiles hit the al-Alam training camp in Yemen's Shabwa province on Monday as new recruits lined up, according to provincial authorities[^5]. By Tuesday the death toll had risen to 73, with more than 200 wounded; officials say the victims were 18 to 20 years old and were training for local security, not front-line combat[^5]. The Houthis, the Iran-aligned movement that controls much of north Yemen, claimed the attack[^5].",
-        "Yemen's war, which began in 2014, flared again in July after a 2022 truce broke down; since then the Houthis have fired missiles and drones at Saudi Arabia, which backs Yemen's government[^5]. On Tuesday, Saudi authorities said they intercepted a Houthi ballistic missile near Riyadh's main airport[^5].",
-        "Britain is stepping up. UK Defence Secretary Wes Streeting said RAF Typhoon jets will fly \"defensive counter-air operations\" over Saudi Arabia to protect cities and infrastructure, but will not strike Houthi targets[^6]. Britain is also sending advisers and a transport plane, and extending its air-refuelling mission by 90 days[^6]. The US envoy Tom Barrack said the US would give logistical support but not troops[^5].",
-        "The wider Iran war is still stuck. Pakistan's army chief, Field Marshal Asim Munir, met Iran's president in Tehran to push mediation[^7]. Iran's parliament speaker said Washington cannot earn trust until it meets seven Iranian conditions, including lifting the US blockade of Iran's ports and sanctions on its oil[^7]. My read: the Yemen front is now the most active part of the conflict, and each new outside force, British jets now and possibly Egyptian help after next week's vote, makes it harder to contain."
+        "On Wednesday evening, an attack hit King Fahd International Airport in Dammam, in Saudi Arabia's oil-rich east. Reports differ on the toll: Saudi Arabia's aviation authority was first reported as saying one person died and eight were hurt, while later updates said two died, a Saudi citizen and an Indian resident[^4][^7]. The authority says flights have returned to normal[^4]. No one has claimed the attack; it follows weeks of Houthi strikes on Saudi airports, though the Houthis have denied targeting deep inside the kingdom[^4][^7]. Separately, debris from an intercepted drone killed two foreign workers at the Shaybah oilfield, the Saudi energy ministry said[^4].",
+        "The US State Department ordered non-emergency government staff and their families to leave Saudi Arabia, citing threats from Yemen's Houthis[^7]. A diplomatic source told AFP the order was wider and included families in the UAE, Jordan, Qatar and Bahrain[^4]; the State Department spokesman said it covers Saudi Arabia only[^7].",
+        "At sea, Iran's Revolutionary Guard Corps (IRGC) Navy said on Thursday that it hit four ships carrying out what it called illegal oil transfers in the northern Gulf, and that three more struck mines west of the Strait of Hormuz[^5]. Iran gave no ship names or evidence[^6]. The UK's maritime security agency, UKMTO, separately reported a tanker struck by a projectile off Oman, with its crew safe[^6]. The UN shipping agency now counts 119 security incidents and 24 seafarer deaths since the war began[^6]. The IRGC warned that the US could face a wider response against its regional bases[^5].",
+        "Diplomacy continues alongside: France's President Emmanuel Macron made a surprise visit to Riyadh, Egypt's parliament postponed its debate on helping defend Saudi Arabia, and Iran's foreign minister said Tehran is open to diplomacy if the US shows good faith[^4]. My read: civilian airports and the Gulf's oil routes are becoming the front line, which makes a mistake or a wider war more likely."
       ],
-      "differences": null
+      "differences": "The death toll at Dammam is given as one in some reports and two in later updates[^4][^7]. On the US order, an AFP source describes a wide departure covering several Gulf states, while the State Department says it applies only to Saudi Arabia[^4][^7]. Iran's claim of seven ships hit is its own and has not been independently confirmed; the US military has previously disputed Iran's claims about mines[^6]."
     },
     {
-      "id": "ebola-reaches-nigeria",
-      "heading": "Ebola reaches Nigeria as Kenya confirms a ninth case",
-      "date": "2026-10-20",
-      "status": "developing",
-      "summary": "Nigeria has its first confirmed case of the Bundibugyo strain of Ebola, in a traveller from Uganda. Kenya's nine cases are all in one family cluster, while Congo has counted more than 9,000 cases since May.",
-      "lead": {
-        "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
-        "date": "2026-10-20"
-      },
-      "alsoReported": [
-        {
-          "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
-          "outlet": "Africanews (AFP)",
-          "url": "https://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Nigeria confirmed its first Ebola case on Tuesday: a woman in the capital, Abuja, who had travelled from Uganda, fell ill on October 7 and was treated at a private hospital before being diagnosed[^8][^9]. She is in isolation, and health officials are tracing 44 people she was in close contact with[^8][^9]. Health Minister Muhammad Pate said Nigeria is doing \"everything possible\" to contain it[^8].",
-        "Kenya confirmed its ninth case the same day, a 24-year-old relative of its first patient, who died in Nairobi on October 5[^8]. He was already in quarantine. Kenya's health director said all nine cases belong to one cluster, with no sign of spread beyond it, and almost all 135 known contacts have been traced[^8].",
-        "Background: this outbreak began in the Democratic Republic of the Congo in May. It is caused by the Bundibugyo strain, for which there is no licensed vaccine or specific treatment[^8]. Congo has recorded more than 9,000 cases and about 4,400 deaths[^8][^9]. Europe's disease agency calls it the second-largest Ebola epidemic on record[^8]. Ebola spreads through close contact with the body fluids of sick people, which is why tracing contacts matters so much.",
-        "Why it matters: Nigeria is Africa's most populous country and a travel hub for West Africa. The head of the Africa CDC called the outbreak an \"extremely serious threat\" and asked other countries for money, supplies and health workers[^9]. Ebola can take up to three weeks to cause symptoms. My read: the coming weeks will show whether Nigeria's case stays isolated."
-      ],
-      "differences": null
-    },
-    {
-      "id": "abyei-drone-strike",
-      "heading": "A drone strike on a market in disputed Abyei kills scores of people",
-      "date": "2026-10-19",
-      "status": "disputed",
-      "summary": "Local officials blame Sudan's army for Monday's strike near a fuel depot in the region claimed by both Sudan and South Sudan. Reported death tolls range from 73 to 220, and the army says it hit fuel meant for its rival, the RSF.",
-      "lead": {
-        "title": "South Sudan says Sudanese drone attack killed scores in Abyei market",
-        "outlet": "Reuters (via ThePrint)",
-        "url": "https://theprint.in/world/south-sudan-says-sudanese-drone-attack-killed-scores-in-abyei-market/3076847/",
-        "date": "2026-10-20"
-      },
-      "alsoReported": [
-        {
-          "title": "Sudanese army says deadly Abyei drone strike targeted RSF fuel supplies",
-          "outlet": "Sudans Post",
-          "url": "https://www.sudanspost.com/sudanese-army-says-deadly-abyei-drone-strike-targeted-rsf-fuel-supplies/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "On Monday around midday, drones struck Amiet market in Abyei, a strip of land claimed by both Sudan and South Sudan[^10][^11]. The death toll is still uncertain. Abyei's caretaker information minister first told Reuters about 73 people were killed and 19 wounded, and later told Sudans Post the toll had reached 220 and could rise[^10][^11]. The aid group MSF said it was treating more than 20 wounded people, some with burns[^10][^11].",
-        "The minister blamed Sudan's army, without giving evidence, and South Sudan summoned Sudan's ambassador in protest[^10][^11]. A senior Sudanese army officer, speaking anonymously, said the army carried out the strike against fuel tankers supplying the Rapid Support Forces (RSF), the paramilitary group it has been fighting since 2023, and said \"we do not target civilians\"[^11]. Reuters reported that a diplomatic source said the depot had been used to supply the RSF, which it could not verify[^10]. The UN condemned the attacks, saying women and children were among the dead[^11].",
-        "Background: Abyei's status was meant to be settled by a referendum under a 2005 peace deal, but that vote never happened because the two sides disagreed on who could vote[^11]. A UN peacekeeping force is based there[^10]. Sudan's war has turned more and more to drones; Reuters cites local rights groups reporting dozens killed in other strikes this month[^10].",
-        "Why it matters: Sudan's war has created one of the world's largest humanitarian crises, and strikes in a border zone risk pulling South Sudan in. My read: whether the UN or another neutral body investigates will shape how this attack is understood."
-      ],
-      "differences": "Abyei officials and South Sudan blame Sudan's army and describe a market full of civilians[^10][^11]. A Sudanese army officer says the target was RSF fuel tankers and that the dead were RSF members or fuel smugglers[^11]. Death toll reports from the same Abyei official range from 73 to 220[^10][^11]."
-    },
-    {
-      "id": "eu-arctic-strategy",
-      "heading": "The EU puts security first in a new Arctic strategy, with Canada as a key partner",
-      "date": "2026-10-20",
+      "id": "un-emissions-gap-overshoot",
+      "heading": "UN report says warming will pass 1.5C, but could be pulled back by 2100",
+      "date": "2026-10-21",
       "status": "confirmed",
-      "summary": "The European Commission's plan calls the Arctic a front line, citing Russian drone incursions and cable sabotage. It proposes shared icebreakers, a protected undersea cable to Greenland and closer work with Canada and Norway.",
+      "summary": "For the first time, the UN Environment Programme says the world can no longer avoid passing 1.5C of warming. Its best case peaks at 1.7 to 1.8C and returns to 1.5C by 2100, but that needs deep cuts starting now.",
       "lead": {
-        "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-        "outlet": "Al Jazeera (with AFP)",
-        "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
-        "date": "2026-10-20"
+        "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+        "outlet": "Climate Home News",
+        "url": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
+        "date": "2026-10-21"
       },
       "alsoReported": [
         {
-          "title": "EU's new Arctic strategy declares the region a 'front line,' eyes shared icebreakers and military rail",
-          "outlet": "ArcticToday",
-          "url": "https://www.arctictoday.com/eus-new-arctic-strategy-declares-the-region-a-front-line-eyes-shared-icebreakers-and-military-rail/"
+          "title": "Global warming will breach 1.5°C, UN report finds",
+          "outlet": "UN News",
+          "url": "https://news.un.org/en/story/2026/10/1168634"
+        },
+        {
+          "title": "UN report calls out US emissions, says world can no longer avoid overshooting key climate target",
+          "outlet": "Scripps News (via WTVR)",
+          "url": "https://www.wtvr.com/science-and-tech/climate-change/un-report-calls-out-us-emissions-says-world-can-no-longer-avoid-overshooting-key-climate-target"
         }
       ],
       "eventId": null,
       "article": [
-        "On Tuesday, the European Commission released a new Arctic strategy, replacing its 2021 policy and putting security and resilience first[^12][^13]. Commission President Ursula von der Leyen said the Arctic is where \"the tectonic plates of geopolitics are colliding\"[^12]. EU foreign-policy chief Kaja Kallas pointed to Russian drone incursions, GPS jamming (blocking satellite navigation signals) and cable sabotage in the far north[^12].",
-        "The plan includes a hub for monitoring ships and protecting undersea internet cables, a secure cable from Greenland to Europe, more EU-owned satellites for government communications, and pooled buying of icebreakers, which the EU says it lacks[^12][^13]. It sets aside €200 million for Greenland in 2026 and 2027 and calls for faster rail links so military equipment can move north[^13]. On climate, it keeps the EU's position that Arctic oil, coal and gas should stay in the ground, though it drops a push for a legal ban on new drilling[^12][^13].",
-        "Canada features prominently. It is named in a new cooperation framework with Norway, Iceland, the UK, the US, Greenland and the Faroe Islands, and a planned cable to Japan and South Korea would run through Canadian waters[^13]. An EU-Canada summit is set for October 29-30[^13].",
-        "Why it matters: melting ice is opening new shipping routes and access to resources, and both Russia and the US are pressing their interests. Several measures aim to reduce Europe's dependence on Washington, after President Trump's repeated demands to control Greenland, a Danish territory[^12]. The plan now goes to EU governments and the European Parliament[^13]. My read: Canada may gain leverage as Europe looks for Arctic partners other than the US."
+        "On Wednesday the UN Environment Programme (UNEP) published its yearly Emissions Gap Report, which compares what countries promise with what the science says is needed[^8]. Its main finding: decades of slow action mean warming will exceed 1.5C above pre-industrial levels, the limit the 2015 Paris Agreement aimed for[^8][^9]. UNEP's head, Inger Andersen, said the chance of holding warming below 1.5C \"is now gone\"[^10].",
+        "The report still sees a way back. In its lowest-overshoot path, warming peaks at about 1.7 to 1.8C around mid-century and falls back to 1.5C by 2100[^8][^9]. \"Overshoot\" means going over a limit for a while before coming back down. That path needs emissions cut 18% by 2030, 45% by 2035 and 69% by 2040, compared with 2025[^8]. It would also mean pulling about 320 billion tonnes of carbon dioxide out of the air this century, through forests and machines, which UNEP calls uncertain[^9].",
+        "Where things stand: global emissions were about 58.4 billion tonnes in 2025, roughly flat on 2024[^9][^10]. With current policies, warming could reach 2.8C this century; if every national plan is carried out, about 2.6C[^8]. The outlook is worse than last year's, partly because the US left the Paris Agreement[^8]. The report says the US was the only major economy whose emissions rose sharply in 2025; the US government said it does not agree with the analysis[^10].",
+        "There is also some good news in the report. Solar power has grown about seven times faster than forecasts made a decade ago, and coal and oil supply grew more slowly than projected[^8][^9]. UN Secretary-General António Guterres said \"overshoot is not surrender\" and called the emissions gap \"a leadership gap\"[^8][^10].",
+        "What comes next: countries meet at the COP31 climate talks in Antalya, Türkiye, next month, where a new global review of progress begins[^8]. My read: every extra tenth of a degree matters, so the question is now how small and short the overshoot can be."
       ],
       "differences": null
     },
     {
-      "id": "ai-agents-hacking-campaign",
-      "heading": "A hacker reportedly let AI agents break into more than 100 company websites",
-      "date": "2026-10-19",
+      "id": "brazil-runoff-meta",
+      "heading": "Brazil's close runoff turns into a fight over Meta and bids to disqualify rivals",
+      "date": "2026-10-21",
       "status": "developing",
-      "summary": "A security researcher told Reuters he watched AI agents, given short instructions, probe more than 1,200 sites and get into over 100, at a cost of about $5,000. Victims include sites of Deere and SharkNinja.",
+      "summary": "Before Sunday's presidential runoff, Flávio Bolsonaro asked the electoral court to bar President Lula, and Lula's campaign said it would seek the same against Bolsonaro, accusing Meta of tilting its platforms.",
       "lead": {
-        "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
-        "outlet": "Tom's Hardware (via Yahoo Tech)",
-        "url": "https://tech.yahoo.com/cybersecurity/articles/chinese-hacker-used-ai-agents-153650466.html",
+        "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
+        "date": "2026-10-21"
+      },
+      "alsoReported": [
+        {
+          "title": "Meta tells Brazil's electoral court it gives equal treatment to Lula and Flávio Bolsonaro",
+          "outlet": "AP (via PBS NewsHour)",
+          "url": "https://www.pbs.org/newshour/world/meta-tells-brazils-electoral-court-it-gives-equal-treatment-to-lula-and-flavio-bolsonaro"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Brazil votes on Sunday, October 25, in a presidential runoff between President Luiz Inácio Lula da Silva, on the left, and Senator Flávio Bolsonaro, on the right, the son of former president Jair Bolsonaro[^11]. In the first round on October 4, Bolsonaro won 47% to Lula's 45%, and polls show a very close race[^11][^12].",
+        "In the final week, each side is trying to knock the other out in court. On Tuesday, Bolsonaro's lawyers asked the Superior Electoral Court to annul Lula's candidacy, accusing him of \"abuse of power\" through mass WhatsApp messages promoting government programmes[^11]. Lula's campaign said it would ask for Bolsonaro's disqualification over what it calls \"algorithmic manipulation\" by Meta, the company that owns Facebook, Instagram and WhatsApp[^11].",
+        "The Meta dispute began on October 15, when Lula's campaign accused the company of using biased algorithms and AI tools to limit his content[^12]. On Monday the court gave Meta 24 hours to prove it treats both campaigns equally, with a daily fine of about $200,000 if not[^11]. Meta says it has complied, denies any political bias, and blames recent problems with Lula's ads on technical errors; it added human review of any automatic blocks on campaign ad accounts within two hours[^12].",
+        "Why it matters: Brazil is Latin America's largest country and economy, and this case tests how much power courts have over the platforms where most campaigning now happens. What could happen next: the court must decide on both disqualification requests, and the result on Sunday may be very close. My read: legal challenges are common in Brazilian elections, and few succeed this late, but they can shape whether the losing side accepts the result."
+      ],
+      "differences": "Lula's campaign says Meta's algorithms suppressed his content to help Bolsonaro; Meta denies bias and says the issues were technical[^11][^12]. Bolsonaro's side says Lula abused government messaging; Lula's side says Bolsonaro benefited from platform manipulation. Neither claim has been ruled on yet[^11]."
+    },
+    {
+      "id": "gantz-quits-israel-election",
+      "heading": "Benny Gantz quits Israel's election race eight days before the vote",
+      "date": "2026-10-19",
+      "status": "confirmed",
+      "summary": "The former defence minister pulled his Blue and White party out of the October 27 election after polls kept showing it below the threshold to enter parliament. The move could help the bloc trying to replace Netanyahu.",
+      "lead": {
+        "title": "Benny Gantz quits Israel's election race eight days before vote",
+        "outlet": "Ynet News",
+        "url": "https://www.ynetnews.com/article/s1sdbqm2fe",
         "date": "2026-10-19"
       },
       "alsoReported": [
         {
-          "title": "Hacker Leverages AI Agents to Breach More Than 100 Company Websites",
-          "outlet": "WinBuzzer",
-          "url": "https://winbuzzer.com/2026/10/20/hacker-used-ai-agents-to-breach-100-plus-companies-websites-xcxwbn/"
+          "title": "Gantz pulls out of election race, eight days ahead of vote",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/gantz-pulls-out-of-election-race-eight-days-ahead-of-vote/"
+        },
+        {
+          "title": "Israel Election 2026: Benny Gantz pulls out of race days before vote",
+          "outlet": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-912167"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "On Monday, Benny Gantz, a former army chief and defence minister who leads the Blue and White party, said he will not run in Israel's October 27 election[^13][^14]. For months, polls showed his party below the 3.25% of the vote a party needs to win seats in the Knesset, Israel's parliament[^13]. Votes for a party below that line are wasted.",
+        "The timing was linked to soldiers' voting, which began the next day; a source close to Gantz said he did not want soldiers' votes to be lost[^13]. Gantz took responsibility, saying he had not convinced enough of the public, and said he will keep pushing for a \"broad Zionist government\" across political camps[^15]. On October 21, Blue and White's ballot slips were to be removed from polling stations after all its candidates quit[^14].",
+        "Background: Gantz has joined governments led by Prime Minister Benjamin Netanyahu in the past, and this week he said he did so despite Netanyahu, not because of him[^13]. Former allies, such as ex-army chief Gadi Eisenkot, who now leads the Yashar party, thanked him for a \"correct and responsible\" decision[^13][^15]. Opposition leaders had urged him to step aside so that votes would not be wasted[^15].",
+        "Why it matters: this election is widely seen as a vote on Netanyahu, the Gaza war and the stalled ceasefire. What could happen next: it is unclear where Gantz's remaining voters will go; Eisenkot and Yoaz Hendel are both courting them[^15]. My read: one fewer small party helps the opposition, but Israeli elections are usually decided by the coalition talks that follow."
+      ],
+      "differences": null
+    },
+    {
+      "id": "students-walkout-ai-freeze",
+      "heading": "Students at more than 50 US campuses walk out to demand a freeze on AI",
+      "date": "2026-10-20",
+      "status": "confirmed",
+      "summary": "On Tuesday, students and some professors at colleges across the US walked out of classes to call for a pause on AI development until the public has a say, citing jobs, learning and safety.",
+      "lead": {
+        "title": "Students at SUNY Purchase join nationwide AI freeze walkout",
+        "outlet": "News 12",
+        "url": "https://connecticut.news12.com/students-at-suny-purchase-join-nationwide-ai-freeze-walkout",
+        "date": "2026-10-20"
+      },
+      "alsoReported": [
+        {
+          "title": "'It's a black box': Local students, professors plan walkout to demand freeze on AI development",
+          "outlet": "GBH News",
+          "url": "https://www.wgbh.org/news/local/2026-10-19/its-a-black-box-local-students-professors-plan-walkout-to-demand-freeze-on-ai-development"
+        },
+        {
+          "title": "Howard students plan walkout as part of 50-campus push demanding a freeze on AI development",
+          "outlet": "Hoodline",
+          "url": "https://hoodline.com/2026/10/howard-students-plan-50-campus-walkout-demanding-a-freeze-on-ai-development/"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Reuters reported on Monday that a Chinese-speaking hacker used AI agents, programs that can plan and carry out multi-step tasks on their own, to attack company websites in the US, Canada, Australia and Japan[^14][^15]. Snorre Fagerland, a researcher at the security firm NorForge, said he saw the activity through copies of an open-source AI platform that had been accidentally left exposed online[^14].",
-        "According to the reports, the hacker gave the agents fewer than 100 Chinese characters of instructions, and they then worked largely without supervision[^14]. They tried more than 1,200 websites and got into more than 100, with a successful break-in typically taking about 23 hours[^15]. Fagerland estimated the total cost at about $5,000 in AI usage fees[^15]. In one case, the agents searched public records, found an exposed control panel and used a weakness to run commands[^14]. Fagerland said, \"It's not script kiddie stuff,\" meaning it was more skilled than amateur hacking[^14].",
-        "Named targets include Deere, SharkNinja and Cummins. SharkNinja said only a product-support site was affected, and Deere said it saw no sign sensitive data was accessed[^14][^15]. One hacker Fagerland watched reportedly stole credit-card data, but the full extent of theft is unknown[^14][^15]. WinBuzzer reports the tools appeared to include DeepSeek and Anthropic's Claude Code[^15]. (Anthropic also makes Claude, the AI that writes this brief.)",
-        "Why it matters: if AI makes skilled break-ins cheap and fast, many more attackers can try them, and defenders will need to patch weaknesses faster too. These findings come from one researcher's observations and have not been independently confirmed, so treat the numbers with care[^15]. My read: this is an early sign of how AI agents change cybersecurity for ordinary companies, not only for governments."
+        "On Tuesday, students at colleges across the United States walked out of class in a \"National Walkout to Freeze AI\"[^17][^18]. The organiser, a new national group called Irreplaceable, said more than 50 campuses were taking part, including Howard University in Washington[^17]. In Boston, students from schools such as MIT, Harvard and Northeastern rallied at the Massachusetts State House, and dozens of students joined at SUNY Purchase in New York[^16][^18].",
+        "Their main demand is a freeze on building more powerful AI \"until the public has a say in how it is built and deployed\"[^17]. They also want a share of AI's economic benefits and protections against catastrophic risks[^17]. Organisers say they modelled the campaign on the 1982 movement to freeze nuclear weapons, and groups such as the Sunrise Movement and National Nurses United support it[^17].",
+        "Students gave personal reasons. A computer science senior at SUNY Purchase said he worries AI will take entry-level coding jobs, and others raised concerns about learning: one student said, \"People can't write basic essays\"[^18]. A Boston organiser said students were told a degree meant \"job security\" and now are unsure[^16]. The Boston organisers said one trigger was a researcher who left Anthropic and OpenAI and warned publicly that AI companies were gambling with lives[^16].",
+        "Context and limits: the reports we read did not include responses from AI companies, and none explained how a freeze would work in practice or be enforced across countries[^16]. Massachusetts Governor Maura Healey has proposed safety testing and reporting rules for the most powerful AI models[^16]. My read: the walkout shows that worries about AI are spreading from experts to students, and that AI rules could become a voting issue for young people."
       ],
       "differences": null
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "If AI agents make breaking into websites cheap enough that almost anyone can try, what might change over the next few years, not just for hackers and companies, but for the ordinary people whose data those companies hold?"
+    "type": "how-do-we-know",
+    "text": "Iran says it hit seven ships, Meta says it treats both Brazilian candidates equally, and the Kremlin says talks are possible. When the main source for a claim is the side with the most at stake, what would you need to see before you believed it?"
   },
   "read": {
-    "title": "A rare Ebola strain is spreading. Here's why it's so hard to contain.",
-    "outlet": "National Geographic",
-    "url": "https://www.nationalgeographic.com/health/article/ebola-bundibugyo-ebolavirus-outbreak",
-    "kind": "analysis",
+    "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+    "outlet": "Climate Home News",
+    "url": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
+    "kind": "news",
     "minutes": 7,
-    "summary": "A clear explainer from May, when this outbreak began, on the Bundibugyo strain: how it spreads, why there is no vaccine yet, and why tracing contacts and safe burials are the main tools."
+    "summary": "A clear walk-through of the new UN report: what \"overshoot\" means, the cuts needed by 2030, 2035 and 2040, and why relying on pulling carbon out of the air later is risky."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Al Jazeera",
-      "title": "Witkoff in Russia for Putin meeting after 'positive' talks with Zelenskyy",
-      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+      "outlet": "AP (via WTOC)",
+      "title": "Trump envoy Witkoff meets Putin in St. Petersburg as Russia agrees to resume Ukraine talks",
+      "url": "https://www.wtoc.com/2026/10/21/trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/?outputType=amp",
       "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Reuters (via Investing.com)",
-      "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
-      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-      "date": "2026-10-20",
+      "outlet": "Al Jazeera",
+      "title": "What happened during Witkoff and Kushner's latest meeting with Putin",
+      "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Irish Times (Financial Times)",
-      "title": "Zelenskiy goes to Oslo for US talks as Trump tensions mount",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/20/zelenskiy-goes-to-oslo-for-us-talks-as-trump-tensions-mount/",
-      "date": "2026-10-20",
+      "outlet": "CBS News",
+      "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Moscow Times",
-      "title": "Witkoff Arrives in St. Petersburg for Meeting With Putin",
-      "url": "https://www.themoscowtimes.com/2026/10/21/witkoff-arrives-in-st-petersburg-for-meeting-with-putin-a94037",
-      "date": "2026-10-21",
-      "singleSource": true
+      "outlet": "Gulf News",
+      "title": "Middle East war: Saudi airport attack kills one as US orders embassy departures",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174",
+      "date": "2026-10-22",
+      "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "The Korea Times (AP)",
-      "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
-      "url": "https://www.koreatimes.co.kr/world/20261020/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
-      "date": "2026-10-20",
+      "outlet": "Reuters (via bdnews24)",
+      "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response",
+      "url": "https://bdnews24.com/world/middle-east/bwfe7hf0o9",
+      "date": "2026-10-22",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "AP (via News4JAX)",
-      "title": "The UK expands military support for Saudi Arabia against Houthis to include 'defensive' air patrols",
-      "url": "https://www.news4jax.com/news/world/2026/10/20/the-uk-expands-military-support-for-saudi-arabia-against-houthis-to-include-defensive-air-patrols/",
-      "date": "2026-10-20",
+      "outlet": "Splash247",
+      "title": "Iran claims seven vessels hit in new wave of Hormuz attacks",
+      "url": "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/",
+      "date": "2026-10-22",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Reuters (via Al-Monitor)",
-      "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
-      "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief",
-      "date": "2026-10-20",
-      "singleSource": false
+      "outlet": "The Arabian Post",
+      "title": "Dammam airport attack kills one as US orders departures",
+      "url": "https://thearabianpost.com/dammam-airport-attack-kills-one-as-us-orders-departures/",
+      "date": "2026-10-22",
+      "singleSource": true
     },
     {
       "id": 8,
-      "outlet": "Al Jazeera",
-      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
-      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
-      "date": "2026-10-20",
+      "outlet": "UN News",
+      "title": "Global warming will breach 1.5°C, UN report finds",
+      "url": "https://news.un.org/en/story/2026/10/1168634",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Africanews (AFP)",
-      "title": "Nigeria confirms first Ebola case as outbreak spreads across Africa",
-      "url": "https://www.africanews.com/2026/10/21/nigeria-confirms-first-ebola-case-as-outbreak-spreads-across-africa/",
+      "outlet": "Climate Home News",
+      "title": "UN sets steep emission cuts to reverse 1.5C overshoot by end of century",
+      "url": "https://www.climatechangenews.com/2026/10/21/un-sets-steep-emission-cuts-to-reverse-1-5c-overshoot-by-end-of-century/",
       "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Reuters (via ThePrint)",
-      "title": "South Sudan says Sudanese drone attack killed scores in Abyei market",
-      "url": "https://theprint.in/world/south-sudan-says-sudanese-drone-attack-killed-scores-in-abyei-market/3076847/",
-      "date": "2026-10-20",
+      "outlet": "Scripps News (via WTVR)",
+      "title": "UN report calls out US emissions, says world can no longer avoid overshooting key climate target",
+      "url": "https://www.wtvr.com/science-and-tech/climate-change/un-report-calls-out-us-emissions-says-world-can-no-longer-avoid-overshooting-key-climate-target",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Sudans Post",
-      "title": "Sudanese army says deadly Abyei drone strike targeted RSF fuel supplies",
-      "url": "https://www.sudanspost.com/sudanese-army-says-deadly-abyei-drone-strike-targeted-rsf-fuel-supplies/",
+      "outlet": "Al Jazeera",
+      "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+      "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff",
       "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Al Jazeera (with AFP)",
-      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
+      "outlet": "AP (via PBS NewsHour)",
+      "title": "Meta tells Brazil's electoral court it gives equal treatment to Lula and Flávio Bolsonaro",
+      "url": "https://www.pbs.org/newshour/world/meta-tells-brazils-electoral-court-it-gives-equal-treatment-to-lula-and-flavio-bolsonaro",
       "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "ArcticToday",
-      "title": "EU's new Arctic strategy declares the region a 'front line,' eyes shared icebreakers and military rail",
-      "url": "https://www.arctictoday.com/eus-new-arctic-strategy-declares-the-region-a-front-line-eyes-shared-icebreakers-and-military-rail/",
-      "date": "2026-10-20",
+      "outlet": "Ynet News",
+      "title": "Benny Gantz quits Israel's election race eight days before vote",
+      "url": "https://www.ynetnews.com/article/s1sdbqm2fe",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Tom's Hardware (via Yahoo Tech)",
-      "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
-      "url": "https://tech.yahoo.com/cybersecurity/articles/chinese-hacker-used-ai-agents-153650466.html",
+      "outlet": "The Times of Israel",
+      "title": "Gantz pulls out of election race, eight days ahead of vote",
+      "url": "https://www.timesofisrael.com/liveblog_entry/gantz-pulls-out-of-election-race-eight-days-ahead-of-vote/",
       "date": "2026-10-19",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 15,
-      "outlet": "WinBuzzer",
-      "title": "Hacker Leverages AI Agents to Breach More Than 100 Company Websites",
-      "url": "https://winbuzzer.com/2026/10/20/hacker-used-ai-agents-to-breach-100-plus-companies-websites-xcxwbn/",
+      "outlet": "The Jerusalem Post",
+      "title": "Israel Election 2026: Benny Gantz pulls out of race days before vote",
+      "url": "https://www.jpost.com/israel-election-2026/article-912167",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "GBH News",
+      "title": "'It's a black box': Local students, professors plan walkout to demand freeze on AI development",
+      "url": "https://www.wgbh.org/news/local/2026-10-19/its-a-black-box-local-students-professors-plan-walkout-to-demand-freeze-on-ai-development",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 17,
+      "outlet": "Hoodline",
+      "title": "Howard students plan walkout as part of 50-campus push demanding a freeze on AI development",
+      "url": "https://hoodline.com/2026/10/howard-students-plan-50-campus-walkout-demanding-a-freeze-on-ai-development/",
       "date": "2026-10-20",
       "singleSource": true
+    },
+    {
+      "id": 18,
+      "outlet": "News 12",
+      "title": "Students at SUNY Purchase join nationwide AI freeze walkout",
+      "url": "https://connecticut.news12.com/students-at-suny-purchase-join-nationwide-ai-freeze-walkout",
+      "date": "2026-10-20",
+      "singleSource": false
     }
   ]
 }

@@ -1,77 +1,61 @@
 {
-  "date": "2026-10-21",
-  "summary": "Premier Smith says Alberta stays in Canada with no second separation vote, while early counts show most immigration questions passing narrowly. A U.S. importer has sued over the 50% tariffs.",
+  "date": "2026-10-22",
+  "summary": "Ottawa and Ontario put $8.7 billion into steel, autos and Ring of Fire roads to cope with U.S. tariffs, as the U.S. Embassy accuses Canadian politicians of meddling in the midterms.",
   "body": [
-    "Alberta's referendum is still the main story. In a televised address Tuesday evening, Premier Danielle Smith said Albertans had \"made their choice\" and that she will not hold another separation referendum while she is premier [^1][^2]. She acknowledged \"legitimate frustrations\" with Ottawa but said disputes should go through political and legal channels [^1]. Prime Minister Mark Carney's office issued a statement saying \"Albertans chose Canada\" and focused on trade and building projects [^5]. Ontario Premier Doug Ford said he was \"thrilled\" with the result and called for new pipelines [^2].",
-    "The other nine questions are closer. In unofficial counts on Tuesday, yes was ahead on all five immigration questions, mostly at about 54 to 58 per cent. Requiring proof of citizenship to vote had roughly two-thirds support [^1][^3]. On the four constitutional questions (changes to Canada's basic legal rulebook), yes led narrowly on three. The exception was letting Alberta opt out of federal programs without losing federal money, which was trailing at about 51 per cent no [^1][^3]. Edmonton voted no on all nine [^1]. These results are non-binding, meaning they guide the government but do not force it to act. Official results are expected Oct. 29 [^3]. Carney said immigration disputes can be settled without changing the Constitution [^1]. Ottawa's updated immigration plan is due in November [^4]. My read: these questions set up negotiations with Ottawa rather than immediate changes.",
-    "On trade, a U.S. food importer filed a lawsuit Tuesday in the U.S. Court of International Trade. It challenges the 50 per cent tariffs (taxes on imports) on about $20 billion US of Canadian goods. Those tariffs took effect Aug. 22 [^6][^7]. The suit argues President Donald Trump went beyond his authority under a 1930 law and asks for the tariffs to be blocked and refunded [^6][^7]. Otherwise it was a quiet day for economic news, with no major data releases. The Bank of Canada's interest rate decision is still set for Oct. 28."
+    "Prime Minister Mark Carney and Ontario Premier Doug Ford announced a joint $8.7-billion plan on Wednesday for industries hit by U.S. tariffs [^1][^2]. About $5.2 billion over five years goes to a new steel fund, $2.5 billion over two years helps automakers retool for connected and electric vehicles, and the two governments will each put up to $1 billion into roads to the Ring of Fire, a mineral-rich area in Northern Ontario [^1][^3]. Ottawa will also freeze its emissions standards for new cars at 2026 levels through the 2029 model year [^3]. Carney said the plan would protect about 220,000 jobs and create about 70,000 linked to the Ring of Fire [^2]. \"Their approach has changed. So must ours,\" Carney said of the U.S. [^1]. Ford said that whoever wins the midterms, \"we're not going back to the way things were\" [^2]. Carney said he spoke with President Donald Trump at length but gave no sign of a trade breakthrough [^1].",
+    "Also on Wednesday, the U.S. Embassy in Ottawa accused Canadian politicians of trying to influence American politics before the Nov. 3 midterms. It named Industry Minister Mélanie Joly, over talk of targeting tariffs at Republican states, and Ford, over the anti-tariff Reagan ad Ontario ran last year [^1]. Carney and Ford rejected the claim; Ford said he has \"no interest at all\" in U.S. elections [^1]. My read: this is a sign of how tense the relationship has become, more than a formal dispute.",
+    "After Alberta's referendum, Carney said Ottawa will \"not budge\" from sustainable immigration levels but did not rule out giving Alberta more say over immigration, modelled on Quebec's deal from the early 1990s [^4]. On prices, Statistics Canada said Monday that inflation rose to 3.1% in September, driven by gasoline, up 27.8% from a year ago; excluding gas, prices rose 2.2% [^5]. The Bank of Canada decides on interest rates Oct. 28."
   ],
-  "differences": "Reactions to the vote differ. Conservative Leader Pierre Poilievre backed Smith's push for more provincial say on immigration. Separatist organizer Jeff Rath said he would seek a UCP meeting to remove Smith. Avnish Nanda, who campaigned against the immigration questions, cited polls suggesting some voters were confused by the wording. Alberta NDP Leader Naheed Nenshi called the referendum a mistake [^1][^2].",
+  "differences": "The two governments present the plan as protecting jobs and building Canadian supply chains [^2][^3]. The reports we read did not include reactions from opposition parties or unions. On the embassy's claim, the AP notes the embassy offered no evidence that the actions it named were improper interference [^1].",
   "reads": [
     {
-      "title": "Albertans mixed on other referendum questions after rejecting separation",
-      "outlet": "Global News",
-      "url": "https://globalnews.ca/news/12109093/alberta-referendum-separation-other-results/",
+      "title": "Carney says Trump's tariffs hurt Americans as US Embassy alleges Canadian interference",
+      "outlet": "AP (via WFTV)",
+      "url": "https://www.wftv.com/news/business/carney-says-trumps/MRXEANJ5SY6RPL4JMZM5B5C76U/",
       "kind": "news",
-      "summary": "A plain explainer of each of the nine non-separation questions, covering immigration, voter ID, judges, the Senate and federal programs, with Tuesday's unofficial results."
+      "summary": "A short, clear account of the $8.7-billion plan, what is in it, and the new U.S. Embassy accusations, with the background on how trade talks broke down."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News",
-      "title": "Danielle Smith calls for unity after separatism rejected in Alberta referendum",
-      "url": "https://globalnews.ca/news/12110203/alberta-referendum-danielle-smith-results-speech/",
-      "date": "2026-10-20",
+      "outlet": "AP (via WFTV)",
+      "title": "Carney says Trump's tariffs hurt Americans as US Embassy alleges Canadian interference",
+      "url": "https://www.wftv.com/news/business/carney-says-trumps/MRXEANJ5SY6RPL4JMZM5B5C76U/",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BNN Bloomberg (CTV News)",
-      "title": "Alberta referendum: Danielle Smith to honour voter mandate. Live updates.",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/21/i-will-honour-this-mandate-smith-vows-not-to-hold-another-referendum-on-separation-live-updates/",
-      "date": "2026-10-20",
+      "outlet": "CP24",
+      "title": "Federal government announces billions for tariff-impacted industries in Ontario",
+      "url": "https://www.cp24.com/politics/queens-park/2026/10/21/federal-government-announces-billions-for-tariff-impacted-industries-in-ontario/",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Global News",
-      "title": "Albertans mixed on other referendum questions after rejecting separation",
-      "url": "https://globalnews.ca/news/12109093/alberta-referendum-separation-other-results/",
-      "date": "2026-10-20",
+      "outlet": "Prime Minister's Office",
+      "title": "Prime Minister Carney and Premier Ford launch new action plan to protect workers from tariffs and strengthen Ontario industries",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/21/prime-minister-carney-and-premier-ford-launch-new-action-plan-protect",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "CP24",
-      "title": "Alberta referendum: Immigration vote close, separation rejected. Live updates",
-      "url": "https://www.cp24.com/news/canada/2026/10/20/albertans-reject-separation-in-historic-vote-ctv-news-projects-live-updates/",
-      "date": "2026-10-20",
+      "outlet": "CTV News (The Canadian Press)",
+      "title": "Ottawa will 'not budge' from 'sustainable' immigration levels: Carney",
+      "url": "https://www.ctvnews.ca/politics/article/ottawa-will-not-budge-from-sustainable-immigration-levels-carney/",
+      "date": "2026-10-21",
       "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "Prime Minister's Office",
-      "title": "Statement by Prime Minister Carney on Albertans choosing to build a stronger Canada, together",
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/10/20/statement-prime-minister-carney-albertans-choosing-build-stronger-canada",
-      "date": "2026-10-20",
+      "outlet": "Statistics Canada",
+      "title": "Consumer Price Index, September 2026",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+      "date": "2026-10-19",
       "singleSource": true
-    },
-    {
-      "id": 6,
-      "outlet": "Supply Chain Dive",
-      "title": "Trump's 50% Canada tariffs challenged in court",
-      "url": "https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/",
-      "date": "2026-10-20",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Quartz",
-      "title": "Food importer sues to block Trump's 50% tariffs on Canadian goods",
-      "url": "https://qz.com/food-importer-lawsuit-trump-canada-tariffs-section-338-102026",
-      "date": "2026-10-20",
-      "singleSource": false
     }
   ]
 }

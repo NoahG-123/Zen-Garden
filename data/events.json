@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-21",
+  "reviewed": "2026-10-22",
   "events": [
     {
       "id": "iran-war",
@@ -7,17 +7,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Ship attacks near Hormuz are at their highest since the war began [^27]. Yemen is now the most active front: a Houthi strike killed 73 recruits on Oct 19 [^40], Britain will fly RAF patrols over Saudi Arabia [^41], and Egypt's parliament votes Oct 26 on helping defend the kingdom [^35]. Iran told Pakistan's army chief there will be no talks until the US lifts its blockade of Iran's ports and its oil sanctions [^42]. Brent was near $108 on Oct 19 [^36].",
+      "standing": "Attacks are hitting civilian sites: a strike on Dammam airport on Oct 21 killed one or two people, no one has claimed it, and the US ordered non-emergency staff out of Saudi Arabia.[^45] Iran's Guards say they hit seven ships in the Gulf, unconfirmed; the UN shipping agency counts 119 incidents and 24 seafarer deaths.[^46] Britain flies RAF patrols over Saudi Arabia[^41]; Egypt postponed its vote on helping.[^45] Iran wants the US blockade lifted before talks.[^42]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
-        {
-          "date": "2026-10-26",
-          "what": "Egypt's parliament votes on authorising forces to help defend Saudi Arabia"
-        },
         {
           "date": "2026-10-27",
           "what": "Israel's general election; Netanyahu says he won't seek an Iran strike before it"
@@ -129,7 +125,9 @@
         36,
         40,
         41,
-        42
+        42,
+        45,
+        46
       ]
     },
     {
@@ -138,7 +136,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After Oslo talks on Oct 20 that US and European officials called constructive, US envoy Steve Witkoff is meeting Putin in St Petersburg on Oct 21.[^38][^39] Zelenskyy says US warnings of Russian strikes, briefly cut off, are back.[^38] Trump says someone else should negotiate for Ukraine.[^39] Both sides keep hitting energy sites.[^29][^31] The UN says 2,570 civilians were killed January to September.[^28]",
+      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After meeting US envoy Steve Witkoff on Oct 21, the Kremlin said Russia agrees in principle to resume three-way talks with the US and Ukraine after Nov 10 (the first since February) and freed an American prisoner.[^43] Moscow says Kyiv must make \"necessary decisions\"; Zelenskyy backs talks but rejects any deal made without Ukraine.[^44] Energy strikes go on.[^43] The UN says 2,570 civilians were killed January to September.[^28]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -146,8 +144,8 @@
       },
       "watch": [
         {
-          "date": "2026-10-21",
-          "what": "Witkoff meets Putin in St Petersburg, carrying ideas from the Oslo talks with Ukraine and Europe"
+          "date": "2026-11-10",
+          "what": "Earliest date the Kremlin gives for three-way technical talks, possibly in Abu Dhabi"
         },
         {
           "date": "2026-11-03",
@@ -266,7 +264,9 @@
         31,
         37,
         38,
-        39
+        39,
+        43,
+        44
       ]
     },
     {
@@ -275,7 +275,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The truce is a year old but stuck in its first phase. All living hostages are home[^10]. Israel says it won't move on until Hamas disarms; Hamas says it won't fully disarm under continued attacks and occupation[^9]. Israel holds about 60% of Gaza by Al Jazeera's count, about 70% by The Jerusalem Post's[^9][^10]. No stabilisation force is deployed, the Palestinian technical committee hasn't been let in, and rebuilding has barely started[^9][^10].",
+      "standing": "The truce is a year old but stuck in its first phase. Israel says it won't move on until Hamas disarms; Hamas says it won't fully disarm under continued attacks and occupation[^9]. Israel holds about 60% to 70% of Gaza, depending on the count[^9][^10]. No stabilisation force is deployed and rebuilding has barely started[^9][^10]. Before the Oct 27 vote, Benny Gantz quit the race, which may help the bloc trying to replace Netanyahu[^47].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -385,7 +385,8 @@
         9,
         10,
         11,
-        12
+        12,
+        47
       ]
     },
     {
@@ -992,6 +993,46 @@
       "title": "Iran's Pezeshkian discusses mediation efforts in meeting with Pakistan's army chief",
       "url": "https://www.al-monitor.com/originals/2026/10/irans-pezeshkian-discusses-mediation-efforts-meeting-pakistans-army-chief",
       "date": "2026-10-20",
+      "singleSource": false
+    },
+    {
+      "id": 43,
+      "outlet": "AP (via WTOC)",
+      "title": "Trump envoy Witkoff meets Putin in St. Petersburg as Russia agrees to resume Ukraine talks",
+      "url": "https://www.wtoc.com/2026/10/21/trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/?outputType=amp",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
+      "id": 44,
+      "outlet": "CBS News",
+      "title": "Russia says Ukraine must make \"necessary decisions\" to end war as Witkoff meets Putin",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-witkoff-putin-trump-zelenskyy/",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
+      "id": 45,
+      "outlet": "Gulf News",
+      "title": "Middle East war: Saudi airport attack kills one as US orders embassy departures",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174",
+      "date": "2026-10-22",
+      "singleSource": false
+    },
+    {
+      "id": 46,
+      "outlet": "Splash247",
+      "title": "Iran claims seven vessels hit in new wave of Hormuz attacks",
+      "url": "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/",
+      "date": "2026-10-22",
+      "singleSource": false
+    },
+    {
+      "id": 47,
+      "outlet": "Ynet News",
+      "title": "Benny Gantz quits Israel's election race eight days before vote",
+      "url": "https://www.ynetnews.com/article/s1sdbqm2fe",
+      "date": "2026-10-19",
       "singleSource": false
     }
   ]
