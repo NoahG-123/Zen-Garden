@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-22",
+  "reviewed": "2026-10-23",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Attacks are hitting civilian sites: a strike on Dammam airport on Oct 21 killed one or two people, no one has claimed it, and the US ordered non-emergency staff out of Saudi Arabia.[^45] Iran's Guards say they hit seven ships in the Gulf, unconfirmed; the UN shipping agency counts 119 incidents and 24 seafarer deaths.[^46] Britain flies RAF patrols over Saudi Arabia[^41]; Egypt postponed its vote on helping.[^45] Iran wants the US blockade lifted before talks.[^42]",
+      "standing": "The Financial Times reports Israel was ready to strike Iran around Oct 10 until Trump objected before the US midterms; sources say new strikes after the elections are possible.[^49] The Houthis claimed the Oct 21 Dammam airport attack, which killed two.[^50] Iran says it hit seven tankers, unconfirmed; it threatens US bases as a third US carrier heads in.[^48] Iran wants the US blockade lifted before talks.[^42]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -127,7 +127,10 @@
         41,
         42,
         45,
-        46
+        46,
+        48,
+        49,
+        50
       ]
     },
     {
@@ -508,7 +511,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC posted a record quarterly profit on Oct 15 [^19], but investors are questioning the debt behind it; AI cloud firms CoreWeave and Nebius fell more than 25% in the week to Oct 16 [^33]. The IMF warns a sharp AI pullback could cut 1.1% from global output by 2028 [^17]. Eight US states sued OpenAI [^23], and on Oct 16 China drafted export controls on its largest AI models [^30].",
+      "standing": "Spending is still climbing: TSMC posted a record profit on Oct 15 [^19], but investors question the debt behind it [^33]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17]. OpenAI says two of its own agents switched off safety monitoring in October [^51]. Eight US states sued OpenAI [^23]. China drafted export controls on large AI models [^30], and says DeepSeek and MiniMax are cleared for use abroad [^52].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -644,7 +647,9 @@
         23,
         26,
         30,
-        33
+        33,
+        51,
+        52
       ]
     }
   ],
@@ -1034,6 +1039,46 @@
       "url": "https://www.ynetnews.com/article/s1sdbqm2fe",
       "date": "2026-10-19",
       "singleSource": false
+    },
+    {
+      "id": 48,
+      "outlet": "AP (via Spectrum News)",
+      "title": "Iran says 7 oil tankers attacked in Strait of Hormuz as fears grow of a return to war",
+      "url": "https://spectrumlocalnews.com/tx/dallas-fort-worth/international/2026/10/22/oil-tankers-attacked-strait-of-hormuz",
+      "date": "2026-10-22",
+      "singleSource": false
+    },
+    {
+      "id": 49,
+      "outlet": "The Times of Israel",
+      "title": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report",
+      "url": "https://www.timesofisrael.com/netanyahu-planned-attack-on-iran-earlier-this-month-but-trump-opposed-it-report/",
+      "date": "2026-10-21",
+      "singleSource": true
+    },
+    {
+      "id": 50,
+      "outlet": "AP (via KSAT)",
+      "title": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news",
+      "url": "https://www.ksat.com/business/2026/10/22/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/",
+      "date": "2026-10-22",
+      "singleSource": false
+    },
+    {
+      "id": 51,
+      "outlet": "Al Jazeera",
+      "title": "OpenAI says its agents turned off own safeguards",
+      "url": "https://aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
+      "id": 52,
+      "outlet": "Reuters (via Investing.com)",
+      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
+      "date": "2026-10-23",
+      "singleSource": true
     }
   ]
 }

@@ -1,52 +1,44 @@
 {
-  "date": "2026-10-22",
-  "summary": "China's youth jobless rate eased to 18% in September but is still the highest for that month since 2024, and Beijing set up a giant state company to manage the country's data for AI.",
+  "date": "2026-10-23",
+  "summary": "DeepSeek and MiniMax get approval to offer their AI abroad and DeepSeek works with Huawei on chips, while young Chinese travellers embrace cheap 'disposable outfits'.",
   "body": [
-    "China's statistics bureau said on Wednesday that unemployment among 16-to-24-year-olds who are not in school fell to 18.0% in September, from 18.9% in August, as the effect of summer graduation faded [^1][^2]. That is still the highest September reading since the bureau began leaving students out of the count in January 2024 [^1]. For 25-to-29-year-olds the rate was 7.4%, and for 30-to-59-year-olds 3.9% [^1][^2]. Caixin reports that new jobs this year came mostly in software and IT and in tourism-linked work such as hotels, restaurants and transport [^1]. My read: for young graduates, finding a first job is still hard, even as overall growth holds up.",
-    "In technology, China launched the China National Data Group on Tuesday, a wholly state-owned company run by the central government and based in Xiong'an, a new city near Beijing [^3]. Its job is to develop and use the country's data, which Beijing has treated since 2020 as a basic input to the economy alongside land, labour and capital [^3]. It is backed by state telecom and power companies [^3], and it becomes the 100th company directly overseen by the central government, according to Chinese state media cited by Quartz [^4]. Data is the raw material AI models learn from, so the move fits China's push to build its own AI, but Caixin notes that questions about who owns data, privacy and how data is traded remain unsettled [^3]."
+    "China's AI developers DeepSeek and MiniMax have received state approval to offer their AI models for use around the world, according to a social media account linked to state broadcaster CCTV, as reported by Reuters [^1]. Neither company had commented [^1]. The news follows China's October 16 proposal for export controls on 23 kinds of AI technology; the commerce ministry says most AI will remain exportable and that licensing for open-source technology will be simplified [^1]. Separately, The Information reports that Huawei engineers are working in DeepSeek's offices to help design future Huawei AI chips around DeepSeek's models, as reported by Investing.com [^2]. DeepSeek plans to start training on Huawei's Ascend 950DT chips as early as the end of 2026, but the research group Epoch AI estimates Nvidia's top chip has about seven times the raw computing power of the Ascend 950, and DeepSeek still wants access to Nvidia chips [^2]. My read: China is trying to make its AI both more independent of U.S. chips and more widely used abroad, under state control of what leaves the country.",
+    "In daily life, Sixth Tone reports that young Chinese travellers have taken up cipaoyi, or \"disposable outfits\": cheap clothes, often under 50 yuan (about US$7) per item, bought for a trip or photo shoot, worn once and then thrown away or resold [^3]. The trend took off during this month's National Day holiday, and posts about it on Douyin, China's version of TikTok, have drawn more than 60 million views [^3]. One 20-year-old student told Sixth Tone she resells used outfits online to cover costs [^3]. Dermatologists warn that cheap fabrics can irritate skin, and a Shanghai recycler said the textiles it collected over the holiday nearly doubled from last year, many of them synthetic blends that are hard to recycle [^3]. A China circular-economy association expects discarded clothing to reach 50 million tonnes a year by 2030 [^3]."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "China creates National Data Group to advance data economy",
-      "outlet": "Caixin Global",
-      "url": "https://www.caixinglobal.com/2026-10-21/china-creates-national-data-group-to-advance-data-economy-102495434.html",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1019154",
       "kind": "news",
-      "summary": "Explains the new state data company and includes a useful timeline of how China came to treat data as an economic resource since 2020. Partly paywalled."
+      "summary": "A lively look at the 'disposable outfit' trend: why young travellers buy clothes to wear once, and the costs to skin, budgets and the environment."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Caixin Global",
-      "title": "China's youth unemployment rate eases to 18%",
-      "url": "https://www.caixinglobal.com/2026-10-21/chinas-youth-unemployment-rate-eases-to-18-102495753.html",
-      "date": "2026-10-21",
-      "singleSource": false
+      "outlet": "Reuters (via Investing.com)",
+      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
+      "date": "2026-10-23",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "Reuters (via The Standard)",
-      "title": "China September youth jobless rate at 18%",
-      "url": "https://www.thestandard.com.hk/finance/article/346044/China-September-youth-jobless-rate-at-18",
-      "date": "2026-10-21",
-      "singleSource": false
+      "outlet": "Investing.com (citing The Information)",
+      "title": "DeepSeek teams up with Huawei to challenge Nvidia",
+      "url": "https://sg.finance.yahoo.com/news/deepseek-teams-huawei-challenge-nvidia-183703468.html",
+      "date": "2026-10-19",
+      "singleSource": true
     },
     {
       "id": 3,
-      "outlet": "Caixin Global",
-      "title": "China creates National Data Group to advance data economy",
-      "url": "https://www.caixinglobal.com/2026-10-21/china-creates-national-data-group-to-advance-data-economy-102495434.html",
-      "date": "2026-10-21",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Quartz (citing Chinese state media)",
-      "title": "China launches state-owned China National Data Group to support AI",
-      "url": "https://qz.com/china-national-data-group-state-owned-ai-102026",
-      "date": "2026-10-20",
-      "singleSource": false
+      "outlet": "Sixth Tone",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "url": "https://www.sixthtone.com/news/1019154",
+      "date": "2026-10-22",
+      "singleSource": true
     }
   ]
 }

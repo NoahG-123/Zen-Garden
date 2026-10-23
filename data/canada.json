@@ -1,61 +1,53 @@
 {
-  "date": "2026-10-22",
-  "summary": "Ottawa and Ontario put $8.7 billion into steel, autos and Ring of Fire roads to cope with U.S. tariffs, as the U.S. Embassy accuses Canadian politicians of meddling in the midterms.",
+  "date": "2026-10-23",
+  "summary": "Carney signs a strategic partnership with Turkey as Canada looks beyond the U.S., and Toronto's mayoral race looks close ahead of Monday's municipal vote.",
   "body": [
-    "Prime Minister Mark Carney and Ontario Premier Doug Ford announced a joint $8.7-billion plan on Wednesday for industries hit by U.S. tariffs [^1][^2]. About $5.2 billion over five years goes to a new steel fund, $2.5 billion over two years helps automakers retool for connected and electric vehicles, and the two governments will each put up to $1 billion into roads to the Ring of Fire, a mineral-rich area in Northern Ontario [^1][^3]. Ottawa will also freeze its emissions standards for new cars at 2026 levels through the 2029 model year [^3]. Carney said the plan would protect about 220,000 jobs and create about 70,000 linked to the Ring of Fire [^2]. \"Their approach has changed. So must ours,\" Carney said of the U.S. [^1]. Ford said that whoever wins the midterms, \"we're not going back to the way things were\" [^2]. Carney said he spoke with President Donald Trump at length but gave no sign of a trade breakthrough [^1].",
-    "Also on Wednesday, the U.S. Embassy in Ottawa accused Canadian politicians of trying to influence American politics before the Nov. 3 midterms. It named Industry Minister Mélanie Joly, over talk of targeting tariffs at Republican states, and Ford, over the anti-tariff Reagan ad Ontario ran last year [^1]. Carney and Ford rejected the claim; Ford said he has \"no interest at all\" in U.S. elections [^1]. My read: this is a sign of how tense the relationship has become, more than a formal dispute.",
-    "After Alberta's referendum, Carney said Ottawa will \"not budge\" from sustainable immigration levels but did not rule out giving Alberta more say over immigration, modelled on Quebec's deal from the early 1990s [^4]. On prices, Statistics Canada said Monday that inflation rose to 3.1% in September, driven by gasoline, up 27.8% from a year ago; excluding gas, prices rose 2.2% [^5]. The Bank of Canada decides on interest rates Oct. 28."
+    "Prime Minister Mark Carney and Turkish President Recep Tayyip Erdogan launched a Canada-Türkiye strategic partnership in Ankara on Thursday, with a three-year action plan covering trade and investment, defence and security, energy, and ties between people [^1]. It is the first bilateral visit to Turkey by a Canadian prime minister [^2]. Erdogan said trade between the two countries is about $3 billion and should rise to $5 billion and then $10 billion, and that free-trade talks would start before the end of the year; officials will hold a first round in Ankara next month [^1]. Energy ministers will work on liquefied natural gas, nuclear power and critical minerals [^1]. \"Our goal is not self-sufficiency; it is collective resilience,\" Carney said [^1]. The trip is part of his push to reduce Canada's reliance on the U.S. during the tariff dispute [^1][^2].",
+    "Amnesty International urged Carney to raise human rights, pointing to the jailing of Istanbul Mayor Ekrem Imamoglu, a main Erdogan rival, for more than a year on corruption charges he denies, and to arrests of journalists and activists [^2]. Turkey's government says its courts are independent [^2]. Canada lifted a ban on weapons exports to Turkey in 2024 [^2].",
+    "Closer to home, Ontario holds municipal elections on Monday, Oct. 26. In Toronto, recent polls show a close race for mayor between Olivia Chow and Brad Bradford: Mainstreet Research had Bradford at 48.9% and Chow at 47.5%, while Pollara had Chow ahead 53% to 46% among decided voters [^3]. Both promise to get rid of TTC slow zones, and they have clashed over how to deal with bad landlords [^3]. In Ottawa, Finance Minister François-Philippe Champagne said the federal budget will be tabled Nov. 5; the Parliamentary Budget Officer projects a $63.3-billion deficit for 2026-27 [^4]."
   ],
-  "differences": "The two governments present the plan as protecting jobs and building Canadian supply chains [^2][^3]. The reports we read did not include reactions from opposition parties or unions. On the embassy's claim, the AP notes the embassy offered no evidence that the actions it named were improper interference [^1].",
+  "differences": "On Turkey, both governments present the partnership as a way to build resilience and trade [^1]; Amnesty International says Canada must not treat human rights as secondary to trade, while Turkey's government says its courts are independent [^2].",
   "reads": [
     {
-      "title": "Carney says Trump's tariffs hurt Americans as US Embassy alleges Canadian interference",
-      "outlet": "AP (via WFTV)",
-      "url": "https://www.wftv.com/news/business/carney-says-trumps/MRXEANJ5SY6RPL4JMZM5B5C76U/",
+      "title": "Chow and Bradford neck-and-neck with days left in Toronto mayoral election campaign",
+      "outlet": "Global News",
+      "url": "https://globalnews.ca/news/12110038/chow-and-bradford-neck-and-neck-days-left-toronto-mayoral-election-campaign/",
       "kind": "news",
-      "summary": "A short, clear account of the $8.7-billion plan, what is in it, and the new U.S. Embassy accusations, with the background on how trade talks broke down."
+      "summary": "A quick guide to where Toronto's two leading mayoral candidates stand in the polls and on transit and housing, days before Monday's vote."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "AP (via WFTV)",
-      "title": "Carney says Trump's tariffs hurt Americans as US Embassy alleges Canadian interference",
-      "url": "https://www.wftv.com/news/business/carney-says-trumps/MRXEANJ5SY6RPL4JMZM5B5C76U/",
-      "date": "2026-10-21",
+      "outlet": "Al Jazeera",
+      "title": "Carney, Erdogan launch 'strong and resilient' Canada-Turkiye partnership",
+      "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership",
+      "date": "2026-10-22",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24",
-      "title": "Federal government announces billions for tariff-impacted industries in Ontario",
-      "url": "https://www.cp24.com/politics/queens-park/2026/10/21/federal-government-announces-billions-for-tariff-impacted-industries-in-ontario/",
-      "date": "2026-10-21",
+      "outlet": "AP (via ABC News)",
+      "title": "Mark Carney lands in Turkey to forge a new partnership as Canada looks beyond the US",
+      "url": "https://abcnews.com/Business/wireStory/mark-carney-lands-turkey-forge-new-partnership-canada-137470793",
+      "date": "2026-10-22",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Prime Minister's Office",
-      "title": "Prime Minister Carney and Premier Ford launch new action plan to protect workers from tariffs and strengthen Ontario industries",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/21/prime-minister-carney-and-premier-ford-launch-new-action-plan-protect",
-      "date": "2026-10-21",
+      "outlet": "Global News",
+      "title": "Chow and Bradford neck-and-neck with days left in Toronto mayoral election campaign",
+      "url": "https://globalnews.ca/news/12110038/chow-and-bradford-neck-and-neck-days-left-toronto-mayoral-election-campaign/",
+      "date": "2026-10-20",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "CTV News (The Canadian Press)",
-      "title": "Ottawa will 'not budge' from 'sustainable' immigration levels: Carney",
-      "url": "https://www.ctvnews.ca/politics/article/ottawa-will-not-budge-from-sustainable-immigration-levels-carney/",
-      "date": "2026-10-21",
-      "singleSource": true
-    },
-    {
-      "id": 5,
-      "outlet": "Statistics Canada",
-      "title": "Consumer Price Index, September 2026",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
-      "date": "2026-10-19",
-      "singleSource": true
+      "outlet": "The Canadian Press (via Advisor.ca)",
+      "title": "Liberals to table 2026 federal budget on Nov. 5",
+      "url": "https://www.advisor.ca/economy/liberals-to-table-2026-federal-budget-on-nov-5/",
+      "date": "2026-10-20",
+      "singleSource": false
     }
   ]
 }
