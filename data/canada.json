@@ -1,52 +1,83 @@
 {
-  "date": "2026-10-23",
-  "summary": "Carney signs a strategic partnership with Turkey as Canada looks beyond the U.S., and Toronto's mayoral race looks close ahead of Monday's municipal vote.",
+  "date": "2026-10-24",
+  "summary": "Economists expect the Bank of Canada to raise rates on Wednesday, Ottawa and Washington trade jabs over tariffs and 'interference', and Toronto votes Monday.",
   "body": [
-    "Prime Minister Mark Carney and Turkish President Recep Tayyip Erdogan launched a Canada-Türkiye strategic partnership in Ankara on Thursday, with a three-year action plan covering trade and investment, defence and security, energy, and ties between people [^1]. It is the first bilateral visit to Turkey by a Canadian prime minister [^2]. Erdogan said trade between the two countries is about $3 billion and should rise to $5 billion and then $10 billion, and that free-trade talks would start before the end of the year; officials will hold a first round in Ankara next month [^1]. Energy ministers will work on liquefied natural gas, nuclear power and critical minerals [^1]. \"Our goal is not self-sufficiency; it is collective resilience,\" Carney said [^1]. The trip is part of his push to reduce Canada's reliance on the U.S. during the tariff dispute [^1][^2].",
-    "Amnesty International urged Carney to raise human rights, pointing to the jailing of Istanbul Mayor Ekrem Imamoglu, a main Erdogan rival, for more than a year on corruption charges he denies, and to arrests of journalists and activists [^2]. Turkey's government says its courts are independent [^2]. Canada lifted a ban on weapons exports to Turkey in 2024 [^2].",
-    "Closer to home, Ontario holds municipal elections on Monday, Oct. 26. In Toronto, recent polls show a close race for mayor between Olivia Chow and Brad Bradford: Mainstreet Research had Bradford at 48.9% and Chow at 47.5%, while Pollara had Chow ahead 53% to 46% among decided voters [^3]. Both promise to get rid of TTC slow zones, and they have clashed over how to deal with bad landlords [^3]. In Ottawa, Finance Minister François-Philippe Champagne said the federal budget will be tabled Nov. 5; the Parliamentary Budget Officer projects a $63.3-billion deficit for 2026-27 [^4]."
+    "Most economists in a Reuters poll expect the Bank of Canada to raise its key interest rate on Wednesday, Oct. 28, from 2.25% to 2.50%, its first move in a year [^1]. A large minority, 15 of 34, expect no change because the economy is weak [^1]. The worry is prices: inflation was 3.1% in September, just above the Bank's 1% to 3% target range, driven by gasoline, which was up 27.8% from a year earlier [^2]. A hike would make borrowing, such as mortgages and car loans, more expensive. For students, Statistics Canada also reports that Ontario tuition fees rose 2.1% this year, the biggest jump since 2018, after the province ended its tuition freeze [^2].",
+    "With Canada, the White House will drop tariffs on some Canadian goods, including plywood, some paper products and some machinery, and add them on certain valves and carpets, from the end of October; analysts say the change mostly helps U.S. Senator Susan Collins of Maine [^3]. Trump says a deal is close and that the U.S. has \"all the cards\" [^3]. Separately, the U.S. embassy accused Canadian ministers and premiers of trying to influence U.S. politics. Prime Minister Mark Carney said \"there is no merit to these claims\" [^4]. In Hamilton, Industry Minister Mélanie Joly gave Stelco's U.S. owner, Cleveland-Cliffs, 15 days to keep its promise to protect jobs or face legal action; the company says the layoffs are temporary and caused by tariffs [^5].",
+    "Toronto and other Ontario cities vote on Monday, Oct. 26. In the last mayoral debate, Olivia Chow and Brad Bradford clashed over housing, a property tax freeze and a plan to turn Toronto Water into an independent utility [^6]. Polls released this week showed a close race, with results depending on the pollster [^7]."
   ],
-  "differences": "On Turkey, both governments present the partnership as a way to build resilience and trade [^1]; Amnesty International says Canada must not treat human rights as secondary to trade, while Turkey's government says its courts are independent [^2].",
+  "differences": "On rates, most economists polled expect a hike, but 15 of 34 expect none [^1]. The U.S. embassy says Canadian leaders are meddling in U.S. politics; Carney says the claims have no merit [^4]. Ottawa says Cleveland-Cliffs broke its job promise; the company says it will fight in court [^5].",
   "reads": [
     {
-      "title": "Chow and Bradford neck-and-neck with days left in Toronto mayoral election campaign",
-      "outlet": "Global News",
-      "url": "https://globalnews.ca/news/12110038/chow-and-bradford-neck-and-neck-days-left-toronto-mayoral-election-campaign/",
+      "title": "5 key moments from the CP24 mayoral debate",
+      "outlet": "CP24",
+      "url": "https://www.cp24.com/local/toronto/2026/10/23/5-key-moments-from-the-cp24-mayoral-debate/",
       "kind": "news",
-      "summary": "A quick guide to where Toronto's two leading mayoral candidates stand in the polls and on transit and housing, days before Monday's vote."
+      "summary": "A short, balanced look at where Chow and Bradford differ on housing, taxes and Toronto Water before Monday's vote."
+    },
+    {
+      "title": "The Daily — Consumer Price Index, September 2026",
+      "outlet": "Statistics Canada",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+      "kind": "news",
+      "summary": "The official inflation numbers behind next week's rate decision, including gasoline and Ontario tuition."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Al Jazeera",
-      "title": "Carney, Erdogan launch 'strong and resilient' Canada-Turkiye partnership",
-      "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership",
-      "date": "2026-10-22",
-      "singleSource": false
+      "outlet": "Reuters (via KFGO)",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March",
+      "url": "https://kfgo.com/2026/10/23/bank-of-canada-to-raise-rates-to-2-50-on-october-28-and-once-again-by-end-march/",
+      "date": "2026-10-23",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "AP (via ABC News)",
-      "title": "Mark Carney lands in Turkey to forge a new partnership as Canada looks beyond the US",
-      "url": "https://abcnews.com/Business/wireStory/mark-carney-lands-turkey-forge-new-partnership-canada-137470793",
-      "date": "2026-10-22",
+      "outlet": "Statistics Canada",
+      "title": "The Daily — Consumer Price Index, September 2026",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+      "date": "2026-10-19",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Global News",
-      "title": "Chow and Bradford neck-and-neck with days left in Toronto mayoral election campaign",
-      "url": "https://globalnews.ca/news/12110038/chow-and-bradford-neck-and-neck-days-left-toronto-mayoral-election-campaign/",
-      "date": "2026-10-20",
-      "singleSource": false
+      "outlet": "CTV News (via BNN Bloomberg)",
+      "title": "Tariffs to drop on some Canadian goods, says U.S. senator",
+      "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/23/tariffs-to-drop-on-some-canadian-goods-says-us-senator/",
+      "date": "2026-10-23",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "The Canadian Press (via Advisor.ca)",
-      "title": "Liberals to table 2026 federal budget on Nov. 5",
-      "url": "https://www.advisor.ca/economy/liberals-to-table-2026-federal-budget-on-nov-5/",
-      "date": "2026-10-20",
+      "outlet": "Reuters (via ThePrint)",
+      "title": "Carney dismisses US accusations of Canadian election interference",
+      "url": "https://theprint.in/world/carney-dismisses-us-accusations-of-canadian-election-interference/3080095/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Buffalo Toronto Public Media",
+      "title": "Joly extends deadline for Stelco owner to halt layoffs",
+      "url": "https://www.btpm.org/ontario-news/2026-10-23/joly-extends-deadline-for-stelco-owner-to-halt-layoffs",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "5 key moments from the CP24 mayoral debate",
+      "url": "https://www.cp24.com/local/toronto/2026/10/23/5-key-moments-from-the-cp24-mayoral-debate/",
+      "date": "2026-10-22",
+      "singleSource": true
+    },
+    {
+      "id": 7,
+      "outlet": "Global News",
+      "title": "New poll shows deadlock between Chow and Bradford days before Toronto election",
+      "url": "https://globalnews.ca/news/12110991/poll-chow-bradford-toronto-election/",
+      "date": "2026-10-21",
       "singleSource": false
     }
   ]

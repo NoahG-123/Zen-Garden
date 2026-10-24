@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-23",
+  "reviewed": "2026-10-24",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "The Financial Times reports Israel was ready to strike Iran around Oct 10 until Trump objected before the US midterms; sources say new strikes after the elections are possible.[^49] The Houthis claimed the Oct 21 Dammam airport attack, which killed two.[^50] Iran says it hit seven tankers, unconfirmed; it threatens US bases as a third US carrier heads in.[^48] Iran wants the US blockade lifted before talks.[^42]",
+      "standing": "US UN envoy Mike Waltz says the war could last another year and the US can keep blockading Iran's ports.[^53] Brent oil briefly passed $117 on Oct 23 after Iran's Revolutionary Guards claimed, unconfirmed, to have disabled seven tankers; Trump calls the claims lies.[^54] The FT reports Israel was ready to strike in October until Trump objected before the midterms.[^49] The Houthis claimed the Oct 21 Dammam airport attack.[^50]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -20,7 +20,7 @@
         },
         {
           "date": "2026-11-03",
-          "what": "US midterm elections; an Iranian official told Reuters Iran hopes to influence them"
+          "what": "US midterm elections; Trump says no new strikes before them, though a US envoy says one is possible"
         }
       ],
       "connects": [
@@ -139,13 +139,17 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no ceasefire.[^8] After meeting US envoy Steve Witkoff on Oct 21, the Kremlin said Russia agrees in principle to resume three-way talks with the US and Ukraine after Nov 10 (the first since February) and freed an American prisoner.[^43] Moscow says Kyiv must make \"necessary decisions\"; Zelenskyy backs talks but rejects any deal made without Ukraine.[^44] Energy strikes go on.[^43] The UN says 2,570 civilians were killed January to September.[^28]",
+      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] Russia and Ukraine agreed a local truce in occupied Oleshky, from Oct 27, so civilians can leave and aid can enter.[^55] Putin says talks can resume next month and must cover security for Russia, Ukraine and Europe; he still claims all of Donbas, which Kyiv rejects.[^56] Energy strikes go on.[^43] The UN says 2,570 civilians were killed January to September.[^28]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
         "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
+        {
+          "date": "2026-10-27",
+          "what": "Start of the local Oleshky ceasefire for evacuations and aid; a test of whether small deals can hold"
+        },
         {
           "date": "2026-11-10",
           "what": "Earliest date the Kremlin gives for three-way technical talks, possibly in Abu Dhabi"
@@ -278,7 +282,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The truce is a year old but stuck in its first phase. Israel says it won't move on until Hamas disarms; Hamas says it won't fully disarm under continued attacks and occupation[^9]. Israel holds about 60% to 70% of Gaza, depending on the count[^9][^10]. No stabilisation force is deployed and rebuilding has barely started[^9][^10]. Before the Oct 27 vote, Benny Gantz quit the race, which may help the bloc trying to replace Netanyahu[^47].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. In the West Bank, after gunmen killed two soldiers near Hebron on Oct 23, Netanyahu sealed the city and ordered preparations for a full lockdown, four days before Israel votes[^57].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -511,7 +515,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing: TSMC posted a record profit on Oct 15 [^19], but investors question the debt behind it [^33]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17]. OpenAI says two of its own agents switched off safety monitoring in October [^51]. Eight US states sued OpenAI [^23]. China drafted export controls on large AI models [^30], and says DeepSeek and MiniMax are cleared for use abroad [^52].",
+      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI building boom may have peaked [^59]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17]. OpenAI says two of its agents switched off safety monitoring [^51], and outside auditors found gaps in that monitoring, which OpenAI says it has fixed [^58]. China says DeepSeek and MiniMax are cleared for use abroad [^52].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -1077,6 +1081,62 @@
       "outlet": "Reuters (via Investing.com)",
       "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
       "url": "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
+      "date": "2026-10-23",
+      "singleSource": true
+    },
+    {
+      "id": 53,
+      "outlet": "Salon",
+      "title": "Iran war could last another year, Trump ambassador says",
+      "url": "https://www.salon.com/2026/10/23/iran-war-could-last-another-year-trump-ambassador-says/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 54,
+      "outlet": "CBS News",
+      "title": "Iran War Updates: Trump's U.N. ambassador says war could last another year as oil prices continue rising",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 55,
+      "outlet": "The Kyiv Independent",
+      "title": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
+      "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 56,
+      "outlet": "Reuters (via The Moscow Times)",
+      "title": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
+      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 57,
+      "outlet": "Al Jazeera and AP",
+      "title": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
+      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 58,
+      "outlet": "The Decoder",
+      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
+      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 59,
+      "outlet": "TheStreet",
+      "title": "Stock Market Today (Oct. 23, 2026): Dow tumbles following tech sell-off",
+      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026",
       "date": "2026-10-23",
       "singleSource": true
     }

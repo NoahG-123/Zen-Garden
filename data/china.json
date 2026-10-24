@@ -1,44 +1,30 @@
 {
-  "date": "2026-10-23",
-  "summary": "DeepSeek and MiniMax get approval to offer their AI abroad and DeepSeek works with Huawei on chips, while young Chinese travellers embrace cheap 'disposable outfits'.",
+  "date": "2026-10-24",
+  "summary": "China approves its first brainstem implant to help some deaf children hear, and tourists at 'China's Hollywood' pay to star in their own two-minute dramas.",
   "body": [
-    "China's AI developers DeepSeek and MiniMax have received state approval to offer their AI models for use around the world, according to a social media account linked to state broadcaster CCTV, as reported by Reuters [^1]. Neither company had commented [^1]. The news follows China's October 16 proposal for export controls on 23 kinds of AI technology; the commerce ministry says most AI will remain exportable and that licensing for open-source technology will be simplified [^1]. Separately, The Information reports that Huawei engineers are working in DeepSeek's offices to help design future Huawei AI chips around DeepSeek's models, as reported by Investing.com [^2]. DeepSeek plans to start training on Huawei's Ascend 950DT chips as early as the end of 2026, but the research group Epoch AI estimates Nvidia's top chip has about seven times the raw computing power of the Ascend 950, and DeepSeek still wants access to Nvidia chips [^2]. My read: China is trying to make its AI both more independent of U.S. chips and more widely used abroad, under state control of what leaves the country.",
-    "In daily life, Sixth Tone reports that young Chinese travellers have taken up cipaoyi, or \"disposable outfits\": cheap clothes, often under 50 yuan (about US$7) per item, bought for a trip or photo shoot, worn once and then thrown away or resold [^3]. The trend took off during this month's National Day holiday, and posts about it on Douyin, China's version of TikTok, have drawn more than 60 million views [^3]. One 20-year-old student told Sixth Tone she resells used outfits online to cover costs [^3]. Dermatologists warn that cheap fabrics can irritate skin, and a Shanghai recycler said the textiles it collected over the holiday nearly doubled from last year, many of them synthetic blends that are hard to recycle [^3]. A China circular-economy association expects discarded clothing to reach 50 million tonnes a year by 2030 [^3]."
+    "China's medical products regulator approved the country's first auditory brainstem implant on Oct. 19, Sixth Tone reports [^1]. The device, the Nurotron WH-01A, is for deaf patients who cannot use an ordinary cochlear implant because their inner ear is badly malformed or the hearing nerve is missing. Instead of working through the ear, it stimulates a hearing centre in the brainstem directly [^1]. It was developed by surgeon Wu Hao's team at Shanghai Ninth People's Hospital with Zhejiang Nurotron Biotechnology, and trial patients included children aged 2 to 6 [^1][^2]. The developers report an effectiveness rate of almost 97% after a year of use; that figure is their own and has not been independently checked [^1]. A specialist blog notes the sound processing was designed for Mandarin's four tones [^2]. Brain-computer interfaces are one of six \"future industries\" in China's 2026-2030 five-year plan [^1].",
+    "In daily life, Hengdian World Studios in Zhejiang, China's largest film and TV base, now lets tourists star in a short drama of their own [^3]. Packages cost up to 388 yuan (about US$60) and include costumes, makeup and about an hour of filming; the finished two-minute drama arrives two days later [^3]. Nearly 3,000 people have tried it since July, choosing from scripts such as palace intrigue, martial-arts fantasy and \"CEO romance\" [^3]. Part of the reason is that real productions are fewer: cheaper AI-made dramas and platform cuts have reduced film shoots, Sixth Tone reports [^3]. My read: as AI changes how stories are made, places built for filming are turning into places where ordinary people get to perform."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "title": "At China's Biggest Studio Complex, Tourists Pay to Play the Lead",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019154",
+      "url": "https://www.sixthtone.com/news/1019127/at-china%E2%80%99s-biggest-studio-complex%2C-tourists-pay-to-play-the-lead",
       "kind": "news",
-      "summary": "A lively look at the 'disposable outfit' trend: why young travellers buy clothes to wear once, and the costs to skin, budgets and the environment."
+      "summary": "A lively visit to Hengdian, where a farmer from Sichuan and a tourist from Peru pay to act in their own short dramas, and why the studios need them."
+    },
+    {
+      "title": "China Develops 1-Gram, Wireless Microscope for Lab Animal Use",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1019158/china-develops-1-gram%2C-wireless-microscope-for-lab-animal-use",
+      "kind": "news",
+      "summary": "Tsinghua scientists describe a tiny wireless microscope, published in Nature, that records thousands of brain cells in a freely moving mouse."
     }
   ],
   "sources": [
-    {
-      "id": 1,
-      "outlet": "Reuters (via Investing.com)",
-      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
-      "date": "2026-10-23",
-      "singleSource": true
-    },
-    {
-      "id": 2,
-      "outlet": "Investing.com (citing The Information)",
-      "title": "DeepSeek teams up with Huawei to challenge Nvidia",
-      "url": "https://sg.finance.yahoo.com/news/deepseek-teams-huawei-challenge-nvidia-183703468.html",
-      "date": "2026-10-19",
-      "singleSource": true
-    },
-    {
-      "id": 3,
-      "outlet": "Sixth Tone",
-      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
-      "url": "https://www.sixthtone.com/news/1019154",
-      "date": "2026-10-22",
-      "singleSource": true
-    }
+    {"id": 1, "outlet": "Sixth Tone", "title": "China Approves Nation's First Brainstem Implant for Deafness", "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness", "date": "2026-10-22", "singleSource": true},
+    {"id": 2, "outlet": "The World of Implantable Devices", "title": "Nurotron auditory brainstem implant receives Chinese market approval", "url": "https://www.implantable-device.com/2026/10/23/nurotron-auditory-brainstem-implant-receives-chinese-market-approval/", "date": "2026-10-23", "singleSource": true},
+    {"id": 3, "outlet": "Sixth Tone", "title": "At China's Biggest Studio Complex, Tourists Pay to Play the Lead", "url": "https://www.sixthtone.com/news/1019127/at-china%E2%80%99s-biggest-studio-complex%2C-tourists-pay-to-play-the-lead", "date": "2026-10-21", "singleSource": true}
   ]
 }
