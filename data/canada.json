@@ -1,83 +1,67 @@
 {
-  "date": "2026-10-24",
-  "summary": "Economists expect the Bank of Canada to raise rates on Wednesday, Ottawa and Washington trade jabs over tariffs and 'interference', and Toronto votes Monday.",
+  "date": "2026-10-25",
+  "summary": "Carney signs a new partnership with Turkiye as Canada looks beyond the US, Toronto votes Monday in a tight race, and a rate decision comes Wednesday.",
   "body": [
-    "Most economists in a Reuters poll expect the Bank of Canada to raise its key interest rate on Wednesday, Oct. 28, from 2.25% to 2.50%, its first move in a year [^1]. A large minority, 15 of 34, expect no change because the economy is weak [^1]. The worry is prices: inflation was 3.1% in September, just above the Bank's 1% to 3% target range, driven by gasoline, which was up 27.8% from a year earlier [^2]. A hike would make borrowing, such as mortgages and car loans, more expensive. For students, Statistics Canada also reports that Ontario tuition fees rose 2.1% this year, the biggest jump since 2018, after the province ended its tuition freeze [^2].",
-    "With Canada, the White House will drop tariffs on some Canadian goods, including plywood, some paper products and some machinery, and add them on certain valves and carpets, from the end of October; analysts say the change mostly helps U.S. Senator Susan Collins of Maine [^3]. Trump says a deal is close and that the U.S. has \"all the cards\" [^3]. Separately, the U.S. embassy accused Canadian ministers and premiers of trying to influence U.S. politics. Prime Minister Mark Carney said \"there is no merit to these claims\" [^4]. In Hamilton, Industry Minister Mélanie Joly gave Stelco's U.S. owner, Cleveland-Cliffs, 15 days to keep its promise to protect jobs or face legal action; the company says the layoffs are temporary and caused by tariffs [^5].",
-    "Toronto and other Ontario cities vote on Monday, Oct. 26. In the last mayoral debate, Olivia Chow and Brad Bradford clashed over housing, a property tax freeze and a plan to turn Toronto Water into an independent utility [^6]. Polls released this week showed a close race, with results depending on the pollster [^7]."
+    "Prime Minister Mark Carney finished a three-day visit to Turkiye on Saturday, the first bilateral visit there by a Canadian prime minister [^1]. He and President Recep Tayyip Erdogan agreed a new strategic partnership on defence and energy, with free-trade talks expected in the coming weeks, plus an air agreement that could nearly double direct flights [^1]. The trip is part of Carney's push to sell to more countries and depend less on the United States [^1]. Asked about doing business with governments that do not share Canada's values, he said \"engagement is not approval\"; Turkiye faces criticism over a crackdown on LGBTQ+ rights, and Carney said Canada raised human rights in its talks [^1].",
+    "Toronto and other Ontario cities vote on Monday, Oct. 26. Olivia Chow, the incumbent mayor, and former councillor Brad Bradford made final pitches across the city on Saturday in a race CTV describes as tighter than ever [^2]. Polls released last week differed depending on the pollster [^3].",
+    "On Wednesday, Oct. 28, the Bank of Canada announces its next interest rate decision. In a Reuters poll, 19 of 34 economists expect a rise from 2.25% to 2.50%, its first move in a year, while the rest expect no change [^4]. Inflation was 3.1% in September, just above the Bank's 1% to 3% target range, and oil prices have climbed further since [^5]. A hike would make loans and mortgages a little more expensive. It was otherwise a quiet weekend in federal politics."
   ],
-  "differences": "On rates, most economists polled expect a hike, but 15 of 34 expect none [^1]. The U.S. embassy says Canadian leaders are meddling in U.S. politics; Carney says the claims have no merit [^4]. Ottawa says Cleveland-Cliffs broke its job promise; the company says it will fight in court [^5].",
+  "differences": "Most economists polled expect a rate hike, but 15 of 34 expect none, citing a weak economy [^4].",
   "reads": [
     {
-      "title": "5 key moments from the CP24 mayoral debate",
-      "outlet": "CP24",
-      "url": "https://www.cp24.com/local/toronto/2026/10/23/5-key-moments-from-the-cp24-mayoral-debate/",
+      "title": "PM Carney tours Kariye Mosque in Istanbul before departing Turkiye",
+      "outlet": "CP24 (The Canadian Press)",
+      "url": "https://www.cp24.com/news/canada/2026/10/24/pm-carney-tours-kariye-mosque-in-istanbul-before-departing-turkiye/",
       "kind": "news",
-      "summary": "A short, balanced look at where Chow and Bradford differ on housing, taxes and Toronto Water before Monday's vote."
+      "summary": "What Canada and Turkiye agreed this week on defence, energy, trade and flights, and how Carney answered questions about human rights."
     },
     {
-      "title": "The Daily — Consumer Price Index, September 2026",
-      "outlet": "Statistics Canada",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+      "title": "Bradford and Chow make final pitches in Toronto election",
+      "outlet": "CTV News",
+      "url": "https://www.ctvnews.ca/toronto/article/neck-and-neck-bradford-says-city-ready-for-change-as-chow-urges-supporters-to-vote/",
       "kind": "news",
-      "summary": "The official inflation numbers behind next week's rate decision, including gasoline and Ontario tuition."
+      "summary": "A short look at the last weekend of Toronto's mayoral campaign before Monday's vote."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Reuters (via KFGO)",
-      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March",
-      "url": "https://kfgo.com/2026/10/23/bank-of-canada-to-raise-rates-to-2-50-on-october-28-and-once-again-by-end-march/",
-      "date": "2026-10-23",
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "PM Carney tours Kariye Mosque in Istanbul before departing Turkiye",
+      "url": "https://www.cp24.com/news/canada/2026/10/24/pm-carney-tours-kariye-mosque-in-istanbul-before-departing-turkiye/",
+      "date": "2026-10-24",
       "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "Statistics Canada",
-      "title": "The Daily — Consumer Price Index, September 2026",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
-      "date": "2026-10-19",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "CTV News (via BNN Bloomberg)",
-      "title": "Tariffs to drop on some Canadian goods, says U.S. senator",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/10/23/tariffs-to-drop-on-some-canadian-goods-says-us-senator/",
-      "date": "2026-10-23",
+      "outlet": "CTV News",
+      "title": "Bradford and Chow make final pitches in Toronto election",
+      "url": "https://www.ctvnews.ca/toronto/article/neck-and-neck-bradford-says-city-ready-for-change-as-chow-urges-supporters-to-vote/",
+      "date": "2026-10-24",
       "singleSource": true
     },
     {
+      "id": 3,
+      "outlet": "Global News",
+      "title": "New poll shows deadlock between Chow and Bradford days before Toronto election",
+      "url": "https://globalnews.ca/news/12110991/poll-chow-bradford-toronto-election/",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
       "id": 4,
-      "outlet": "Reuters (via ThePrint)",
-      "title": "Carney dismisses US accusations of Canadian election interference",
-      "url": "https://theprint.in/world/carney-dismisses-us-accusations-of-canadian-election-interference/3080095/",
+      "outlet": "Reuters (via KFGO)",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March",
+      "url": "https://kfgo.com/2026/10/23/bank-of-canada-to-raise-rates-to-2-50-on-october-28-and-once-again-by-end-march/",
       "date": "2026-10-23",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Buffalo Toronto Public Media",
-      "title": "Joly extends deadline for Stelco owner to halt layoffs",
-      "url": "https://www.btpm.org/ontario-news/2026-10-23/joly-extends-deadline-for-stelco-owner-to-halt-layoffs",
+      "outlet": "IndexBox",
+      "title": "Bank of Canada Expected to Raise Rates to 2.50% on October 28, Reuters Poll Shows",
+      "url": "https://www.indexbox.io/blog/bank-of-canada-expected-to-raise-rates-to-250-on-october-28-reuters-poll-shows/",
       "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "5 key moments from the CP24 mayoral debate",
-      "url": "https://www.cp24.com/local/toronto/2026/10/23/5-key-moments-from-the-cp24-mayoral-debate/",
-      "date": "2026-10-22",
-      "singleSource": true
-    },
-    {
-      "id": 7,
-      "outlet": "Global News",
-      "title": "New poll shows deadlock between Chow and Bradford days before Toronto election",
-      "url": "https://globalnews.ca/news/12110991/poll-chow-bradford-toronto-election/",
-      "date": "2026-10-21",
       "singleSource": false
     }
   ]

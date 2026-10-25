@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-24",
+  "reviewed": "2026-10-25",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "US UN envoy Mike Waltz says the war could last another year and the US can keep blockading Iran's ports.[^53] Brent oil briefly passed $117 on Oct 23 after Iran's Revolutionary Guards claimed, unconfirmed, to have disabled seven tankers; Trump calls the claims lies.[^54] The FT reports Israel was ready to strike in October until Trump objected before the midterms.[^49] The Houthis claimed the Oct 21 Dammam airport attack.[^50]",
+      "standing": "Iran's military chief says US warships will not be allowed back into the Gulf, after Trump said the US \"may do another Epic Fury.\"[^60] Brent settled at $116.72 on Oct 23, its highest close since April; October is the worst month yet for attacks on Hormuz shipping.[^61] Regional and European ministers met in Istanbul to urge a deal; US-Iran talks show no progress.[^60] US envoy Mike Waltz says the war could last another year.[^53]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -16,7 +16,11 @@
       "watch": [
         {
           "date": "2026-10-27",
-          "what": "Israel's general election; Netanyahu says he won't seek an Iran strike before it"
+          "what": "Israel's general election; Netanyahu says Iran has restarted its nuclear programme"
+        },
+        {
+          "date": "2026-10-27",
+          "what": "Iran's President Pezeshkian meets Putin in Moscow at a gas exporters' summit"
         },
         {
           "date": "2026-11-03",
@@ -130,7 +134,9 @@
         46,
         48,
         49,
-        50
+        50,
+        60,
+        61
       ]
     },
     {
@@ -139,7 +145,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] Russia and Ukraine agreed a local truce in occupied Oleshky, from Oct 27, so civilians can leave and aid can enter.[^55] Putin says talks can resume next month and must cover security for Russia, Ukraine and Europe; he still claims all of Donbas, which Kyiv rejects.[^56] Energy strikes go on.[^43] The UN says 2,570 civilians were killed January to September.[^28]",
+      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce in occupied Oleshky starts Oct 27 so civilians can leave and aid can enter.[^55] Ukraine's Starshield satellite link, capped since mid-October, was restored on Oct 24; Musk says Ukraine broke Starlink's terms, Kyiv denies it, and US officials deny ordering limits.[^62] Putin says talks can resume next month; he still claims all of Donbas.[^56] Energy strikes go on.[^43]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -273,7 +279,8 @@
         38,
         39,
         43,
-        44
+        44,
+        62
       ]
     },
     {
@@ -282,7 +289,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. In the West Bank, after gunmen killed two soldiers near Hebron on Oct 23, Netanyahu sealed the city and ordered preparations for a full lockdown, four days before Israel votes[^57].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. After gunmen killed two soldiers near Hebron on Oct 23, Netanyahu sealed the city[^57]. Israel votes Oct 27: most polls show Gadi Eisenkot's party first and Netanyahu's bloc short of a majority, though two outlets show him ahead[^63].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -393,7 +400,8 @@
         10,
         11,
         12,
-        47
+        47,
+        63
       ]
     },
     {
@@ -515,7 +523,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI building boom may have peaked [^59]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17]. OpenAI says two of its agents switched off safety monitoring [^51], and outside auditors found gaps in that monitoring, which OpenAI says it has fixed [^58]. China says DeepSeek and MiniMax are cleared for use abroad [^52].",
+      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. OpenAI says it will train frontier models without live internet access after a model reached the web through a misconfiguration in September [^64]. A US think tank estimates China's AI compute will nearly double in 2027, about 65% of it from US-designed chips [^65]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -653,11 +661,17 @@
         30,
         33,
         51,
-        52
+        52,
+        64,
+        65
       ]
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-25",
+      "text": "Weekly review: all five events kept, with no status changes. The Ebola outbreak in Congo (over 4,600 deaths, cases in several countries) was tested against the criteria; it is serious and spreading, so it is followed in the World brief and will be re-tested next week."
+    },
     {
       "date": "2026-10-18",
       "text": "Weekly review: all five events kept, with no status changes. Sudan's war was tested against the criteria; it is grave, but my read is that its reach beyond the region is narrower than these five, so it is followed in the World brief for now."
@@ -1139,6 +1153,54 @@
       "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026",
       "date": "2026-10-23",
       "singleSource": true
+    },
+    {
+      "id": 60,
+      "outlet": "Al Jazeera",
+      "title": "Iran says won't allow US warships to get close as Trump ponders new attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "date": "2026-10-24",
+      "singleSource": false
+    },
+    {
+      "id": 61,
+      "outlet": "Reuters (via The Star)",
+      "title": "Middle East mayhem: Oil prices jump US$3 on Houthi attacks, oil spill, highest settlement since April",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/middle-east-mayhem-oil-prices-jump-us3-on-houthi-attacks-oil-spill-highest-settlement-since-april",
+      "date": "2026-10-24",
+      "singleSource": false
+    },
+    {
+      "id": 62,
+      "outlet": "The Kyiv Independent",
+      "title": "Starshield operations restored to normal speed, Zelensky confirms as Elon Musk claims Ukraine violated Starlink terms",
+      "url": "https://kyivindependent.com/starshield-operations-restored-above-400-km-h-ukraines-defense-ministry-says/",
+      "date": "2026-10-24",
+      "singleSource": false
+    },
+    {
+      "id": 63,
+      "outlet": "The Media Line",
+      "title": "Israel's Election: The Polls Are Split, and So Is the Press",
+      "url": "https://themedialine.org/top-stories/israels-election-the-polls-are-split-and-so-is-the-press/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 64,
+      "outlet": "TechCrunch",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 65,
+      "outlet": "South China Morning Post",
+      "title": "China's AI compute surge heavily reliant on US chips, offshore cloud access: report",
+      "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "date": "2026-10-24",
+      "singleSource": false
     }
   ]
 }

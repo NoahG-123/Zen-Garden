@@ -1,30 +1,51 @@
 {
-  "date": "2026-10-24",
-  "summary": "China approves its first brainstem implant to help some deaf children hear, and tourists at 'China's Hollywood' pay to star in their own two-minute dramas.",
+  "date": "2026-10-25",
+  "summary": "A US think tank says China's AI computing power will nearly double next year but still leans on US chips, and young travellers are buying clothes to wear once.",
   "body": [
-    "China's medical products regulator approved the country's first auditory brainstem implant on Oct. 19, Sixth Tone reports [^1]. The device, the Nurotron WH-01A, is for deaf patients who cannot use an ordinary cochlear implant because their inner ear is badly malformed or the hearing nerve is missing. Instead of working through the ear, it stimulates a hearing centre in the brainstem directly [^1]. It was developed by surgeon Wu Hao's team at Shanghai Ninth People's Hospital with Zhejiang Nurotron Biotechnology, and trial patients included children aged 2 to 6 [^1][^2]. The developers report an effectiveness rate of almost 97% after a year of use; that figure is their own and has not been independently checked [^1]. A specialist blog notes the sound processing was designed for Mandarin's four tones [^2]. Brain-computer interfaces are one of six \"future industries\" in China's 2026-2030 five-year plan [^1].",
-    "In daily life, Hengdian World Studios in Zhejiang, China's largest film and TV base, now lets tourists star in a short drama of their own [^3]. Packages cost up to 388 yuan (about US$60) and include costumes, makeup and about an hour of filming; the finished two-minute drama arrives two days later [^3]. Nearly 3,000 people have tried it since July, choosing from scripts such as palace intrigue, martial-arts fantasy and \"CEO romance\" [^3]. Part of the reason is that real productions are fewer: cheaper AI-made dramas and platform cuts have reduced film shoots, Sixth Tone reports [^3]. My read: as AI changes how stories are made, places built for filming are turning into places where ordinary people get to perform."
+    "China's available computing power for AI is expected to roughly double in 2027, from about 4.6 million to 8.8 million \"H100-equivalents\", a unit based on a leading Nvidia chip, according to a report by the Institute for Progress, a Washington think tank, reported by the South China Morning Post [^1][^2]. The report estimates about 65% of that capacity will still come from US-designed chips, counting legal imports, smuggled processors and computers rented remotely in other countries, mostly in Southeast Asia [^2]. It says the US has about 16 times more AI training compute, yet China's best models trail US ones by only about 6.5 months [^1][^2]. The authors argue for tighter US controls; that is a policy view, and Chinese firms are working to build their own alternatives [^1][^2]. My read: China's AI progress still depends on hardware it does not fully control, which is why chips sit at the centre of US-China tension.",
+    "In daily life, young Chinese travellers are buying cipaoyi, or \"disposable outfits\": cheap clothes, often under 50 yuan (about US$7), bought for one trip or photo shoot and then thrown away or resold, Sixth Tone reports [^3]. Posts about the trend on Douyin, China's version of TikTok, have drawn more than 60 million views, and it took off during the National Day holiday [^3]. A 20-year-old student says it lets her travel on a budget and resell the clothes afterwards [^3]. Dermatologists warn that low-quality dyes and stiff fabrics can irritate skin, and a recycling firm says textile collections nearly doubled over the holiday, some with tags still attached [^3]. A circular-economy association projects China will discard 50 million tonnes of clothing a year by 2030 [^3]."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "At China's Biggest Studio Complex, Tourists Pay to Play the Lead",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019127/at-china%E2%80%99s-biggest-studio-complex%2C-tourists-pay-to-play-the-lead",
+      "url": "https://www.sixthtone.com/news/1019154",
       "kind": "news",
-      "summary": "A lively visit to Hengdian, where a farmer from Sichuan and a tourist from Peru pay to act in their own short dramas, and why the studios need them."
+      "summary": "Travellers, factory owners and doctors on the trend of one-wear outfits, and what it costs in money, health and waste."
     },
     {
-      "title": "China Develops 1-Gram, Wireless Microscope for Lab Animal Use",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019158/china-develops-1-gram%2C-wireless-microscope-for-lab-animal-use",
+      "title": "China's AI compute surge heavily reliant on US chips, offshore cloud access: report",
+      "outlet": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
       "kind": "news",
-      "summary": "Tsinghua scientists describe a tiny wireless microscope, published in Nature, that records thousands of brain cells in a freely moving mouse."
+      "summary": "A short summary of a US think tank's estimate of how much AI computing power China has and where it comes from."
     }
   ],
   "sources": [
-    {"id": 1, "outlet": "Sixth Tone", "title": "China Approves Nation's First Brainstem Implant for Deafness", "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness", "date": "2026-10-22", "singleSource": true},
-    {"id": 2, "outlet": "The World of Implantable Devices", "title": "Nurotron auditory brainstem implant receives Chinese market approval", "url": "https://www.implantable-device.com/2026/10/23/nurotron-auditory-brainstem-implant-receives-chinese-market-approval/", "date": "2026-10-23", "singleSource": true},
-    {"id": 3, "outlet": "Sixth Tone", "title": "At China's Biggest Studio Complex, Tourists Pay to Play the Lead", "url": "https://www.sixthtone.com/news/1019127/at-china%E2%80%99s-biggest-studio-complex%2C-tourists-pay-to-play-the-lead", "date": "2026-10-21", "singleSource": true}
+    {
+      "id": 1,
+      "outlet": "South China Morning Post",
+      "title": "China's AI compute surge heavily reliant on US chips, offshore cloud access: report",
+      "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "date": "2026-10-24",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "Institute for Progress",
+      "title": "How to Increase America's AI Lead Over China",
+      "url": "https://ifp.org/how-to-increase-americas-ai-lead-over-china/",
+      "date": "2026-10-19",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Sixth Tone",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "url": "https://www.sixthtone.com/news/1019154",
+      "date": "2026-10-23",
+      "singleSource": true
+    }
   ]
 }
