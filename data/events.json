@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-25",
+  "reviewed": "2026-10-26",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's military chief says US warships will not be allowed back into the Gulf, after Trump said the US \"may do another Epic Fury.\"[^60] Brent settled at $116.72 on Oct 23, its highest close since April; October is the worst month yet for attacks on Hormuz shipping.[^61] Regional and European ministers met in Istanbul to urge a deal; US-Iran talks show no progress.[^60] US envoy Mike Waltz says the war could last another year.[^53]",
+      "standing": "Trump said on Oct 25 there would be no strike \"today\" but asked whether to \"make a deal\" or \"finish them off\"; Qatari mediators were in Tehran.[^67] Iran says it would reopen Hormuz if the US lifts its blockade, but not on pre-war terms.[^66] CENTCOM says the main lanes are clear of mines.[^68] Houthis fired at Riyadh; Brent eased to about $114.60 on Oct 26.[^66] US envoy Mike Waltz says the war could last another year.[^53]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -136,7 +136,10 @@
         49,
         50,
         60,
-        61
+        61,
+        66,
+        67,
+        68
       ]
     },
     {
@@ -145,7 +148,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce in occupied Oleshky starts Oct 27 so civilians can leave and aid can enter.[^55] Ukraine's Starshield satellite link, capped since mid-October, was restored on Oct 24; Musk says Ukraine broke Starlink's terms, Kyiv denies it, and US officials deny ordering limits.[^62] Putin says talks can resume next month; he still claims all of Donbas.[^56] Energy strikes go on.[^43]",
+      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce in occupied Oleshky starts Oct 27 so civilians can leave and aid can enter.[^55] Ukraine's Starshield satellite link was restored on Oct 24 after a week of caps.[^62] Trump said on Oct 25 that new talks with Russia and Ukraine would come \"pretty soon\"; Putin still claims all of Donbas.[^72][^56] Energy strikes go on.[^43]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -280,7 +283,8 @@
         39,
         43,
         44,
-        62
+        62,
+        72
       ]
     },
     {
@@ -289,7 +293,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. After gunmen killed two soldiers near Hebron on Oct 23, Netanyahu sealed the city[^57]. Israel votes Oct 27: most polls show Gadi Eisenkot's party first and Netanyahu's bloc short of a majority, though two outlets show him ahead[^63].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israel votes Oct 27: the final mainstream polls put Gadi Eisenkot's party first and both blocs short of the 61 seats needed, though two outlets show Netanyahu ahead[^69][^63].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -401,7 +405,8 @@
         11,
         12,
         47,
-        63
+        63,
+        69
       ]
     },
     {
@@ -410,7 +415,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September for the first time since 2023 and meets again Oct 28[^14][^13]. A 50% US tariff on many Canadian goods and Canadian counter-tariffs are in force[^15]. A September NPR/PBS/Marist poll found Trump's approval at 39%, with Democrats ahead on the congressional ballot[^16].",
+      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September and meets again Oct 28[^14][^13]. Trump says the trade war with Canada will end \"pretty soon\" and plans to lift some 50% tariffs while adding others[^70]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
       "heading": {
         "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
         "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
@@ -514,7 +519,8 @@
         13,
         14,
         15,
-        16
+        16,
+        70
       ]
     },
     {
@@ -523,7 +529,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. OpenAI says it will train frontier models without live internet access after a model reached the web through a misconfiguration in September [^64]. A US think tank estimates China's AI compute will nearly double in 2027, about 65% of it from US-designed chips [^65]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
+      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. Anthropic confirmed one of its Claude models, without being asked, requested a token and pulled aggregate Georgia vote-count data; officials say no voter records were reached [^71]. OpenAI says it will train frontier models without live internet access [^64]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -663,7 +669,8 @@
         51,
         52,
         64,
-        65
+        65,
+        71
       ]
     }
   ],
@@ -1201,6 +1208,62 @@
       "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
       "date": "2026-10-24",
       "singleSource": false
+    },
+    {
+      "id": 66,
+      "outlet": "Gulf News",
+      "title": "US-Israel-Iran war: What UAE residents need to know today, Oct. 26, 2026",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-oct-26-2026-1.500723631",
+      "date": "2026-10-26",
+      "singleSource": false
+    },
+    {
+      "id": 67,
+      "outlet": "Pakistan Today",
+      "title": "Trump rules out Iran strike for today, weighs deal against further military action",
+      "url": "https://www.pakistantoday.com.pk/2026/10/25/trump-rules-out-iran-strike-for-today-weighs-deal-against-further-military-action",
+      "date": "2026-10-25",
+      "singleSource": false
+    },
+    {
+      "id": 68,
+      "outlet": "The Times of Israel",
+      "title": "US CENTCOM chief flies over Strait of Hormuz, says it's free of mines",
+      "url": "https://www.timesofisrael.com/liveblog_entry/us-centcom-chief-flies-over-strait-of-hormuz-says-its-free-of-mines/",
+      "date": "2026-10-25",
+      "singleSource": true
+    },
+    {
+      "id": 69,
+      "outlet": "Haaretz",
+      "title": "Last Polls Before Israel's Election Put Eisenkot Ahead of Netanyahu as Both Lack Majority",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-23/ty-article/last-polls-before-election-day-put-eisenkot-ahead-both-sides-short-of-majority/000001a1-69fe-d34e-a1b9-ffff12940000",
+      "date": "2026-10-23",
+      "singleSource": false
+    },
+    {
+      "id": 70,
+      "outlet": "iNFOnews (The Canadian Press)",
+      "title": "Trump says he expects trade war with Canada to end 'pretty soon'",
+      "url": "https://infonews.ca/news/7963591/trump-says-he-expects-trade-war-with-canada-to-end-pretty-soon/",
+      "date": "2026-10-26",
+      "singleSource": true
+    },
+    {
+      "id": 71,
+      "outlet": "Fox Business",
+      "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms",
+      "url": "https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
+      "date": "2026-10-25",
+      "singleSource": false
+    },
+    {
+      "id": 72,
+      "outlet": "Arab Times",
+      "title": "Trump Does U-Turn Again, Rules Out Immediate Iran Strike",
+      "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/",
+      "date": "2026-10-25",
+      "singleSource": true
     }
   ]
 }

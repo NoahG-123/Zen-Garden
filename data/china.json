@@ -1,51 +1,59 @@
 {
-  "date": "2026-10-25",
-  "summary": "A US think tank says China's AI computing power will nearly double next year but still leans on US chips, and young travellers are buying clothes to wear once.",
+  "date": "2026-10-26",
+  "summary": "Over 150 Chinese apps block ByteDance's AI assistant from using them on a new phone, and Kim Jong Un crosses a new bridge into China.",
   "body": [
-    "China's available computing power for AI is expected to roughly double in 2027, from about 4.6 million to 8.8 million \"H100-equivalents\", a unit based on a leading Nvidia chip, according to a report by the Institute for Progress, a Washington think tank, reported by the South China Morning Post [^1][^2]. The report estimates about 65% of that capacity will still come from US-designed chips, counting legal imports, smuggled processors and computers rented remotely in other countries, mostly in Southeast Asia [^2]. It says the US has about 16 times more AI training compute, yet China's best models trail US ones by only about 6.5 months [^1][^2]. The authors argue for tighter US controls; that is a policy view, and Chinese firms are working to build their own alternatives [^1][^2]. My read: China's AI progress still depends on hardware it does not fully control, which is why chips sit at the centre of US-China tension.",
-    "In daily life, young Chinese travellers are buying cipaoyi, or \"disposable outfits\": cheap clothes, often under 50 yuan (about US$7), bought for one trip or photo shoot and then thrown away or resold, Sixth Tone reports [^3]. Posts about the trend on Douyin, China's version of TikTok, have drawn more than 60 million views, and it took off during the National Day holiday [^3]. A 20-year-old student says it lets her travel on a budget and resell the clothes afterwards [^3]. Dermatologists warn that low-quality dyes and stiff fabrics can irritate skin, and a recycling firm says textile collections nearly doubled over the holiday, some with tags still attached [^3]. A circular-economy association projects China will discard 50 million tonnes of clothing a year by 2030 [^3]."
+    "China's big apps are pushing back against AI assistants that use other apps for you. More than 150 apps, including Tencent's WeChat and Alibaba's Alipay, have blocked ByteDance's Doubao assistant from operating them on Nubia's new \"agentic\" smartphone, the NaviX Ultra, Sixth Tone reports [^1]. The assistant works by reading the screen and tapping through apps after a spoken command, such as ordering food or booking a ride [^1]. Apps owned by Tencent and Alibaba make up nearly 60% of the blocked list, which also includes Meituan, Didi, Xiaohongshu, Pinduoduo, the three state telecom carriers, several banks and rival AI apps DeepSeek and Kimi [^1]. A Tsinghua University researcher told Cailian Press that China has no rules yet on how AI agents may operate other companies' apps, and that firms may be worried about privacy, data security and protecting their own AI products [^1]. My read: the same fight over who controls the user is coming to phones everywhere.",
+    "North Korean leader Kim Jong Un made his first trip to China in more than a year on Saturday, crossing the new 3-kilometre bridge over the Yalu River into the border city of Dandong [^2][^3]. He visited a memorial to China's role in the 1950-53 Korean War with senior Communist Party official Wang Huning, who passed on greetings from Xi Jinping, and toured a vehicle factory [^2][^3]. China finished its side of the bridge in 2014, but it only opened on Oct. 15 after years of strained ties; China's exports to North Korea reached a six-year high of $2.3 billion last year [^4]. AP notes Kim has spent recent years building ties with Russia, sending thousands of troops to help its war in Ukraine, and that Beijing is working to regain influence [^2]."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
+      "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019154",
+      "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone",
       "kind": "news",
-      "summary": "Travellers, factory owners and doctors on the trend of one-wear outfits, and what it costs in money, health and waste."
+      "summary": "Why WeChat, Alipay and others shut out an AI assistant that taps through apps for you, and what it means for AI phones."
     },
     {
-      "title": "China's AI compute surge heavily reliant on US chips, offshore cloud access: report",
-      "outlet": "South China Morning Post",
-      "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+      "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year",
+      "outlet": "CBS News (AP)",
+      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
       "kind": "news",
-      "summary": "A short summary of a US think tank's estimate of how much AI computing power China has and where it comes from."
+      "summary": "A short report on Kim Jong Un's visit to Dandong and what it says about China, North Korea and Russia."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "South China Morning Post",
-      "title": "China's AI compute surge heavily reliant on US chips, offshore cloud access: report",
-      "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-      "date": "2026-10-24",
-      "singleSource": false
+      "outlet": "Sixth Tone",
+      "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone",
+      "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone",
+      "date": "2026-10-19",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "Institute for Progress",
-      "title": "How to Increase America's AI Lead Over China",
-      "url": "https://ifp.org/how-to-increase-americas-ai-lead-over-china/",
-      "date": "2026-10-19",
+      "outlet": "CBS News (AP)",
+      "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year",
+      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
+      "date": "2026-10-25",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Sixth Tone",
-      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
-      "url": "https://www.sixthtone.com/news/1019154",
-      "date": "2026-10-23",
-      "singleSource": true
+      "outlet": "Korea JoongAng Daily",
+      "title": "Kim crosses new North Korea-China bridge, touts bilateral ties at war memorial",
+      "url": "https://www.koreajoongangdaily.com/korea/kim-crosses-new-north-koreachina-bridge-touts-bilateral-ties-at-war-memorial/12934477",
+      "date": "2026-10-25",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Al Jazeera",
+      "title": "China and North Korea open New Yalu River Bridge, state media reports",
+      "url": "https://www.aljazeera.com/amp/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports",
+      "date": "2026-10-14",
+      "singleSource": false
     }
   ]
 }
