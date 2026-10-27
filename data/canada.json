@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-26",
-  "summary": "Toronto picks a mayor today, Trump says the trade war with Canada will end \"pretty soon,\" and a rate decision and an EU summit come later this week.",
+  "date": "2026-10-27",
+  "summary": "Olivia Chow is re-elected Toronto mayor, Carney says he is open to moving beyond the Indian Act, trade talks pick up, and the Bank of Canada decides on rates Wednesday.",
   "body": [
-    "Toronto votes today, Monday, Oct. 26; polls are open from 10 a.m. to 8 p.m. [^4]. Mayor Olivia Chow and former councillor Brad Bradford ended the campaign in what polls for CP24 and CTV call a statistical tie, with Bradford about three points behind [^4]. The clearest difference is on taxes: Chow says she will keep property tax rises near inflation, while Bradford promises a one-year freeze and to remove the land transfer tax on the first $1.1 million of a home's price [^4]. Results come in tonight, after this brief was written.",
-    "On trade, Trump told a rally in Michigan on Sunday that the dispute with Canada would end \"pretty soon\" and that Canada was \"willing to give us anything,\" The Canadian Press reports; the Prime Minister's Office did not immediately reply [^1]. Canada left formal talks in August, and 50% US tariffs and Canadian counter-tariffs are in force; Trump said Friday he would lift some tariffs at month's end while adding others [^1]. Separately, the US Embassy accused Canadian ministers and premiers of trying to influence US politics, then partly walked it back; Carney says the claims have \"no merit\" [^2].",
-    "Two dates matter this week. On Wednesday, Oct. 28, the Bank of Canada announces its rate decision: 19 of 34 economists in a Reuters poll expect a rise from 2.25% to 2.50%, its first move in a year, with September inflation at 3.1% [^5]. On Oct. 29 to 30, Carney hosts EU leaders António Costa and Ursula von der Leyen in Montréal, part of his push to trade more with partners other than the US; the government says it wants more chances for young people to live, work and study in Europe [^3]."
+    "Olivia Chow won a second term as Toronto's mayor on Monday. With 1,405 of 1,431 polls reporting, she had 54.1% of the vote to 41.1% for former councillor Brad Bradford, a wider margin than late polls suggested [^1]. She promised to keep property tax rises near inflation and to build more supportive housing and shelters [^1]. Elsewhere in the GTA, Alvin Tedjo was projected to win in Mississauga, and in Toronto Mike Layton won back the University-Rosedale council seat [^2].",
+    "At the first meeting of the prime minister, premiers and First Nations leaders in about two decades, Carney said he is committed to a process that \"moves Canada beyond the Indian Act,\" the 1876 law that governs status, reserve lands and band councils, which could mean reforming or abolishing it [^3]. Manitoba Premier Wab Kinew had called for abolition. Carney said the federal government would not impose the change, and AFN National Chief Cindy Woodhouse Nepinak said First Nations must decide for themselves; there is no start date yet [^3]. Tensions remain over the law that speeds up approvals for major projects, which some First Nations leaders say could infringe their rights [^3].",
+    "On trade, Carney said talks with Washington had seen a \"slight, slight intensification\" and that any progress came because \"the U.S. is coming closer to our position\"; asked if Trump would honour a deal, he said \"I don't know that\" [^4]. On Wednesday, Oct. 28, the Bank of Canada is widely expected to raise its rate from 2.25% to 2.50%, with September inflation at 3.1%; markets price in about an 80% chance [^5]. Carney hosts EU leaders in Montréal on Thursday and Friday [^4]."
   ],
-  "differences": "The US Embassy said Canadian officials were trying to influence US politics; the ambassador later said the embassy \"hadn't reached that conclusion,\" and Carney and Premier Doug Ford deny any interference [^2]. Trump says Canada will give in; Ottawa has not responded [^1].",
+  "differences": "On the Indian Act, Carney says some participants, not all, raised abolition, and that First Nations will lead [^3]. On trade, Carney says the US is moving toward Canada, while White House adviser Kevin Hassett suggests a deal is close [^4].",
   "reads": [
     {
-      "title": "Why is the U.S. accusing Canada of election interference?",
-      "outlet": "The Philadelphia Inquirer (The New York Times)",
-      "url": "https://www.inquirer.com/politics/election/us-canada-election-interference-carney-trump-tariffs-alberta-20261025.html",
-      "kind": "analysis",
-      "summary": "Why the US accused Canada of election interference, what Canadian officials actually said, and the US meetings with Alberta separatists."
+      "title": "Carney open to conversations around 'moving beyond' the Indian Act",
+      "outlet": "APTN News",
+      "url": "https://www.aptnnews.ca/national-news/carney-open-to-conversations-around-moving-beyond-the-indian-act/",
+      "kind": "news",
+      "summary": "What the Indian Act is, what Carney and the premiers said in Ottawa, and why First Nations are divided over the government's development plans."
     },
     {
-      "title": "'Neck and neck': Bradford says city ready for change as Chow urges supporters to vote",
-      "outlet": "CP24",
-      "url": "https://www.cp24.com/local/toronto/2026/10/24/neck-and-neck-bradford-says-city-ready-for-change-as-chow-urges-supporters-to-vote/",
+      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+      "outlet": "Action News Jax (AP)",
+      "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
       "kind": "news",
-      "summary": "The final day of Toronto's mayoral race and where Chow and Bradford differ on taxes, transit and safety."
+      "summary": "Where Canada-US trade talks stand before the US midterms, and why energy explains the trade deficit Trump complains about."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "iNFOnews (The Canadian Press)",
-      "title": "Trump says he expects trade war with Canada to end 'pretty soon'",
-      "url": "https://infonews.ca/news/7963591/trump-says-he-expects-trade-war-with-canada-to-end-pretty-soon/",
+      "outlet": "The Local",
+      "title": "Olivia Chow Is Projected to be Re-elected as Toronto Mayor",
+      "url": "https://thelocal.to/olivia-chow-re-elected-toronto-mayor/",
       "date": "2026-10-26",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Philadelphia Inquirer (The New York Times)",
-      "title": "Why is the U.S. accusing Canada of election interference?",
-      "url": "https://www.inquirer.com/politics/election/us-canada-election-interference-carney-trump-tariffs-alberta-20261025.html",
-      "date": "2026-10-25",
+      "outlet": "CP24",
+      "title": "Election results: Olivia Chow re-elected as Toronto mayor",
+      "url": "https://www.cp24.com/local/toronto/2026/10/27/olivia-chow-re-elected-as-torontos-mayor-live-updates-here/",
+      "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Prime Minister of Canada",
-      "title": "Prime Minister Carney to host Canada-European Union Summit in Montréal",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/25/prime-minister-carney-host-canada-european-union-summit-montreal",
-      "date": "2026-10-25",
-      "singleSource": true
+      "outlet": "APTN News",
+      "title": "Carney open to conversations around 'moving beyond' the Indian Act",
+      "url": "https://www.aptnnews.ca/national-news/carney-open-to-conversations-around-moving-beyond-the-indian-act/",
+      "date": "2026-10-26",
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "CP24",
-      "title": "'Neck and neck': Bradford says city ready for change as Chow urges supporters to vote",
-      "url": "https://www.cp24.com/local/toronto/2026/10/24/neck-and-neck-bradford-says-city-ready-for-change-as-chow-urges-supporters-to-vote/",
-      "date": "2026-10-24",
+      "outlet": "Action News Jax (AP)",
+      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+      "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
+      "date": "2026-10-26",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Reuters (via KFGO)",
-      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March",
-      "url": "https://kfgo.com/2026/10/23/bank-of-canada-to-raise-rates-to-2-50-on-october-28-and-once-again-by-end-march/",
-      "date": "2026-10-23",
+      "outlet": "FXStreet",
+      "title": "BoC seen hiking, markets look for hawkish signals",
+      "url": "https://www.fxstreet.com/analysis/boc-seen-hiking-markets-look-for-hawkish-signals-202610261349",
+      "date": "2026-10-26",
       "singleSource": false
     }
   ]

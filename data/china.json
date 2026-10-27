@@ -1,59 +1,60 @@
 {
-  "date": "2026-10-26",
-  "summary": "Over 150 Chinese apps block ByteDance's AI assistant from using them on a new phone, and Kim Jong Un crosses a new bridge into China.",
+  "date": "2026-10-27",
+  "summary": "China lets Xpeng run paid robotaxi trials in Guangzhou and VW test self-driving in Hefei, approves its first brainstem hearing implant, and a study rates Chinese video AI.",
   "body": [
-    "China's big apps are pushing back against AI assistants that use other apps for you. More than 150 apps, including Tencent's WeChat and Alibaba's Alipay, have blocked ByteDance's Doubao assistant from operating them on Nubia's new \"agentic\" smartphone, the NaviX Ultra, Sixth Tone reports [^1]. The assistant works by reading the screen and tapping through apps after a spoken command, such as ordering food or booking a ride [^1]. Apps owned by Tencent and Alibaba make up nearly 60% of the blocked list, which also includes Meituan, Didi, Xiaohongshu, Pinduoduo, the three state telecom carriers, several banks and rival AI apps DeepSeek and Kimi [^1]. A Tsinghua University researcher told Cailian Press that China has no rules yet on how AI agents may operate other companies' apps, and that firms may be worried about privacy, data security and protecting their own AI products [^1]. My read: the same fight over who controls the user is coming to phones everywhere.",
-    "North Korean leader Kim Jong Un made his first trip to China in more than a year on Saturday, crossing the new 3-kilometre bridge over the Yalu River into the border city of Dandong [^2][^3]. He visited a memorial to China's role in the 1950-53 Korean War with senior Communist Party official Wang Huning, who passed on greetings from Xi Jinping, and toured a vehicle factory [^2][^3]. China finished its side of the bridge in 2014, but it only opened on Oct. 15 after years of strained ties; China's exports to North Korea reached a six-year high of $2.3 billion last year [^4]. AP notes Kim has spent recent years building ties with Russia, sending thousands of troops to help its war in Ukraine, and that Beijing is working to regain influence [^2]."
+    "China is moving again on self-driving cars after a pause. Xpeng said on Monday it had received a licence to run its Yoyo robotaxis in Guangzhou with paying passengers, a trial stage operators must pass before full commercial service [^1]. Volkswagen's China business got a licence to test \"Level 3\" driving in Hefei, where the car drives itself in some conditions but a driver must be ready to take over [^2]. China suspended new robotaxi licences in April after an incident involving a Baidu robotaxi in Wuhan and resumed approvals in July [^2]. Xpeng aims to carry passengers without safety drivers in 2027 and is talking to European ride-hailing platforms [^1][^2].",
+    "In medicine, China's drug and device regulator approved the country's first auditory brainstem implant on Oct. 19 [^3]. It is meant for deaf children aged 2 to 6 who cannot use ordinary cochlear implants because their inner ear or hearing nerve did not form normally; it stimulates the brainstem directly [^3]. The Shanghai team that built it with a Hangzhou company told domestic media it was almost 97% effective after a year, a figure not yet independently confirmed [^3].",
+    "And a University of Hong Kong study ranked 12 AI video generators: ByteDance's Seedance 2.0 Pro scored highest for visual quality, ahead of Google's Veo 3.1 and OpenAI's Sora 2 Pro, but ranked only sixth for blocking harmful content [^4]. My read: Chinese firms are winning on quality faster than on safeguards."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone",
+      "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
+      "outlet": "The Next Web",
+      "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
       "kind": "news",
-      "summary": "Why WeChat, Alipay and others shut out an AI assistant that taps through apps for you, and what it means for AI phones."
+      "summary": "What the new licences allow, what Level 3 and Level 4 mean, and why China paused robotaxi approvals earlier this year."
     },
     {
-      "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year",
-      "outlet": "CBS News (AP)",
-      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
+      "title": "China Approves Nation's First Brainstem Implant for Deafness",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness",
       "kind": "news",
-      "summary": "A short report on Kim Jong Un's visit to Dandong and what it says about China, North Korea and Russia."
+      "summary": "How a Chinese-made implant aims to help deaf children who cannot use cochlear implants, and who qualifies."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Sixth Tone",
-      "title": "Over 150 Chinese Apps Deny AI Assistant's Use on Smartphone",
-      "url": "https://www.sixthtone.com/news/1019137/over-150-chinese-apps-deny-ai-assistant%E2%80%99s-use-on-smartphone",
-      "date": "2026-10-19",
-      "singleSource": true
+      "outlet": "South China Morning Post",
+      "title": "China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies",
+      "url": "https://www.scmp.com/business/china-evs/article/3372153/china-grants-permits-vw-joint-venture-xpeng-autonomous-driving-race-intensifies",
+      "date": "2026-10-27",
+      "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CBS News (AP)",
-      "title": "North Korea's Kim Jong Un touts ties, opens bridge with China on first trip in a year",
-      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
-      "date": "2026-10-25",
+      "outlet": "The Next Web",
+      "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
+      "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
+      "date": "2026-10-26",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Korea JoongAng Daily",
-      "title": "Kim crosses new North Korea-China bridge, touts bilateral ties at war memorial",
-      "url": "https://www.koreajoongangdaily.com/korea/kim-crosses-new-north-koreachina-bridge-touts-bilateral-ties-at-war-memorial/12934477",
-      "date": "2026-10-25",
-      "singleSource": false
+      "outlet": "Sixth Tone",
+      "title": "China Approves Nation's First Brainstem Implant for Deafness",
+      "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness",
+      "date": "2026-10-22",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "China and North Korea open New Yalu River Bridge, state media reports",
-      "url": "https://www.aljazeera.com/amp/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports",
-      "date": "2026-10-14",
-      "singleSource": false
+      "outlet": "South China Morning Post",
+      "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
+      "date": "2026-10-26",
+      "singleSource": true
     }
   ]
 }

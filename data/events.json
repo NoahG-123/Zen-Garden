@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-26",
+  "reviewed": "2026-10-27",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Trump said on Oct 25 there would be no strike \"today\" but asked whether to \"make a deal\" or \"finish them off\"; Qatari mediators were in Tehran.[^67] Iran says it would reopen Hormuz if the US lifts its blockade, but not on pre-war terms.[^66] CENTCOM says the main lanes are clear of mines.[^68] Houthis fired at Riyadh; Brent eased to about $114.60 on Oct 26.[^66] US envoy Mike Waltz says the war could last another year.[^53]",
+      "standing": "Saudi, Turkish and Pakistani officials held talks in Tehran on Oct 26 and agreed only to keep talking.[^73] Houthi missiles and drones kept targeting Saudi Arabia.[^73] CNN reports US forces could start major strikes within 96 hours of an order; none has been given.[^74] Iran says Hormuz will not return to pre-war rules.[^74] Trump asks whether to \"make a deal\" or \"finish them off\".[^67] US envoy Mike Waltz says the war could last another year.[^53]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -139,7 +139,9 @@
         61,
         66,
         67,
-        68
+        68,
+        73,
+        74
       ]
     },
     {
@@ -148,7 +150,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce in occupied Oleshky starts Oct 27 so civilians can leave and aid can enter.[^55] Ukraine's Starshield satellite link was restored on Oct 24 after a week of caps.[^62] Trump said on Oct 25 that new talks with Russia and Ukraine would come \"pretty soon\"; Putin still claims all of Donbas.[^72][^56] Energy strikes go on.[^43]",
+      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce around occupied Oleshky took effect on Oct 27 and runs to at least Oct 31, to let aid in and civilians out.[^75] Musk says SpaceX throttled Ukraine's Starlink over drone strikes; Kyiv disputes that, and service was restored Oct 24.[^76] Russia agreed to three-way talks next month; Putin still claims all of Donbas.[^76][^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -156,8 +158,8 @@
       },
       "watch": [
         {
-          "date": "2026-10-27",
-          "what": "Start of the local Oleshky ceasefire for evacuations and aid; a test of whether small deals can hold"
+          "date": "2026-10-31",
+          "what": "Planned end of the Oleshky truce (\"or longer\"); a test of whether small, local deals can hold"
         },
         {
           "date": "2026-11-10",
@@ -284,7 +286,9 @@
         43,
         44,
         62,
-        72
+        72,
+        75,
+        76
       ]
     },
     {
@@ -293,7 +297,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israel votes Oct 27: the final mainstream polls put Gadi Eisenkot's party first and both blocs short of the 61 seats needed, though two outlets show Netanyahu ahead[^69][^63].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israelis vote today, Oct 27; final polls put Eisenkot's Yashar ahead of Likud, with Netanyahu's bloc near 50 seats and neither camp at the 61 needed[^77].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -301,8 +305,8 @@
       },
       "watch": [
         {
-          "date": "2026-10-27",
-          "what": "Israel's general election; seen as a referendum on Prime Minister Netanyahu and his Gaza policy"
+          "date": "2026-10-30",
+          "what": "Full count of Israel's Oct 27 election due; official results Nov 4, then coalition talks begin"
         },
         {
           "date": "2026-12-31",
@@ -406,7 +410,8 @@
         12,
         47,
         63,
-        69
+        69,
+        77
       ]
     },
     {
@@ -415,7 +420,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September and meets again Oct 28[^14][^13]. Trump says the trade war with Canada will end \"pretty soon\" and plans to lift some 50% tariffs while adding others[^70]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
+      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September and meets again Oct 28[^14][^13]. Carney says trade talks have intensified slightly; White House adviser Kevin Hassett suggests a Canada deal is close[^78]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
       "heading": {
         "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
         "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
@@ -520,7 +525,8 @@
         14,
         15,
         16,
-        70
+        70,
+        78
       ]
     },
     {
@@ -1264,6 +1270,54 @@
       "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/",
       "date": "2026-10-25",
       "singleSource": true
+    },
+    {
+      "id": 73,
+      "outlet": "Arab News Pakistan (with AFP)",
+      "title": "Iran hails 'very good' talks with Saudi Arabia, Pakistan, Türkiye amid fresh Houthi attacks",
+      "url": "https://www.arabnews.pk/pakistan/iran-hails-very-good-talks-with-saudi-arabia-pakistan-t%C3%BCrkiye-amid-fresh-houthi-attacks-3005363",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 74,
+      "outlet": "Gulf News",
+      "title": "Middle East war: Iran meets Mecca pact nations amid US strike threat as Saudi intercepts Houthi drones",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-trump-leaves-iran-attack-on-the-table-tehran-vows-changes-to-hormuz-strait-houthis-claim-saudi-strikes-1.500723497",
+      "date": "2026-10-27",
+      "singleSource": true
+    },
+    {
+      "id": 75,
+      "outlet": "Al Jazeera (with AP)",
+      "title": "Russia halts strikes on Ukraine's Kherson as Oleshky ceasefire takes effect",
+      "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 76,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+      "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service",
+      "date": "2026-10-25",
+      "singleSource": false
+    },
+    {
+      "id": 77,
+      "outlet": "Middle East Eye",
+      "title": "Israel elections: Polls open as Netanyahu fights to retain power",
+      "url": "https://www.middleeasteye.net/news/israel-elections-polls-open-netanyahu-fights-retain-power",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 78,
+      "outlet": "Action News Jax (AP)",
+      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+      "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
+      "date": "2026-10-26",
+      "singleSource": false
     }
   ]
 }
