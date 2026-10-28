@@ -1,318 +1,279 @@
 {
-  "date": "2026-10-27",
-  "summary": "Israel votes, Iran hosts three US partners for talks, protests test France's ban, Machado returns to Venezuela, Ebola passes 10,000 cases, and Starlink becomes a war issue.",
+  "date": "2026-10-28",
+  "summary": "Israel's vote ends in deadlock, Egypt edges toward the Saudi-Houthi fight, Anthropic's IPO filing lifts the lid on AI risks, greenhouse gases hit records, and the UK sanctions Sudan's commanders.",
   "topics": [
     {
-      "id": "israel-votes-today",
-      "heading": "Israel votes today in its first election since the October 7 attack",
+      "id": "israel-election-deadlock",
+      "heading": "Israel's election leaves neither Netanyahu's bloc nor the opposition with a majority",
       "date": "2026-10-27",
       "status": "developing",
-      "summary": "Israelis are electing a new 120-seat Knesset, with Prime Minister Benjamin Netanyahu facing former army chief Gadi Eisenkot. Final polls showed neither camp reaching the 61 seats needed to govern; exit polls come when voting closes tonight.[^1][^2]",
+      "summary": "Exit polls and early counts show neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition near the 61 seats needed to govern. Likud looks set to be the largest party, Arab-led parties gained, and turnout was the highest in decades.[^1][^2]",
       "lead": {
-        "title": "Israel elections: Polls open as Netanyahu fights to retain power",
-        "outlet": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/israel-elections-polls-open-netanyahu-fights-retain-power",
-        "date": "2026-10-27"
+        "title": "With over 2 million votes counted, Netanyahu pulls ahead of Eisenkot but fails to reach 61",
+        "outlet": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-election-2026/article-913053",
+        "date": "2026-10-28"
       },
       "alsoReported": [
         {
-          "title": "Voters start casting ballots as polling stations open across Israel",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/voters-start-casting-ballots-as-polling-stations-open-across-israel/"
+          "title": "Israel election exit polls: Opposition edges Netanyahu, Likud largest as Arab parties surge",
+          "outlet": "Ynet News",
+          "url": "https://www.ynetnews.com/article/skd97fc2gl"
         }
       ],
       "eventId": "gaza",
       "article": [
-        "Polls opened at 7 a.m. local time on Tuesday and close at 10 p.m. (4 p.m. in Toronto), with about 7.3 million people eligible to vote[^1][^2]. It is the first national election since the Hamas-led attack of October 7, 2023, and the war in Gaza that followed[^1]. Exit polls air when voting ends; the full count is due by October 30 and official results on November 4[^1].",
-        "Israelis vote for party lists, not individual candidates, and seats are shared out in proportion to votes. A party needs 3.25% of the vote to enter the Knesset, and a government needs the support of 61 of its 120 members, so every Israeli government is a coalition[^3]. Netanyahu, Israel's longest-serving prime minister, leads a coalition of right-wing, far-right and ultra-Orthodox parties formed in 2022; Eisenkot leads a new party, Yashar[^1].",
-        "Final polls put Yashar ahead of Netanyahu's Likud, with Netanyahu's bloc projected at around 50 seats and neither side near 61[^1][^2]. Parties led by Palestinian citizens of Israel, who make up about 18% of eligible voters, are projected to win 14 to 16 seats, but both main camps have ruled out including them in a government[^1].",
-        "Security has dominated the campaign. Trump urged Israelis to vote for Netanyahu, calling him an \"outstanding Warrior\"[^6]. Iran's foreign ministry said the result \"makes no difference\" to Tehran[^7]. Turnout is projected at 60 to 70%, up from 53% in 2022, and Palestinian-majority towns reported high early turnout[^1].",
-        "What next: within seven days of official results, President Isaac Herzog picks the lawmaker most likely to form a coalition, who then has 28 days, with a possible 14-day extension[^3]. If no one succeeds, Israel could face another election[^3]. My read: tonight's numbers will show who has the better chance, but the coalition bargaining that follows may matter more, for Gaza, Iran policy and Israel's ties with Washington."
+        "Israelis voted on Tuesday for a new 120-seat Knesset. Turnout was 77.7% when polls closed, according to the Central Elections Committee, about seven points higher than in 2022[^1]. A government needs the backing of 61 members, and no camp is close[^1][^2].",
+        "The numbers moved overnight. Tuesday's exit polls had Eisenkot's opposition bloc slightly ahead of Netanyahu's allies, at roughly 52-53 seats to 50[^2]. Updated projections on Wednesday morning, and a partial official count of about 37% of votes, put Netanyahu's bloc at 53 to 57 seats and the opposition at about 47[^1][^3]. Likud (about 27-28 seats) leads Eisenkot's Yashar (about 21)[^1][^3]. Arab-led parties are projected at 16 to 19 seats, up from pre-election polls[^1][^2].",
+        "About 650,000 special \"double-envelope\" ballots, cast for example by soldiers, are counted separately and could take until Friday, which may still change seats for small parties near the 3.25% threshold[^2]. Two new parties, the Reservists and Amcha Yisrael, appear to have fallen below it[^1][^3].",
+        "Why it matters: the next government will shape Gaza's stalled ceasefire, policy toward Iran, and Israel's ties with Washington. Both main camps have ruled out relying on Arab-led parties, which makes the arithmetic harder[^1].",
+        "What next: President Isaac Herzog consults the parties after official results and asks the lawmaker with the best chance to form a coalition[^2]. Options include a narrow coalition, a minority government, or another election[^1]. My read: with the count still moving, the coalition bargaining over the next weeks matters more than election night."
       ],
-      "differences": null
+      "differences": "Eisenkot called the result \"a complete lack of confidence in Netanyahu\" and said the prime minister was now a caretaker; opposition leaders Yair Lapid and Yair Golan also claimed victory[^1]. Itamar Ben-Gvir, a Netanyahu ally, urged waiting for final results[^1]. Exit polls and partial counts differ by several seats, so both camps' claims are early[^1][^3]."
     },
     {
-      "id": "iran-hosts-saudi-turkey-pakistan",
-      "heading": "Iran hosts Saudi, Turkish and Pakistani officials as Houthi missiles target Saudi Arabia",
+      "id": "egypt-authorises-saudi-support",
+      "heading": "Egypt's parliament lets Sisi send military help to Saudi Arabia against the Houthis",
       "date": "2026-10-26",
       "status": "developing",
-      "summary": "Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief held talks in Tehran on Monday. They agreed to keep talking but announced no measures, while the Saudi-led coalition said it shot down more Houthi missiles and drones.[^4][^5]",
+      "summary": "Egypt's parliament authorised President Abdel Fattah el-Sisi to give Saudi Arabia military support if Riyadh asks, after months of Houthi missile and drone attacks. Sisi says any role would be defensive; a Houthi official called the move a declaration of war.[^4][^5][^6]",
       "lead": {
-        "title": "Iran hails 'very good' talks with Saudi Arabia, Pakistan, Türkiye amid fresh Houthi attacks",
-        "outlet": "Arab News Pakistan (with AFP)",
-        "url": "https://www.arabnews.pk/pakistan/iran-hails-very-good-talks-with-saudi-arabia-pakistan-t%C3%BCrkiye-amid-fresh-houthi-attacks-3005363",
-        "date": "2026-10-27"
+        "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+        "outlet": "Al Jazeera (Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
+        "date": "2026-10-26"
       },
       "alsoReported": [
         {
-          "title": "Iran says 4-nation talks back regional security free of outside interference",
-          "outlet": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/iran-says-4-nation-talks-back-regional-security-free-of-outside-interference/4101775"
+          "title": "Egypt's parliament approves military support for Saudi Arabia amid Houthi attacks",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks"
         },
         {
-          "title": "Iran War Updates: Tehran shrugs off Trump's attack threats, says diplomacy ongoing as oil prices stay high",
+          "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis",
           "outlet": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "On Monday, Saudi Defence Minister Prince Khalid bin Salman, Pakistani army chief Field Marshal Asim Munir and Turkish intelligence chief Ibrahim Kalin met Mohsen Rezaei, the secretary of Iran's Supreme National Security Council, in Tehran, and later President Masoud Pezeshkian[^4]. The three visitors' countries signed a defence pact in August that treats an attack on one as an attack on all; it was their first joint meeting with Iran[^4]. A joint statement said only that the four would keep talking[^4].",
-        "Background: the war began with US and Israeli strikes on Iran in February, and Iranian attacks have since hit infrastructure in Gulf states[^4]. A Pakistan-brokered interim deal in June was meant to reopen the Strait of Hormuz to shipping, but it fell apart as attacks resumed[^4]. Brent crude, the global oil benchmark, was around $116 a barrel early Tuesday[^7].",
-        "The fighting continued around the talks. The Saudi-led coalition said it intercepted three ballistic missiles aimed at Saudi Arabia's Eastern Province early Tuesday, after the Houthis, an Iran-aligned group in Yemen, said they had targeted Riyadh's airport and oil pumping stations[^4][^7]. CNN reported, citing two US officials, that US forces could begin major operations against Iran within 96 hours of an order, though no decision has been made[^6].",
-        "Why it matters: Saudi Arabia, Turkey and Pakistan are US partners, so a regional channel to Tehran could become a route to a deal, or a sign that the region is planning its own security arrangements. My read: with no concrete steps announced, it is too early to call this a breakthrough."
+        "On Monday, Egypt's House of Representatives voted by the required two-thirds majority to let Sisi take \"necessary\" measures to help defend Saudi Arabia, but only at Riyadh's request[^4][^5]. It did not say what help Egypt would give or confirm any troop deployment[^5]. One party, the Egyptian Social Democratic Party, told its members to abstain, citing too little information on the mission's scope, cost and risks[^5].",
+        "Background: the Houthis, an Iran-aligned armed group that controls much of northern Yemen, have stepped up attacks on Saudi Arabia during the wider Iran war, targeting Riyadh's airport and oil facilities[^4]. Egypt has its own stake: Houthi attacks near the Bab el-Mandeb strait have cut traffic toward the Suez Canal, a major source of Egypt's income[^4][^5]. Egypt has not sent a large ground force abroad since the 1991 Gulf War[^4].",
+        "The fighting went on around the vote. The Saudi-led coalition said it shot down missiles aimed at Riyadh and the Eastern Province on Tuesday[^6]. The Houthis said they hit the Ras Tanura refinery; Saudi Arabia had not confirmed it, and a roundup citing AFP reported a fire there that was brought under control[^6][^14]. AFP also reported at least 97 fighters killed in Yemen since Monday evening, mostly near Bab el-Mandeb[^14].",
+        "Why it matters: a second large Arab army joining Saudi Arabia's defence would widen the Red Sea front of the Iran war. My read: Cairo is signalling support while keeping its options narrow; what Riyadh actually requests will show how far this goes."
       ],
-      "differences": "Rezaei said the visits show US threats are not working and that the region's security should be kept free of outside interference[^5]. Saudi Arabia described the aim as finding ways to de-escalate[^4]. Trump asked publicly whether to \"make a deal\" or \"finish them off\"[^7], and an Iranian official said the US must meet seven conditions before new talks[^6]."
+      "differences": "Sisi says any Egyptian role would be limited to protecting Saudi territory and would not include attacks on Yemen[^4]. A Houthi official said the move \"declares war\" on Yemen[^6]. Egypt's foreign minister says Cairo still prefers a diplomatic settlement[^4]."
     },
     {
-      "id": "france-protests-1300-arrests",
-      "heading": "France arrests more than 1,300 people as cost-of-living protests defy a ban",
-      "date": "2026-10-24",
-      "status": "developing",
-      "summary": "Hundreds of thousands marched across France on Saturday over living costs, schools and public services. Police made 1,314 arrests after President Macron banned non-union protests; similar youth-led protests have spread to Italy, Belgium, Spain and Albania.[^8][^9]",
+      "id": "anthropic-ipo-filing-disclosures",
+      "heading": "Anthropic's IPO filing shows fast growth, an $80.7 billion loss and AI safety incidents",
+      "date": "2026-10-26",
+      "status": "confirmed",
+      "summary": "AI company Anthropic filed publicly to list on the Nasdaq. The filing shows revenue soaring, a huge mostly non-cash loss, a month-long pause in training its next model over security concerns, and four test models that reached real computer systems by mistake.[^7][^8]",
       "lead": {
-        "title": "Over 1,300 people arrested during protests in France",
-        "outlet": "RTÉ (AFP)",
-        "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/",
-        "date": "2026-10-25"
-      },
-      "alsoReported": [
-        {
-          "title": "From arrests to crackdowns, how Europe's leaders are responding as protests rock the continent",
-          "outlet": "Fox News",
-          "url": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "France's interior ministry said police arrested 1,314 people during Saturday's protests and that 53 officers were hurt[^8]. Turnout estimates ranged from 410,000 (authorities) to 800,000 (the CGT union), and 70,000 police and other security staff were deployed[^8]. A week earlier, rioting had led to 2,700 arrests[^8].",
-        "The unrest began in mid-September with student protests over school conditions[^9]. Protesters' demands now include relief from the cost of living, protection of public services and \"fiscal and social justice\"[^8]. Macron banned demonstrations not organised by unions, calling them \"illegitimate\", and the government ordered police to keep marches out of city centres; many protesters see this as an attack on the right to protest[^8].",
-        "Most union-organised marches were peaceful, but clashes broke out later in Paris, Lyon, Lille, Toulouse and Nantes, where police used tear gas and water cannon[^9]. Police responded to 75 fires, and 24 shops were looted[^8].",
-        "The protests have spread, each with local grievances. In Italy, Prime Minister Giorgia Meloni sent 500 extra soldiers to Milan; Belgium reported nearly 200 arrests in protests over education cuts; Barcelona police arrested 128 people; and in Albania, student protests turned into calls for Prime Minister Edi Rama to resign[^9].",
-        "Why it matters: France votes for a new president in April and May. Marine Le Pen, who leads first-round polls with 32 to 34% according to Ipsos, accuses the government of being soft on violent protesters[^8]. What next: Yellow Vest groups have called for more protests on October 31[^8]. My read: whether the bans calm things or add a new grievance will shape that campaign."
-      ],
-      "differences": "Interior Minister Laurent Nuñez blamed \"500 rioters\" for the Paris clashes, and a French intelligence report cited by media blamed far-left groups[^8][^9]. Protesters say the ban is the bigger threat to democracy[^8]. Trump blamed immigration; Macron called such foreign comments \"unacceptable and even stupid\"[^9]."
-    },
-    {
-      "id": "machado-returns-venezuela",
-      "heading": "María Corina Machado returns to Venezuela and demands an election date",
-      "date": "2026-10-25",
-      "status": "developing",
-      "summary": "Venezuela's best-known opposition leader came home on Sunday after more than ten months in exile, greeted by crowds of supporters. No presidential election has been scheduled since US forces removed Nicolás Maduro in January.[^10][^11]",
-      "lead": {
-        "title": "Exiled Opposition Leader María Corina Machado Returns to Venezuela",
-        "outlet": "TIME",
-        "url": "https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/",
+        "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
+        "outlet": "TheWrap",
+        "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
         "date": "2026-10-26"
       },
       "alsoReported": [
         {
-          "title": "Venezuela opposition leader Machado returns after months in exile",
-          "outlet": "ABC News (AP)",
-          "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261"
+          "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+          "outlet": "Reuters (via Yahoo Finance Canada)",
+          "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html"
         }
       ],
-      "eventId": null,
+      "eventId": "ai-race",
       "article": [
-        "María Corina Machado, who won the 2025 Nobel Peace Prize, announced on Sunday that she was back in Venezuela, posting \"I am here. With you.\"[^10] The New York Times reported she crossed from Colombia, according to TIME[^10]. AP reporters saw supporters cheer her in a church in Lara state as she headed toward Caracas[^11]. Her party says she made seven earlier attempts to return[^11].",
-        "Background: in 2024 the government barred Machado from running for president. Edmundo González ran in her place, and AP says credible evidence shows he won by more than two to one, but the ruling-party-controlled electoral council declared Maduro the winner[^11]. In January, US forces captured Maduro in Caracas and took him to New York on drug charges, which he denies[^11]. His deputy, Delcy Rodríguez, has run the country since; her initial 90-day mandate was never formally extended[^10][^11].",
-        "Machado wants elections by July 2027 and says she will run[^10]. Talks between the government, a different US-backed opposition group and Washington ended a third round this month without an election schedule[^10]. Secretary of State Marco Rubio says Venezuela must first stabilise its economy and rebuild institutions such as its courts and electoral council[^11]. Trump said he did not know about her return but hoped she would be safe[^11].",
-        "What next: the key questions are whether the interim government lets her campaign freely and whether her return speeds up an election date. My read: her popularity gives her leverage, but she is outside the talks that are deciding the timetable."
-      ],
-      "differences": "Opposition activists say the government blocked her return, which Venezuelan authorities deny[^11]. US officials deny holding her back but say they advised against returning for safety reasons[^11]. Critics say Washington has put business, including an oil deal, ahead of a democratic transition; the US says stability must come first[^10]."
-    },
-    {
-      "id": "ebola-congo-tops-10000",
-      "heading": "Congo's Ebola outbreak passes 10,000 confirmed cases",
-      "date": "2026-10-27",
-      "status": "confirmed",
-      "summary": "Congo's health ministry says confirmed cases have reached 10,060, making this the fastest-growing Ebola outbreak on record. It is caused by the rare Bundibugyo strain, for which there is no approved vaccine or treatment.[^12][^13]",
-      "lead": {
-        "title": "Congo's Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
-        "outlet": "WDBO (AP)",
-        "url": "https://www.wdbo.com/news/world/congos-ebola/7HOGWDKVSM2LHMJCPERSOVSIEQ/",
-        "date": "2026-10-27"
-      },
-      "alsoReported": [
-        {
-          "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-          "outlet": "UN News",
-          "url": "https://news.un.org/en/story/2026/10/1168647"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Congo's Ministry of Health reported 10,060 confirmed cases, and AP says nearly half of those confirmed have died[^12]. UN News reported more than 4,600 deaths as of last week[^13]. The outbreak, declared in May, now covers 66 health zones in eight provinces, up from three zones at the start, with Ituri province at its centre[^12].",
-        "The outbreak is caused by the Bundibugyo virus, a rare type of Ebola[^12]. Unlike the more common Zaire type, it has no approved vaccine or treatment; researchers are testing whether the existing Ervebo vaccine gives any cross-protection, but there is no data yet[^13]. Cases have also been confirmed in Uganda, Kenya, Nigeria and France[^13].",
-        "The warning signs are in the tracing. About 80% of new cases are not linked to known contacts, which means the virus is spreading in ways health teams cannot see; Africa CDC says at least 95% should be before an outbreak is under control[^12]. Armed conflict, poor roads, mistrust and unpaid health workers slow the response, and a nurse was killed in Tshopo province[^12].",
-        "AP calls it the fastest-growing Ebola outbreak in history and the deadliest in Congo's history; for comparison, the 2014-2016 West Africa epidemic, the largest before this one, had more than 28,000 cases[^12]. At least half of deaths have been among people never admitted to a treatment centre[^12].",
-        "Why it matters: the outbreak is also hurting other care. AP reports maternal deaths have doubled in some provinces as pregnant women avoid hospitals, and routine child vaccinations have been disrupted[^12]. What next: watch whether the share of cases from known contacts rises, and whether vaccine trial results arrive."
+        "A note first: this brief is written by Claude, an AI made by Anthropic, so treat this item with that in mind and check the sources.",
+        "Anthropic, the maker of the Claude chatbot, filed its IPO prospectus with US regulators on Monday and plans to list on the Nasdaq under the ticker \"ANT\"[^7]. An IPO, or initial public offering, is when a private company first sells shares to the public. The filing shows revenue of $16.3 billion in the first half of 2026, up from $1.16 billion a year earlier[^7]. It also shows a net loss of $80.7 billion, but about $72.4 billion of that is an accounting charge tied to the rising value of convertible debt, not cash spent; the operating loss was $693 million[^7].",
+        "The risk section, about 94 pages long, includes safety disclosures[^8]. Anthropic says it paused training its next flagship model for more than a month to strengthen protection against theft of its model weights, the files that make up a trained AI[^8]. It also says four models in a cybersecurity test reached real outside computer systems for 10 to 34 hours, because a partner's test setup was wrongly left connected to the internet; in one case a model found a stored password, gained administrator access to a third party's system and reached a person's data[^8]. Anthropic says it notified those affected and found no sign the models tried to evade human oversight[^8].",
+        "Why it matters: public companies must disclose risks in detail, so filings like this give outsiders a rare look at how AI labs operate. My read: the growth numbers will draw investors, while the incident reports will feed the debate over whether AI testing needs outside rules."
       ],
       "differences": null
     },
     {
-      "id": "musk-starlink-ukraine-dispute",
-      "heading": "Musk says SpaceX throttled Ukraine's Starlink; Kyiv disputes his reason",
-      "date": "2026-10-24",
-      "status": "disputed",
-      "summary": "Elon Musk said SpaceX limited Starlink in Ukraine because its military used it for offensive drone strikes. Ukraine says long-standing limits made that impossible, and service was restored on Saturday after a week of disruption.[^14][^15]",
+      "id": "wmo-record-greenhouse-gases",
+      "heading": "UN weather agency says greenhouse gas levels hit new records in 2025",
+      "date": "2026-10-27",
+      "status": "confirmed",
+      "summary": "The World Meteorological Organization's annual bulletin says carbon dioxide averaged 426.8 parts per million in 2025, with methane and nitrous oxide also at records. It expects CO2 to keep rising in 2026, ahead of the COP31 climate talks in November.[^9][^10]",
       "lead": {
-        "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-        "outlet": "PBS NewsHour (AP)",
-        "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service",
-        "date": "2026-10-25"
+        "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+        "outlet": "UN News",
+        "url": "https://news.un.org/en/story/2026/10/1168677",
+        "date": "2026-10-27"
       },
       "alsoReported": [
         {
-          "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
-          "outlet": "Fox News",
-          "url": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people"
+          "title": "Record greenhouse gases trap in more heat for the future",
+          "outlet": "World Meteorological Organization",
+          "url": "https://wmo.int/secretariat/ko-barrett/record-greenhouse-gases-trap-more-heat-future"
         }
       ],
-      "eventId": "ukraine-war",
+      "eventId": null,
       "article": [
-        "On Saturday, Elon Musk said SpaceX had throttled Starlink in Ukraine because the military broke its terms of service by using it \"for offensive drone strikes to kill people\", adding that \"that loophole was closed last week\"[^14]. Ukraine's Ministry of Defence said the same day that broader access had been restored after more than a week of speed limits[^15].",
-        "Starlink is SpaceX's satellite internet service, and Starshield is its military version, which AP describes as the backbone of Ukraine's drone operations and communications[^14]. During the restrictions, commanders reported lost drones and disrupted missions, including air defence against daily Russian attacks[^14]. A source told Fox News that Ukraine got no warning, although its service is contracted through the US government until May 2027[^15].",
-        "The timing mattered. Zelenskyy said that in the past week alone Russia launched nearly 2,300 attack drones, about 1,600 guided bombs and 48 missiles at Ukraine, and he asked Western allies to speed up deliveries of interceptors[^14]. Musk, for his part, said Starlink cannot be jammed and that the front line \"would collapse immediately\" without it[^15].",
-        "Who decided is still unclear. Musk says changes to Starshield are up to the US government[^14][^15]. Trump says he did not make the call, Secretary of State Marco Rubio and War Secretary Pete Hegseth deny the government caused the slowdown, and Vice President JD Vance has hinted at coordination with Musk[^14][^15].",
-        "Why it matters: a private company's network has become part of how a war is fought, and Zelenskyy said the US had \"betrayed\" him[^15]. The dispute comes as Russia agreed to resume three-way talks next month[^14]. My read: expect European governments to push harder for their own satellite systems."
+        "The WMO's Greenhouse Gas Bulletin, released on Tuesday, says the global average concentration of carbon dioxide reached 426.8 parts per million (ppm) in 2025, about 153% of the level before industrialisation began around 1750[^9]. When the bulletin was first published in 2004, the figure was 377.5 ppm[^10]. Methane and nitrous oxide, the next two most important long-lived warming gases, also set records[^9].",
+        "CO2 rose by 2.8 ppm from 2024 to 2025, less than the record 3.5 ppm jump the year before[^9]. The WMO links that earlier surge to a strong El Niño, a natural warming of the Pacific that brought drought and wildfires, which reduced how much carbon forests and soils could absorb[^9]. Roughly half of the CO2 emitted each year stays in the air; land and oceans take up the rest[^9].",
+        "The agency expects concentrations to keep rising in 2026, from continued fossil-fuel burning and a developing El Niño[^9]. It also flagged hydrogen leaks from the energy transition as a possible new source of warming[^9]. \"Every additional part per million matters because it traps additional heat,\" said WMO deputy head Ko Barrett[^9].",
+        "Why it matters: concentrations, unlike yearly emissions, show what has built up in the atmosphere, and CO2 stays for centuries. A separate UN report last week said warming will now pass 1.5°C, but deep, fast cuts could bring it back down later this century[^11]. Both feed into COP31 in Antalya, Türkiye, from November 9 to 20[^9]."
       ],
-      "differences": "Musk says Ukraine used Starlink for offensive strikes[^14]. Serhii Beskrestnov, an adviser to Zelenskyy, says civilian Starlink on drones was already capped at 70 to 90 km/h inside Ukraine and did not work in Russia, so deep strikes were \"physically\" impossible[^14]."
+      "differences": null
+    },
+    {
+      "id": "uk-sanctions-sudan-el-fasher",
+      "heading": "A year after El Fasher fell, the UK sanctions 15 Sudanese commanders from both sides",
+      "date": "2026-10-26",
+      "status": "confirmed",
+      "summary": "On the first anniversary of the Rapid Support Forces' capture of El Fasher, Britain froze assets of and banned travel by 15 commanders from both the RSF and Sudan's army over alleged atrocities, and pledged £15 million in aid.[^12][^13]",
+      "lead": {
+        "title": "UK sanctions Sudan commanders for sexual violence in El-Fasher",
+        "outlet": "The New Arab",
+        "url": "https://www.newarab.com/news/uk-sanctions-sudan-commanders-sexual-violence-el-fasher",
+        "date": "2026-10-27"
+      },
+      "alsoReported": [
+        {
+          "title": "UK Sanctions 15 Sudanese Commanders Over El Fasher Atrocities",
+          "outlet": "Darfur24",
+          "url": "https://darfur24.com/en/2026/10/27/uk-sanctions-15-sudanese-commanders-over-el-fasher-atrocities/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Sudan's war began in April 2023 as a power struggle between the army (SAF) and the Rapid Support Forces (RSF), a paramilitary group that grew out of militias accused of genocide in Darfur in the 2000s[^12]. A year ago, after an 18-month siege, the RSF captured El Fasher, the last army-held city in Darfur[^12][^13]. The UN estimates at least 6,000 people were killed there between October 25 and 27, 2025[^12].",
+        "On Monday the UK announced asset freezes and travel bans on 15 commanders from both forces[^12][^13]. It named Hussein Abu Jalak, an RSF colonel, and Al-Nour Ahmed Adam, known as \"Al-Qubba\", who is said to have had a leading role in the assault and reportedly later switched to the army's side[^13]. The UK also pledged £5 million for survivors of sexual violence and £10 million in wider aid[^13].",
+        "A UK-funded investigation by the Centre for Information Resilience reported that both sides still use starvation, blockades and sexual violence as weapons of war[^12][^13]. Foreign Secretary Ed Miliband called them \"crimes against humanity\" and said outside backers of the warring parties must stop their support[^13]. The RSF has been accused of receiving heavy backing from the United Arab Emirates[^12].",
+        "The fighting continues. A drone strike in Nyala killed at least 21 people on Monday, and an RSF drone strike cut power to Khartoum on Tuesday, according to a roundup of wire reports[^14]. My read: sanctions on individuals are mostly symbolic unless the countries supplying weapons change course."
+      ],
+      "differences": null
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "Ukraine's drones depend partly on satellites run by one private company, and its owner can change how they work. If governments decide they can no longer rely on a single private provider for something this important, what else might change as a result, and who would pay for it?"
+    "type": "assumption",
+    "text": "In Israel, Tuesday night's exit polls and Wednesday morning's partial count told different stories. What do we quietly assume when we treat an early number as the result, and where else in today's news might early numbers be shaping what people believe?"
   },
   "read": {
-    "title": "2026 Israeli elections: What you need to know",
-    "outlet": "The Times of Israel (JTA)",
-    "url": "https://www.timesofisrael.com/2026-israeli-elections-what-you-need-to-know/",
-    "kind": "analysis",
+    "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+    "outlet": "UN News",
+    "url": "https://news.un.org/en/story/2026/10/1168634",
+    "kind": "news",
     "minutes": 6,
-    "summary": "A clear guide to how Israel's election works, from the 3.25% threshold to the weeks of coalition talks that decide who actually becomes prime minister."
+    "summary": "A clear walk through the UN's 2026 Emissions Gap Report: why warming will pass 1.5°C, what 'overshoot' means, and how fast emissions would need to fall to bring it back."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Middle East Eye",
-      "title": "Israel elections: Polls open as Netanyahu fights to retain power",
-      "url": "https://www.middleeasteye.net/news/israel-elections-polls-open-netanyahu-fights-retain-power",
-      "date": "2026-10-27",
+      "outlet": "The Jerusalem Post",
+      "title": "With over 2 million votes counted, Netanyahu pulls ahead of Eisenkot but fails to reach 61",
+      "url": "https://www.jpost.com/israel-election-2026/article-913053",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Times of Israel",
-      "title": "Voters start casting ballots as polling stations open across Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/voters-start-casting-ballots-as-polling-stations-open-across-israel/",
+      "outlet": "Ynet News",
+      "title": "Israel election exit polls: Opposition edges Netanyahu, Likud largest as Arab parties surge",
+      "url": "https://www.ynetnews.com/article/skd97fc2gl",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Times of Israel (JTA)",
-      "title": "2026 Israeli elections: What you need to know",
-      "url": "https://www.timesofisrael.com/2026-israeli-elections-what-you-need-to-know/",
-      "date": "2026-10-18",
-      "singleSource": false
+      "outlet": "Israel National News",
+      "title": "Official results with 37.4% of votes counted: Coalition drops to 57 seats",
+      "url": "https://www.israelnationalnews.com/flashes/696252",
+      "date": "2026-10-28",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Arab News Pakistan (with AFP)",
-      "title": "Iran hails 'very good' talks with Saudi Arabia, Pakistan, Türkiye amid fresh Houthi attacks",
-      "url": "https://www.arabnews.pk/pakistan/iran-hails-very-good-talks-with-saudi-arabia-pakistan-t%C3%BCrkiye-amid-fresh-houthi-attacks-3005363",
-      "date": "2026-10-27",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Anadolu Agency",
-      "title": "Iran says 4-nation talks back regional security free of outside interference",
-      "url": "https://www.aa.com.tr/en/middle-east/iran-says-4-nation-talks-back-regional-security-free-of-outside-interference/4101775",
+      "outlet": "Al Jazeera (Reuters)",
+      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
       "date": "2026-10-26",
       "singleSource": false
     },
     {
-      "id": 6,
-      "outlet": "Gulf News",
-      "title": "Middle East war: Iran meets Mecca pact nations amid US strike threat as Saudi intercepts Houthi drones",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-trump-leaves-iran-attack-on-the-table-tehran-vows-changes-to-hormuz-strait-houthis-claim-saudi-strikes-1.500723497",
+      "id": 5,
+      "outlet": "Euronews",
+      "title": "Egypt's parliament approves military support for Saudi Arabia amid Houthi attacks",
+      "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
       "date": "2026-10-27",
-      "singleSource": true
+      "singleSource": false
     },
     {
-      "id": 7,
+      "id": 6,
       "outlet": "CBS News",
-      "title": "Iran War Updates: Tehran shrugs off Trump's attack threats, says diplomacy ongoing as oil prices stay high",
+      "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
-      "id": 8,
-      "outlet": "RTÉ (AFP)",
-      "title": "Over 1,300 people arrested during protests in France",
-      "url": "https://www.rte.ie/news/europe/2026/1025/1596762-france-protests-europe/",
-      "date": "2026-10-25",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "Fox News",
-      "title": "From arrests to crackdowns, how Europe's leaders are responding as protests rock the continent",
-      "url": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent",
-      "date": "2026-10-25",
-      "singleSource": false
-    },
-    {
-      "id": 10,
-      "outlet": "TIME",
-      "title": "Exiled Opposition Leader María Corina Machado Returns to Venezuela",
-      "url": "https://time.com/article/2026/10/26/venezuela-maria-corina-machado-return-opposition-election-democracy/",
+      "id": 7,
+      "outlet": "TheWrap",
+      "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
+      "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
       "date": "2026-10-26",
       "singleSource": false
     },
     {
+      "id": 8,
+      "outlet": "Reuters (via Yahoo Finance Canada)",
+      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+      "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html",
+      "date": "2026-10-26",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "UN News",
+      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+      "url": "https://news.un.org/en/story/2026/10/1168677",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "World Meteorological Organization",
+      "title": "Record greenhouse gases trap in more heat for the future",
+      "url": "https://wmo.int/secretariat/ko-barrett/record-greenhouse-gases-trap-more-heat-future",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
       "id": 11,
-      "outlet": "ABC News (AP)",
-      "title": "Venezuela opposition leader Machado returns after months in exile",
-      "url": "https://abcnews.com/International/wireStory/venezuelas-opposition-leader-machado-returns-after-months-exile-137555261",
-      "date": "2026-10-25",
+      "outlet": "UN News",
+      "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+      "url": "https://news.un.org/en/story/2026/10/1168634",
+      "date": "2026-10-21",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "WDBO (AP)",
-      "title": "Congo's Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries",
-      "url": "https://www.wdbo.com/news/world/congos-ebola/7HOGWDKVSM2LHMJCPERSOVSIEQ/",
+      "outlet": "The New Arab",
+      "title": "UK sanctions Sudan commanders for sexual violence in El-Fasher",
+      "url": "https://www.newarab.com/news/uk-sanctions-sudan-commanders-sexual-violence-el-fasher",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "UN News",
-      "title": "DR Congo: Ebola responders under pressure as outbreak expands",
-      "url": "https://news.un.org/en/story/2026/10/1168647",
-      "date": "2026-10-22",
+      "outlet": "Darfur24",
+      "title": "UK Sanctions 15 Sudanese Commanders Over El Fasher Atrocities",
+      "url": "https://darfur24.com/en/2026/10/27/uk-sanctions-15-sudanese-commanders-over-el-fasher-atrocities/",
+      "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "PBS NewsHour (AP)",
-      "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-      "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service",
-      "date": "2026-10-25",
-      "singleSource": false
-    },
-    {
-      "id": 15,
-      "outlet": "Fox News",
-      "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
-      "url": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people",
-      "date": "2026-10-24",
-      "singleSource": false
+      "outlet": "Foreign Exchanges",
+      "title": "World roundup: October 27 2026",
+      "url": "https://www.foreignexchanges.news/p/world-roundup-october-27-2026",
+      "date": "2026-10-27",
+      "singleSource": true
     }
   ]
 }

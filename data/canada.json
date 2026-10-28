@@ -1,68 +1,52 @@
 {
-  "date": "2026-10-27",
-  "summary": "Olivia Chow is re-elected Toronto mayor, Carney says he is open to moving beyond the Indian Act, trade talks pick up, and the Bank of Canada decides on rates Wednesday.",
+  "date": "2026-10-28",
+  "summary": "The Bank of Canada decides on rates this morning with a hike expected, Carney says his Indian Act review may not end in repeal, and EU leaders arrive in Montréal Thursday.",
   "body": [
-    "Olivia Chow won a second term as Toronto's mayor on Monday. With 1,405 of 1,431 polls reporting, she had 54.1% of the vote to 41.1% for former councillor Brad Bradford, a wider margin than late polls suggested [^1]. She promised to keep property tax rises near inflation and to build more supportive housing and shelters [^1]. Elsewhere in the GTA, Alvin Tedjo was projected to win in Mississauga, and in Toronto Mike Layton won back the University-Rosedale council seat [^2].",
-    "At the first meeting of the prime minister, premiers and First Nations leaders in about two decades, Carney said he is committed to a process that \"moves Canada beyond the Indian Act,\" the 1876 law that governs status, reserve lands and band councils, which could mean reforming or abolishing it [^3]. Manitoba Premier Wab Kinew had called for abolition. Carney said the federal government would not impose the change, and AFN National Chief Cindy Woodhouse Nepinak said First Nations must decide for themselves; there is no start date yet [^3]. Tensions remain over the law that speeds up approvals for major projects, which some First Nations leaders say could infringe their rights [^3].",
-    "On trade, Carney said talks with Washington had seen a \"slight, slight intensification\" and that any progress came because \"the U.S. is coming closer to our position\"; asked if Trump would honour a deal, he said \"I don't know that\" [^4]. On Wednesday, Oct. 28, the Bank of Canada is widely expected to raise its rate from 2.25% to 2.50%, with September inflation at 3.1%; markets price in about an 80% chance [^5]. Carney hosts EU leaders in Montréal on Thursday and Friday [^4]."
+    "The Bank of Canada announces its interest-rate decision at 9:45 a.m. today. In a Reuters poll last week, 19 of 34 economists expected it to raise its key rate by a quarter point to 2.50%, which would be its first rate change in a year [^1]. The reason is prices: inflation rose to 3.1% in September, just above the bank's 1% to 3% target range, and oil near US$117 a barrel has pushed fuel costs up [^1]. A hike would make borrowing dearer for families with variable-rate mortgages, car loans and lines of credit, while growth is already slowing [^1]. The US Federal Reserve also decides this afternoon.",
+    "A day after saying he wanted to move \"beyond\" the Indian Act, Prime Minister Mark Carney said on Tuesday that the review has no \"fixed conclusion\" and may not end in repeal [^2]. Ottawa will work with First Nations and the provinces on possible replacements [^2]. The 1876 law gives Ottawa broad powers over who has Indian status and what reserves can do; most chiefs see it as outdated, but there is little agreement on whether to scrap it [^2].",
+    "On Thursday and Friday, Carney hosts EU Commission President Ursula von der Leyen and European Council President António Costa in Montréal. They are expected to discuss trade, energy, critical minerals and defence, and a draft statement proposes studying long-term Canadian LNG (liquefied natural gas) exports to Europe [^3]."
   ],
-  "differences": "On the Indian Act, Carney says some participants, not all, raised abolition, and that First Nations will lead [^3]. On trade, Carney says the US is moving toward Canada, while White House adviser Kevin Hassett suggests a deal is close [^4].",
+  "differences": "On the Indian Act, Manitoba Premier Wab Kinew calls the law a \"race-based form of identification\" that should be abolished, while Carney says the process is open-ended and First Nations views differ [^2].",
   "reads": [
     {
-      "title": "Carney open to conversations around 'moving beyond' the Indian Act",
-      "outlet": "APTN News",
-      "url": "https://www.aptnnews.ca/national-news/carney-open-to-conversations-around-moving-beyond-the-indian-act/",
+      "title": "Carney says Ottawa's Indian Act review might not end up abolishing the law",
+      "outlet": "CP24 (The Canadian Press)",
+      "url": "https://www.cp24.com/news/canada/2026/10/27/carney-says-ottawas-indian-act-review-might-not-end-up-abolishing-the-law/",
       "kind": "news",
-      "summary": "What the Indian Act is, what Carney and the premiers said in Ottawa, and why First Nations are divided over the government's development plans."
+      "summary": "What the Indian Act does, why Carney is now stressing that a review may not end in repeal, and where First Nations leaders and premiers stand."
     },
     {
-      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
-      "outlet": "Action News Jax (AP)",
-      "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+      "outlet": "Kitco News (Reuters)",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-23/bank-canada-raise-rates-250-october-28-and-once-again-end-march",
       "kind": "news",
-      "summary": "Where Canada-US trade talks stand before the US midterms, and why energy explains the trade deficit Trump complains about."
+      "summary": "Why most economists expected the Bank of Canada to raise rates today, and what inflation, oil prices and slowing growth mean for the decision."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "The Local",
-      "title": "Olivia Chow Is Projected to be Re-elected as Toronto Mayor",
-      "url": "https://thelocal.to/olivia-chow-re-elected-toronto-mayor/",
-      "date": "2026-10-26",
+      "outlet": "Kitco News (Reuters)",
+      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-23/bank-canada-raise-rates-250-october-28-and-once-again-end-march",
+      "date": "2026-10-23",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24",
-      "title": "Election results: Olivia Chow re-elected as Toronto mayor",
-      "url": "https://www.cp24.com/local/toronto/2026/10/27/olivia-chow-re-elected-as-torontos-mayor-live-updates-here/",
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Carney says Ottawa's Indian Act review might not end up abolishing the law",
+      "url": "https://www.cp24.com/news/canada/2026/10/27/carney-says-ottawas-indian-act-review-might-not-end-up-abolishing-the-law/",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "APTN News",
-      "title": "Carney open to conversations around 'moving beyond' the Indian Act",
-      "url": "https://www.aptnnews.ca/national-news/carney-open-to-conversations-around-moving-beyond-the-indian-act/",
+      "outlet": "EUobserver",
+      "title": "THIS WEEK: the EU's new Canada offer, cash for farmers and Russia's Lavrov returns to G20?",
+      "url": "https://euobserver.com/244625/this-week-the-eus-new-canada-offer-cash-for-farmers-and-trumps-diesel-deal/",
       "date": "2026-10-26",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Action News Jax (AP)",
-      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
-      "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
-      "date": "2026-10-26",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "FXStreet",
-      "title": "BoC seen hiking, markets look for hawkish signals",
-      "url": "https://www.fxstreet.com/analysis/boc-seen-hiking-markets-look-for-hawkish-signals-202610261349",
-      "date": "2026-10-26",
-      "singleSource": false
+      "singleSource": true
     }
   ]
 }

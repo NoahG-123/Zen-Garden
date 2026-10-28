@@ -1,59 +1,51 @@
 {
-  "date": "2026-10-27",
-  "summary": "China lets Xpeng run paid robotaxi trials in Guangzhou and VW test self-driving in Hefei, approves its first brainstem hearing implant, and a study rates Chinese video AI.",
+  "date": "2026-10-28",
+  "summary": "A chili-sauce maker's reported AI job cuts spark a national debate days after Beijing told employers to soften AI's hit to jobs, and fingerprints suggest women and teens built the Terracotta Army.",
   "body": [
-    "China is moving again on self-driving cars after a pause. Xpeng said on Monday it had received a licence to run its Yoyo robotaxis in Guangzhou with paying passengers, a trial stage operators must pass before full commercial service [^1]. Volkswagen's China business got a licence to test \"Level 3\" driving in Hefei, where the car drives itself in some conditions but a driver must be ready to take over [^2]. China suspended new robotaxi licences in April after an incident involving a Baidu robotaxi in Wuhan and resumed approvals in July [^2]. Xpeng aims to carry passengers without safety drivers in 2027 and is talking to European ride-hailing platforms [^1][^2].",
-    "In medicine, China's drug and device regulator approved the country's first auditory brainstem implant on Oct. 19 [^3]. It is meant for deaf children aged 2 to 6 who cannot use ordinary cochlear implants because their inner ear or hearing nerve did not form normally; it stimulates the brainstem directly [^3]. The Shanghai team that built it with a Hangzhou company told domestic media it was almost 97% effective after a year, a figure not yet independently confirmed [^3].",
-    "And a University of Hong Kong study ranked 12 AI video generators: ByteDance's Seedance 2.0 Pro scored highest for visual quality, ahead of Google's Veo 3.1 and OpenAI's Sora 2 Pro, but ranked only sixth for blocking harmful content [^4]. My read: Chinese firms are winning on quality faster than on safeguards."
+    "Lao Gan Ma, one of China's best-known chili sauce brands, is facing a public backlash over reports that AI replaced most of a production line's workers [^1]. Domestic outlets reported that a senior executive told a business conference that an AI pepper-inspection system cut one line from more than 600 workers to 48 [^1]. The company's HR staff told media on Oct. 26 that he did not mention staffing numbers, but business-registry data show insured employees falling from nearly 3,000 in 2022 to 740 in 2025, though that alone does not prove AI was the cause [^1]. A related Weibo hashtag passed 120 million views; some users called automation normal progress, others called for a boycott [^1]. The story stings partly because the founder, whose face is on every jar, started out as a laid-off worker selling noodles from a street stall [^1].",
+    "The timing matters. On Oct. 23 China's State Council, its cabinet, issued guidelines asking officials to monitor AI-related job risks, support re-employment where AI causes \"significant disruption,\" retrain displaced workers, and curb algorithm misuse in hiring [^2]. Sixth Tone reports the guidelines also ask employers in labour-intensive industries to roll out AI cautiously and give advance notice [^1]. My read: Beijing wants fast AI adoption without the social shock, and companies like this one are where those goals collide.",
+    "And in archaeology, a study of 79 fingerprints left in the clay of the Terracotta Army, the roughly 8,000 figures guarding China's first emperor's tomb, estimates that about a third came from women and about a fifth from children under 15 [^3]. The authors caution that the method has limits, including a reference database built from European rather than East Asian prints [^3]."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
-      "outlet": "The Next Web",
-      "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
+      "title": "China's Lao Gan Ma Takes the Heat for Alleged Layoffs Due to AI",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1019180/china%E2%80%99s-lao-gan-ma-takes-the-heat-for-alleged-layoffs-due-to-ai",
       "kind": "news",
-      "summary": "What the new licences allow, what Level 3 and Level 4 mean, and why China paused robotaxi approvals earlier this year."
+      "summary": "How a beloved sauce brand became a test case for AI and jobs in China, and why the evidence for the layoffs is still unclear."
     },
     {
-      "title": "China Approves Nation's First Brainstem Implant for Deafness",
+      "title": "Women, Teens Helped Build Terracotta Army, Chinese Study Says",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness",
+      "url": "https://www.sixthtone.com/news/1019171/women%2C-teens-helped-build-terracotta-army%2C-chinese-study-says",
       "kind": "news",
-      "summary": "How a Chinese-made implant aims to help deaf children who cannot use cochlear implants, and who qualifies."
+      "summary": "How researchers read ancient fingerprints to estimate who made the Terracotta Army, and what the study can and cannot show."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "South China Morning Post",
-      "title": "China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies",
-      "url": "https://www.scmp.com/business/china-evs/article/3372153/china-grants-permits-vw-joint-venture-xpeng-autonomous-driving-race-intensifies",
-      "date": "2026-10-27",
-      "singleSource": false
+      "outlet": "Sixth Tone",
+      "title": "China's Lao Gan Ma Takes the Heat for Alleged Layoffs Due to AI",
+      "url": "https://www.sixthtone.com/news/1019180/china%E2%80%99s-lao-gan-ma-takes-the-heat-for-alleged-layoffs-due-to-ai",
+      "date": "2026-10-28",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "The Next Web",
-      "title": "China clears VW for Level 3 tests and Xpeng for Level 4 robotaxis",
-      "url": "https://thenextweb.com/news/vw-level-3-hefei-xpeng-level-4-robotaxi-guangzhou",
-      "date": "2026-10-26",
+      "outlet": "Allwork.Space (Reuters)",
+      "title": "China Moves To Protect Workers From AI Job Losses With New Employment Guidelines",
+      "url": "https://allwork.space/2026/10/china-moves-to-protect-workers-from-ai-job-losses-with-new-employment-guidelines/",
+      "date": "2026-10-23",
       "singleSource": false
     },
     {
       "id": 3,
       "outlet": "Sixth Tone",
-      "title": "China Approves Nation's First Brainstem Implant for Deafness",
-      "url": "https://www.sixthtone.com/news/1019153/china-approves-nation%E2%80%99s-first-brainstem-implant-for-deafness",
-      "date": "2026-10-22",
-      "singleSource": true
-    },
-    {
-      "id": 4,
-      "outlet": "South China Morning Post",
-      "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
-      "date": "2026-10-26",
+      "title": "Women, Teens Helped Build Terracotta Army, Chinese Study Says",
+      "url": "https://www.sixthtone.com/news/1019171/women%2C-teens-helped-build-terracotta-army%2C-chinese-study-says",
+      "date": "2026-10-27",
       "singleSource": true
     }
   ]

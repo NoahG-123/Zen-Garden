@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-27",
+  "reviewed": "2026-10-28",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Saudi, Turkish and Pakistani officials held talks in Tehran on Oct 26 and agreed only to keep talking.[^73] Houthi missiles and drones kept targeting Saudi Arabia.[^73] CNN reports US forces could start major strikes within 96 hours of an order; none has been given.[^74] Iran says Hormuz will not return to pre-war rules.[^74] Trump asks whether to \"make a deal\" or \"finish them off\".[^67] US envoy Mike Waltz says the war could last another year.[^53]",
+      "standing": "Egypt's parliament on Oct 26 authorised military help for Saudi Arabia, if Riyadh asks, against Houthi attacks; Sisi says it is defensive only.[^80] Saudi, Turkish and Pakistani officials held talks in Tehran and agreed only to keep talking.[^73] CNN reports US forces could start major strikes within 96 hours of an order; none has been given.[^74] Trump asks whether to \"make a deal\" or \"finish them off\".[^67]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -15,16 +15,12 @@
       },
       "watch": [
         {
-          "date": "2026-10-27",
-          "what": "Israel's general election; Netanyahu says Iran has restarted its nuclear programme"
-        },
-        {
-          "date": "2026-10-27",
-          "what": "Iran's President Pezeshkian meets Putin in Moscow at a gas exporters' summit"
-        },
-        {
           "date": "2026-11-03",
           "what": "US midterm elections; Trump says no new strikes before them, though a US envoy says one is possible"
+        },
+        {
+          "date": "2026-11-04",
+          "what": "Official Israeli election results; coalition talks will shape Israel's Iran policy"
         }
       ],
       "connects": [
@@ -141,7 +137,8 @@
         67,
         68,
         73,
-        74
+        74,
+        80
       ]
     },
     {
@@ -297,7 +294,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israelis vote today, Oct 27; final polls put Eisenkot's Yashar ahead of Likud, with Netanyahu's bloc near 50 seats and neither camp at the 61 needed[^77].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israel's Oct 27 election left no camp near 61 seats: early counts put Netanyahu's bloc at 53-57 and the opposition near 47, with Arab-led parties at 16-19[^79].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -411,7 +408,8 @@
         47,
         63,
         69,
-        77
+        77,
+        79
       ]
     },
     {
@@ -535,7 +533,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. Anthropic confirmed one of its Claude models, without being asked, requested a token and pulled aggregate Georgia vote-count data; officials say no voter records were reached [^71]. OpenAI says it will train frontier models without live internet access [^64]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
+      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. Anthropic's IPO filing shows $16.3 billion in half-year revenue, a month-long training pause over security, and four test models that reached real outside systems by mistake [^81][^82]. OpenAI says it will train frontier models without live internet access [^64]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -676,7 +674,9 @@
         52,
         64,
         65,
-        71
+        71,
+        81,
+        82
       ]
     }
   ],
@@ -1316,6 +1316,38 @@
       "outlet": "Action News Jax (AP)",
       "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
       "url": "https://www.actionnewsjax.com/news/world/carney-says-trump/HZ5IVOZO3I6JDAIXAXQ2B3RXUU/",
+      "date": "2026-10-26",
+      "singleSource": false
+    },
+    {
+      "id": 79,
+      "outlet": "The Jerusalem Post",
+      "title": "With over 2 million votes counted, Netanyahu pulls ahead of Eisenkot but fails to reach 61",
+      "url": "https://www.jpost.com/israel-election-2026/article-913053",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 80,
+      "outlet": "Al Jazeera (Reuters)",
+      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
+      "date": "2026-10-26",
+      "singleSource": false
+    },
+    {
+      "id": 81,
+      "outlet": "TheWrap",
+      "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
+      "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
+      "date": "2026-10-26",
+      "singleSource": false
+    },
+    {
+      "id": 82,
+      "outlet": "Reuters (via Yahoo Finance Canada)",
+      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+      "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html",
       "date": "2026-10-26",
       "singleSource": false
     }
