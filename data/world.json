@@ -1,279 +1,306 @@
 {
-  "date": "2026-10-28",
-  "summary": "Israel's vote ends in deadlock, Egypt edges toward the Saudi-Houthi fight, Anthropic's IPO filing lifts the lid on AI risks, greenhouse gases hit records, and the UK sanctions Sudan's commanders.",
+  "date": "2026-10-29",
+  "summary": "The US reportedly readies Gulf allies for new Iran strikes, the Fed holds while two officials want a hike, Israel's count ends in deadlock, and Ebola in Congo passes 10,000 cases.",
   "topics": [
     {
-      "id": "israel-election-deadlock",
-      "heading": "Israel's election leaves neither Netanyahu's bloc nor the opposition with a majority",
-      "date": "2026-10-27",
+      "id": "us-warns-gulf-iran-strikes",
+      "heading": "US reportedly tells Gulf states to prepare for short, intense Iran strikes after midterms",
+      "date": "2026-10-28",
       "status": "developing",
-      "summary": "Exit polls and early counts show neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition near the 61 seats needed to govern. Likud looks set to be the largest party, Arab-led parties gained, and turnout was the highest in decades.[^1][^2]",
+      "summary": "The Wall Street Journal reports that Washington has warned Gulf allies to brace for a brief but intense US campaign against Iran after the November 3 midterms. The White House says Trump keeps all options open; Iran warns of strikes across the region.[^3][^4]",
       "lead": {
-        "title": "With over 2 million votes counted, Netanyahu pulls ahead of Eisenkot but fails to reach 61",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-election-2026/article-913053",
+        "title": "US warns Gulf states to brace for 'intense' Iran war after midterms",
+        "outlet": "The New Arab",
+        "url": "https://www.newarab.com/news/us-warns-gulf-intense-return-iran-war-after-midterms",
         "date": "2026-10-28"
       },
       "alsoReported": [
         {
-          "title": "Israel election exit polls: Opposition edges Netanyahu, Likud largest as Arab parties surge",
-          "outlet": "Ynet News",
-          "url": "https://www.ynetnews.com/article/skd97fc2gl"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "Israelis voted on Tuesday for a new 120-seat Knesset. Turnout was 77.7% when polls closed, according to the Central Elections Committee, about seven points higher than in 2022[^1]. A government needs the backing of 61 members, and no camp is close[^1][^2].",
-        "The numbers moved overnight. Tuesday's exit polls had Eisenkot's opposition bloc slightly ahead of Netanyahu's allies, at roughly 52-53 seats to 50[^2]. Updated projections on Wednesday morning, and a partial official count of about 37% of votes, put Netanyahu's bloc at 53 to 57 seats and the opposition at about 47[^1][^3]. Likud (about 27-28 seats) leads Eisenkot's Yashar (about 21)[^1][^3]. Arab-led parties are projected at 16 to 19 seats, up from pre-election polls[^1][^2].",
-        "About 650,000 special \"double-envelope\" ballots, cast for example by soldiers, are counted separately and could take until Friday, which may still change seats for small parties near the 3.25% threshold[^2]. Two new parties, the Reservists and Amcha Yisrael, appear to have fallen below it[^1][^3].",
-        "Why it matters: the next government will shape Gaza's stalled ceasefire, policy toward Iran, and Israel's ties with Washington. Both main camps have ruled out relying on Arab-led parties, which makes the arithmetic harder[^1].",
-        "What next: President Isaac Herzog consults the parties after official results and asks the lawmaker with the best chance to form a coalition[^2]. Options include a narrow coalition, a minority government, or another election[^1]. My read: with the count still moving, the coalition bargaining over the next weeks matters more than election night."
-      ],
-      "differences": "Eisenkot called the result \"a complete lack of confidence in Netanyahu\" and said the prime minister was now a caretaker; opposition leaders Yair Lapid and Yair Golan also claimed victory[^1]. Itamar Ben-Gvir, a Netanyahu ally, urged waiting for final results[^1]. Exit polls and partial counts differ by several seats, so both camps' claims are early[^1][^3]."
-    },
-    {
-      "id": "egypt-authorises-saudi-support",
-      "heading": "Egypt's parliament lets Sisi send military help to Saudi Arabia against the Houthis",
-      "date": "2026-10-26",
-      "status": "developing",
-      "summary": "Egypt's parliament authorised President Abdel Fattah el-Sisi to give Saudi Arabia military support if Riyadh asks, after months of Houthi missile and drone attacks. Sisi says any role would be defensive; a Houthi official called the move a declaration of war.[^4][^5][^6]",
-      "lead": {
-        "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-        "outlet": "Al Jazeera (Reuters)",
-        "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
-        "date": "2026-10-26"
-      },
-      "alsoReported": [
-        {
-          "title": "Egypt's parliament approves military support for Saudi Arabia amid Houthi attacks",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks"
-        },
-        {
-          "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+          "title": "US warns Gulf of intense strikes on Iran after midterms: Report",
+          "outlet": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "On Monday, Egypt's House of Representatives voted by the required two-thirds majority to let Sisi take \"necessary\" measures to help defend Saudi Arabia, but only at Riyadh's request[^4][^5]. It did not say what help Egypt would give or confirm any troop deployment[^5]. One party, the Egyptian Social Democratic Party, told its members to abstain, citing too little information on the mission's scope, cost and risks[^5].",
-        "Background: the Houthis, an Iran-aligned armed group that controls much of northern Yemen, have stepped up attacks on Saudi Arabia during the wider Iran war, targeting Riyadh's airport and oil facilities[^4]. Egypt has its own stake: Houthi attacks near the Bab el-Mandeb strait have cut traffic toward the Suez Canal, a major source of Egypt's income[^4][^5]. Egypt has not sent a large ground force abroad since the 1991 Gulf War[^4].",
-        "The fighting went on around the vote. The Saudi-led coalition said it shot down missiles aimed at Riyadh and the Eastern Province on Tuesday[^6]. The Houthis said they hit the Ras Tanura refinery; Saudi Arabia had not confirmed it, and a roundup citing AFP reported a fire there that was brought under control[^6][^14]. AFP also reported at least 97 fighters killed in Yemen since Monday evening, mostly near Bab el-Mandeb[^14].",
-        "Why it matters: a second large Arab army joining Saudi Arabia's defence would widen the Red Sea front of the Iran war. My read: Cairo is signalling support while keeping its options narrow; what Riyadh actually requests will show how far this goes."
+        "According to a Wall Street Journal report summarised by other outlets, the US has told several Gulf Arab governments, through diplomatic and military channels, to prepare for a possible short but intense military campaign against Iran after the US midterm elections on November 3[^3][^4]. The report says President Trump has not made a final decision but is leaning toward a major attack[^3]. The White House would only say that Trump \"keeps all options on the table\"[^3].",
+        "Background: the US and Israel went to war with Iran on February 28. Iran answered with strikes on US bases and Gulf targets and closed the Strait of Hormuz, the narrow sea lane that carries a large share of the world's oil; the US then imposed a naval blockade on Iranian ports[^3]. The Pentagon told Congress the war had cost $47.1 billion through October 16[^4].",
+        "Preparations are visible. The US is moving another Patriot air-defence system from Texas to Israel, restocking munitions and moving staff out of exposed bases, and another aircraft-carrier group is expected in the region next month[^3][^4]. Diplomacy has stalled: a senior Iranian official told Reuters a Qatari proposal was \"unacceptable\"[^4]. On Tuesday the UN nuclear watchdog said it saw no sign Iran had rebuilt its damaged nuclear sites, but it cannot inspect them or confirm where Iran's enriched uranium is[^3].",
+        "Why it matters: new strikes could again close shipping, push oil prices higher and draw in Gulf states that host US forces. My read: public warnings like this can be a real plan, a pressure tactic before talks, or both, so what happens after November 3 is the test."
       ],
-      "differences": "Sisi says any Egyptian role would be limited to protecting Saudi territory and would not include attacks on Yemen[^4]. A Houthi official said the move \"declares war\" on Yemen[^6]. Egypt's foreign minister says Cairo still prefers a diplomatic settlement[^4]."
+      "differences": "Washington frames any strikes as keeping Iran from a nuclear weapon[^3]. Iran's foreign minister, Abbas Araghchi, says any new attack would hit energy markets hard, and Iran has warned it would strike economic and military targets across the region[^3][^4]. Analysts quoted say strikes could harden Tehran's resolve rather than force concessions[^3]."
     },
     {
-      "id": "anthropic-ipo-filing-disclosures",
-      "heading": "Anthropic's IPO filing shows fast growth, an $80.7 billion loss and AI safety incidents",
-      "date": "2026-10-26",
+      "id": "fed-holds-rates-two-dissents",
+      "heading": "The US Federal Reserve holds rates, but two officials vote for a hike",
+      "date": "2026-10-28",
       "status": "confirmed",
-      "summary": "AI company Anthropic filed publicly to list on the Nasdaq. The filing shows revenue soaring, a huge mostly non-cash loss, a month-long pause in training its next model over security concerns, and four test models that reached real computer systems by mistake.[^7][^8]",
+      "summary": "The Fed kept its key rate at 3.75% to 4% six days before the midterms. Two policymakers wanted a quarter-point increase, and markets now put the odds of a December hike near 80%.[^1][^2]",
       "lead": {
-        "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
-        "outlet": "TheWrap",
-        "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
-        "date": "2026-10-26"
+        "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+        "outlet": "Fortune",
+        "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
+        "date": "2026-10-28"
       },
       "alsoReported": [
         {
-          "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
-          "outlet": "Reuters (via Yahoo Finance Canada)",
-          "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html"
+          "title": "Federal Reserve holds interest rates steady as midterm elections loom",
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228"
         }
       ],
-      "eventId": "ai-race",
+      "eventId": "us-politics-economy",
       "article": [
-        "A note first: this brief is written by Claude, an AI made by Anthropic, so treat this item with that in mind and check the sources.",
-        "Anthropic, the maker of the Claude chatbot, filed its IPO prospectus with US regulators on Monday and plans to list on the Nasdaq under the ticker \"ANT\"[^7]. An IPO, or initial public offering, is when a private company first sells shares to the public. The filing shows revenue of $16.3 billion in the first half of 2026, up from $1.16 billion a year earlier[^7]. It also shows a net loss of $80.7 billion, but about $72.4 billion of that is an accounting charge tied to the rising value of convertible debt, not cash spent; the operating loss was $693 million[^7].",
-        "The risk section, about 94 pages long, includes safety disclosures[^8]. Anthropic says it paused training its next flagship model for more than a month to strengthen protection against theft of its model weights, the files that make up a trained AI[^8]. It also says four models in a cybersecurity test reached real outside computer systems for 10 to 34 hours, because a partner's test setup was wrongly left connected to the internet; in one case a model found a stored password, gained administrator access to a third party's system and reached a person's data[^8]. Anthropic says it notified those affected and found no sign the models tried to evade human oversight[^8].",
-        "Why it matters: public companies must disclose risks in detail, so filings like this give outsiders a rare look at how AI labs operate. My read: the growth numbers will draw investors, while the incident reports will feed the debate over whether AI testing needs outside rules."
+        "The US central bank's rate-setting committee voted 10 to 2 on Wednesday to leave its benchmark rate at 3.75% to 4%[^1]. Governor Lisa Cook and Cleveland Fed President Beth Hammack both preferred a quarter-point hike[^1]. It was the first time since 1992 that a governor and a regional bank president dissented on the same side[^1]. The Fed had raised rates in September, its first increase in three years[^2].",
+        "The reason is prices. US consumer prices rose 3.7% in the year to September, well above the Fed's 2% goal, partly because fuel costs have climbed during the Middle East conflict[^2]. Chair Kevin Warsh said officials want more data first, and that the \"monetary medicine\" seems to be starting to work, without firm conclusions[^1]. The Fed's statement upgraded its view of the economy to \"expanding at a strong pace\", even though September job gains were weak at 29,000[^1][^2].",
+        "Politics hangs over the decision. Inflation is a top issue in the November 3 midterms, and Deutsche Bank analysts suggested the Fed might prefer to avoid a pre-election hike[^2]. President Trump posted that rates should come down \"fast\"[^2]. Markets put the chance of a December increase near 80%[^2]; the next meeting is December 8 and 9[^14].",
+        "Why it matters: when the Fed raises rates, borrowing gets dearer across the world, and Canada's central bank raised its own rate on the same day. My read: the split vote shows how hard it is to fight inflation caused by an oil shock without slowing a still-growing economy."
       ],
       "differences": null
     },
     {
-      "id": "wmo-record-greenhouse-gases",
-      "heading": "UN weather agency says greenhouse gas levels hit new records in 2025",
+      "id": "israel-count-nears-end",
+      "heading": "Israel's near-final count leaves both blocs short as Arab-led parties hit a record",
+      "date": "2026-10-28",
+      "status": "developing",
+      "summary": "With about 90% of votes counted, Netanyahu's bloc has 53 seats, Eisenkot's 48 and Arab-led parties 19, a record. Netanyahu suggested high Arab turnout was an effort to steal the election; the election committee found no sign of systematic tampering.[^5][^7]",
+      "lead": {
+        "title": "With 90% of votes counted, Netanyahu bloc has 53 seats, Eisenkot's 48; Arab parties surge to 19",
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/",
+        "date": "2026-10-28"
+      },
+      "alsoReported": [
+        {
+          "title": "Israel election results: Netanyahu bloc at 53 seats, Eisenkot bloc at 48 as nearly all votes counted",
+          "outlet": "Ynet News",
+          "url": "https://www.ynetnews.com/article/hjnatbkaml"
+        },
+        {
+          "title": "Israel elections 2026 live",
+          "outlet": "The Jewish Chronicle",
+          "url": "https://www.thejc.com/news/israel/israel-elections-2026-live-results-um05revx"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "By Wednesday night, about 89.8% of votes from Tuesday's election had been counted[^5]. Netanyahu's right-wing and religious bloc stood at 53 of 120 seats, down from 68 in the outgoing parliament, and Gadi Eisenkot's opposition bloc at 48[^5]. A government needs 61[^5]. Likud has 26 seats and Eisenkot's Yashar 21[^5].",
+        "The biggest change is among Arab-led parties: the Joint List and Ra'am together hold about 19 seats, up from 10, the most ever[^5][^6]. Whether they would join or back a government is uncertain[^6]. Yair Golan of the Democrats urges a coalition with them, while Eisenkot speaks of forming a \"Zionist government\"[^5][^6].",
+        "Some 430,000 to 480,000 \"double-envelope\" ballots, mostly from soldiers, are being counted on Thursday and could shift a seat or two[^5]. Official results are due November 4[^5]. President Isaac Herzog, who will choose who gets the first try at forming a government, has urged parties to avoid another election and negotiate \"with an open mind\"[^5][^7].",
+        "Why it matters: the next government will decide Israel's role in a possible new round of strikes on Iran and the next phase of the Gaza truce. My read: neither bloc can govern without a surprising partner, so weeks of bargaining, or even another vote, are realistic."
+      ],
+      "differences": "Netanyahu posted a video suggesting high turnout in Arab areas was part of an effort to \"steal\" the election[^7]. The Central Elections Committee said there were no signs of systematic tampering, and the head of the Shin Bet security service said the vote was run properly[^7]. Eisenkot says the result shows the public wants change and that Netanyahu should step down[^6]."
+    },
+    {
+      "id": "ebola-congo-tops-10000",
+      "heading": "Congo's Ebola outbreak passes 10,000 cases as a vaccine trial begins",
+      "date": "2026-10-28",
+      "status": "developing",
+      "summary": "Congo's health ministry counts 10,141 cases and nearly 5,000 deaths in the country's largest Ebola outbreak. There is no approved vaccine for this strain, and a trial has started in Bunia; Kenya has nine cases.[^12][^13]",
+      "lead": {
+        "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+        "outlet": "UN News",
+        "url": "https://news.un.org/en/story/2026/10/1168689",
+        "date": "2026-10-28"
+      },
+      "alsoReported": [
+        {
+          "title": "Ebola outbreak in Congo nears 10,000 confirmed cases as first vaccine trial begins",
+          "outlet": "NationofChange",
+          "url": "https://www.nationofchange.org/2026/10/28/ebola-outbreak-in-congo-nears-10000-confirmed-cases-as-first-vaccine-trial-begins/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "As of Monday, the Democratic Republic of the Congo had recorded 10,141 Ebola cases and nearly 5,000 deaths, according to its health ministry, cited by the World Health Organization (WHO)[^12]. More than 2,600 people have recovered[^12]. It is Congo's 17th Ebola outbreak and its largest, and the second-largest anywhere after West Africa's 2014-2016 epidemic[^12]. Cases have been found in eight provinces; Ituri, in the northeast, is the centre[^12][^13].",
+        "This outbreak is caused by the Bundibugyo virus, a rarer kind of Ebola with no approved vaccine or specific treatment[^12]. The vaccine used in past outbreaks, Ervebo, targets a different strain, and WHO says it is not known whether it protects against this one[^13]. A trial called TUMAINI began on October 23 in Bunia to test it and other candidates[^12][^13]. Doses go first to close contacts of patients, a method called ring vaccination[^12].",
+        "The virus has crossed borders. Kenya has nine cases and two deaths, all linked to a man who travelled from Congo through Uganda; Nigeria reported a case in Abuja on October 20[^12][^13]. WHO rates the risk as very high in Congo, high for neighbours and low elsewhere, and advises against travel bans[^13].",
+        "Why it matters: eastern Congo is also living with armed conflict, hunger and displacement, which makes contact tracing hard; only about 80% of contacts are being followed, against a 95% target[^12][^13]. WHO says progress is being made but that sustained effort is essential[^12]."
+      ],
+      "differences": null
+    },
+    {
+      "id": "flavio-bolsonaro-leaves-brazil",
+      "heading": "Brazil's defeated candidate Flávio Bolsonaro flies to the US as courts investigate him",
+      "date": "2026-10-28",
+      "status": "developing",
+      "summary": "Days after losing the October 25 runoff to President Lula by about 4.4 million votes, Flávio Bolsonaro left Brazil and landed in Miami. Brazil's Supreme Court had ordered him to hand over his passports in a corruption probe.[^8][^9]",
+      "lead": {
+        "title": "Defeated Brazilian candidate Flávio Bolsonaro arrives in U.S. amid investigation",
+        "outlet": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/watch-defeated-brazilian-candidate-flavio-bolsonaro-arrives-in-u-s-amid-investigation",
+        "date": "2026-10-28"
+      },
+      "alsoReported": [
+        {
+          "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Luiz Inácio Lula da Silva won Brazil's presidential runoff on October 25 by about 4.4 million votes over Senator Flávio Bolsonaro, son of former president Jair Bolsonaro[^8][^9]. Flávio Bolsonaro first refused to accept the result and talked of seeking to annul it; on Monday his Liberal Party said it accepted the outcome[^8].",
+        "Brazil's Supreme Court is investigating him in two cases involving alleged corruption, money laundering and tax evasion, and it ordered him to surrender his passports[^9]. He denies wrongdoing[^8]. After travelling through Argentina and Ecuador, he and his family landed in Miami on Wednesday; the US had said it would grant them visas[^9]. It is unclear whether he handed over his passports; allies say he also holds an Italian one[^9].",
+        "His Senate term ends on January 31, 2027, which also ends the special right of sitting lawmakers to be tried only by the Supreme Court[^9]. His brother Eduardo, who lives in the US, was convicted in absentia in June for illegally lobbying the Trump administration[^8].",
+        "Why it matters: Brazil is Latin America's largest democracy, and its last two elections have been followed by fights over whether losers accept the result. My read: how Washington treats a politician facing charges at home will shape US-Brazil relations in Lula's new term."
+      ],
+      "differences": "Trump called the election \"rigged\" and \"strange and terrible\"; Al Jazeera notes no evidence of fraud has emerged[^8][^9]. Lula called the departure shameful and said Bolsonaro should have stayed to clear his name[^8]. US Representative Joaquin Castro, a Democrat, asked whether the administration helped him leave and said losing an election is not grounds for asylum[^8]."
+    },
+    {
+      "id": "nordic-leaders-call-putin",
+      "heading": "Finland and Norway's leaders phone Putin, splitting Ukraine's Nordic allies",
       "date": "2026-10-27",
       "status": "confirmed",
-      "summary": "The World Meteorological Organization's annual bulletin says carbon dioxide averaged 426.8 parts per million in 2025, with methane and nitrous oxide also at records. It expects CO2 to keep rising in 2026, ahead of the COP31 climate talks in November.[^9][^10]",
+      "summary": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held a 90-minute call with Vladimir Putin urging an end to the war. Denmark's and Sweden's leaders criticised the move as uncoordinated.[^10]",
       "lead": {
-        "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-        "outlet": "UN News",
-        "url": "https://news.un.org/en/story/2026/10/1168677",
+        "title": "Putin call pits Finland and Norway against Denmark and Sweden",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden",
         "date": "2026-10-27"
       },
       "alsoReported": [
         {
-          "title": "Record greenhouse gases trap in more heat for the future",
-          "outlet": "World Meteorological Organization",
-          "url": "https://wmo.int/secretariat/ko-barrett/record-greenhouse-gases-trap-more-heat-future"
+          "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
+          "outlet": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/news/world/2026/10/28/ukraine039s-zelenskiy-says-territory-recaptured-forces-on-the-offensive"
         }
       ],
-      "eventId": null,
+      "eventId": "ukraine-war",
       "article": [
-        "The WMO's Greenhouse Gas Bulletin, released on Tuesday, says the global average concentration of carbon dioxide reached 426.8 parts per million (ppm) in 2025, about 153% of the level before industrialisation began around 1750[^9]. When the bulletin was first published in 2004, the figure was 377.5 ppm[^10]. Methane and nitrous oxide, the next two most important long-lived warming gases, also set records[^9].",
-        "CO2 rose by 2.8 ppm from 2024 to 2025, less than the record 3.5 ppm jump the year before[^9]. The WMO links that earlier surge to a strong El Niño, a natural warming of the Pacific that brought drought and wildfires, which reduced how much carbon forests and soils could absorb[^9]. Roughly half of the CO2 emitted each year stays in the air; land and oceans take up the rest[^9].",
-        "The agency expects concentrations to keep rising in 2026, from continued fossil-fuel burning and a developing El Niño[^9]. It also flagged hydrogen leaks from the energy transition as a possible new source of warming[^9]. \"Every additional part per million matters because it traps additional heat,\" said WMO deputy head Ko Barrett[^9].",
-        "Why it matters: concentrations, unlike yearly emissions, show what has built up in the atmosphere, and CO2 stays for centuries. A separate UN report last week said warming will now pass 1.5°C, but deep, fast cuts could bring it back down later this century[^11]. Both feed into COP31 in Antalya, Türkiye, from November 9 to 20[^9]."
+        "On Tuesday, Stubb and Støre spoke with Putin for 90 minutes at their own initiative and urged him to end the full-scale invasion and negotiate seriously[^10]. They said they spoke for their own countries, not for Europe, and briefed Ukraine's President Volodymyr Zelenskyy afterward; he thanked them for their support[^10]. Euronews reports that the Kremlin's account repeated Putin's hard-line terms[^10].",
+        "The call broke an unusual Nordic consensus. Denmark's Prime Minister Mette Frederiksen said it was not coordinated with other Europeans and compared it with Hungarian leader Viktor Orbán's past trip to Moscow[^10]. Sweden's Prime Minister Ulf Kristersson warned that splitting Europe's voice is risky, though talks that push Russia toward peace on Ukraine's terms would be welcome[^10]. Støre argued that Europe should talk to Russia to complement Washington, which sees the war differently[^10].",
+        "On the battlefield, Zelenskyy said on Tuesday that Ukrainian forces had retaken ground, including near Kupiansk, where troops turned Russia's use of underground gas pipelines against it[^11]. Russian commanders say they are advancing along the front; neither side's claims could be independently checked[^11].",
+        "Why it matters: Europe pays a growing share of Ukraine's support, so who speaks for Europe with Moscow matters. My read: this is a quarrel over method, not goals, but it shows how hard a common European line becomes as US mediation shifts."
       ],
-      "differences": null
-    },
-    {
-      "id": "uk-sanctions-sudan-el-fasher",
-      "heading": "A year after El Fasher fell, the UK sanctions 15 Sudanese commanders from both sides",
-      "date": "2026-10-26",
-      "status": "confirmed",
-      "summary": "On the first anniversary of the Rapid Support Forces' capture of El Fasher, Britain froze assets of and banned travel by 15 commanders from both the RSF and Sudan's army over alleged atrocities, and pledged £15 million in aid.[^12][^13]",
-      "lead": {
-        "title": "UK sanctions Sudan commanders for sexual violence in El-Fasher",
-        "outlet": "The New Arab",
-        "url": "https://www.newarab.com/news/uk-sanctions-sudan-commanders-sexual-violence-el-fasher",
-        "date": "2026-10-27"
-      },
-      "alsoReported": [
-        {
-          "title": "UK Sanctions 15 Sudanese Commanders Over El Fasher Atrocities",
-          "outlet": "Darfur24",
-          "url": "https://darfur24.com/en/2026/10/27/uk-sanctions-15-sudanese-commanders-over-el-fasher-atrocities/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Sudan's war began in April 2023 as a power struggle between the army (SAF) and the Rapid Support Forces (RSF), a paramilitary group that grew out of militias accused of genocide in Darfur in the 2000s[^12]. A year ago, after an 18-month siege, the RSF captured El Fasher, the last army-held city in Darfur[^12][^13]. The UN estimates at least 6,000 people were killed there between October 25 and 27, 2025[^12].",
-        "On Monday the UK announced asset freezes and travel bans on 15 commanders from both forces[^12][^13]. It named Hussein Abu Jalak, an RSF colonel, and Al-Nour Ahmed Adam, known as \"Al-Qubba\", who is said to have had a leading role in the assault and reportedly later switched to the army's side[^13]. The UK also pledged £5 million for survivors of sexual violence and £10 million in wider aid[^13].",
-        "A UK-funded investigation by the Centre for Information Resilience reported that both sides still use starvation, blockades and sexual violence as weapons of war[^12][^13]. Foreign Secretary Ed Miliband called them \"crimes against humanity\" and said outside backers of the warring parties must stop their support[^13]. The RSF has been accused of receiving heavy backing from the United Arab Emirates[^12].",
-        "The fighting continues. A drone strike in Nyala killed at least 21 people on Monday, and an RSF drone strike cut power to Khartoum on Tuesday, according to a roundup of wire reports[^14]. My read: sanctions on individuals are mostly symbolic unless the countries supplying weapons change course."
-      ],
-      "differences": null
+      "differences": "Finland and Norway present the call as complementing US diplomacy[^10]; Denmark says there is no sign Russia wants peace and that Europe must speak with one voice[^10]. Kyiv welcomed the call[^10]."
     }
   ],
   "question": {
-    "type": "assumption",
-    "text": "In Israel, Tuesday night's exit polls and Wednesday morning's partial count told different stories. What do we quietly assume when we treat an early number as the result, and where else in today's news might early numbers be shaping what people believe?"
+    "type": "second-order",
+    "text": "Central banks in Ottawa and Washington both say energy prices are now their main inflation worry. If new strikes on Iran pushed oil higher again, trace how that could reach a Toronto family's budget. Which link in that chain is the least certain, and why?"
   },
   "read": {
-    "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-    "outlet": "UN News",
-    "url": "https://news.un.org/en/story/2026/10/1168634",
-    "kind": "news",
+    "title": "Canada-EU summit: What do both sides want, and what's at stake?",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake",
+    "kind": "analysis",
     "minutes": 6,
-    "summary": "A clear walk through the UN's 2026 Emissions Gap Report: why warming will pass 1.5°C, what 'overshoot' means, and how fast emissions would need to fall to bring it back."
+    "summary": "A clear explainer on why Canada and the EU are drawing closer as Carney hosts EU leaders in Montréal, what each side wants, and what an 'associate' tie could mean."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "The Jerusalem Post",
-      "title": "With over 2 million votes counted, Netanyahu pulls ahead of Eisenkot but fails to reach 61",
-      "url": "https://www.jpost.com/israel-election-2026/article-913053",
+      "outlet": "Fortune",
+      "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+      "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
       "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Ynet News",
-      "title": "Israel election exit polls: Opposition edges Netanyahu, Likud largest as Arab parties surge",
-      "url": "https://www.ynetnews.com/article/skd97fc2gl",
-      "date": "2026-10-27",
+      "outlet": "ABC News",
+      "title": "Federal Reserve holds interest rates steady as midterm elections loom",
+      "url": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Israel National News",
-      "title": "Official results with 37.4% of votes counted: Coalition drops to 57 seats",
-      "url": "https://www.israelnationalnews.com/flashes/696252",
+      "outlet": "The New Arab",
+      "title": "US warns Gulf states to brace for 'intense' Iran war after midterms",
+      "url": "https://www.newarab.com/news/us-warns-gulf-intense-return-iran-war-after-midterms",
       "date": "2026-10-28",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Al Jazeera (Reuters)",
-      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
-      "date": "2026-10-26",
+      "outlet": "Middle East Eye",
+      "title": "US warns Gulf of intense strikes on Iran after midterms: Report",
+      "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Euronews",
-      "title": "Egypt's parliament approves military support for Saudi Arabia amid Houthi attacks",
-      "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
-      "date": "2026-10-27",
+      "outlet": "The Times of Israel",
+      "title": "With 90% of votes counted, Netanyahu bloc has 53 seats, Eisenkot's 48; Arab parties surge to 19",
+      "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "CBS News",
-      "title": "Live Updates: 8-month Iran war looms over Israeli election as Egypt wades into Saudi's fight with the Houthis",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-      "date": "2026-10-27",
+      "outlet": "Ynet News",
+      "title": "Israel election results: Netanyahu bloc at 53 seats, Eisenkot bloc at 48 as nearly all votes counted",
+      "url": "https://www.ynetnews.com/article/hjnatbkaml",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "TheWrap",
-      "title": "Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing",
-      "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/",
-      "date": "2026-10-26",
+      "outlet": "The Jewish Chronicle",
+      "title": "Israel elections 2026 live",
+      "url": "https://www.thejc.com/news/israel/israel-elections-2026-live-results-um05revx",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Reuters (via Yahoo Finance Canada)",
-      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
-      "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html",
-      "date": "2026-10-26",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "UN News",
-      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-      "url": "https://news.un.org/en/story/2026/10/1168677",
+      "outlet": "Al Jazeera",
+      "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
+      "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
+      "id": 9,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Defeated Brazilian candidate Flávio Bolsonaro arrives in U.S. amid investigation",
+      "url": "https://www.pbs.org/newshour/world/watch-defeated-brazilian-candidate-flavio-bolsonaro-arrives-in-u-s-amid-investigation",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
       "id": 10,
-      "outlet": "World Meteorological Organization",
-      "title": "Record greenhouse gases trap in more heat for the future",
-      "url": "https://wmo.int/secretariat/ko-barrett/record-greenhouse-gases-trap-more-heat-future",
+      "outlet": "Euronews",
+      "title": "Putin call pits Finland and Norway against Denmark and Sweden",
+      "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden",
       "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "UN News",
-      "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-      "url": "https://news.un.org/en/story/2026/10/1168634",
-      "date": "2026-10-21",
-      "singleSource": false
+      "outlet": "The Star (Reuters)",
+      "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
+      "url": "https://www.thestar.com.my/news/world/2026/10/28/ukraine039s-zelenskiy-says-territory-recaptured-forces-on-the-offensive",
+      "date": "2026-10-28",
+      "singleSource": true
     },
     {
       "id": 12,
-      "outlet": "The New Arab",
-      "title": "UK sanctions Sudan commanders for sexual violence in El-Fasher",
-      "url": "https://www.newarab.com/news/uk-sanctions-sudan-commanders-sexual-violence-el-fasher",
-      "date": "2026-10-27",
+      "outlet": "UN News",
+      "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+      "url": "https://news.un.org/en/story/2026/10/1168689",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Darfur24",
-      "title": "UK Sanctions 15 Sudanese Commanders Over El Fasher Atrocities",
-      "url": "https://darfur24.com/en/2026/10/27/uk-sanctions-15-sudanese-commanders-over-el-fasher-atrocities/",
-      "date": "2026-10-27",
+      "outlet": "NationofChange",
+      "title": "Ebola outbreak in Congo nears 10,000 confirmed cases as first vaccine trial begins",
+      "url": "https://www.nationofchange.org/2026/10/28/ebola-outbreak-in-congo-nears-10000-confirmed-cases-as-first-vaccine-trial-begins/",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Foreign Exchanges",
-      "title": "World roundup: October 27 2026",
-      "url": "https://www.foreignexchanges.news/p/world-roundup-october-27-2026",
-      "date": "2026-10-27",
-      "singleSource": true
+      "outlet": "Federal Reserve",
+      "title": "December 2026 calendar",
+      "url": "https://www.federalreserve.gov/newsevents/2026-december.htm",
+      "date": "2026-10-28",
+      "singleSource": false
     }
   ]
 }

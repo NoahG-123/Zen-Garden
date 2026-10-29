@@ -1,52 +1,60 @@
 {
-  "date": "2026-10-28",
-  "summary": "The Bank of Canada decides on rates this morning with a hike expected, Carney says his Indian Act review may not end in repeal, and EU leaders arrive in Montréal Thursday.",
+  "date": "2026-10-29",
+  "summary": "The Bank of Canada raises its rate to 2.5% and warns more may come as oil keeps prices high, and Carney hosts EU leaders in Montréal to start talks on a closer alliance.",
   "body": [
-    "The Bank of Canada announces its interest-rate decision at 9:45 a.m. today. In a Reuters poll last week, 19 of 34 economists expected it to raise its key rate by a quarter point to 2.50%, which would be its first rate change in a year [^1]. The reason is prices: inflation rose to 3.1% in September, just above the bank's 1% to 3% target range, and oil near US$117 a barrel has pushed fuel costs up [^1]. A hike would make borrowing dearer for families with variable-rate mortgages, car loans and lines of credit, while growth is already slowing [^1]. The US Federal Reserve also decides this afternoon.",
-    "A day after saying he wanted to move \"beyond\" the Indian Act, Prime Minister Mark Carney said on Tuesday that the review has no \"fixed conclusion\" and may not end in repeal [^2]. Ottawa will work with First Nations and the provinces on possible replacements [^2]. The 1876 law gives Ottawa broad powers over who has Indian status and what reserves can do; most chiefs see it as outdated, but there is little agreement on whether to scrap it [^2].",
-    "On Thursday and Friday, Carney hosts EU Commission President Ursula von der Leyen and European Council President António Costa in Montréal. They are expected to discuss trade, energy, critical minerals and defence, and a draft statement proposes studying long-term Canadian LNG (liquefied natural gas) exports to Europe [^3]."
+    "The Bank of Canada raised its key interest rate on Wednesday by a quarter point to 2.5%, its first increase since 2023 [^1][^2]. It said inflation is higher and more stubborn than it expected in July: prices have risen about 3% a year since April and could reach about 3.5% by year-end, mostly because of high oil prices during the eighth month of the Middle East conflict [^1]. Without gasoline, inflation was 2.2% in September [^1]. Governor Tiff Macklem said the hike is meant to stop high energy costs from spilling into other prices, and the bank warned there \"could be a need\" to raise rates again [^1][^2]. The next decision is December 9 [^1].",
+    "What it means at home: people with variable-rate mortgages and lines of credit feel a hike first [^2]. The bank expects the economy to grow just 1% this year, slowed by new US tariffs, with unemployment around 6.5% [^1]. Economist Trevor Tombe estimated for The Hub that high oil prices could cost the average household about $500 a year at the pump and another $500 in food, flights and other energy-linked goods [^2].",
+    "Today and Friday, Prime Minister Mark Carney hosts EU leaders Ursula von der Leyen and António Costa in Montréal, ten years after the Canada-EU trade deal was signed [^3]. They plan to launch talks on an \"Alliance for the Future\" covering trade, defence, critical minerals, technology and research, possibly including Canadian students joining the EU's Erasmus+ exchange program [^3][^4]. Von der Leyen has floated \"associate\" membership, a status that does not exist in EU law; Carney has ruled out joining the EU and says the label matters less than the benefits [^3][^4]."
   ],
-  "differences": "On the Indian Act, Manitoba Premier Wab Kinew calls the law a \"race-based form of identification\" that should be abolished, while Carney says the process is open-ended and First Nations views differ [^2].",
+  "differences": "Trump has suggested a closer Canada-EU tie could be hostile and threatened tariffs on Europe; Canadian officials say it is not aimed at the US [^4]. In Europe, an analyst says France and Germany dislike the \"associate member\" label [^4]. At home, Conservative critic Michelle Rempel Garner wants clarity on effects on jobs and housing [^3].",
   "reads": [
     {
-      "title": "Carney says Ottawa's Indian Act review might not end up abolishing the law",
-      "outlet": "CP24 (The Canadian Press)",
-      "url": "https://www.cp24.com/news/canada/2026/10/27/carney-says-ottawas-indian-act-review-might-not-end-up-abolishing-the-law/",
-      "kind": "news",
-      "summary": "What the Indian Act does, why Carney is now stressing that a review may not end in repeal, and where First Nations leaders and premiers stand."
+      "title": "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
+      "outlet": "The Hub",
+      "url": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/",
+      "kind": "analysis",
+      "summary": "Why the bank raised rates into a slowing economy, what oil prices cost households, and how fuel costs could shape Canadian politics."
     },
     {
-      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
-      "outlet": "Kitco News (Reuters)",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-10-23/bank-canada-raise-rates-250-october-28-and-once-again-end-march",
+      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
+      "outlet": "The Boston Globe (AP)",
+      "url": "https://www.bostonglobe.com/2026/10/29/world/canada-eu-summit/",
       "kind": "news",
-      "summary": "Why most economists expected the Bank of Canada to raise rates today, and what inflation, oil prices and slowing growth mean for the decision."
+      "summary": "What Canada and the EU hope to agree in Montréal, why the 'associate member' idea is contested, and how Trump's tariffs frame it."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Kitco News (Reuters)",
-      "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-10-23/bank-canada-raise-rates-250-october-28-and-once-again-end-march",
-      "date": "2026-10-23",
+      "outlet": "Bank of Canada",
+      "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+      "date": "2026-10-28",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Carney says Ottawa's Indian Act review might not end up abolishing the law",
-      "url": "https://www.cp24.com/news/canada/2026/10/27/carney-says-ottawas-indian-act-review-might-not-end-up-abolishing-the-law/",
-      "date": "2026-10-27",
+      "outlet": "The Hub",
+      "title": "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
+      "url": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/",
+      "date": "2026-10-29",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "EUobserver",
-      "title": "THIS WEEK: the EU's new Canada offer, cash for farmers and Russia's Lavrov returns to G20?",
-      "url": "https://euobserver.com/244625/this-week-the-eus-new-canada-offer-cash-for-farmers-and-trumps-diesel-deal/",
-      "date": "2026-10-26",
-      "singleSource": true
+      "outlet": "Global News (The Canadian Press)",
+      "title": "Canada-EU summit will kick off formal talks on closer ties: Carney",
+      "url": "https://globalnews.ca/news/12122899/canada-eu-summit-carney-talks/",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Boston Globe (AP)",
+      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
+      "url": "https://www.bostonglobe.com/2026/10/29/world/canada-eu-summit/",
+      "date": "2026-10-29",
+      "singleSource": false
     }
   ]
 }

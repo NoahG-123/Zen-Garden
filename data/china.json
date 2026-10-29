@@ -1,52 +1,36 @@
 {
-  "date": "2026-10-28",
-  "summary": "A chili-sauce maker's reported AI job cuts spark a national debate days after Beijing told employers to soften AI's hit to jobs, and fingerprints suggest women and teens built the Terracotta Army.",
+  "date": "2026-10-29",
+  "summary": "Fewer people are cleared to sit China's civil service exam for the first time in seven years, but about 97 still compete for each job as young graduates seek security.",
   "body": [
-    "Lao Gan Ma, one of China's best-known chili sauce brands, is facing a public backlash over reports that AI replaced most of a production line's workers [^1]. Domestic outlets reported that a senior executive told a business conference that an AI pepper-inspection system cut one line from more than 600 workers to 48 [^1]. The company's HR staff told media on Oct. 26 that he did not mention staffing numbers, but business-registry data show insured employees falling from nearly 3,000 in 2022 to 740 in 2025, though that alone does not prove AI was the cause [^1]. A related Weibo hashtag passed 120 million views; some users called automation normal progress, others called for a boycott [^1]. The story stings partly because the founder, whose face is on every jar, started out as a laid-off worker selling noodles from a street stall [^1].",
-    "The timing matters. On Oct. 23 China's State Council, its cabinet, issued guidelines asking officials to monitor AI-related job risks, support re-employment where AI causes \"significant disruption,\" retrain displaced workers, and curb algorithm misuse in hiring [^2]. Sixth Tone reports the guidelines also ask employers in labour-intensive industries to roll out AI cautiously and give advance notice [^1]. My read: Beijing wants fast AI adoption without the social shock, and companies like this one are where those goals collide.",
-    "And in archaeology, a study of 79 fingerprints left in the clay of the Terracotta Army, the roughly 8,000 figures guarding China's first emperor's tomb, estimates that about a third came from women and about a fifth from children under 15 [^3]. The authors caution that the method has limits, including a reference database built from European rather than East Asian prints [^3]."
+    "Nearly 3.94 million people signed up this month for China's national civil service exam, which fills jobs in central government bodies [^1][^2]. After screening, about 3.45 million were approved to sit it, the first fall in seven years, down 7.2% from 3.72 million last year [^1]. Caixin says the drop seems to come from tighter checks, including new identity verification against fraudulent sign-ups, not weaker interest [^1][^2]. The government plans to hire about 35,700 people, roughly 2,400 fewer than last year, so there are about 97 approved candidates for every opening, and far more for some county-level posts [^1][^2].",
+    "Why young people line up: a government post is known as an \"iron rice bowl\" because it is seen as secure for life. China expects a record 12.7 million university graduates this year, and the unemployment rate for urban 16- to 24-year-olds not in school was about 18% in September [^2]. Some graduates have turned to food delivery, freelance or factory work as entry-level openings shrink, with weak consumer demand, a long property slump and worries about AI replacing jobs all in the background [^2]. Since last year the age limit for the exam has been raised from 35 to 38 [^2]. My read: when the most sought-after job in a country is the safest one, that says a lot about how young people see the private economy. It was otherwise a quieter day for China tech news."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "China's Lao Gan Ma Takes the Heat for Alleged Layoffs Due to AI",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019180/china%E2%80%99s-lao-gan-ma-takes-the-heat-for-alleged-layoffs-due-to-ai",
+      "title": "China Civil Service Exam Draws 4 Million Applicants for 35,000 Jobs",
+      "outlet": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/international/2026/10/27/china-civil-service-exam-draws-4-million-applicants-for",
       "kind": "news",
-      "summary": "How a beloved sauce brand became a test case for AI and jobs in China, and why the evidence for the layoffs is still unclear."
-    },
-    {
-      "title": "Women, Teens Helped Build Terracotta Army, Chinese Study Says",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019171/women%2C-teens-helped-build-terracotta-army%2C-chinese-study-says",
-      "kind": "news",
-      "summary": "How researchers read ancient fingerprints to estimate who made the Terracotta Army, and what the study can and cannot show."
+      "summary": "The numbers behind China's civil service exam rush, and how youth unemployment and a tight job market push graduates toward government work."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Sixth Tone",
-      "title": "China's Lao Gan Ma Takes the Heat for Alleged Layoffs Due to AI",
-      "url": "https://www.sixthtone.com/news/1019180/china%E2%80%99s-lao-gan-ma-takes-the-heat-for-alleged-layoffs-due-to-ai",
-      "date": "2026-10-28",
-      "singleSource": true
-    },
-    {
-      "id": 2,
-      "outlet": "Allwork.Space (Reuters)",
-      "title": "China Moves To Protect Workers From AI Job Losses With New Employment Guidelines",
-      "url": "https://allwork.space/2026/10/china-moves-to-protect-workers-from-ai-job-losses-with-new-employment-guidelines/",
-      "date": "2026-10-23",
+      "outlet": "Caixin Global",
+      "title": "China's Civil Service Exam Approvals Fall as Screening Tightens",
+      "url": "https://www.caixinglobal.com/2026-10-29/chinas-civil-service-exam-approvals-fall-as-screening-tightens-102498308.html",
+      "date": "2026-10-29",
       "singleSource": false
     },
     {
-      "id": 3,
-      "outlet": "Sixth Tone",
-      "title": "Women, Teens Helped Build Terracotta Army, Chinese Study Says",
-      "url": "https://www.sixthtone.com/news/1019171/women%2C-teens-helped-build-terracotta-army%2C-chinese-study-says",
+      "id": 2,
+      "outlet": "Seoul Economic Daily",
+      "title": "China Civil Service Exam Draws 4 Million Applicants for 35,000 Jobs",
+      "url": "https://en.sedaily.com/international/2026/10/27/china-civil-service-exam-draws-4-million-applicants-for",
       "date": "2026-10-27",
-      "singleSource": true
+      "singleSource": false
     }
   ]
 }

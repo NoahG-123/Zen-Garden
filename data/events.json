@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-28",
+  "reviewed": "2026-10-29",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Egypt's parliament on Oct 26 authorised military help for Saudi Arabia, if Riyadh asks, against Houthi attacks; Sisi says it is defensive only.[^80] Saudi, Turkish and Pakistani officials held talks in Tehran and agreed only to keep talking.[^73] CNN reports US forces could start major strikes within 96 hours of an order; none has been given.[^74] Trump asks whether to \"make a deal\" or \"finish them off\".[^67]",
+      "standing": "The Wall Street Journal reports the US has told Gulf states to prepare for a short, intense campaign against Iran after the Nov 3 midterms; Trump has not decided.[^83][^84] A US Patriot battery is moving to Israel.[^83] Iran rejected a Qatari proposal and warns it would hit targets across the region.[^84] The IAEA sees no sign Iran rebuilt its nuclear sites but cannot inspect them.[^83] Egypt has authorised help for Saudi Arabia against the Houthis.[^80]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -16,7 +16,7 @@
       "watch": [
         {
           "date": "2026-11-03",
-          "what": "US midterm elections; Trump says no new strikes before them, though a US envoy says one is possible"
+          "what": "US midterm elections; reports say a decision on renewed strikes on Iran could follow soon after"
         },
         {
           "date": "2026-11-04",
@@ -138,7 +138,9 @@
         68,
         73,
         74,
-        80
+        80,
+        83,
+        84
       ]
     },
     {
@@ -147,7 +149,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no general ceasefire.[^8] A local truce around occupied Oleshky took effect on Oct 27 and runs to at least Oct 31, to let aid in and civilians out.[^75] Musk says SpaceX throttled Ukraine's Starlink over drone strikes; Kyiv disputes that, and service was restored Oct 24.[^76] Russia agreed to three-way talks next month; Putin still claims all of Donbas.[^76][^56]",
+      "standing": "The front line is largely frozen and there is no general ceasefire; Zelenskyy says Ukraine retook ground near Kupiansk, while Russia says it is advancing.[^8][^89] A local truce around occupied Oleshky runs to at least Oct 31.[^75] Finland's and Norway's leaders phoned Putin on Oct 27 urging peace talks, drawing criticism from Denmark and Sweden.[^85] Russia agreed to three-way talks next month; Putin still claims all of Donbas.[^76][^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -285,7 +287,9 @@
         62,
         72,
         75,
-        76
+        76,
+        85,
+        89
       ]
     },
     {
@@ -294,7 +298,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. Israel's Oct 27 election left no camp near 61 seats: early counts put Netanyahu's bloc at 53-57 and the opposition near 47, with Arab-led parties at 16-19[^79].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. With about 90% of Israel's Oct 27 vote counted, Netanyahu's bloc has 53 seats, Eisenkot's 48 and Arab-led parties a record 19; none is near the 61 needed to govern[^86].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -302,8 +306,8 @@
       },
       "watch": [
         {
-          "date": "2026-10-30",
-          "what": "Full count of Israel's Oct 27 election due; official results Nov 4, then coalition talks begin"
+          "date": "2026-11-04",
+          "what": "Official Israeli election results; then President Herzog picks who first tries to form a government"
         },
         {
           "date": "2026-12-31",
@@ -409,7 +413,8 @@
         63,
         69,
         77,
-        79
+        79,
+        86
       ]
     },
     {
@@ -418,7 +423,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "US inflation rose to 3.7% in September, up from 2.4% before the Iran war, with gas above $4.30 a gallon, per ABC News[^13]. The Fed raised rates in September and meets again Oct 28[^14][^13]. Carney says trade talks have intensified slightly; White House adviser Kevin Hassett suggests a Canada deal is close[^78]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
+      "standing": "The Fed held rates at 3.75% to 4% on Oct 28, but two officials voted for a hike; markets see about an 80% chance of one in December[^87][^88]. Inflation was 3.7% in September, fuelled partly by fuel prices tied to the Iran war[^88]. Trump demands lower rates[^88]. Carney says trade talks have intensified slightly[^78]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
       "heading": {
         "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
         "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
@@ -426,12 +431,12 @@
       },
       "watch": [
         {
-          "date": "2026-10-28",
-          "what": "Federal Reserve rate decision, days before the midterms; markets see a real chance of another hike"
-        },
-        {
           "date": "2026-11-03",
           "what": "US midterm elections: all House seats and about a third of the Senate are on the ballot"
+        },
+        {
+          "date": "2026-12-09",
+          "what": "Federal Reserve decision after its Dec 8-9 meeting; markets expect a possible hike"
         }
       ],
       "connects": [
@@ -524,7 +529,9 @@
         15,
         16,
         70,
-        78
+        78,
+        87,
+        88
       ]
     },
     {
@@ -1350,6 +1357,62 @@
       "url": "https://ca.finance.yahoo.com/news/anthropic-discloses-month-long-training-161626067.html",
       "date": "2026-10-26",
       "singleSource": false
+    },
+    {
+      "id": 83,
+      "outlet": "The New Arab",
+      "title": "US warns Gulf states to brace for 'intense' Iran war after midterms",
+      "url": "https://www.newarab.com/news/us-warns-gulf-intense-return-iran-war-after-midterms",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 84,
+      "outlet": "Middle East Eye",
+      "title": "US warns Gulf of intense strikes on Iran after midterms: Report",
+      "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 85,
+      "outlet": "Euronews",
+      "title": "Putin call pits Finland and Norway against Denmark and Sweden",
+      "url": "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 86,
+      "outlet": "The Times of Israel",
+      "title": "With 90% of votes counted, Netanyahu bloc has 53 seats, Eisenkot's 48; Arab parties surge to 19",
+      "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 87,
+      "outlet": "Fortune",
+      "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+      "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 88,
+      "outlet": "ABC News",
+      "title": "Federal Reserve holds interest rates steady as midterm elections loom",
+      "url": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 89,
+      "outlet": "The Star (Reuters)",
+      "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
+      "url": "https://www.thestar.com.my/news/world/2026/10/28/ukraine039s-zelenskiy-says-territory-recaptured-forces-on-the-offensive",
+      "date": "2026-10-28",
+      "singleSource": true
     }
   ]
 }
