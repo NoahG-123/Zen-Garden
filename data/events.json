@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "The Wall Street Journal reports the US has told Gulf states to prepare for a short, intense campaign against Iran after the Nov 3 midterms; Trump has not decided.[^83][^84] A US Patriot battery is moving to Israel.[^83] Iran rejected a Qatari proposal and warns it would hit targets across the region.[^84] The IAEA sees no sign Iran rebuilt its nuclear sites but cannot inspect them.[^83] Egypt has authorised help for Saudi Arabia against the Houthis.[^80]",
+      "standing": "Iran's IRGC says three tankers caught fire after hitting mines in Hormuz; this is unconfirmed, and UKMTO reports a separate projectile strike off Oman.[^90][^91] US envoy Tom Barrack calls for \"a time out\" and says the sides are close to an initial understanding; Iran has a letter from Vance but has not replied.[^90] The WSJ reports the US told Gulf states to prepare for strikes after the Nov 3 midterms.[^83]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -140,7 +140,9 @@
         74,
         80,
         83,
-        84
+        84,
+        90,
+        91
       ]
     },
     {
@@ -149,7 +151,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The front line is largely frozen and there is no general ceasefire; Zelenskyy says Ukraine retook ground near Kupiansk, while Russia says it is advancing.[^8][^89] A local truce around occupied Oleshky runs to at least Oct 31.[^75] Finland's and Norway's leaders phoned Putin on Oct 27 urging peace talks, drawing criticism from Denmark and Sweden.[^85] Russia agreed to three-way talks next month; Putin still claims all of Donbas.[^76][^56]",
+      "standing": "A Russian drone killed at least 14 at Dnipro's railway station on Oct 29; Zelenskyy says sanctions must not be eased.[^93] There is no general ceasefire, though a local truce around occupied Oleshky held for a third day.[^93] Finland's and Norway's leaders phoned Putin on Oct 27, drawing criticism from Denmark and Sweden.[^85] Talks with US envoys are planned for next month; Putin still claims all of Donbas.[^76][^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -289,7 +291,8 @@
         75,
         76,
         85,
-        89
+        89,
+        93
       ]
     },
     {
@@ -298,7 +301,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first, Hamas refuses under continued attacks[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. With about 90% of Israel's Oct 27 vote counted, Netanyahu's bloc has 53 seats, Eisenkot's 48 and Arab-led parties a record 19; none is near the 61 needed to govern[^86].",
+      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. With over 85% of Israel's Oct 27 vote counted, Netanyahu's bloc had 53 seats, Eisenkot's 48 and Arab-led parties a record 19; Likud claims, without published proof, that Arab parties \"stole\" the vote, and the election committee is reviewing it[^92].",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -414,7 +417,8 @@
         69,
         77,
         79,
-        86
+        86,
+        92
       ]
     },
     {
@@ -540,7 +544,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Spending is still climbing, but an Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. Anthropic's IPO filing shows $16.3 billion in half-year revenue, a month-long training pause over security, and four test models that reached real outside systems by mistake [^81][^82]. OpenAI says it will train frontier models without live internet access [^64]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
+      "standing": "Google released Gemini 4 Carbon, a cybersecurity-focused model, first to selected defenders only [^94]. Anthropic's IPO filing shows $16.3 billion in half-year revenue and a month-long training pause over security [^81][^82]. An Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -683,7 +687,8 @@
         65,
         71,
         81,
-        82
+        82,
+        94
       ]
     }
   ],
@@ -1413,6 +1418,46 @@
       "url": "https://www.thestar.com.my/news/world/2026/10/28/ukraine039s-zelenskiy-says-territory-recaptured-forces-on-the-offensive",
       "date": "2026-10-28",
       "singleSource": true
+    },
+    {
+      "id": 90,
+      "outlet": "Gulf News",
+      "title": "Middle East war: Iran claims tankers hit mines in Strait of Hormuz, UKMTO confirms strike off Oman; fired US general reportedly admitted Iran leaks",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 91,
+      "outlet": "Kurdistan24",
+      "title": "Iran Says Three Oil Tankers Caught Fire After Hitting Mines in Strait of Hormuz",
+      "url": "https://www.kurdistan24.net/en/story/949344/iran-says-three-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 92,
+      "outlet": "The Times of Israel",
+      "title": "Likud claims election 'stolen' by Arab parties following their record performance",
+      "url": "https://www.timesofisrael.com/likud-claims-election-stolen-by-arab-parties-following-their-record-performance/",
+      "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 93,
+      "outlet": "ABC News (Australia)",
+      "title": "Russian drone strike kills at least 14 on Ukrainian rail platform",
+      "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 94,
+      "outlet": "Khaleej Times (Reuters)",
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+      "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2",
+      "date": "2026-10-28",
+      "singleSource": false
     }
   ]
 }

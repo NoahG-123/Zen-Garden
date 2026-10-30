@@ -1,34 +1,43 @@
 {
-  "date": "2026-10-29",
-  "summary": "Fewer people are cleared to sit China's civil service exam for the first time in seven years, but about 97 still compete for each job as young graduates seek security.",
+  "date": "2026-10-30",
+  "summary": "China's new rich list hits a record, and AI is the biggest driver: DeepSeek's founder debuts at seventh and Shenzhen now has more listed tycoons than any other city.",
   "body": [
-    "Nearly 3.94 million people signed up this month for China's national civil service exam, which fills jobs in central government bodies [^1][^2]. After screening, about 3.45 million were approved to sit it, the first fall in seven years, down 7.2% from 3.72 million last year [^1]. Caixin says the drop seems to come from tighter checks, including new identity verification against fraudulent sign-ups, not weaker interest [^1][^2]. The government plans to hire about 35,700 people, roughly 2,400 fewer than last year, so there are about 97 approved candidates for every opening, and far more for some county-level posts [^1][^2].",
-    "Why young people line up: a government post is known as an \"iron rice bowl\" because it is seen as secure for life. China expects a record 12.7 million university graduates this year, and the unemployment rate for urban 16- to 24-year-olds not in school was about 18% in September [^2]. Some graduates have turned to food delivery, freelance or factory work as entry-level openings shrink, with weak consumer demand, a long property slump and worries about AI replacing jobs all in the background [^2]. Since last year the age limit for the exam has been raised from 35 to 38 [^2]. My read: when the most sought-after job in a country is the safest one, that says a lot about how young people see the private economy. It was otherwise a quieter day for China tech news."
+    "China's richest people are wealthier than ever, and AI is the biggest reason, according to the 2026 Hurun China Rich List, published on Tuesday by the Shanghai-based Hurun Research Institute [^1][^3]. It counts a record 1,529 people worth more than 5 billion yuan (about US$740 million), with combined wealth up 7% to US$4.8 trillion [^1]. Hurun says 160 people on the list, about one in ten, now make their money from AI, and the share from semiconductors also rose [^1]. ByteDance founder Zhang Yiming is first with a record US$99.7 billion [^1][^2].",
+    "The most watched newcomer is Liang Wenfeng, 41, founder of the AI lab DeepSeek, who enters at seventh with about US$42 billion; Hurun values DeepSeek at more than US$50 billion [^2][^3]. He was absent last year because DeepSeek presented itself as a research lab [^3]. Chen Tianshi of chipmaker Cambricon entered the top ten at US$30.5 billion, and Wang Xingxing of robot maker Unitree debuted at 78th [^1][^2]. For the first time, the tech hub of Shenzhen has more list members than any other city, ahead of Shanghai and Beijing [^1]. Some older tech fortunes shrank: Xiaomi's Lei Jun lost US$20.6 billion, and Baidu's Robin Li dropped out of the top 100 [^1].",
+    "My read: these fortunes reflect bets on China building its own AI and chips, and they sit beside a hard job market for young graduates, as yesterday's civil-service exam story showed. Wealth tied to share prices can also fall quickly if enthusiasm for AI cools."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "China Civil Service Exam Draws 4 Million Applicants for 35,000 Jobs",
-      "outlet": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/international/2026/10/27/china-civil-service-exam-draws-4-million-applicants-for",
+      "title": "DeepSeek founder joins China's top 10 richest for first time with $42B fortune",
+      "outlet": "VnExpress International",
+      "url": "https://e.vnexpress.net/news/tech/personalities/deepseek-founder-joins-china-s-top-10-richest-for-first-time-with-42b-fortune-5137698.html",
       "kind": "news",
-      "summary": "The numbers behind China's civil service exam rush, and how youth unemployment and a tight job market push graduates toward government work."
+      "summary": "Who DeepSeek's founder is, why he was missing from last year's list, and the AI and chip names rising on China's 2026 rich list."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Caixin Global",
-      "title": "China's Civil Service Exam Approvals Fall as Screening Tightens",
-      "url": "https://www.caixinglobal.com/2026-10-29/chinas-civil-service-exam-approvals-fall-as-screening-tightens-102498308.html",
-      "date": "2026-10-29",
+      "outlet": "Hurun Report",
+      "title": "Hurun China Rich List 2026",
+      "url": "https://www.hurun.net/en-US/Info/Detail?num=SF2YNXT8GRR3",
+      "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Seoul Economic Daily",
-      "title": "China Civil Service Exam Draws 4 Million Applicants for 35,000 Jobs",
-      "url": "https://en.sedaily.com/international/2026/10/27/china-civil-service-exam-draws-4-million-applicants-for",
+      "outlet": "The Standard (Hong Kong)",
+      "title": "DeepSeek's Liang Wenfeng debuts in 7th place on Hurun China Rich List",
+      "url": "https://www.thestandard.com.hk/finance/article/346657/DeepSeeks-Liang-Wenfeng-debuts-in-7th-place-on-Hurun-China-Rich-List",
+      "date": "2026-10-27",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "VnExpress International",
+      "title": "DeepSeek founder joins China's top 10 richest for first time with $42B fortune",
+      "url": "https://e.vnexpress.net/news/tech/personalities/deepseek-founder-joins-china-s-top-10-richest-for-first-time-with-42b-fortune-5137698.html",
       "date": "2026-10-27",
       "singleSource": false
     }

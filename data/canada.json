@@ -1,59 +1,51 @@
 {
-  "date": "2026-10-29",
-  "summary": "The Bank of Canada raises its rate to 2.5% and warns more may come as oil keeps prices high, and Carney hosts EU leaders in Montréal to start talks on a closer alliance.",
+  "date": "2026-10-30",
+  "summary": "Carney and EU leaders open a Montréal summit aimed at an 'ever closer association', and Ottawa says it will invest up to $1.6 billion in Toronto AI company Cohere.",
   "body": [
-    "The Bank of Canada raised its key interest rate on Wednesday by a quarter point to 2.5%, its first increase since 2023 [^1][^2]. It said inflation is higher and more stubborn than it expected in July: prices have risen about 3% a year since April and could reach about 3.5% by year-end, mostly because of high oil prices during the eighth month of the Middle East conflict [^1]. Without gasoline, inflation was 2.2% in September [^1]. Governor Tiff Macklem said the hike is meant to stop high energy costs from spilling into other prices, and the bank warned there \"could be a need\" to raise rates again [^1][^2]. The next decision is December 9 [^1].",
-    "What it means at home: people with variable-rate mortgages and lines of credit feel a hike first [^2]. The bank expects the economy to grow just 1% this year, slowed by new US tariffs, with unemployment around 6.5% [^1]. Economist Trevor Tombe estimated for The Hub that high oil prices could cost the average household about $500 a year at the pump and another $500 in food, flights and other energy-linked goods [^2].",
-    "Today and Friday, Prime Minister Mark Carney hosts EU leaders Ursula von der Leyen and António Costa in Montréal, ten years after the Canada-EU trade deal was signed [^3]. They plan to launch talks on an \"Alliance for the Future\" covering trade, defence, critical minerals, technology and research, possibly including Canadian students joining the EU's Erasmus+ exchange program [^3][^4]. Von der Leyen has floated \"associate\" membership, a status that does not exist in EU law; Carney has ruled out joining the EU and says the label matters less than the benefits [^3][^4]."
+    "Prime Minister Mark Carney opened a two-day Canada-EU summit in Montréal on Thursday with European Commission President Ursula von der Leyen and European Council President António Costa [^2][^3]. The two sides are working toward an \"Alliance for the Future\" covering trade, critical minerals, energy, AI, research and security, including Canadian access to EU programs such as Horizon research funding and Erasmus exchanges [^1][^3]. Carney said Canada is working to become an \"associate member\" of the EU, while ruling out full membership and saying any deeper partnership would face a vote in Parliament; von der Leyen called it \"an association without accession\" [^1][^3]. Hours before the trip, Germany pushed to take \"associate membership\" out of the joint declaration, which now speaks of \"ever closer association\" [^1].",
+    "The concrete pieces so far: Costa said a digital trade agreement would be approved today, and von der Leyen said a deal would give Canadian companies and researchers access to the EU's 12 supercomputers [^2][^3]. Carney also announced that Ottawa will invest up to $1.6 billion in Cohere, a Toronto AI company, which will in turn invest at least $1.7 billion in new computing infrastructure in Canada; the government would not say how large a stake it gets [^2][^3]. The EU also wants Canada to help close a €70-billion gap in Ukraine's 2027 budget [^1].",
+    "Why it matters at home: the US bought 71.7% of Canada's goods exports last year, so closer ties with Europe are a way to spread that risk [^3]. A TD Bank report found demand for nearly $60 billion more in Canadian exports to the EU [^2]. My read: the deals are real but modest so far, and what \"associate\" status means in practice depends on what is signed today."
   ],
-  "differences": "Trump has suggested a closer Canada-EU tie could be hostile and threatened tariffs on Europe; Canadian officials say it is not aimed at the US [^4]. In Europe, an analyst says France and Germany dislike the \"associate member\" label [^4]. At home, Conservative critic Michelle Rempel Garner wants clarity on effects on jobs and housing [^3].",
+  "differences": "Trump has suggested the arrangement could be a \"hostile act\" and threatened tariffs on Europe, though on Thursday he said Canada had been treating the US \"extremely nicely\" lately [^2][^3]. Carney says the US will \"see the benefit\" [^2]. In Europe, France and Germany are uneasy with the \"associate member\" label [^1][^3].",
   "reads": [
     {
-      "title": "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
-      "outlet": "The Hub",
-      "url": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/",
-      "kind": "analysis",
-      "summary": "Why the bank raised rates into a slowing economy, what oil prices cost households, and how fuel costs could shape Canadian politics."
+      "title": "EU and Canada to seal new alliance in Montréal under Trump's shadow",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow",
+      "kind": "news",
+      "summary": "What the EU and Canada hope to sign in Montréal, from minerals and AI to Ukraine funding, and why Germany objected to the 'associate membership' wording."
     },
     {
-      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
-      "outlet": "The Boston Globe (AP)",
-      "url": "https://www.bostonglobe.com/2026/10/29/world/canada-eu-summit/",
+      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats",
+      "outlet": "The Korea Times (AP)",
+      "url": "https://www.koreatimes.co.kr/world/20261030/carney-top-eu-official-push-canada-associate-membership-and-wider-alliance-against-trump-threats",
       "kind": "news",
-      "summary": "What Canada and the EU hope to agree in Montréal, why the 'associate member' idea is contested, and how Trump's tariffs frame it."
+      "summary": "AP's account of day one: Carney's case for sovereignty, the supercomputer and Cohere announcements, and Trump's tariff threats in the background."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Bank of Canada",
-      "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
-      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
-      "date": "2026-10-28",
+      "outlet": "Euronews",
+      "title": "EU and Canada to seal new alliance in Montréal under Trump's shadow",
+      "url": "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Hub",
-      "title": "Bank of Canada raises rate to 2.5% as oil shock lifts inflation outlook",
-      "url": "https://thehub.ca/2026/10/29/bank-of-canada-raises-rate-to-2-5-as-oil-shock-lifts-inflation-outlook/",
+      "outlet": "BNN Bloomberg (CTV News)",
+      "title": "PM Carney, von der Leyen float 'associate member' status at Canada-EU summit",
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/10/30/pm-carney-von-der-leyen-float-associate-member-status-at-canada-eu-summit/",
       "date": "2026-10-29",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Global News (The Canadian Press)",
-      "title": "Canada-EU summit will kick off formal talks on closer ties: Carney",
-      "url": "https://globalnews.ca/news/12122899/canada-eu-summit-carney-talks/",
-      "date": "2026-10-27",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "The Boston Globe (AP)",
-      "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
-      "url": "https://www.bostonglobe.com/2026/10/29/world/canada-eu-summit/",
-      "date": "2026-10-29",
+      "outlet": "The Korea Times (AP)",
+      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats",
+      "url": "https://www.koreatimes.co.kr/world/20261030/carney-top-eu-official-push-canada-associate-membership-and-wider-alliance-against-trump-threats",
+      "date": "2026-10-30",
       "singleSource": false
     }
   ]
