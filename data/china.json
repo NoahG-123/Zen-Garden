@@ -1,43 +1,52 @@
 {
-  "date": "2026-10-30",
-  "summary": "China's new rich list hits a record, and AI is the biggest driver: DeepSeek's founder debuts at seventh and Shenzhen now has more listed tycoons than any other city.",
+  "date": "2026-10-31",
+  "summary": "China's factories shrank again in October as holiday spending faded and export orders fell, while AI-linked companies kept booming and AI stocks kept falling.",
   "body": [
-    "China's richest people are wealthier than ever, and AI is the biggest reason, according to the 2026 Hurun China Rich List, published on Tuesday by the Shanghai-based Hurun Research Institute [^1][^3]. It counts a record 1,529 people worth more than 5 billion yuan (about US$740 million), with combined wealth up 7% to US$4.8 trillion [^1]. Hurun says 160 people on the list, about one in ten, now make their money from AI, and the share from semiconductors also rose [^1]. ByteDance founder Zhang Yiming is first with a record US$99.7 billion [^1][^2].",
-    "The most watched newcomer is Liang Wenfeng, 41, founder of the AI lab DeepSeek, who enters at seventh with about US$42 billion; Hurun values DeepSeek at more than US$50 billion [^2][^3]. He was absent last year because DeepSeek presented itself as a research lab [^3]. Chen Tianshi of chipmaker Cambricon entered the top ten at US$30.5 billion, and Wang Xingxing of robot maker Unitree debuted at 78th [^1][^2]. For the first time, the tech hub of Shenzhen has more list members than any other city, ahead of Shanghai and Beijing [^1]. Some older tech fortunes shrank: Xiaomi's Lei Jun lost US$20.6 billion, and Baidu's Robin Li dropped out of the top 100 [^1].",
-    "My read: these fortunes reflect bets on China building its own AI and chips, and they sit beside a hard job market for young graduates, as yesterday's civil-service exam story showed. Wealth tied to share prices can also fall quickly if enthusiasm for AI cools."
+    "China's official manufacturing purchasing managers' index (PMI), a monthly survey of factory managers, fell to 49.3 in October from 50.1 in September, the National Bureau of Statistics said on Saturday [^1][^2]. A reading below 50 means activity is shrinking; economists polled by Reuters had expected 50.0 [^1]. It is the third contraction in four months, and a similar index for services and construction also slipped below 50, to 49.7 [^1][^2]. New orders fell, and export orders stayed weak [^1][^3].",
+    "The reasons given: Christmas export orders were placed early, in September; the spending boost from the early-October National Day holiday faded; and demand at home is weak [^1]. \"Insufficient demand is increasing downward pressure on the economy,\" said Zhang Liqun of the government-linked China Federation of Logistics and Purchasing [^1]. China's economy grew 4.5% in the third quarter, at the bottom of this year's 4.5% to 5% target range [^2].",
+    "The picture is split. Makers of trains, ships, aircraft and electronics reported strong readings, and AI-linked firms are booming, while companies tied to housing struggle; furniture maker Oppein's profit fell 80% [^1]. Investors are cooling too: the STAR50 index of Chinese AI and chip stocks has fallen about 40% in under four months, wiping out about US$480 billion, Reuters reports [^4].",
+    "My read: for ordinary families, weak demand at home shows up as cautious spending and a hard job market, even as the country pours money into AI and chips. Whether Beijing adds more support, such as the mortgage subsidies some economists suggest, is the thing to watch [^1]."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "DeepSeek founder joins China's top 10 richest for first time with $42B fortune",
-      "outlet": "VnExpress International",
-      "url": "https://e.vnexpress.net/news/tech/personalities/deepseek-founder-joins-china-s-top-10-richest-for-first-time-with-42b-fortune-5137698.html",
-      "kind": "news",
-      "summary": "Who DeepSeek's founder is, why he was missing from last year's list, and the AI and chip names rising on China's 2026 rich list."
+      "title": "In China, the AI bubble has already burst",
+      "outlet": "The Kathmandu Post (Reuters)",
+      "url": "https://kathmandupost.com/world/2026/10/27/in-china-the-ai-bubble-has-already-burst",
+      "kind": "analysis",
+      "summary": "How China's AI and chip stocks rose and then lost about 40% in four months, and what retail investors and fund managers say about it."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Hurun Report",
-      "title": "Hurun China Rich List 2026",
-      "url": "https://www.hurun.net/en-US/Info/Detail?num=SF2YNXT8GRR3",
-      "date": "2026-10-27",
+      "outlet": "Media Selangor (Reuters)",
+      "title": "China's factory activity shrinks in October, third contraction in four months",
+      "url": "https://mediaselangor.com/en/2026/10/404190",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Standard (Hong Kong)",
-      "title": "DeepSeek's Liang Wenfeng debuts in 7th place on Hurun China Rich List",
-      "url": "https://www.thestandard.com.hk/finance/article/346657/DeepSeeks-Liang-Wenfeng-debuts-in-7th-place-on-Hurun-China-Rich-List",
-      "date": "2026-10-27",
+      "outlet": "IndexBox",
+      "title": "China Manufacturing PMI Falls to 49.3 in October as Export and Domestic Demand Soften",
+      "url": "https://www.indexbox.io/blog/chinas-factory-activity-contracts-in-october-as-demand-weakens/",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "VnExpress International",
-      "title": "DeepSeek founder joins China's top 10 richest for first time with $42B fortune",
-      "url": "https://e.vnexpress.net/news/tech/personalities/deepseek-founder-joins-china-s-top-10-richest-for-first-time-with-42b-fortune-5137698.html",
+      "outlet": "Daily Ittehad",
+      "title": "China's manufacturing PMI at 49.3, non-manufacturing PMI at 49.7",
+      "url": "https://dailyittehad.com.pk/news/2026/10/31/chinas-manufacturing-pmi-at-49-3-non-manufacturing-pmi-at-49-7",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Kathmandu Post (Reuters)",
+      "title": "In China, the AI bubble has already burst",
+      "url": "https://kathmandupost.com/world/2026/10/27/in-china-the-ai-bubble-has-already-burst",
       "date": "2026-10-27",
       "singleSource": false
     }

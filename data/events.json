@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-30",
+  "reviewed": "2026-10-31",
   "events": [
     {
       "id": "iran-war",
@@ -7,13 +7,17 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's IRGC says three tankers caught fire after hitting mines in Hormuz; this is unconfirmed, and UKMTO reports a separate projectile strike off Oman.[^90][^91] US envoy Tom Barrack calls for \"a time out\" and says the sides are close to an initial understanding; Iran has a letter from Vance but has not replied.[^90] The WSJ reports the US told Gulf states to prepare for strikes after the Nov 3 midterms.[^83]",
+      "standing": "Iran's IRGC claims more tanker strikes and stoppages in Hormuz; UKMTO confirmed one limpet-mine attack off Oman, and CENTCOM says the main lanes are clear of mines.[^95][^96] Trump says the war will \"wrap up soon\"; Qatar awaits Iran's reply to a seven-day de-escalation draft.[^95][^108] The WSJ reports the US told Gulf states to prepare for strikes after the Nov 3 midterms; AP says no decision is final.[^83][^108]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
+        {
+          "date": "2026-11-01",
+          "what": "Iran's expected reply to Qatar's new draft; mediators said it could come this weekend"
+        },
         {
           "date": "2026-11-03",
           "what": "US midterm elections; reports say a decision on renewed strikes on Iran could follow soon after"
@@ -142,7 +146,10 @@
         83,
         84,
         90,
-        91
+        91,
+        95,
+        96,
+        108
       ]
     },
     {
@@ -151,7 +158,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "A Russian drone killed at least 14 at Dnipro's railway station on Oct 29; Zelenskyy says sanctions must not be eased.[^93] There is no general ceasefire, though a local truce around occupied Oleshky held for a third day.[^93] Finland's and Norway's leaders phoned Putin on Oct 27, drawing criticism from Denmark and Sweden.[^85] Talks with US envoys are planned for next month; Putin still claims all of Donbas.[^76][^56]",
+      "standing": "Under a US-brokered local truce, aid entered and evacuations began from occupied Oleshky on Oct 30; the truce runs to Nov 1, and a volunteer says Russia moved residents outside agreed terms.[^97][^98] Russian strikes on Oct 29 killed at least 27 civilians across six regions, including at Dnipro's rail station.[^99][^93] Talks are expected to resume in Abu Dhabi in November.[^98] Putin still claims all of Donbas.[^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -159,8 +166,8 @@
       },
       "watch": [
         {
-          "date": "2026-10-31",
-          "what": "Planned end of the Oleshky truce (\"or longer\"); a test of whether small, local deals can hold"
+          "date": "2026-11-01",
+          "what": "Planned end of the Oleshky truce on Sunday evening; a test of whether small, local deals can hold"
         },
         {
           "date": "2026-11-10",
@@ -292,7 +299,10 @@
         76,
         85,
         89,
-        93
+        93,
+        97,
+        98,
+        99
       ]
     },
     {
@@ -301,7 +311,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Gaza truce is a year old but stuck in its first phase; Israel wants Hamas disarmed first[^9]. Israel holds about 60% to 70% of Gaza[^9][^10]. With over 85% of Israel's Oct 27 vote counted, Netanyahu's bloc had 53 seats, Eisenkot's 48 and Arab-led parties a record 19; Likud claims, without published proof, that Arab parties \"stole\" the vote, and the election committee is reviewing it[^92].",
+      "standing": "Final results of Israel's Oct 27 vote: Netanyahu's bloc 53 seats, Eisenkot's 48, Arab-led parties a record 19; no side has 61. The election committee says Likud's fraud claims have \"no basis\".[^100][^101] The Gaza truce is stuck in phase one, with Israel holding about 60-70% of Gaza.[^9][^10] Israel says it killed a Hamas commander on Oct 29; Gaza's Health Ministry says 1,574 people have been killed since the ceasefire.[^102][^103]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -311,6 +321,10 @@
         {
           "date": "2026-11-04",
           "what": "Official Israeli election results; then President Herzog picks who first tries to form a government"
+        },
+        {
+          "date": "2026-11-10",
+          "what": "New Knesset sworn in; coalition talks could run long or lead to another election"
         },
         {
           "date": "2026-12-31",
@@ -418,7 +432,11 @@
         77,
         79,
         86,
-        92
+        92,
+        100,
+        101,
+        102,
+        103
       ]
     },
     {
@@ -427,7 +445,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "The Fed held rates at 3.75% to 4% on Oct 28, but two officials voted for a hike; markets see about an 80% chance of one in December[^87][^88]. Inflation was 3.7% in September, fuelled partly by fuel prices tied to the Iran war[^88]. Trump demands lower rates[^88]. Carney says trade talks have intensified slightly[^78]. A September NPR/PBS/Marist poll found Trump's approval at 39%[^16].",
+      "standing": "The economy grew at a 3.4% annual rate in Q3, but PCE inflation rose to 3.6% in September.[^104] The Fed held at 3.75% to 4% on Oct 28 with two votes for a hike; markets lean toward one in December.[^87][^88] Tech stocks slid on AI-spending fears, and the Nasdaq 100 lost over $2 trillion in October.[^106] Trump demands lower rates.[^88] A September poll put his approval at 39%.[^16]",
       "heading": {
         "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
         "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
@@ -535,7 +553,9 @@
         70,
         78,
         87,
-        88
+        88,
+        104,
+        106
       ]
     },
     {
@@ -544,17 +564,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Google released Gemini 4 Carbon, a cybersecurity-focused model, first to selected defenders only [^94]. Anthropic's IPO filing shows $16.3 billion in half-year revenue and a month-long training pause over security [^81][^82]. An Oct 22-23 tech sell-off showed fears the AI boom may have peaked [^59]. The IMF warns an AI pullback could cut 1.1% from global output by 2028 [^17].",
+      "standing": "Alphabet had its worst day since 2004 (-12.6%) as heavy AI spending left negative free cash flow; the Nasdaq 100 lost over $2 trillion in October on AI-spending fears.[^105][^106] Ottawa will buy a stake of up to C$1.6B in Toronto's Cohere.[^107] Google released Gemini 4 Carbon to defenders first.[^94] Anthropic's IPO filing shows $16.3B in half-year revenue.[^81] The IMF warns an AI pullback could cut 1.1% from global output by 2028.[^17]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
         "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
       },
       "watch": [
-        {
-          "date": "2026-10-30",
-          "what": "US government due to release records on its voluntary pre-release testing deal with AI labs (FOIA case)"
-        },
         {
           "date": "2026-11-03",
           "what": "US midterm elections; AI safety, data centres and power bills are campaign issues"
@@ -688,7 +704,10 @@
         71,
         81,
         82,
-        94
+        94,
+        105,
+        106,
+        107
       ]
     }
   ],
@@ -1457,6 +1476,118 @@
       "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
       "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2",
       "date": "2026-10-28",
+      "singleSource": false
+    },
+    {
+      "id": 95,
+      "outlet": "Euronews",
+      "title": "Iran's Revolutionary Guard reports two tankers on fire in Strait of Hormuz as talks continue",
+      "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 96,
+      "outlet": "Arab News Japan (Reuters/AFP)",
+      "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
+      "url": "https://www.arabnews.jp/en/middle-east/trump-says-iran-war-will-end-soon-us-military-insists-hormuz-is-secure-3001180",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 97,
+      "outlet": "The Kyiv Independent",
+      "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
+      "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 98,
+      "outlet": "ABC News (Australia)",
+      "title": "Russia and Ukraine say aid operation and evacuations underway in Russian-controlled Oleshky",
+      "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 99,
+      "outlet": "Euromaidan Press",
+      "title": "Russian ballistic missiles kill a man in Kyiv, capping a day that left at least 27 civilians dead across Ukraine",
+      "url": "https://euromaidanpress.com/2026/10/30/russian-ballistic-missiles-kill-a-man-in-kyiv-capping-a-day-that-left-at-least-27-civilians-dead-across-ukraine/",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 100,
+      "outlet": "Al Jazeera",
+      "title": "How can Israel break its election deadlock?",
+      "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 101,
+      "outlet": "ABC News",
+      "title": "Israel final election results: Netanyahu's bloc maintains lead but does not secure majority",
+      "url": "https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 102,
+      "outlet": "The Jerusalem Post",
+      "title": "IDF kills Hamas commander involved in holding Noa Argamani, 11 other hostages",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 103,
+      "outlet": "Bernama (Anadolu)",
+      "title": "Two Palestinians Killed In Israel's Ongoing Violations Of Gaza Ceasefire",
+      "url": "https://www.bernama.com/en/world/news.php?id=2628243",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 104,
+      "outlet": "Fox 17 (The National News Desk)",
+      "title": "Preliminary GDP report shows strong 3.4% growth for US economy",
+      "url": "https://fox17.com/news/nation-world/preliminary-gdp-report-shows-strong-growth-for-us-economy-in-third-quarter-2026",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 105,
+      "outlet": "Fortune",
+      "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
+      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 106,
+      "outlet": "GV Wire (Reuters)",
+      "title": "Nasdaq Faces $2 Trillion Wipeout in October as AI Spending Fears Deepen",
+      "url": "https://gvwire.com/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 107,
+      "outlet": "BetaKit",
+      "title": "Feds to buy stake in Cohere via planned $7-billion Series E at $36-billion valuation",
+      "url": "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 108,
+      "outlet": "CBS News",
+      "title": "Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+      "date": "2026-10-30",
       "singleSource": false
     }
   ]

@@ -1,50 +1,66 @@
 {
-  "date": "2026-10-30",
-  "summary": "Carney and EU leaders open a Montréal summit aimed at an 'ever closer association', and Ottawa says it will invest up to $1.6 billion in Toronto AI company Cohere.",
+  "date": "2026-10-31",
+  "summary": "The Canada-EU summit ends with a digital trade deal and a plan for closer 'associate' ties, while new data show Canada's economy stalled in August.",
   "body": [
-    "Prime Minister Mark Carney opened a two-day Canada-EU summit in Montréal on Thursday with European Commission President Ursula von der Leyen and European Council President António Costa [^2][^3]. The two sides are working toward an \"Alliance for the Future\" covering trade, critical minerals, energy, AI, research and security, including Canadian access to EU programs such as Horizon research funding and Erasmus exchanges [^1][^3]. Carney said Canada is working to become an \"associate member\" of the EU, while ruling out full membership and saying any deeper partnership would face a vote in Parliament; von der Leyen called it \"an association without accession\" [^1][^3]. Hours before the trip, Germany pushed to take \"associate membership\" out of the joint declaration, which now speaks of \"ever closer association\" [^1].",
-    "The concrete pieces so far: Costa said a digital trade agreement would be approved today, and von der Leyen said a deal would give Canadian companies and researchers access to the EU's 12 supercomputers [^2][^3]. Carney also announced that Ottawa will invest up to $1.6 billion in Cohere, a Toronto AI company, which will in turn invest at least $1.7 billion in new computing infrastructure in Canada; the government would not say how large a stake it gets [^2][^3]. The EU also wants Canada to help close a €70-billion gap in Ukraine's 2027 budget [^1].",
-    "Why it matters at home: the US bought 71.7% of Canada's goods exports last year, so closer ties with Europe are a way to spread that risk [^3]. A TD Bank report found demand for nearly $60 billion more in Canadian exports to the EU [^2]. My read: the deals are real but modest so far, and what \"associate\" status means in practice depends on what is signed today."
+    "The Canada-EU summit in Montréal closed on Friday with an \"Alliance for the Future\", which the Prime Minister's Office says includes more than 20 measures [^1]. The concrete pieces: talks are finished on a digital trade agreement, Canada's first deal devoted to online trade, data flows and e-signatures, and on a competition agreement; Canada joined Europe's supercomputing program, giving researchers access to the JUPITER supercomputer; and a new framework lets the European Investment Bank fund critical-minerals projects in Canada [^1][^2]. The joint statement aims to define \"an ever-closer association\" with the EU, \"short of full membership,\" by the 2027 summit [^3]. Talks on joining Erasmus+ and Horizon Europe, which could open EU student exchanges and research funding to Canadians, are still to come [^1].",
+    "At home, Statistics Canada said on Friday that the economy did not grow in August, the second flat month in a row, when economists had expected 0.2% growth [^4][^5]. A long shutdown at a major auto plant cut vehicle and parts production by 5.8% [^4]. StatCan's early estimate for September is a 0.1% decline, and summer-quarter growth looks like about 1.3% at an annual rate, below the Bank of Canada's 2% forecast [^4][^5]. Two days earlier, the Bank raised its key rate to 2.5%, its first hike in more than three years, saying it wanted to get ahead of inflation risks [^4].",
+    "My read: the summit is about spreading Canada's risk away from the US over many years, while the GDP numbers show the short-term squeeze. A stalling economy and a central bank that is raising rates is an awkward mix, and it touches things like loan costs and part-time hiring."
   ],
-  "differences": "Trump has suggested the arrangement could be a \"hostile act\" and threatened tariffs on Europe, though on Thursday he said Canada had been treating the US \"extremely nicely\" lately [^2][^3]. Carney says the US will \"see the benefit\" [^2]. In Europe, France and Germany are uneasy with the \"associate member\" label [^1][^3].",
+  "differences": "Economists disagree on the next rate move: CIBC favours a pause in December, while RSM calls a December or January hike a \"coin flip\" [^4]. The Canadian Press cites a 57% market chance of a December hike, while Reuters says markets expect a hold in December and a hike in January [^4][^5]. Conservatives note that some EU countries have still not ratified CETA, the existing trade deal [^2].",
   "reads": [
     {
-      "title": "EU and Canada to seal new alliance in Montréal under Trump's shadow",
-      "outlet": "Euronews",
-      "url": "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow",
+      "title": "Canada, European Union close Montreal summit with 'alliance for the future' pact",
+      "outlet": "CJME (The Canadian Press)",
+      "url": "https://www.cjme.com/2026/10/30/canada-european-union-close-montreal-summit-with-alliance-for-the-future-pact/",
       "kind": "news",
-      "summary": "What the EU and Canada hope to sign in Montréal, from minerals and AI to Ukraine funding, and why Germany objected to the 'associate membership' wording."
+      "summary": "What was signed and what is still only a plan after the Montréal summit, from digital trade and supercomputers to 'associate' status."
     },
     {
-      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats",
-      "outlet": "The Korea Times (AP)",
-      "url": "https://www.koreatimes.co.kr/world/20261030/carney-top-eu-official-push-canada-associate-membership-and-wider-alliance-against-trump-threats",
+      "title": "Timing of next rate hike in question after surprise stall in August GDP",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/timing-of-next-rate-hike-in-question-after-surprise-stall-in-august-gdp/",
       "kind": "news",
-      "summary": "AP's account of day one: Carney's case for sovereignty, the supercomputer and Cohere announcements, and Trump's tariff threats in the background."
+      "summary": "Why August's flat GDP reading has economists split on whether the Bank of Canada raises rates again in December."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Euronews",
-      "title": "EU and Canada to seal new alliance in Montréal under Trump's shadow",
-      "url": "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow",
+      "outlet": "Prime Minister's Office",
+      "title": "Canada and the European Union announce new Alliance for the Future to create greater affordability, opportunity, and sovereignty",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/30/canada-and-european-union-announce-new-alliance-future-create-greater",
       "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BNN Bloomberg (CTV News)",
-      "title": "PM Carney, von der Leyen float 'associate member' status at Canada-EU summit",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/10/30/pm-carney-von-der-leyen-float-associate-member-status-at-canada-eu-summit/",
-      "date": "2026-10-29",
+      "outlet": "CJME (The Canadian Press)",
+      "title": "Canada, European Union close Montreal summit with 'alliance for the future' pact",
+      "url": "https://www.cjme.com/2026/10/30/canada-european-union-close-montreal-summit-with-alliance-for-the-future-pact/",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Korea Times (AP)",
-      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats",
-      "url": "https://www.koreatimes.co.kr/world/20261030/carney-top-eu-official-push-canada-associate-membership-and-wider-alliance-against-trump-threats",
+      "outlet": "Prime Minister's Office",
+      "title": "Joint Statement: Canada and the European Union building together an Alliance for the Future",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/10/30/joint-statement-canada-and-european-union-building-together-alliance",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "Timing of next rate hike in question after surprise stall in August GDP",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/timing-of-next-rate-hike-in-question-after-surprise-stall-in-august-gdp/",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Kitco (Reuters)",
+      "title": "Canada's economy stalls again in August, likely lost ground in September",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/canadas-economy-stalls-again-august-likely-lost-ground-september",
       "date": "2026-10-30",
       "singleSource": false
     }

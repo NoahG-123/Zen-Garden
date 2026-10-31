@@ -1,317 +1,345 @@
 {
-  "date": "2026-10-30",
-  "summary": "Iran claims mined tankers burned in Hormuz as a US envoy urges a pause, Likud alleges fraud in Israel, a drone kills 14 in Dnipro, Spain mourns a rail crash and Lagarde will leave the ECB.",
+  "date": "2026-10-31",
+  "summary": "Iran and the US trade claims over Hormuz as Trump says the war will end soon, AI spending fears hit Big Tech, a record crypto theft, Ebola deaths pass 5,000 and Israel's vote ends in deadlock.",
   "topics": [
     {
-      "id": "iran-tankers-mines-hormuz",
-      "heading": "Iran says three tankers hit mines in Hormuz as a US envoy calls for a 'time out'",
-      "date": "2026-10-29",
+      "id": "iran-hormuz-more-tanker-claims",
+      "heading": "Iran reports more tanker fires in Hormuz as Trump says the war will 'wrap up soon'",
+      "date": "2026-10-30",
       "status": "disputed",
-      "summary": "Iran's Revolutionary Guards say three tankers caught fire after hitting mines in the Strait of Hormuz; no one has confirmed it. The same day, a US envoy said the two sides were close to an initial understanding.[^1][^2]",
+      "summary": "Iran's Revolutionary Guards say two more tankers were stopped after 'incidents' in the Strait of Hormuz, while the US military says the main shipping lanes are clear of mines. Qatar is waiting for Iran's answer to a new peace draft.[^1][^3]",
       "lead": {
-        "title": "Middle East war: Iran claims tankers hit mines in Strait of Hormuz, UKMTO confirms strike off Oman; fired US general reportedly admitted Iran leaks",
-        "outlet": "Gulf News",
-        "url": "https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137",
+        "title": "Iran's Revolutionary Guard reports two tankers on fire in Strait of Hormuz as talks continue",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
         "date": "2026-10-30"
       },
       "alsoReported": [
         {
-          "title": "Iran Says Three Oil Tankers Caught Fire After Hitting Mines in Strait of Hormuz",
-          "outlet": "Kurdistan24",
-          "url": "https://www.kurdistan24.net/en/story/949344/iran-says-three-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+          "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
+          "outlet": "Arab News Japan (Reuters/AFP)",
+          "url": "https://www.arabnews.jp/en/middle-east/trump-says-iran-war-will-end-soon-us-military-insists-hormuz-is-secure-3001180"
         },
         {
-          "title": "Qatari mediators hand Iran new proposal to end the war",
-          "outlet": "CBS News (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html"
+          "title": "Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Iran's Revolutionary Guards (IRGC) said on Thursday that three oil tankers caught fire after hitting naval mines while leaving the Strait of Hormuz by what Iran calls an \"unauthorised\" southern route[^1][^2]. The IRGC says the ships had switched off their radar and navigation systems and ignored warnings, but it did not name them or say which flags they flew[^2]. The claim could not be independently confirmed[^1][^2]. Separately, the UK Maritime Trade Operations agency (UKMTO), which tracks shipping incidents, confirmed that a tanker was hit by an unidentified projectile near Khasab, Oman, with no injuries reported; it did not say who fired it[^1].",
-        "Background: Iran has restricted traffic through the strait, a narrow channel that carries a large share of the world's oil, since the war began on February 28, and the US has blockaded Iranian ports[^2]. The US military estimates the war had cost it at least $47.1 billion by mid-October, most of it to replace munitions[^3].",
-        "Diplomacy is moving at the same time. US envoy Tom Barrack told CNN that both sides should take \"a time out\" to bring temperatures down, and said they were \"very close\" to an initial understanding, crediting Qatar and Pakistan as mediators[^1]. Iran confirmed it had received a letter from Vice President JD Vance but had not replied[^1]. Parliament Speaker Mohammad Bagher Ghalibaf said Iran's seven conditions must be agreed first and that pressure would not work[^1]. Earlier in the week, a senior Iranian official told Reuters that ideas brought by Qatari mediators were \"unacceptable\"[^3].",
-        "The war also has other fronts. Saudi Arabia says it intercepted two ballistic missiles fired by Yemen's Houthis toward Riyadh, with falling debris injuring one person[^1].",
-        "Why it matters: mines are hard to find and slow to clear, so even an unconfirmed claim can make shipowners more cautious and keep oil prices high, which is what has pushed up fuel and food costs in Canada. My read: a public call for a pause and new ship incidents on the same day show how unsettled things are before the US midterms on November 3."
+        "On Friday, Iran's Revolutionary Guards (IRGC) said two more tankers had \"incidents\" in the Strait of Hormuz and were stopped, claiming the ships had switched off their tracking systems and had US military support[^1]. A day earlier the IRGC said three tankers hit mines, and Iran's regular military later put the number at four[^2]. Independent confirmation is thinner. The UK Maritime Trade Operations centre (UKMTO), which tracks shipping incidents, reported a small boat attaching two explosive devices to a tanker's hull off Khasab, Oman; the ship was briefly disabled, the crew was safe and it sailed on[^1]. Oman's navy also rescued 25 crew from a burning ship near Musandam[^1].",
+        "The US military tells a different story. Adm. Brad Cooper, who leads US Central Command (CENTCOM), says the main shipping lanes are clear of mines, and CENTCOM rejected IRGC claims that it had captured a US drone[^1][^3]. President Trump said on a radio show that the war is \"going to get wrapped up soon,\" adding that the US needs a guarantee that Iran will never have a nuclear weapon[^1][^3].",
+        "Background: the war began in February, and Iran has tightly limited traffic through the strait, a narrow channel that carries a large share of the world's oil[^1]. Diplomacy runs alongside the fighting. Qatar gave Iran a draft on October 25 with a seven-day schedule of confidence-building steps; a senior Iranian official called it \"unacceptable ideas and not an offer,\" but Qatari mediators were back in Tehran on Friday, and a reply was expected around the weekend[^2][^4].",
+        "What next is unclear. The Wall Street Journal reports that the US told Gulf states to prepare for a \"short, intense\" campaign after the November 3 US midterm elections, while AP, citing two diplomats, says no final decision has been made[^2]. My read: as long as ships are attacked, fuel costs stay high far from the Gulf, and the next few days, with Iran's reply to Qatar and the US vote, may show which way this goes."
       ],
-      "differences": "Iran says the tankers ignored its warnings and used an unauthorised route[^2]. No independent source has confirmed the mine strikes, and UKMTO has not linked its projectile report to Iran[^1]. A US envoy describes the sides as close to an understanding, while Iran's parliament speaker says its own conditions must come first[^1]."
+      "differences": "Iran says several tankers hit mines or were stopped; UKMTO has confirmed one explosive attack, and the US says the main lanes are clear[^1][^3]. On a letter from US Vice-President JD Vance to Iran, the Wall Street Journal reports it set out a negotiating framework, while Trump said it was about medical supplies[^2]."
     },
     {
-      "id": "likud-fraud-claims-israel",
-      "heading": "Netanyahu's Likud claims Arab-led parties 'stole' Israel's election; panel reviews it",
-      "date": "2026-10-28",
-      "status": "disputed",
-      "summary": "After Arab-led parties won a record share of seats and neither bloc reached a majority, Likud alleged widespread fraud. It has not published proof, and the election committee says it is reviewing the request.[^4]",
-      "lead": {
-        "title": "Likud claims election 'stolen' by Arab parties following their record performance",
-        "outlet": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/likud-claims-election-stolen-by-arab-parties-following-their-record-performance/",
-        "date": "2026-10-28"
-      },
-      "alsoReported": [
-        {
-          "title": "Qatari mediators hand Iran new proposal to end the war",
-          "outlet": "CBS News (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "Prime Minister Benjamin Netanyahu's Likud party said on Wednesday that Israel's October 27 election had been \"stolen\" by Arab-led parties, and asked the police and the Shin Bet security service to investigate alleged widespread fraud and voter intimidation[^4]. Likud says it handed over \"hundreds of testimonies\" and other evidence, including claims about illegal software used to get voters out[^4]. It has not made that evidence public. Hours earlier, an official at the Central Elections Committee had dismissed fraud claims in a TV interview; the committee now says it is reviewing Likud's request[^4].",
-        "The background is the count. With more than 85% of ballots counted, Netanyahu's bloc had 53 seats and Gadi Eisenkot and his partners 48, while the Joint List (12) and Ra'am (7) were on course for a record 19 seats, nearly double their current 10[^4]. Forming a government takes 61 of the Knesset's 120 seats[^4]. Before the vote, both Netanyahu and the opposition had said they would not form a government that relies on Arab parties[^3].",
-        "That arithmetic makes the Arab-led parties possible kingmakers. Joint List chair Yousef Jabareen told AFP his party does not see itself joining a coalition under current conditions, but that anyone offering an alternative to Netanyahu \"will have to talk to us\"[^4]. Ra'am says it wants to be part of the next government, and Democrats leader Yair Golan urged opposition parties to drop their pledges against working with the Arab-led lists[^4].",
-        "Why it matters: the result decides who leads Israel on Gaza, Iran and relations with the US, and the dispute touches an old question in Israeli politics about whether Arab citizens' parties can be partners in government. My read: a fraud claim made before evidence is shown can shape how people see the result, whatever an investigation later finds. Next comes the final count, then coalition talks that could take weeks."
-      ],
-      "differences": "Likud says it has evidence of fraud and intimidation and wants police and the Shin Bet to investigate[^4]. An election committee official had earlier dismissed fraud claims, and the committee says it is now reviewing Likud's request[^4]. No evidence has been made public so far."
-    },
-    {
-      "id": "dnipro-station-drone-strike",
-      "heading": "Russian drone strike on a busy Dnipro railway platform kills at least 14",
-      "date": "2026-10-29",
+      "id": "big-tech-ai-spending-selloff",
+      "heading": "Alphabet's record one-day drop leads a Big Tech slide over the cost of AI",
+      "date": "2026-10-30",
       "status": "confirmed",
-      "summary": "A Russian drone hit a crowded platform at Dnipro's main station on Thursday, killing at least 14 people, Ukrainian officials say. It came as a small local truce held for a third day and new talks were planned for next month.[^5][^6]",
+      "summary": "Alphabet shares fell 12.6% on Thursday, their worst day since 2004, after heavy AI spending and slower search growth. By Friday's close the Nasdaq had lost about 5% in October, its worst month since March 2025.[^5][^6]",
       "lead": {
-        "title": "Russian drone strike kills at least 14 on Ukrainian rail platform",
-        "outlet": "ABC News (Australia)",
-        "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816",
+        "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
+        "outlet": "Fortune",
+        "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
         "date": "2026-10-29"
       },
       "alsoReported": [
         {
-          "title": "Russian drone attack on train station kills 13 in Ukraine's Dnipro",
-          "outlet": "The Korea Times (Reuters)",
-          "url": "https://www.koreatimes.co.kr/world/20261029/russian-drone-attack-on-train-station-kills-13-in-ukraines-dnipro"
-        }
-      ],
-      "eventId": "ukraine-war",
-      "article": [
-        "A Russian drone hit a crowded platform at the main railway station in Dnipro, a large city in eastern-central Ukraine, on Thursday, killing at least 14 people, according to the regional governor, Oleksandr Hanzha[^5][^6]. Another 14 were wounded, six seriously, among them an 11-year-old boy[^5]. The state rail company, Ukrzaliznytsia, said a jet-powered drone struck the platform where a commuter train was preparing to leave for Zaporizhzhia, and that people were there despite a danger warning[^6].",
-        "Ukraine's air force said it shot down three jet-powered drones in the daytime attack, but a fourth got through[^5]. Officials reported other deaths the same day, including two 15-year-old girls in Chernihiv and three people in Kremenchuk[^5]. President Volodymyr Zelenskyy called the strike \"horrific\" and said sanctions on Russia must not be eased while the war continues, criticising a deal this month between Presidents Trump and Putin that eased some sanctions so Russia could release diesel[^5]. French President Emmanuel Macron said it was intolerable that Russia keeps rejecting proposals to stop the fighting[^5].",
-        "Background: Russia launched its full-scale invasion of Ukraine in February 2022, and there is still no general ceasefire. A small local truce around Russian-occupied Oleshky, in the Kherson region, entered its third day on Thursday so that aid could get in[^5]. Russia and Ukraine are due to meet US envoys next month to restart talks, but no firm dates have been set[^5].",
-        "Why it matters: railways move people, grain and aid across a country at war, so strikes on stations hit daily life far from the front. My read: a deadly strike in the same week as a local truce shows how small the current steps toward peace are; next month's talks will test whether that changes."
-      ],
-      "differences": null
-    },
-    {
-      "id": "spain-urda-train-crash",
-      "heading": "Spain's second deadly high-speed rail crash this year kills at least 68 near Toledo",
-      "date": "2026-10-28",
-      "status": "confirmed",
-      "summary": "A high-speed train hit a stopped train near Urda, south of Madrid, killing at least 68 people by the regional count (69 in other reports). Investigators are looking at a signalling failure and an order from a control centre.[^7][^8][^9]",
-      "lead": {
-        "title": "What we know about Spain's second high-speed rail tragedy this year",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year",
-        "date": "2026-10-29"
-      },
-      "alsoReported": [
-        {
-          "title": "Spain train crash: What happened in the 17 minutes before the collision?",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision"
+          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
         },
         {
-          "title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "A high-speed train ran into the back of a stopped train near Urda, in Toledo province south of Madrid, on Wednesday morning. The Castilla-La Mancha regional government says at least 68 people were killed; other reports put the toll at 69[^7][^9]. About 80 people were injured, about 15 of them critically, according to regional president Emiliano García-Page[^7]. A Renfe train with 397 passengers hit a stationary Iryo train carrying 147, and two Iryo carriages left the track[^7][^8].",
-        "How it happened is under investigation. At about 8:30 a.m., a computer failure knocked out LZB, the automatic train-control system, along about 63 km of the Madrid-Seville line, stopping six trains[^8]. Controllers at Madrid's Atocha centre then let trains move again using trackside signals. The Iryo driver reported that her train was still stuck, but, according to El País, the Renfe train was not told to stop before the collision at 8:53 a.m.[^7][^8]. Transport Minister Óscar Puente called a control-centre order \"inexplicable\" and said the drivers were not to blame[^7][^9]. A court in Orgaz has taken over the judicial inquiry and ordered the trains' black boxes seized[^8].",
-        "It is Spain's second deadly high-speed crash this year: a collision near Adamuz in January killed 46[^7]. Prime Minister Pedro Sánchez declared three days of national mourning and called two such accidents in one year \"unacceptable\"[^7]. Renfe has suspended ticket sales on the Madrid-Andalusia corridor until December 13, and about 1,500 people protested at the transport ministry calling for Puente to resign[^7].",
-        "Why it matters: high-speed rail relies on layers of safety, so that one failure does not become a disaster. My read: the key question here is less about the trains than about how people and computers hand control to each other when a system goes down, a lesson for any automated safety system."
-      ],
-      "differences": null
-    },
-    {
-      "id": "ecb-holds-lagarde-to-leave",
-      "heading": "The ECB holds rates at 2.5% as Christine Lagarde says she will step down in February",
-      "date": "2026-10-29",
-      "status": "confirmed",
-      "summary": "The European Central Bank kept its deposit rate at 2.5% while fighting an oil-driven rise in inflation, and its president, Christine Lagarde, said she will leave on February 7, 2027, months before her term ends.[^10][^11]",
-      "lead": {
-        "title": "ECB President Christine Lagarde to step down next February, months before her mandate ends",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends",
-        "date": "2026-10-29"
-      },
-      "alsoReported": [
-        {
-          "title": "ECB President Lagarde announces resignation after months of speculation",
-          "outlet": "RTÉ (Reuters)",
-          "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/"
-        },
-        {
-          "title": "ECB President Lagarde to step down on 7 February 2027",
-          "outlet": "European Central Bank",
-          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "The European Central Bank, which sets interest rates for the countries that use the euro, kept its deposit rate at 2.5% on Thursday[^11][^12]. On the same day, its president, Christine Lagarde, announced that she will step down on February 7, 2027, about nine months before her eight-year term was due to end[^10][^11].",
-        "Lagarde, 70, said she wants \"greater freedom\" to give her views and work on issues beyond monetary policy, and that she \"cannot remain neutral\"[^11]. The bank gave no other reason[^11]. The decision drew criticism from Jean-Philippe Tanguy, an economics adviser in Marine Le Pen's French party, who called it \"another insult\", and from German member of the European Parliament Markus Ferber, who said it sent \"the wrong signal\"[^12]. Others, such as economist Marcel Fratzscher, praised her sense of responsibility toward Europe[^12].",
-        "Background: like the central banks in Ottawa and Washington, the ECB is facing higher inflation driven by the oil shock from the Iran war, and it has been raising rates[^12]. An economist quoted by Reuters sees \"a low bar\" for another hike in December, and money markets expect the deposit rate to reach 3.25% by the end of next year[^12]. European Council President António Costa says the search for a successor will start without delay; names mentioned include Pablo Hernández de Cos of Spain and Klaas Knot of the Netherlands[^11].",
-        "Why it matters: the ECB decides what borrowing costs for households and businesses across much of Europe, in the middle of an energy shock. My read: a change at the top during a rate-hiking cycle adds some uncertainty, but ECB decisions are taken by its whole Governing Council, so policy is unlikely to swing on one person's departure."
-      ],
-      "differences": null
-    },
-    {
-      "id": "google-gemini-4-carbon",
-      "heading": "Google releases Gemini 4 Carbon, a cyber-defence AI model, to selected users first",
-      "date": "2026-10-28",
-      "status": "confirmed",
-      "summary": "Google unveiled Gemini 4 Carbon, an AI model it says leads at finding and fixing software flaws. Because those skills could also help attackers, it is going first only to selected cyber defenders.[^13][^14]",
-      "lead": {
-        "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-        "outlet": "Khaleej Times (Reuters)",
-        "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2",
-        "date": "2026-10-28"
-      },
-      "alsoReported": [
-        {
-          "title": "Google's Gemini 4 Carbon Can Find and Exploit Software Flaws. Who Gets Access?",
-          "outlet": "The Neuron",
-          "url": "https://www.theneuron.ai/news/google-gemini-4-carbon-cybersecurity-access/"
+          "title": "Nasdaq Faces $2 Trillion Wipeout in October as AI Spending Fears Deepen",
+          "outlet": "GV Wire (Reuters)",
+          "url": "https://gvwire.com/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Google on Wednesday unveiled Gemini 4 Carbon, a new frontier AI model that it says performs at the top level on cybersecurity tasks such as finding software flaws, exploiting them and writing fixes[^13]. It came two weeks after the company's Gemini 4 Argon model[^13]. Unlike most launches, Carbon is going first only to a selected group of cyber defenders through Google's Fairwind Program[^13][^14].",
-        "Google reports scores of 88.2% on a test of finding vulnerabilities, 54.8% on a test of exploiting them and 71% on writing working fixes, and says it ran these tests with safety guardrails switched off to measure the model's raw ability[^14]. It also says Carbon writes secure code at more than twice Argon's success rate[^13]. Fairwind members must limit which employees can use it and use multi-factor login, and Google says it takes part in voluntary pre-release testing with the US government[^14]. Prices start at $2 per million input tokens and $10 per million output tokens[^13].",
-        "Background: a model that is good at finding security holes is \"dual-use\". Defenders can patch flaws before criminals find them, but attackers could use the same skill, which is why Google is limiting access. Independent testers at Artificial Analysis ranked Carbon first on their general intelligence index, but also found that its rate of made-up answers on one test rose from 4% for Argon to 11%[^14].",
-        "Why it matters: AI labs increasingly release their most capable models in stages, starting with trusted users, while governments argue over safety rules. My read: staged releases are a real safety step, but they rest on each company's own choices about who gets access, and most of the performance numbers so far come from Google itself."
+        "Shares of Alphabet, Google's parent company, fell 12.6% on Thursday, their worst day since the stock began trading in 2004, wiping out about $482 billion in market value[^5]. Investors focused on two things: search revenue grew 12%, slower than the 15% analysts expected, and the company spent $51.4 billion on capital projects, mostly AI data centres, in a single quarter, leaving it with negative free cash flow[^5]. Free cash flow is the cash left after a company pays for its investments.",
+        "Other results added to the worry. Intel forecast lower sales than expected, saying a shortage of memory chips is pushing up PC prices, and its shares fell more than 20% after hours[^6][^17]. Amazon's profit per share missed estimates even as its cloud business grew 39%[^6]. Meta's shares are more than 20% below their high after it announced a record $97.5 billion fundraising[^6][^7]. On Friday the Nasdaq fell 2.86% and the S&P 500 1.82%; Reuters says more than $2 trillion was erased from the Nasdaq 100 in October[^6][^7].",
+        "Background: the largest tech companies are borrowing and spending hundreds of billions of dollars to build AI. Alphabet alone plans about $200 billion of such spending this year and $300 billion in 2027[^5]. Parts of the business are booming: Google Cloud's revenue roughly doubled[^5]. The question investors are asking is when all that spending will pay for itself.",
+        "My read: these companies are so large that their swings move pension funds and ordinary savings, so the AI spending question reaches far beyond Silicon Valley. One bad month does not mean the boom is over, but it shows that investors' patience has limits, especially while interest rates are rising."
       ],
       "differences": null
+    },
+    {
+      "id": "binance-record-crypto-theft",
+      "heading": "Hackers steal about $6.3 billion from Binance, the largest crypto theft on record",
+      "date": "2026-10-30",
+      "status": "developing",
+      "summary": "Binance, the world's biggest crypto exchange, says hackers took about $6.3 billion in roughly 20 minutes. Blockchain analysts link the attack to a North Korean hacking unit; about $3 billion has been frozen.[^8]",
+      "lead": {
+        "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
+        "date": "2026-10-30"
+      },
+      "alsoReported": [
+        {
+          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+          "outlet": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Binance says hackers stole about $6.3 billion in cryptocurrency, mostly within about 20 minutes, across ten different blockchains, starting late on Thursday[^8]. That is roughly four times the previous record, the $1.5 billion taken from the exchange Bybit in February 2025[^8]. Binance suspended withdrawals, promised to cover all customer losses, and said it expected to reopen withdrawals within about 45 hours[^8].",
+        "About $3 billion has been frozen so far, including more than $2.3 billion by Tether and Circle, companies that issue \"stablecoins\", digital tokens tied to the US dollar that their issuers can lock[^8]. The blockchain analysis firms TRM Labs and Chainalysis attribute the attack to TraderTraitor, a North Korean unit linked to the Lazarus Group[^8]. North Korea usually denies involvement in such attacks[^8].",
+        "Background: crypto theft has become a major source of money for North Korea, which is under heavy international sanctions, and it helps fund the country's weapons programmes[^8]. The theft added to Friday's market slide, and Bitcoin fell to a six-week low of about $76,400[^8][^6].",
+        "Why it matters: if the attribution holds, this is one of the largest thefts ever linked to a state, and it tests whether exchanges and regulators can trace and recover stolen money. My read: the fact that so much was frozen shows crypto is less anonymous than many people think, but the rest may be hard to recover. It is also a reminder that money held on an exchange is only as safe as the company running it."
+      ],
+      "differences": null
+    },
+    {
+      "id": "congo-ebola-5000-deaths",
+      "heading": "Congo's Ebola outbreak passes 5,000 deaths, the second-deadliest on record",
+      "date": "2026-10-31",
+      "status": "developing",
+      "summary": "Congo's health ministry reports 5,026 Ebola deaths among more than 10,000 cases, with cases also in Uganda, Kenya and Nigeria. The strain involved has no approved vaccine or treatment.[^9][^10]",
+      "lead": {
+        "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+        "outlet": "KSAT (AP)",
+        "url": "https://ksat.com/news/world/2026/10/31/congos-ebola-deaths-top-5000-as-worry-of-continent-wide-spread-mounts",
+        "date": "2026-10-31"
+      },
+      "alsoReported": [
+        {
+          "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Congo's health ministry says the Ebola outbreak there has now killed 5,026 people out of 10,351 recorded cases, while 2,788 people have recovered[^9]. That makes it the second-deadliest Ebola outbreak on record, after the 2014-16 epidemic in West Africa, which killed about 11,000 people[^9]. The disease has reached 67 of Congo's 178 health zones, in eight provinces[^9].",
+        "It has also crossed borders. Uganda, Kenya and Nigeria have reported cases; Kenya has had eight cases and two deaths, and Nigeria's one patient was evacuated to Switzerland[^9]. Dr. Patrick Otim of the World Health Organization called the milestone \"very tragic,\" stressing that each death is more than a number[^9].",
+        "Background: the outbreak was declared on May 15 and is caused by the rare Bundibugyo strain, which has killed nearly half of the people it has infected here[^9]. The existing Ebola vaccines were made for a different strain, Zaire, so there is no approved vaccine or treatment for this one; a first vaccine trial began in late October[^9][^10].",
+        "Why it matters: AP reports that about 80% of new cases are outside known contact chains, meaning they are not linked to people health workers were already watching, and that about a third of deaths happen before patients reach care[^9]. Both are signs the virus is spreading faster than it can be tracked. My read: the things to watch are early results from the vaccine trial and whether neighbouring countries can keep their case numbers low."
+      ],
+      "differences": null
+    },
+    {
+      "id": "oleshky-truce-evacuation",
+      "heading": "Evacuation begins from occupied Oleshky under a rare local truce in Ukraine",
+      "date": "2026-10-30",
+      "status": "developing",
+      "summary": "A US-brokered local ceasefire let aid in and civilians out of Russian-occupied Oleshky, while strikes elsewhere killed at least 27 civilians on Oct 29. The truce is due to end on Sunday, November 1.[^11][^12][^13]",
+      "lead": {
+        "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
+        "outlet": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
+        "date": "2026-10-30"
+      },
+      "alsoReported": [
+        {
+          "title": "Russia and Ukraine say aid operation and evacuations underway in Russian-controlled Oleshky",
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652"
+        },
+        {
+          "title": "Russian ballistic missiles kill a man in Kyiv, capping a day that left at least 27 civilians dead across Ukraine",
+          "outlet": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/10/30/russian-ballistic-missiles-kill-a-man-in-kyiv-capping-a-day-that-left-at-least-27-civilians-dead-across-ukraine/"
+        }
+      ],
+      "eventId": "ukraine-war",
+      "article": [
+        "On Friday, buses and aid convoys began moving in and out of Oleshky, a town in the Russian-occupied part of Ukraine's Kherson region, under a local ceasefire brokered by the United States[^11][^12]. About 2,000 people still live there, down from about 24,000 before the war[^12]. Some evacuees went to Russian-held areas and some to Ukrainian-held territory, by a route through Belarus[^12]. Ukraine's human-rights ombudsman said the truce had held for 80 hours[^11].",
+        "The operation was not smooth. A Ukrainian volunteer and an anonymous source told the Kyiv Independent that Russia began moving people a day early and threatened residents with \"filtration\", a screening process run by Russian authorities[^11]. There is no confirmed count of how many people left[^11][^12].",
+        "Away from Oleshky, the war went on. On October 29, Russian strikes killed at least 27 civilians across six regions, according to a tally of regional officials' reports by Euromaidan Press, including the drone strike on a railway platform in Dnipro[^13]. Ukraine's air force said Russia launched ballistic missiles and 113 drones that day[^13].",
+        "What next: the truce is due to end on Sunday evening, November 1[^12]. Talks between US, Ukrainian and Russian teams are expected to resume next month in Abu Dhabi, the first such round since February[^12]. My read: small local deals like this one test whether the two sides can trust each other at all, but they are a long way from a general ceasefire, and the two still disagree on territory."
+      ],
+      "differences": "Accounts of the evacuation's start differ: a Ukrainian volunteer says Russia moved people early and outside the agreed terms[^11]. Death tolls for the Dnipro strike also vary slightly, with regional authorities giving 15 and some outlets at least 14[^13]."
+    },
+    {
+      "id": "israel-final-results-deadlock",
+      "heading": "Israel's final results leave neither bloc with a majority; officials reject fraud claims",
+      "date": "2026-10-29",
+      "status": "confirmed",
+      "summary": "Final results give Netanyahu's bloc 53 of 120 seats, the bloc led by Gadi Eisenkot 48 and Arab-led parties a record 19. The election committee says there is no basis for Likud's claim that the vote was stolen.[^14][^15]",
+      "lead": {
+        "title": "How can Israel break its election deadlock?",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
+        "date": "2026-10-30"
+      },
+      "alsoReported": [
+        {
+          "title": "Israel final election results: Netanyahu's bloc maintains lead but does not secure majority",
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276"
+        },
+        {
+          "title": "Live blog, October 30, 2026",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-30-2026/"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "Israel's Central Elections Committee has published final results from the October 27 vote. Prime Minister Benjamin Netanyahu's bloc won 53 seats, the bloc led by former military chief Gadi Eisenkot won 48, and Arab-led parties won 19, their best result ever[^14][^15]. A government needs 61 of the Knesset's 120 seats, so no side has a majority[^14]. Netanyahu's Likud is still the largest single party, with 27 seats[^16].",
+        "Likud says the Arab-led parties \"stole\" the election, but it has not published proof[^14]. The committee's acting director general, Dean Livne, said there was \"no basis\" for claims of election theft, and police say they will look into any credible complaint[^15].",
+        "There are a few possible paths. On the opposition side, the Arab-led party Ra'am is reported to be open to joining an Eisenkot government, and the Joint List might support a minority government from outside it[^14]. But Avigdor Lieberman, whose party is in the opposition bloc, has objected to relying on Arab parties, and Netanyahu may push for yet another election[^14].",
+        "What next: official results go to President Isaac Herzog on November 4, and the new Knesset is sworn in on November 10[^16]. Why it matters: the next government will shape the next phase of the Gaza truce and Israel's role in the Iran war. My read: a long period of coalition bargaining, or even another election, looks more likely than a quick result."
+      ],
+      "differences": "Party-by-party seat counts differ slightly between outlets, for example for the Joint List and Ra'am, though all agree on the bloc totals of 53, 48 and 19[^15][^16]."
     }
   ],
   "question": {
-    "type": "how-do-we-know",
-    "text": "Today Iran says mines set three tankers on fire, and Likud says an election was stolen. Neither claim has been confirmed. What kind of evidence would convince you either way, and who would you trust to check it?"
+    "type": "second-order",
+    "text": "Big Tech is borrowing and spending hundreds of billions of dollars on AI data centres. If investors force these companies to slow down, who besides the companies themselves would feel it first, and how?"
   },
   "read": {
-    "title": "Spain train crash: What happened in the 17 minutes before the collision?",
-    "outlet": "Euronews",
-    "url": "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision",
+    "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
+    "outlet": "Fortune",
+    "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
     "kind": "analysis",
     "minutes": 7,
-    "summary": "A minute-by-minute account of how a signalling failure, radio calls and control-centre decisions led to Spain's deadly train collision. A clear case study in how safety systems fail."
+    "summary": "Why one quarter of heavy AI spending and slightly slower search growth wiped nearly $500 billion off Alphabet. A good primer on cash flow, valuations and what investors want from AI."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Gulf News",
-      "title": "Middle East war: Iran claims tankers hit mines in Strait of Hormuz, UKMTO confirms strike off Oman; fired US general reportedly admitted Iran leaks",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137",
+      "outlet": "Euronews",
+      "title": "Iran's Revolutionary Guard reports two tankers on fire in Strait of Hormuz as talks continue",
+      "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
       "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Kurdistan24",
-      "title": "Iran Says Three Oil Tankers Caught Fire After Hitting Mines in Strait of Hormuz",
-      "url": "https://www.kurdistan24.net/en/story/949344/iran-says-three-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz",
-      "date": "2026-10-29",
+      "outlet": "CBS News",
+      "title": "Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CBS News (via Yahoo News)",
-      "title": "Qatari mediators hand Iran new proposal to end the war",
-      "url": "https://www.yahoo.com/news/world/articles/qatari-mediators-hand-iran-proposal-102053733.html",
-      "date": "2026-10-28",
+      "outlet": "Arab News Japan (Reuters/AFP)",
+      "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
+      "url": "https://www.arabnews.jp/en/middle-east/trump-says-iran-war-will-end-soon-us-military-insists-hormuz-is-secure-3001180",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Times of Israel",
-      "title": "Likud claims election 'stolen' by Arab parties following their record performance",
-      "url": "https://www.timesofisrael.com/likud-claims-election-stolen-by-arab-parties-following-their-record-performance/",
-      "date": "2026-10-28",
+      "outlet": "Türkiye Today",
+      "title": "Iran dismisses Qatar's new draft as 'unacceptable ideas, not an offer'",
+      "url": "https://www.turkiyetoday.com/region/iran-dismisses-qatars-new-draft-as-unacceptable-ideas-not-an-offer-3231258",
+      "date": "2026-10-29",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "ABC News (Australia)",
-      "title": "Russian drone strike kills at least 14 on Ukrainian rail platform",
-      "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816",
+      "outlet": "Fortune",
+      "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
+      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
       "date": "2026-10-29",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "The Korea Times (Reuters)",
-      "title": "Russian drone attack on train station kills 13 in Ukraine's Dnipro",
-      "url": "https://www.koreatimes.co.kr/world/20261029/russian-drone-attack-on-train-station-kills-13-in-ukraines-dnipro",
-      "date": "2026-10-29",
+      "outlet": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Al Jazeera",
-      "title": "What we know about Spain's second high-speed rail tragedy this year",
-      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year",
-      "date": "2026-10-29",
+      "outlet": "GV Wire (Reuters)",
+      "title": "Nasdaq Faces $2 Trillion Wipeout in October as AI Spending Fears Deepen",
+      "url": "https://gvwire.com/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Euronews",
-      "title": "Spain train crash: What happened in the 17 minutes before the collision?",
-      "url": "https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision",
-      "date": "2026-10-29",
+      "outlet": "Al Jazeera",
+      "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
+      "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "ABC News",
-      "title": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official",
-      "url": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323",
-      "date": "2026-10-29",
+      "outlet": "KSAT (AP)",
+      "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "url": "https://ksat.com/news/world/2026/10/31/congos-ebola-deaths-top-5000-as-worry-of-continent-wide-spread-mounts",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "European Central Bank",
-      "title": "ECB President Lagarde to step down on 7 February 2027",
-      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-      "date": "2026-10-29",
+      "outlet": "Al Jazeera",
+      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+      "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak",
+      "date": "2026-10-27",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Euronews",
-      "title": "ECB President Christine Lagarde to step down next February, months before her mandate ends",
-      "url": "https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends",
-      "date": "2026-10-29",
+      "outlet": "The Kyiv Independent",
+      "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
+      "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "RTÉ (Reuters)",
-      "title": "ECB President Lagarde announces resignation after months of speculation",
-      "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/",
-      "date": "2026-10-29",
+      "outlet": "ABC News (Australia)",
+      "title": "Russia and Ukraine say aid operation and evacuations underway in Russian-controlled Oleshky",
+      "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Khaleej Times (Reuters)",
-      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-      "url": "https://www.khaleejtimes.com/business/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2",
-      "date": "2026-10-28",
+      "outlet": "Euromaidan Press",
+      "title": "Russian ballistic missiles kill a man in Kyiv, capping a day that left at least 27 civilians dead across Ukraine",
+      "url": "https://euromaidanpress.com/2026/10/30/russian-ballistic-missiles-kill-a-man-in-kyiv-capping-a-day-that-left-at-least-27-civilians-dead-across-ukraine/",
+      "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "The Neuron",
-      "title": "Google's Gemini 4 Carbon Can Find and Exploit Software Flaws. Who Gets Access?",
-      "url": "https://www.theneuron.ai/news/google-gemini-4-carbon-cybersecurity-access/",
+      "outlet": "Al Jazeera",
+      "title": "How can Israel break its election deadlock?",
+      "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 15,
+      "outlet": "ABC News",
+      "title": "Israel final election results: Netanyahu's bloc maintains lead but does not secure majority",
+      "url": "https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276",
       "date": "2026-10-29",
-      "singleSource": true
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "The Times of Israel",
+      "title": "Live blog, October 30, 2026",
+      "url": "https://www.timesofisrael.com/liveblog-october-30-2026/",
+      "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 17,
+      "outlet": "The Next Web",
+      "title": "Intel shares sink as memory shortage drags its PC chip outlook",
+      "url": "https://thenextweb.com/news/intel-q3-2026-outlook-pc-slump-memory-shortage",
+      "date": "2026-10-29",
+      "singleSource": false
     }
   ]
 }
