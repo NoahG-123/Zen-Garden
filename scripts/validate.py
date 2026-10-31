@@ -132,8 +132,9 @@ def source_ids(doc, where, strict=True):
         link(w + ".url", s.get("url"), strict)
         if not is_date(s.get("date")):
             warn(w + ".date", "must be an ISO date (YYYY-MM-DD)")
-    if not (1 <= len(srcs) <= 20):
-        warn(where + ".sources", f"has {len(srcs)} sources, expected 1 to 20")
+    # The Sources box scrolls, so a long list is fine. The ceiling only catches a runaway file.
+    if not (1 <= len(srcs) <= 300):
+        warn(where + ".sources", f"has {len(srcs)} sources, expected 1 to 300")
     return ids
 
 
