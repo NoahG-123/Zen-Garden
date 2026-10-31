@@ -151,8 +151,21 @@ Each topic is ONE specific event from roughly the last 48 hours, not a general t
 | `topics[].differences` | **Where reporting differs** box at the end of the article (hidden if null) |
 | `question.type` / `.text` | **Think about this** card (type as a small tag) |
 | `read` | **Today's read** card: `kind` tag, `minutes`, `title` link, `outlet`, `summary` |
-| `weeklyRead` | **This week's read** card, same shape as `read` (hidden if null) |
+| `weeklyRead` | Optional. A read here is shown in the **This week's read** card (same shape as `read`), but the daily task now keeps weekly reads in `weekly.json` and leaves this `null` |
 | `sources[]` | Numbered **Sources** list in the side panel. `singleSource: true` adds a "single source" tag |
+
+### weekly.json  →  **This week's read** card (World tab)
+
+Optional file, not listed in `index.json`. The site fetches it by itself and works without it. Written on Sundays only: the new read goes on top, entries older than 35 days are removed, and about five (a month) are kept.
+
+```json
+{ "reads": [
+  { "date": "2026-11-01", "title": "…", "outlet": "…", "url": "https://…", "kind": "paper", "minutes": 30, "summary": "…" },
+  { "date": "2026-10-25", "title": "…", "outlet": "…", "url": "https://…", "kind": "analysis", "minutes": 40, "summary": "…" }
+] }
+```
+
+The card shows the newest read. With more than one, the card's window stays exactly as tall as the newest read, and earlier reads scroll below it, like the Sources list. A small counter ("1 / 3 ↓") shows where you are, and each read carries its Sunday date. The same card is used on phone and desktop.
 
 ```json
 "topics": [ {

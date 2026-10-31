@@ -3,7 +3,7 @@
 A scheduled task starts at 5:22 am Toronto time every day, rewrites the JSON in `data/` and pushes it to `main`, so the brief is ready by about 6 am. GitHub Pages republishes the site a minute or two later. The site code is never touched.
 
 ## What it writes
-`world.json`, `canada.json` and `china.json` every day. `events.json` is reviewed daily and changes rarely. `generation.json` changes monthly. `index.json` gets a new `updated` time, which makes every browser fetch the fresh files.
+`world.json`, `canada.json` and `china.json` every day. `events.json` is reviewed daily and changes rarely. `weekly.json` gains a new read on Sundays only and keeps about a month of them (the newest shows in the World sidebar, earlier ones scroll below). `generation.json` changes monthly. `index.json` gets a new `updated` time, which makes every browser fetch the fresh files.
 
 ## The safety check
 Before every push the task runs:

@@ -224,6 +224,15 @@ main { max-width: var(--page); margin: 0 auto; padding: 72px var(--gutter) 128px
 .read-sum { font-size: 14.5px; line-height: 1.55; color: var(--ink-2); text-wrap: pretty; }
 .read-meta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 
+/* weekly reads: the window is the size of the newest read; earlier ones scroll below it */
+.wk-head { justify-content: space-between; }
+.wk-count { white-space: nowrap; }
+.wk-list { display: grid; align-content: start; position: relative; }
+.wk-list[tabindex] { overflow-y: auto; scroll-snap-type: y proximity; margin-right: -8px; padding-right: 8px; scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; border-radius: 6px; }
+.wk-list[tabindex]:focus-visible { outline: 2px solid var(--link); outline-offset: 4px; }
+.wk { display: grid; gap: 12px; align-content: start; scroll-snap-align: start; }
+.wk + .wk { margin-top: 22px; }
+
 .sources { padding: 26px 28px 26px; display: grid; gap: 8px; }
 .src-list { display: grid; position: relative; max-height: 340px; overflow-y: auto; overscroll-behavior: contain; margin-right: -8px; padding-right: 8px; scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
 .src-list li {

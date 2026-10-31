@@ -160,12 +160,65 @@ function readBlock(r, opts = {}) {
   return [
     h("div", { class: "read-meta" },
       r.kind ? tag(r.kind, true) : null,
-      r.minutes ? h("span", { class: "mono" }, `${r.minutes} min`) : null),
+      r.minutes ? h("span", { class: "mono" }, `${r.minutes} min`) : null,
+      opts.date ? h("span", { class: "mono" }, `· ${shortDate(opts.date)}`) : null),
     h(titleTag, { class: "read-title" },
       url ? h("a", { href: url, target: "_blank", rel: "noopener noreferrer" }, str(r.title), h("span", { class: "ext", "aria-hidden": "true" }, "↗"), h("span", { class: "sr-only" }, " (opens in a new tab)")) : str(r.title)),
     r.outlet ? h("p", { class: "mono" }, str(r.outlet)) : null,
     r.summary ? h("p", { class: "read-sum" }, str(r.summary)) : null,
   ];
+}
+
+/* ---------------- weekly reads: newest on top, earlier ones scroll below ---------------- */
+const WEEKLY_KEEP = 5; // about a month of Sundays
+
+function weeklyEntries(d, archive) {
+  const list = arr(archive).filter((e) => e && typeof e === "object" && str(e.title).trim());
+  const cur = d.weeklyRead && str(d.weeklyRead.title).trim() ? d.weeklyRead : null;
+  if (cur && !list.some((e) => str(e.url) === str(cur.url))) list.push({ ...cur, date: str(d.date) });
+  list.sort((x, y) => str(y.date).localeCompare(str(x.date)));
+  return list.slice(0, WEEKLY_KEEP);
+}
+
+function weeklyCard(entries, cleanup) {
+  if (!entries.length) return null;
+  const many = entries.length > 1;
+  const count = many ? h("span", { class: "mono wk-count", "aria-live": "polite" }, `1 / ${entries.length} ↓`) : null;
+  const items = entries.map((e) => h("div", { class: "wk" }, readBlock(e, { date: e.date })));
+  const pad = h("div", { class: "wk-pad", "aria-hidden": "true" });
+  const list = h("div", Object.assign({ class: "wk-list" }, many ? { tabindex: "0", role: "group", "aria-label": "This week’s read and earlier weekly reads, scroll for earlier ones" } : {}), items, many ? pad : null);
+  const card = h("section", { class: "panel card", "aria-labelledby": "w-h" },
+    h("div", { class: "section-head wk-head" }, h("h2", { class: "label", id: "w-h" }, "This week’s read"), count),
+    list);
+  if (many) {
+    // The window is exactly as tall as the newest read, so the card keeps its usual size.
+    const fit = () => {
+      const first = items[0].offsetHeight, last = items[items.length - 1].offsetHeight;
+      if (!first) return;
+      list.style.height = `${first}px`;
+      pad.style.height = `${Math.max(0, first - last)}px`;
+    };
+    const where = () => {
+      const top = list.scrollTop + 4;
+      let n = 0;
+      items.forEach((it, i) => { if (it.offsetTop <= top) n = i; });
+      if (list.scrollTop + list.clientHeight >= list.scrollHeight - 2) n = items.length - 1;
+      count.textContent = `${n + 1} / ${items.length} ${n === items.length - 1 ? "↑" : "↓"}`;
+      list.classList.toggle("at-end", n === items.length - 1);
+    };
+    list.addEventListener("scroll", where, { passive: true });
+    if ("ResizeObserver" in window) {
+      const ro = new ResizeObserver(() => { fit(); where(); });
+      ro.observe(items[0]); ro.observe(items[items.length - 1]);
+      cleanup.push(() => ro.disconnect());
+    } else {
+      window.addEventListener("resize", fit);
+      cleanup.push(() => window.removeEventListener("resize", fit));
+      requestAnimationFrame(fit);
+    }
+    list.classList.add("at-start");
+  }
+  return card;
 }
 
 function sourcesPanel(list, prefix = "src-") {
@@ -290,7 +343,7 @@ function alsoRow(list) {
         url ? h("a", { href: url, target: "_blank", rel: "noopener noreferrer" }, str(a.title), h("span", { class: "sr-only" }, " (opens in a new tab)")) : str(a.title));
     }));
 }
-function renderWorld(d, cleanup, eventsData) {
+function renderWorld(d, cleanup, eventsData, weekly) {
   const eventTitles = new Map(arr(eventsData && eventsData.events).map((e) => [e.id, str(e.title)]));
   const sources = sourceMap(d.sources);
   const topics = arr(d.topics);
@@ -390,8 +443,7 @@ function renderWorld(d, cleanup, eventsData) {
       h("p", { class: "q" }, rich(d.question.text, sources))) : null,
     d.read ? h("section", { class: "panel card", "aria-labelledby": "r-h" },
       h("h2", { class: "label", id: "r-h" }, "Today’s read"), readBlock(d.read)) : null,
-    d.weeklyRead ? h("section", { class: "panel card", "aria-labelledby": "w-h" },
-      h("h2", { class: "label", id: "w-h" }, "This week’s read"), readBlock(d.weeklyRead)) : null,
+    weeklyCard(weeklyEntries(d, weekly), cleanup),
     sourcesPanel(d.sources));
 
   view.append(...[
@@ -660,6 +712,23 @@ function loadFile(tab) {
   return p;
 }
 
+// Optional archive of past weekly reads (data/weekly.json). The site works without it.
+let weeklyPromise = null;
+function loadWeekly() {
+  if (weeklyPromise) return weeklyPromise;
+  weeklyPromise = (async () => {
+    if (STRESS) return [];
+    const v = encodeURIComponent(index?.updated || String(Date.now()));
+    try {
+      const r = await fetch(`${DATA_BASE_URL}weekly.json?v=${v}`);
+      if (!r.ok) return [];
+      const j = await r.json();
+      return arr(j && j.reads);
+    } catch { return []; }
+  })();
+  return weeklyPromise;
+}
+
 function renderUpdated() {
   renderRunChip();
   const foot = document.getElementById("footer-updated");
@@ -696,9 +765,10 @@ async function show(tab, { scroll = true } = {}) {
   if (!data) { main.replaceChildren(tab === "world" ? h("div", { class: "missing-wrap view" }, missing(), runCard()) : missing()); return; }
   let view;
   const eventsData = tab === "world" ? await loadFile("events") : null;
+  const weekly = tab === "world" ? await loadWeekly() : null;
   if (token !== renderToken) return;
   try {
-    view = tab === "world" ? renderWorld(data, cleanup, eventsData)
+    view = tab === "world" ? renderWorld(data, cleanup, eventsData, weekly)
       : tab === "events" ? renderEvents(data)
       : tab === "canada" ? renderBrief(data, "Canada")
       : tab === "china" ? renderBrief(data, "China")

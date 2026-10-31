@@ -366,6 +366,30 @@ def check_generation(d, w):
         text(f"{w}.test[{j}]", q, 220)
 
 
+def check_weekly(d, w):
+    """data/weekly.json: past weekly reads, newest first. Optional; not listed in index.json."""
+    reads = d.get("reads")
+    if not isinstance(reads, list):
+        error(w + ".reads", "must be a list")
+        return
+    if len(reads) > 6:
+        warn(w + ".reads", "has %d entries; keep about a month (5 or fewer)" % len(reads))
+    last = ""
+    for j, r in enumerate(reads):
+        here = f"{w}.reads[{j}]"
+        if not isinstance(r, dict):
+            warn(here, "must be an object")
+            continue
+        day = r.get("date")
+        if not isinstance(day, str) or not is_date(day):
+            warn(here + ".date", "must be a date like 2026-11-01 (the Sunday it was added)")
+        elif last and day > last:
+            warn(here + ".date", "entries must be newest first")
+        else:
+            last = day
+        read_card(here, r, READ_KINDS, True)
+
+
 def load(path, name):
     try:
         with open(path, encoding="utf-8") as f:
@@ -434,6 +458,14 @@ def main():
             guarded(name, check_brief)
     if "generation.json" in docs:
         guarded("generation.json", check_generation)
+    weekly_path = os.path.join(base, "weekly.json")
+    if os.path.exists(weekly_path):
+        wk = load(weekly_path, "weekly.json")
+        if isinstance(wk, dict):
+            docs["weekly.json"] = wk
+            guarded("weekly.json", check_weekly)
+        elif wk is not None:
+            error("weekly.json", "must be a JSON object")
     return finish()
 
 

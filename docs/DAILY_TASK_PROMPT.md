@@ -44,7 +44,17 @@ Accuracy and tone:
 - No private individuals. Public figures only in their public roles.
 - summary (top of file): one sentence of up to 220 characters on the shape of the day.
 - question: exactly one critical-thinking question tied to today's stories, not answerable by looking something up, with no answer given. Its `type` is one of assumption, second-order, other-side, how-do-we-know, who-benefits. Do not use the same type as yesterday's file.
-- read: one required read for today (news, analysis or paper, 5 to 15 minutes), preferably something that builds understanding, with a verified link. weeklyRead: on Sundays one longer piece or paper (20 to 40 minutes), otherwise null.
+- read: one required read for today (news, analysis or paper, 5 to 15 minutes), preferably something that builds understanding, with a verified link. weeklyRead: always null in this file (the weekly read lives in data/weekly.json, see 2b).
+
+## 2b. Weekly read (data/weekly.json)
+The weekly read stays visible for a month: the site shows the newest one in the "This week's read" card and lets the reader scroll down to earlier ones. They live in data/weekly.json, newest first:
+`{"reads": [{"date": "2026-11-01", "title": "...", "outlet": "...", "url": "...", "kind": "paper", "minutes": 30, "summary": "..."}]}`
+- Do NOT add weekly.json to `files` in data/index.json. The site finds it by itself.
+- Only on Sundays (`date +%u` is 7): find one longer piece or paper (20 to 40 minutes, kind news, analysis or paper) that builds understanding, with the same link rules as section 2 (open the URL with WebFetch and confirm it before using it). Add it at the top of `reads` with `date` set to today's date (YYYY-MM-DD) and the same fields as `read`, plus `minutes`. If an entry with today's date is already there (a re-run), replace it instead of adding a second one.
+- Then delete entries whose date is more than 35 days old, and keep at most 5 in total. Never edit or reorder the other entries.
+- On every other day, leave data/weekly.json exactly as it is.
+- If you cannot verify a weekly read on a Sunday, add nothing and put a line in `issues` (see 7.3), for example "No new weekly read this Sunday: no article could be verified."
+- If the validator reports an ERROR for weekly.json, repair it, or restore it with `git checkout -- data/weekly.json`.
 
 ## 3. Canada (data/canada.json)
 Federal and provincial politics and the economy, with what matters for an Ontario student. Sources such as CBC, The Canadian Press, The Globe and Mail, the Bank of Canada, Statistics Canada, and government releases. One flat piece of 1 to 4 paragraphs with no subheadings, one summary sentence, a differences note only when needed, and 0 to 2 verified further reads. On a quiet day, write a short brief and say it was quiet. Do not pad.
@@ -75,7 +85,7 @@ Monthly. Rewrite it when the file has `"sample": true`, or on the first day of a
    - TOPIC: a World topic with no verified source article or no article text. Find a verified link, or drop that one topic and publish the rest.
    - ERROR: a file is broken (for example invalid JSON, or a core section missing). Repair it. If you cannot within a few tries, restore only that file with `git checkout -- data/<file>` (or, if that file was never real content, remove it from "files" in index.json) and publish everything else.
    Re-run it up to 3 times. A problem in one file or one topic must never stop the rest of the update. Publish whatever is clean, even if that means a shorter brief.
-3. Record the run in data/index.json as `"run": {"finished": "<current America/Toronto time, ISO with offset>", "issues": [...]}`. `issues` is a list of short plain-language lines (up to 10, each under 200 characters), one for every problem that changed what the reader sees today: each World topic you dropped (name it and say why, for example "Dropped “Port strike spreads to Rotterdam”: no source article could be verified."), each file kept from yesterday or removed from "files" (and why), and any tab that should have been rebuilt but was not. Do not list warnings or style notes. If nothing went wrong, use an empty list. The site shows this at the top of the World sidebar as "Run successful" or as the list of issues.
+3. Record the run in data/index.json as `"run": {"finished": "<current America/Toronto time, ISO with offset>", "issues": [...]}`. `issues` is a list of short plain-language lines (up to 10, each under 200 characters), one for every problem that changed what the reader sees today: each World topic you dropped (name it and say why, for example "Dropped “Port strike spreads to Rotterdam”: no source article could be verified."), each file kept from yesterday or removed from "files" (and why), and any tab that should have been rebuilt but was not (including a Sunday with no new weekly read). Do not list warnings or style notes. If nothing went wrong, use an empty list. The site shows this at the top of the World sidebar as "Run successful" or as the list of issues.
 4. Commit only data/ with the message `Daily update YYYY-MM-DD` and push to main. If the push is rejected, run `git pull --rebase` once and push again. Never force-push. If it still fails, stop.
 5. If you are running short of time, do the work in this order: World, Canada, China, Events review, Generation.
 6. Finish with a short summary: which files changed, any topic you dropped and why, the validator result, and anything the reader should know about today's data.
