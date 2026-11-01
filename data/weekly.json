@@ -1,6 +1,15 @@
 {
   "reads": [
     {
+      "date": "2026-11-01",
+      "title": "UNEP: Opportunity has 'been lost' to meet 1.5C warming limit without 'overshoot'",
+      "outlet": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+      "kind": "analysis",
+      "minutes": 20,
+      "summary": "A chart-rich walk through the UN's latest emissions gap report: why warming will pass 1.5C for a while, where current policies lead, and what cuts would change it. Good context for COP31."
+    },
+    {
       "date": "2026-10-25",
       "title": "How to Increase America's AI Lead Over China",
       "outlet": "Institute for Progress",

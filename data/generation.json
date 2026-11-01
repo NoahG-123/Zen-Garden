@@ -1,133 +1,115 @@
 {
-  "updated": "2026-10-15",
-  "topic": "How many young people believe conspiracy theories about Jews online, and why do some fall for them?",
-  "intro": "New polls show that agreement with antisemitic ideas (prejudice against Jews) is higher among young adults than older ones, and higher among people who get news mainly from social media. They also show that most young people reject these ideas, and many are simply unsure. This page looks at what the numbers say, the possible reasons, and how to tell criticism of a government's policies apart from conspiracy thinking about a whole people. Most data is American; one Canadian survey is included.",
+  "updated": "2026-11-01",
+  "topic": "How do young people use AI for school and work, and what do they believe about it?",
+  "intro": "AI chatbots arrived in classrooms fast, and surveys now show how students actually use them. Most young people have tried AI, but far fewer rely on it for most of their work, and their mood is cooling: excitement is down and worry about learning and jobs is up. This page looks at what the numbers say, possible reasons, and how to judge claims about \"a whole generation\" and AI. Most data is American; one Canadian survey and one Statistics Canada study are included.",
   "data": [
     {
-      "stat": "In a Yale Youth Poll of US voters (March 2026), 67% agreed with none of three antisemitic statements; 10% of 18-34s agreed with all three, versus 2% of those 65+.",
-      "detail": "The statements: Jews are more loyal to Israel than to the US, boycotting Jewish American-owned businesses is appropriate, and Jews have 'too much power.' 3,429 registered voters, 2,008 of them under 35; margin of error ±2.0 points for the youth sample. In Yale's fall 2025 wave, 57% of 18-22s and 60% of 23-29s disagreed with all three.",
+      "stat": "45% of US teens aged 13-17 say they do none of their schoolwork with AI chatbots; 10% do most or all of it with them.",
+      "detail": "Pew asked 1,458 teens (Sept 25-Oct 9, 2025; margin ±3.3): 21% said some and 23% a little. 64% have used a chatbot at all. Teens who use AI for school mostly research topics (48%), solve math problems (43%) and edit their own writing (35%). 59% think classmates use AI to cheat at least somewhat often; 15% are not sure.",
       "source": 1
     },
     {
-      "stat": "29% of US voters aged 18-34 agreed that Jews have an 'extremely organized international community' that puts its own interests first, versus 17% of those 65+.",
-      "detail": "Across all ages, 25% agreed, 32% disagreed and 43% neither agreed nor disagreed, so the largest group was undecided rather than convinced. A separate 'great replacement'-style statement about Jews and immigration got 9% agreement and 57% disagreement overall.",
-      "source": 1
+      "stat": "In Gallup's 2026 survey of Americans aged 14-29, 22% felt excited about AI, down 14 points in a year; 31% felt angry, up 9.",
+      "detail": "1,572 people, Feb 24-Mar 4, 2026 (margin ±3.6), with the Walton Family Foundation and GSV. Curiosity (49%) and anxiety (42%) were the most common feelings. 51% use generative AI at least weekly and 19% never. 80% think AI will make learning harder in future.",
+      "source": 2
     },
     {
-      "stat": "In a Leger survey for the Association of Canadian Studies (May 2024), 18% of Canadians aged 18-24 agreed 'the Holocaust was exaggerated', up from 16% in February 2024.",
-      "detail": "For ages 25-34 it was 15% (up from 8%). Put the other way, more than 8 in 10 young Canadians did not agree. Online panel of 1,519 people, so no margin of error. A January 2025 survey found 22% of Canadians under 25 named online sources as their main source on the Holocaust. Seen only via a Canadian Press report.",
-      "source": 7
-    },
-    {
-      "stat": "43% of Americans under 30 regularly get news on TikTok, up from 9% in 2020, Pew found in August 2025.",
-      "detail": "Pew surveyed 5,153 US adults, Aug. 18-24, 2025. In the Yale spring 2026 poll, voters who got news on TikTok (41%), Reddit (39%), Instagram (39%) and X (38%) were the most likely to agree with at least one antisemitic statement; TV, newspaper and news-website users were the least likely.",
+      "stat": "73% of Canadian students surveyed use generative AI for schoolwork, up from 52% in 2023; 66% say they are learning and retaining less.",
+      "detail": "KPMG Canada online survey, Aug 15-Sept 15, 2025, of 684 students, mostly in college or university (only 15% of the AI users were in high school). 71% say their grades improved, 57% feel they are cheating when they use it, and 77% want courses on using AI.",
       "source": 4
     },
     {
-      "stat": "In a 2023 Gallup and Walton Family Foundation survey of Americans aged 12-26, 71% trusted science, but only 16% trusted the news and 19% trusted information on the internet.",
-      "detail": "Trust here means 'a great deal' or 'quite a lot.' Other figures: Congress 12%, the presidency 14%, large tech companies 17%. Sample of 3,114 people aged 12 to 26, surveyed April 24 to May 8, 2023. This is older data, but it is the most recent from this survey series that we opened.",
+      "stat": "59% of Americans aged 18-29 see AI as a threat to their job prospects, more than outsourcing (48%) or immigration (31%).",
+      "detail": "Harvard Youth Poll, 2,040 people, Nov 3-7, 2025 (margin ±2.94). Asked whether AI will create or take away opportunities for them, 44% said take away, 14% create, 17% no change and 23% were unsure.",
       "source": 5
     },
     {
-      "stat": "60% of US adults viewed Israel unfavourably in March 2026, up from 53% in 2025; 57% of Republicans aged 18-49 did, up from 50%.",
-      "detail": "Pew surveyed 3,507 adults, March 23-29, 2026. The question asks about Israel as a country, not about Jewish people, and Pew does not separate views of Israel's government from its people. A negative view of a country's policies is a political opinion, not by itself a sign of antisemitism.",
+      "stat": "About 10% of Canadian workers aged 15-24 used generative AI at work in the past year, versus 27% of those aged 25-54.",
+      "detail": "Statistics Canada, from four waves of a working-conditions survey (Sept 2024-July 2025). StatCan says the age gap is mostly explained by the kinds of jobs young people hold; after adjusting, the difference was no longer statistically significant.",
       "source": 6
     }
   ],
   "why": [
     {
-      "claim": "Young people who get news mostly from social media are more likely to agree with antisemitic statements.",
+      "claim": "AI saves time, and many students use it for help rather than to do the whole job.",
       "evidence": "measured",
-      "detail": "The Yale poll found the highest agreement among TikTok, Reddit, Instagram and X news users, and the lowest among TV and newspaper readers.[^1] The Algemeiner reported a gap of 10 to 15 points on items about Jewish power or loyalty.[^2] This is a link, not proof of cause: people with these views may also prefer certain apps."
+      "detail": "Research, math help and editing are the top school uses in Pew's survey.[^1] In Gallup's survey 56% say AI helps them get work done faster, though that is down 10 points from a year earlier.[^2] KPMG found 45% of Canadian students turn to AI first rather than writing their own draft.[^4]"
     },
     {
-      "claim": "Feeds built for engagement can show short, emotional conspiracy content to people who never searched for it.",
+      "claim": "Students see better grades in the short term, even when they worry they learn less.",
       "evidence": "plausible",
-      "detail": "Under-30s now rely heavily on TikTok for news.[^4] It is a reasonable guess that a fast, personalized feed spreads simple 'hidden group' explanations more easily than slower news formats. But the sources here do not measure algorithms directly. This is a judgment, not a finding."
+      "detail": "71% of Canadian students in KPMG's survey say AI improved their grades, while 66% say they learn and remember less.[^4] No survey here asked directly whether grade pressure drives AI use, so the link is a reasonable guess, not a measurement."
     },
     {
-      "claim": "Low trust in news and institutions may make 'secret group' explanations feel believable.",
+      "claim": "Schools are writing rules that allow some AI use, which makes it normal.",
       "evidence": "plausible",
-      "detail": "Few young Americans trust the news (16%) or internet information (19%), while most trust science (71%).[^5] Distrust could push some people toward explanations that blame a hidden group. The survey measured trust, not conspiracy belief, so the connection is an inference."
+      "detail": "74% of US students in Gallup's survey say their school has AI rules, up from 51%, and 65% of those with a policy are allowed to use AI for schoolwork; only 28% say the school provides AI tools.[^2] That rules are spreading is measured; that they cause more use is not."
     },
     {
-      "claim": "Anger over the Gaza war is turning criticism of Israel's government into hostility toward Jews in general.",
+      "claim": "Worry about entry-level jobs is making young people more negative about AI.",
       "evidence": "contested",
-      "detail": "Negative views of Israel are rising, especially among younger adults.[^6] The Yale researchers found that both criticism of Israel and antisemitic views are more common among young voters, but say their poll cannot show which causes which. They note that many critics of Israel are not antisemitic.[^3] Criticizing a government's actions is different from blaming Jewish people as a group."
+      "detail": "The worry itself is measured: 59% of young Americans see AI as a job threat[^5], and 64% of Canadian students fear AI is cutting entry-level roles.[^4] Whether AI is actually removing those jobs is still debated; StatCan finds young workers' lower AI use reflects the jobs they hold.[^6]"
     },
     {
-      "claim": "Many young people are unsure rather than committed believers.",
-      "evidence": "measured",
-      "detail": "On the 'organized international community' statement, 43% of voters neither agreed nor disagreed, more than either side.[^1] A large undecided group suggests many people have not thought these claims through, which also means facts and education may still change minds. That last part is my read."
-    },
-    {
-      "claim": "Learning about the Holocaust mainly online may leave gaps that denial content can fill.",
+      "claim": "Many doubt AI is good for thinking and fairness, which may explain the falling excitement.",
       "evidence": "plausible",
-      "detail": "Canadians under 25 were the most likely age group to name online sources as their main source on the Holocaust (22%), and young Canadians were the most likely to say it was exaggerated.[^7] Both trends appear together, but the survey does not show that one causes the other."
+      "detail": "42% in Gallup's survey say AI harms careful thinking and only 25% say it helps; only 28% trust AI-assisted work.[^2] 41% believe most classmates use AI when they are not supposed to.[^3] These views are measured; that they cause the cooling mood is a judgment."
     }
   ],
   "test": [
-    "Does the claim blame a whole group of people (all Jews) for the actions of a government, a company or a few individuals?",
-    "Who made the claim, and can you find the same fact in a named poll, court record or established news outlet, not just in a video or a post?",
-    "Is there any evidence that could prove the claim wrong, or does every piece of counter-evidence get explained away as part of the plot?",
-    "If a poll is quoted, what exactly was asked, of whom, and how many people said no or 'not sure'?"
+    "Who was surveyed: high-school students, university students, young workers, or all young adults? Do the results really apply to people your age?",
+    "Does the headline number describe trying AI once, using it weekly, or relying on it for most work? These are very different things.",
+    "Is a claim that AI is 'taking jobs' backed by data on actual jobs, or only by what people fear will happen?",
+    "Who paid for the survey (a tech company, a consultancy, a foundation), and could that shape which questions were asked?"
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Yale Youth Poll",
-      "title": "Spring 2026 Results: Young Voters Vehemently Oppose Trump, ICE; See Big Risks and Some Benefits to AI",
-      "url": "https://youthpoll.yale.edu/spring-2026-results",
-      "date": "2026-04-15",
+      "outlet": "Pew Research Center",
+      "title": "How Teens Use and View AI",
+      "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
+      "date": "2026-02-24",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Algemeiner",
-      "title": "Antisemitic Beliefs More Common Among Young Social Media Users, Yale Poll Shows",
-      "url": "https://www.algemeiner.com/2026/04/15/antisemitic-beliefs-more-common-among-young-social-media-users-yale-poll-shows/",
-      "date": "2026-04-15",
-      "singleSource": true
+      "outlet": "Gallup",
+      "title": "Gen Z's AI Adoption Steady, but Skepticism Climbs",
+      "url": "https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx",
+      "date": "2026-04-08",
+      "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Yale Youth Poll (Substack)",
-      "title": "We polled young Americans on antisemitism and Israel-Palestine. Here's what we found",
-      "url": "https://yalepolling.substack.com/p/we-polled-young-americans-on-antisemitism",
-      "date": "2025-12-08",
+      "outlet": "Walton Family Foundation",
+      "title": "Gen Z resentment toward AI grows as adoption stagnates and workplace fears mount",
+      "url": "https://waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+      "date": "2026-04-08",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Pew Research Center",
-      "title": "1 in 5 Americans now regularly get news on TikTok, up sharply from 2020",
-      "url": "https://www.pewresearch.org/short-reads/2025/09/25/1-in-5-americans-now-regularly-get-news-on-tiktok-up-sharply-from-2020/",
-      "date": "2025-09-25",
+      "outlet": "KPMG in Canada",
+      "title": "Generative AI boom among Canadian students raises dilemmas",
+      "url": "https://kpmg.com/ca/en/media/2025/10/generative-ai-boom-among-canadian-students-raises-dilemmas.html",
+      "date": "2025-10-09",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Gallup",
-      "title": "Gen Z Voices Lackluster Trust in Major U.S. Institutions",
-      "url": "https://news.gallup.com/opinion/gallup/510395/gen-voices-lackluster-trust-major-institutions.aspx",
-      "date": "2023-09-14",
+      "outlet": "Harvard Kennedy School Institute of Politics",
+      "title": "Harvard Youth Poll, 51st edition, Fall 2025",
+      "url": "https://iop.harvard.edu/youth-poll/51st-edition-fall-2025",
+      "date": "2025-12-04",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Pew Research Center",
-      "title": "Negative views of Israel, Netanyahu continue to rise among Americans – especially young people",
-      "url": "https://www.pewresearch.org/short-reads/2026/04/07/negative-views-of-israel-netanyahu-continue-to-rise-among-americans-especially-young-people/",
-      "date": "2026-04-07",
+      "outlet": "Statistics Canada",
+      "title": "Workplace artificial intelligence use: A profile of sociodemographic and job characteristics",
+      "url": "https://www150.statcan.gc.ca/pub/75-006-x/2026001/article/00007-eng.htm",
+      "date": "2026-06-17",
       "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Survey says more young Canadians believe the history of the Holocaust is exaggerated",
-      "url": "https://www.cp24.com/news/canada/2025/01/26/survey-says-more-young-canadians-believe-the-history-of-the-holocaust-is-exaggerated/",
-      "date": "2025-01-26",
-      "singleSource": true
     }
   ]
 }

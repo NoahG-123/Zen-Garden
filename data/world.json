@@ -1,344 +1,394 @@
 {
-  "date": "2026-10-31",
-  "summary": "Iran and the US trade claims over Hormuz as Trump says the war will end soon, AI spending fears hit Big Tech, a record crypto theft, Ebola deaths pass 5,000 and Israel's vote ends in deadlock.",
+  "date": "2026-11-01",
+  "summary": "Iran weighs a two-day Hormuz plan as US strike talk grows, Oleshky evacuees reach Ukraine, US voters turn out early, Israel's deadlock deepens and a UN nature summit ends.",
   "topics": [
     {
-      "id": "iran-hormuz-more-tanker-claims",
-      "heading": "Iran reports more tanker fires in Hormuz as Trump says the war will 'wrap up soon'",
-      "date": "2026-10-30",
-      "status": "disputed",
-      "summary": "Iran's Revolutionary Guards say two more tankers were stopped after 'incidents' in the Strait of Hormuz, while the US military says the main shipping lanes are clear of mines. Qatar is waiting for Iran's answer to a new peace draft.[^1][^3]",
+      "id": "iran-qatar-hormuz-talks",
+      "heading": "Iran and Qatar discuss a two-day plan to reopen Hormuz as US strike warnings grow",
+      "date": "2026-10-31",
+      "status": "developing",
+      "summary": "Iranian negotiators met Qatari mediators in Doha on Saturday after Iran found Qatar's seven-day plan unsatisfactory. Iran's foreign minister says a plan to reopen the Strait of Hormuz within two days is being discussed, while Gulf states expect possible US strikes after Tuesday's US election.[^1][^2]",
       "lead": {
-        "title": "Iran's Revolutionary Guard reports two tankers on fire in Strait of Hormuz as talks continue",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-        "date": "2026-10-30"
+        "title": "Iranian envoys meet Qatar mediators as US strike threat looms post-midterms",
+        "outlet": "Business Standard (Reuters)",
+        "url": "https://www.business-standard.com/amp/world-news/iranian-envoys-meet-qatar-mediators-as-us-strike-threat-looms-post-midterms-126110100052_1.html",
+        "date": "2026-11-01"
       },
       "alsoReported": [
         {
-          "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
-          "outlet": "Arab News Japan (Reuters/AFP)",
-          "url": "https://www.arabnews.jp/en/middle-east/trump-says-iran-war-will-end-soon-us-military-insists-hormuz-is-secure-3001180"
+          "title": "Araghchi says Vance's letter 'positive step' toward opening dialogue between Iran, US",
+          "outlet": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-913396"
         },
         {
-          "title": "Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
+          "title": "Oman rescues 25 sailors from burning ship as Iran says tankers halted in Hormuz",
+          "outlet": "Kuwait Times (AFP)",
+          "url": "https://kuwaittimes.com/article/52709/world/oman-rescues-25-sailors-from-burning-ship-as-iran-says-tankers-halted-in-hormuz/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "On Friday, Iran's Revolutionary Guards (IRGC) said two more tankers had \"incidents\" in the Strait of Hormuz and were stopped, claiming the ships had switched off their tracking systems and had US military support[^1]. A day earlier the IRGC said three tankers hit mines, and Iran's regular military later put the number at four[^2]. Independent confirmation is thinner. The UK Maritime Trade Operations centre (UKMTO), which tracks shipping incidents, reported a small boat attaching two explosive devices to a tanker's hull off Khasab, Oman; the ship was briefly disabled, the crew was safe and it sailed on[^1]. Oman's navy also rescued 25 crew from a burning ship near Musandam[^1].",
-        "The US military tells a different story. Adm. Brad Cooper, who leads US Central Command (CENTCOM), says the main shipping lanes are clear of mines, and CENTCOM rejected IRGC claims that it had captured a US drone[^1][^3]. President Trump said on a radio show that the war is \"going to get wrapped up soon,\" adding that the US needs a guarantee that Iran will never have a nuclear weapon[^1][^3].",
-        "Background: the war began in February, and Iran has tightly limited traffic through the strait, a narrow channel that carries a large share of the world's oil[^1]. Diplomacy runs alongside the fighting. Qatar gave Iran a draft on October 25 with a seven-day schedule of confidence-building steps; a senior Iranian official called it \"unacceptable ideas and not an offer,\" but Qatari mediators were back in Tehran on Friday, and a reply was expected around the weekend[^2][^4].",
-        "What next is unclear. The Wall Street Journal reports that the US told Gulf states to prepare for a \"short, intense\" campaign after the November 3 US midterm elections, while AP, citing two diplomats, says no final decision has been made[^2]. My read: as long as ships are attacked, fuel costs stay high far from the Gulf, and the next few days, with Iran's reply to Qatar and the US vote, may show which way this goes."
+        "Talks to end the US-Iran war moved on two tracks this weekend. Iranian and Qatari officials talked in Tehran for more than 12 hours on Friday, and Iranian negotiators met Qatar's mediators in Doha on Saturday; Reuters says the talks were coordinated with Washington[^1]. Iran did not accept Qatar's draft, a seven-day plan of daily trust-building steps before wider talks, but did not walk away either[^1]. Foreign Minister Abbas Araghchi says a plan to reopen the Strait of Hormuz within two days is now under discussion, if the US cooperates[^2].",
+        "Iran has set conditions. According to the Jerusalem Post, Araghchi listed lifting recent sanctions, fewer US forces in the region, restored oil waivers and the release of frozen Iranian money, and he ruled out meeting US officials himself[^5]. Tehran says the US \"tone has completely changed\" since a letter from Vice-President JD Vance; President Trump says the letter was only about letting medical supplies into Iran[^4][^1]. Trump says the talks are \"going fine\" but that he is \"not in that much of a hurry\"[^2].",
+        "Meanwhile the strait stays dangerous. Iran's Revolutionary Guards (IRGC) say three tankers on an \"unauthorized route\" were halted after incidents or mine strikes; Oman's navy rescued 25 sailors from the burning tanker RITI[^3]. The US military's regional commander, Adm. Brad Cooper, says the main shipping lanes have been cleared of Iranian mines[^3].",
+        "What could come next is unclear. Secretary of State Marco Rubio says Trump has not decided on new strikes and prefers diplomacy, while countries in the region expect attacks could resume after the US midterm election on November 3[^1]. The Times of Israel reports that Gulf allies were warned strikes could come as early as November 4; neither government has confirmed it[^4]. Iran's Supreme Leader, Mojtaba Khamenei, has told the armed forces to prepare to respond to any attack[^1]. My read: the next week, with the US vote and any reply on the two-day plan, could decide whether this turns toward a deal or a new round of fighting."
       ],
-      "differences": "Iran says several tankers hit mines or were stopped; UKMTO has confirmed one explosive attack, and the US says the main lanes are clear[^1][^3]. On a letter from US Vice-President JD Vance to Iran, the Wall Street Journal reports it set out a negotiating framework, while Trump said it was about medical supplies[^2]."
+      "differences": "Iran's IRGC says several tankers were stopped or hit mines; the US military says the main lanes are clear[^3]. On Vance's letter, Tehran describes a changed US tone, while Trump says it only covered medical supplies[^4][^1]. Reports of planned strikes after the vote come from unnamed officials and are not confirmed[^1][^4]."
     },
     {
-      "id": "big-tech-ai-spending-selloff",
-      "heading": "Alphabet's record one-day drop leads a Big Tech slide over the cost of AI",
-      "date": "2026-10-30",
-      "status": "confirmed",
-      "summary": "Alphabet shares fell 12.6% on Thursday, their worst day since 2004, after heavy AI spending and slower search growth. By Friday's close the Nasdaq had lost about 5% in October, its worst month since March 2025.[^5][^6]",
-      "lead": {
-        "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
-        "outlet": "Fortune",
-        "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
-        "date": "2026-10-29"
-      },
-      "alsoReported": [
-        {
-          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-        },
-        {
-          "title": "Nasdaq Faces $2 Trillion Wipeout in October as AI Spending Fears Deepen",
-          "outlet": "GV Wire (Reuters)",
-          "url": "https://gvwire.com/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "Shares of Alphabet, Google's parent company, fell 12.6% on Thursday, their worst day since the stock began trading in 2004, wiping out about $482 billion in market value[^5]. Investors focused on two things: search revenue grew 12%, slower than the 15% analysts expected, and the company spent $51.4 billion on capital projects, mostly AI data centres, in a single quarter, leaving it with negative free cash flow[^5]. Free cash flow is the cash left after a company pays for its investments.",
-        "Other results added to the worry. Intel forecast lower sales than expected, saying a shortage of memory chips is pushing up PC prices, and its shares fell more than 20% after hours[^6][^17]. Amazon's profit per share missed estimates even as its cloud business grew 39%[^6]. Meta's shares are more than 20% below their high after it announced a record $97.5 billion fundraising[^6][^7]. On Friday the Nasdaq fell 2.86% and the S&P 500 1.82%; Reuters says more than $2 trillion was erased from the Nasdaq 100 in October[^6][^7].",
-        "Background: the largest tech companies are borrowing and spending hundreds of billions of dollars to build AI. Alphabet alone plans about $200 billion of such spending this year and $300 billion in 2027[^5]. Parts of the business are booming: Google Cloud's revenue roughly doubled[^5]. The question investors are asking is when all that spending will pay for itself.",
-        "My read: these companies are so large that their swings move pension funds and ordinary savings, so the AI spending question reaches far beyond Silicon Valley. One bad month does not mean the boom is over, but it shows that investors' patience has limits, especially while interest rates are rising."
-      ],
-      "differences": null
-    },
-    {
-      "id": "binance-record-crypto-theft",
-      "heading": "Hackers steal about $6.3 billion from Binance, the largest crypto theft on record",
-      "date": "2026-10-30",
-      "status": "developing",
-      "summary": "Binance, the world's biggest crypto exchange, says hackers took about $6.3 billion in roughly 20 minutes. Blockchain analysts link the attack to a North Korean hacking unit; about $3 billion has been frozen.[^8]",
-      "lead": {
-        "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
-        "date": "2026-10-30"
-      },
-      "alsoReported": [
-        {
-          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-          "outlet": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Binance says hackers stole about $6.3 billion in cryptocurrency, mostly within about 20 minutes, across ten different blockchains, starting late on Thursday[^8]. That is roughly four times the previous record, the $1.5 billion taken from the exchange Bybit in February 2025[^8]. Binance suspended withdrawals, promised to cover all customer losses, and said it expected to reopen withdrawals within about 45 hours[^8].",
-        "About $3 billion has been frozen so far, including more than $2.3 billion by Tether and Circle, companies that issue \"stablecoins\", digital tokens tied to the US dollar that their issuers can lock[^8]. The blockchain analysis firms TRM Labs and Chainalysis attribute the attack to TraderTraitor, a North Korean unit linked to the Lazarus Group[^8]. North Korea usually denies involvement in such attacks[^8].",
-        "Background: crypto theft has become a major source of money for North Korea, which is under heavy international sanctions, and it helps fund the country's weapons programmes[^8]. The theft added to Friday's market slide, and Bitcoin fell to a six-week low of about $76,400[^8][^6].",
-        "Why it matters: if the attribution holds, this is one of the largest thefts ever linked to a state, and it tests whether exchanges and regulators can trace and recover stolen money. My read: the fact that so much was frozen shows crypto is less anonymous than many people think, but the rest may be hard to recover. It is also a reminder that money held on an exchange is only as safe as the company running it."
-      ],
-      "differences": null
-    },
-    {
-      "id": "congo-ebola-5000-deaths",
-      "heading": "Congo's Ebola outbreak passes 5,000 deaths, the second-deadliest on record",
+      "id": "oleshky-evacuees-reach-ukraine",
+      "heading": "Hundreds evacuated from occupied Oleshky reach Ukraine under a rare local truce",
       "date": "2026-10-31",
-      "status": "developing",
-      "summary": "Congo's health ministry reports 5,026 Ebola deaths among more than 10,000 cases, with cases also in Uganda, Kenya and Nigeria. The strain involved has no approved vaccine or treatment.[^9][^10]",
+      "status": "confirmed",
+      "summary": "Residents of the Russian-occupied town of Oleshky crossed into Ukrainian-held territory on Saturday after a long route through Russia and Belarus. The local truce, which the White House says Melania Trump brokered, was due to end on Sunday evening.[^6][^8]",
       "lead": {
-        "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-        "outlet": "KSAT (AP)",
-        "url": "https://ksat.com/news/world/2026/10/31/congos-ebola-deaths-top-5000-as-worry-of-continent-wide-spread-mounts",
+        "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
+        "outlet": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
         "date": "2026-10-31"
       },
       "alsoReported": [
         {
-          "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Congo's health ministry says the Ebola outbreak there has now killed 5,026 people out of 10,351 recorded cases, while 2,788 people have recovered[^9]. That makes it the second-deadliest Ebola outbreak on record, after the 2014-16 epidemic in West Africa, which killed about 11,000 people[^9]. The disease has reached 67 of Congo's 178 health zones, in eight provinces[^9].",
-        "It has also crossed borders. Uganda, Kenya and Nigeria have reported cases; Kenya has had eight cases and two deaths, and Nigeria's one patient was evacuated to Switzerland[^9]. Dr. Patrick Otim of the World Health Organization called the milestone \"very tragic,\" stressing that each death is more than a number[^9].",
-        "Background: the outbreak was declared on May 15 and is caused by the rare Bundibugyo strain, which has killed nearly half of the people it has infected here[^9]. The existing Ebola vaccines were made for a different strain, Zaire, so there is no approved vaccine or treatment for this one; a first vaccine trial began in late October[^9][^10].",
-        "Why it matters: AP reports that about 80% of new cases are outside known contact chains, meaning they are not linked to people health workers were already watching, and that about a third of deaths happen before patients reach care[^9]. Both are signs the virus is spreading faster than it can be tracked. My read: the things to watch are early results from the vaccine trial and whether neighbouring countries can keep their case numbers low."
-      ],
-      "differences": null
-    },
-    {
-      "id": "oleshky-truce-evacuation",
-      "heading": "Evacuation begins from occupied Oleshky under a rare local truce in Ukraine",
-      "date": "2026-10-30",
-      "status": "developing",
-      "summary": "A US-brokered local ceasefire let aid in and civilians out of Russian-occupied Oleshky, while strikes elsewhere killed at least 27 civilians on Oct 29. The truce is due to end on Sunday, November 1.[^11][^12][^13]",
-      "lead": {
-        "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
-        "outlet": "The Kyiv Independent",
-        "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
-        "date": "2026-10-30"
-      },
-      "alsoReported": [
-        {
-          "title": "Russia and Ukraine say aid operation and evacuations underway in Russian-controlled Oleshky",
-          "outlet": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652"
+          "title": "Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/"
         },
         {
-          "title": "Russian ballistic missiles kill a man in Kyiv, capping a day that left at least 27 civilians dead across Ukraine",
-          "outlet": "Euromaidan Press",
-          "url": "https://euromaidanpress.com/2026/10/30/russian-ballistic-missiles-kill-a-man-in-kyiv-capping-a-day-that-left-at-least-27-civilians-dead-across-ukraine/"
+          "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+          "outlet": "Al Jazeera (AP)",
+          "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Friday, buses and aid convoys began moving in and out of Oleshky, a town in the Russian-occupied part of Ukraine's Kherson region, under a local ceasefire brokered by the United States[^11][^12]. About 2,000 people still live there, down from about 24,000 before the war[^12]. Some evacuees went to Russian-held areas and some to Ukrainian-held territory, by a route through Belarus[^12]. Ukraine's human-rights ombudsman said the truce had held for 80 hours[^11].",
-        "The operation was not smooth. A Ukrainian volunteer and an anonymous source told the Kyiv Independent that Russia began moving people a day early and threatened residents with \"filtration\", a screening process run by Russian authorities[^11]. There is no confirmed count of how many people left[^11][^12].",
-        "Away from Oleshky, the war went on. On October 29, Russian strikes killed at least 27 civilians across six regions, according to a tally of regional officials' reports by Euromaidan Press, including the drone strike on a railway platform in Dnipro[^13]. Ukraine's air force said Russia launched ballistic missiles and 113 drones that day[^13].",
-        "What next: the truce is due to end on Sunday evening, November 1[^12]. Talks between US, Ukrainian and Russian teams are expected to resume next month in Abu Dhabi, the first such round since February[^12]. My read: small local deals like this one test whether the two sides can trust each other at all, but they are a long way from a general ceasefire, and the two still disagree on territory."
+        "On Saturday, people evacuated from Oleshky, a town in Ukraine's Kherson region held by Russia since 2022, reached Ukrainian-controlled territory[^6][^7]. Their route was long: buses left on Friday for Anapa in southern Russia, four planes then flew them to Gomel in Belarus, and from there they crossed into Ukraine[^6][^8]. Residents could choose to go to Ukraine, go to Russia through Crimea, or stay with fresh supplies[^6].",
+        "Exact numbers are not public. About 750 people registered, and Kyiv withheld the final figures for security reasons[^6][^7]. About 2,000 people were still living in a town that had about 24,000 before the war[^7]. The White House says Melania Trump brokered the local truce, which began early on Tuesday and was expected to last until Sunday evening[^8][^6]. Ukraine's human-rights commissioner, Dmytro Lubinets, called it the longest pause in fighting anywhere along the front since 2022[^7].",
+        "The two sides tell the story differently. A Ukrainian volunteer and an unnamed source told the Kyiv Independent that Russia moved some people before the agreed start and tried to limit departures[^9][^7]. Russia's human-rights commissioner presented the operation as humanitarian and said some residents chose Russia[^8].",
+        "The truce was local. Overnight Russian drone attacks left about 280,000 households in the Dnipro and Kyiv regions without power, and Russia says it shot down 433 Ukrainian drones[^6]. The US also approved a $2.1 billion sale of 500 Patriot interceptor missiles, which the State Department says Canada, Germany and Norway are paying for[^6]. My read: a small, carefully policed deal worked here, which shows what is possible, but it does not show that a wider ceasefire is close."
       ],
-      "differences": "Accounts of the evacuation's start differ: a Ukrainian volunteer says Russia moved people early and outside the agreed terms[^11]. Death tolls for the Dnipro strike also vary slightly, with regional authorities giving 15 and some outlets at least 14[^13]."
+      "differences": "Ukrainian volunteers and an unnamed source say Russia broke the agreed terms and pressured residents not to leave[^9][^7]. Russia's ombudswoman describes a humanitarian operation in which some people freely chose Russia[^8]."
     },
     {
-      "id": "israel-final-results-deadlock",
-      "heading": "Israel's final results leave neither bloc with a majority; officials reject fraud claims",
-      "date": "2026-10-29",
-      "status": "confirmed",
-      "summary": "Final results give Netanyahu's bloc 53 of 120 seats, the bloc led by Gadi Eisenkot 48 and Arab-led parties a record 19. The election committee says there is no basis for Likud's claim that the vote was stolen.[^14][^15]",
+      "id": "us-midterms-final-weekend",
+      "heading": "Early voting surges in the last weekend before the US midterm elections",
+      "date": "2026-10-31",
+      "status": "developing",
+      "summary": "Americans vote on Tuesday for all House seats and about a third of the Senate, and early voting is running well ahead of 2022. Polls favour Democrats nationally, but the Senate, where Republicans hold 53 of 100 seats, looks closer.[^10][^11]",
       "lead": {
-        "title": "How can Israel break its election deadlock?",
+        "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
         "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
-        "date": "2026-10-30"
+        "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges",
+        "date": "2026-10-31"
       },
       "alsoReported": [
         {
-          "title": "Israel final election results: Netanyahu's bloc maintains lead but does not secure majority",
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276"
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "outlet": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/politics/millions-more-americans-vote-ahead-of-election-day-as-early-voting-jumps-across-senate-battlegrounds"
         },
         {
-          "title": "Live blog, October 30, 2026",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-october-30-2026/"
+          "title": "2026 elections live updates: the weekend before Election Day",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "With three days to go, about 43 million Americans had already voted, nearly 10 million more than at the same point in 2022, according to an AP count[^11][^10]. In Texas more than 6.3 million early votes were cast, up about 50%, and early voting also rose sharply in South Carolina, Maine, Kansas, Michigan and North Carolina[^11]. In states that report party, about 6.8 million Democrats and 5.2 million Republicans had voted early[^11]. Early voters are not a forecast, since many Republicans vote on the day itself.",
+        "Midterms are elections held halfway through a president's four-year term. A polling average cited by Al Jazeera puts Democrats ahead 51.4% to 43.2% on the \"generic ballot\", which asks which party people want in Congress[^10]. Kyle Kondik of the University of Virginia's Sabato's Crystal Ball says a Democratic takeover of the House is almost certain, while the Senate is \"much more up in the air\"[^10].",
+        "Republicans hold the Senate 53-47, so Democrats need a net gain of four seats[^11]. CBS News rates Alaska, Maine, Michigan, Ohio and Texas as toss-ups[^12]. Polls show close races even in states Republicans usually win easily: one Emerson poll in Kansas has the Democrat ahead, and a New York Times/Siena poll in South Carolina is tied[^10][^12].",
+        "The background is the economy and the Iran war. Prices, especially fuel, have been central to the campaign, and on Friday Wall Street had its worst day since June as tech stocks fell[^22]. My read: if Democrats win the House, they could block or slow much of the president's agenda for the next two years, while a Senate win would also give them a say over judges and appointments. Results in close races may take days."
+      ],
+      "differences": "Early-vote totals differ by counter: AP counts about 43 million, while the University of Florida Election Lab counted about 44.8 million by Thursday evening[^11][^12]. Forecasters broadly agree on the House but differ on the Senate[^10][^12]."
+    },
+    {
+      "id": "israel-coalition-talks-herzog",
+      "heading": "Herzog urges 'creative solutions' as Israel's coalition talks begin without a majority",
+      "date": "2026-11-01",
+      "status": "developing",
+      "summary": "Israel's president will start consultations on Wednesday after an election in which neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's reached 61 of 120 seats. He urged leaders to avoid another election, while in Gaza the ceasefire remains fragile.[^13][^14][^15]",
+      "lead": {
+        "title": "Herzog Calls for 'Creative Solutions' Ahead of Wednesday Coalition Talks",
+        "outlet": "The Media Line",
+        "url": "https://themedialine.org/headlines/herzog-calls-for-creative-solutions-ahead-of-wednesday-coalition-talks/",
+        "date": "2026-11-01"
+      },
+      "alsoReported": [
+        {
+          "title": "Difficult talks ahead in Israel after Netanyahu's bloc loses majority",
+          "outlet": "1News (AP)",
+          "url": "https://www.1news.co.nz/2026/10/31/difficult-talks-ahead-in-israel-after-netanyahus-bloc-loses-majority/"
+        },
+        {
+          "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue"
         }
       ],
       "eventId": "gaza",
       "article": [
-        "Israel's Central Elections Committee has published final results from the October 27 vote. Prime Minister Benjamin Netanyahu's bloc won 53 seats, the bloc led by former military chief Gadi Eisenkot won 48, and Arab-led parties won 19, their best result ever[^14][^15]. A government needs 61 of the Knesset's 120 seats, so no side has a majority[^14]. Netanyahu's Likud is still the largest single party, with 27 seats[^16].",
-        "Likud says the Arab-led parties \"stole\" the election, but it has not published proof[^14]. The committee's acting director general, Dean Livne, said there was \"no basis\" for claims of election theft, and police say they will look into any credible complaint[^15].",
-        "There are a few possible paths. On the opposition side, the Arab-led party Ra'am is reported to be open to joining an Eisenkot government, and the Joint List might support a minority government from outside it[^14]. But Avigdor Lieberman, whose party is in the opposition bloc, has objected to relying on Arab parties, and Netanyahu may push for yet another election[^14].",
-        "What next: official results go to President Isaac Herzog on November 4, and the new Knesset is sworn in on November 10[^16]. Why it matters: the next government will shape the next phase of the Gaza truce and Israel's role in the Iran war. My read: a long period of coalition bargaining, or even another election, looks more likely than a quick result."
+        "Israel's October 27 election left a deadlock: Prime Minister Benjamin Netanyahu's bloc won 53 seats, former army chief Gadi Eisenkot's bloc 48, and Arab-led parties 19[^13][^14]. A government needs 61 of the Knesset's 120 seats. On Sunday President Isaac Herzog, who formally asks one leader to try to form a government, called for \"creative solutions in order to prevent another election\" and asked the bloc leaders to accept the results[^13]. His consultations with the parties start on Wednesday, November 4[^13].",
+        "The arithmetic is hard. Eisenkot could reach 61 only with support from Arab-led parties, but Avigdor Liberman, whose party has seven seats, calls them \"supporters of terrorism\" and appears to rule out such a partnership; AP says this makes an Eisenkot-led government nearly impossible[^14]. Netanyahu's Likud has spread unproven claims that the Arab parties \"stole\" the election; the election committee asked the Shin Bet security service to look into them, and Qatar called claims of its involvement \"ridiculous and dangerous\"[^14]. The new Knesset is expected to be sworn in on November 10, and if repeated attempts fail, Israel would vote again early next year[^14].",
+        "In Gaza, the October 2025 ceasefire holds only in name. Hospitals cited by Al Jazeera said at least four Palestinians were killed on Saturday, and Gaza's Health Ministry says about 1,580 people have been killed since the truce began[^15]. Talks on the next phase of the US plan are stuck: Hamas will not fully disarm until Israel withdraws, and Israel will not withdraw until Hamas disarms[^15].",
+        "My read: most observers expect little movement on Gaza until Israel has a government, and coalition talks could take weeks. Whoever leads will shape both the Gaza talks and Israel's role in the Iran war."
       ],
-      "differences": "Party-by-party seat counts differ slightly between outlets, for example for the Joint List and Ra'am, though all agree on the bloc totals of 53, 48 and 19[^15][^16]."
+      "differences": "Likud says the Arab parties' result is suspect; police and the election authorities have said there is no evidence for the fraud claims[^14]. Gaza casualty figures come from the Health Ministry in Hamas-run Gaza, as cited by hospitals and Al Jazeera[^15]."
+    },
+    {
+      "id": "cop17-biodiversity-yerevan",
+      "heading": "UN nature summit ends in Yerevan with a 2030 plan but little new money",
+      "date": "2026-10-31",
+      "status": "confirmed",
+      "summary": "Countries at the UN biodiversity conference (COP17) in Armenia agreed a 'Yerevan Pathway' after the first global review found the world behind on 22 of 23 nature targets for 2030. Key money questions were pushed to 2028.[^16][^17]",
+      "lead": {
+        "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+        "outlet": "Carbon Brief",
+        "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
+        "date": "2026-10-31"
+      },
+      "alsoReported": [
+        {
+          "title": "Yerevan Pathway: COP17 ends with decisions on 50 agenda items",
+          "outlet": "Down To Earth",
+          "url": "https://www.downtoearth.org.in/wildlife-biodiversity/yerevan-pathway-cop17-ends-with-decisions-on-50-agenda-items"
+        },
+        {
+          "title": "Global Summit Ends Without Securing Finance Commitments Needed to Protect Biodiversity",
+          "outlet": "Common Dreams",
+          "url": "https://www.commondreams.org/news/cop17-biodiversity"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "The UN's biodiversity conference, COP17, ended in the early hours of Saturday in Yerevan, Armenia, after a final session that lasted about 12 hours[^16]. Biodiversity means the variety of living things, from species to whole ecosystems. In 2022, countries agreed 23 targets to slow nature loss by 2030, including protecting 30% of land and sea, known as \"30x30\"[^18]. This meeting held the first global check of progress, and it found the world behind on 22 of the 23 targets[^16][^18].",
+        "Countries adopted decisions on about 50 agenda items and a \"Yerevan Pathway\" that sets priorities up to 2030[^17]. They agreed that a money mechanism will exist after 2030, but left its form to the next meeting, COP18 in Quito, Ecuador, in 2028[^16]. Richer countries missed their goal of providing $20 billion a year for nature by 2025[^16]. A fund meant to collect payments from companies that profit from genetic data from plants and animals had only about $10,565 pledged[^16].",
+        "Part of the problem is that governments still pay for activities that harm nature. Most countries (84%) missed a 2025 deadline to identify these \"harmful subsidies\"[^16]. A UN report cited by Common Dreams says the world spends $30 harming nature for every $1 it spends protecting it[^18].",
+        "Reactions split. The head of the UN biodiversity convention, Astrid Schomaker, said the real test is \"what they change when they return home\"[^17]. Conservation groups called the outcome too weak; one said \"timidity will not save nature\"[^17]. My read: nature loss gets less attention than climate change, but it affects food, water and health. The climate summit, COP31 in Antalya, Türkiye, starts on November 9[^16]."
+      ],
+      "differences": "Sources give different figures for new money pledged (about $1.8 billion versus about $2 billion) and for the size of harmful subsidies (up to $1.8 trillion a year versus $2.4 trillion)[^17][^18][^16]. Officials call the deal a pathway; environmental groups call it timid[^17]."
+    },
+    {
+      "id": "ecb-holds-lagarde-early-exit",
+      "heading": "Europe's central bank holds rates as Christine Lagarde says she will leave early",
+      "date": "2026-10-29",
+      "status": "confirmed",
+      "summary": "The European Central Bank kept its key rate at 2.5% after two hikes, as euro-area inflation runs near double its target. President Christine Lagarde will step down in February, about nine months early, a move critics call political.[^19][^20]",
+      "lead": {
+        "title": "ECB pauses rate hikes as Lagarde announces early exit",
+        "outlet": "Irish Times",
+        "url": "https://www.irishtimes.com/business/2026/10/29/ecb-holds-rates-steady-as-lagardes-departure-overshadows-decision/",
+        "date": "2026-10-29"
+      },
+      "alsoReported": [
+        {
+          "title": "European Central Bank President Lagarde to step down early",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early"
+        },
+        {
+          "title": "Lagarde announces resignation after months of speculation",
+          "outlet": "RTÉ",
+          "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "The European Central Bank (ECB), which sets interest rates for the 21 countries that use the euro, held its deposit rate at 2.5% on Thursday, after raising it twice in five months[^19]. Inflation in the euro area is close to double the ECB's 2% goal and could soon pass 4%, pushed up largely by energy prices since the Iran war began[^20][^19]. Markets expect another rate hike in December and about three more by the end of 2027[^21][^19].",
+        "The bigger news was a departure. Christine Lagarde said she will leave on February 7, 2027, about nine months before her term ends[^20][^21]. She said she leaves \"with a sense of good work done and an ECB that is fit for the future\"[^20]. Two other members of the bank's six-person executive board, Isabel Schnabel and Philip Lane, also leave next year[^19][^21].",
+        "Timing is the point of debate. Leaving early lets EU leaders pick her successor before France's presidential election in April 2027, in which far-right leader Marine Le Pen leads the polls[^20][^19]. Le Pen's camp called it \"another insult in our direction\", and a German member of the European Parliament warned it could damage trust in the bank's independence[^21][^20]. Supporters call it a responsible step[^20]. Reported front-runners to replace her are Klaas Knot of the Netherlands and Pablo Hernández de Cos of Spain[^19][^21].",
+        "Why it matters: central banks set the cost of borrowing, and inflation-fighting hikes hit mortgages, jobs and governments' debts. My read: Europe, the US and Canada all now face rising prices from the oil shock while growth slows, and a change at the top of the ECB adds one more uncertainty."
+      ],
+      "differences": "Lagarde's supporters say an early exit protects the ECB from a messy handover; critics, including Le Pen's party and some MEPs, say it looks political[^20][^21]."
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "Big Tech is borrowing and spending hundreds of billions of dollars on AI data centres. If investors force these companies to slow down, who besides the companies themselves would feel it first, and how?"
+    "type": "how-do-we-know",
+    "text": "Today, Iran's military, the US military, Russian and Ukrainian officials all describe the same events differently. When you cannot visit the place yourself, what would make you trust one account more than another?"
   },
   "read": {
-    "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
-    "outlet": "Fortune",
-    "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
+    "title": "Cracks are emerging in the AI spending boom",
+    "outlet": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
     "kind": "analysis",
-    "minutes": 7,
-    "summary": "Why one quarter of heavy AI spending and slightly slower search growth wiped nearly $500 billion off Alphabet. A good primer on cash flow, valuations and what investors want from AI."
+    "minutes": 5,
+    "summary": "Plain numbers on why investors have turned on Big Tech's AI building spree: negative cash flow, record borrowing and slower search growth."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Euronews",
-      "title": "Iran's Revolutionary Guard reports two tankers on fire in Strait of Hormuz as talks continue",
-      "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-      "date": "2026-10-30",
+      "outlet": "Business Standard (Reuters)",
+      "title": "Iranian envoys meet Qatar mediators as US strike threat looms post-midterms",
+      "url": "https://www.business-standard.com/amp/world-news/iranian-envoys-meet-qatar-mediators-as-us-strike-threat-looms-post-midterms-126110100052_1.html",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CBS News",
-      "title": "Tankers strike mines in Strait of Hormuz, Iran says, as Hegseth fires top general",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
-      "date": "2026-10-30",
+      "outlet": "Al Jazeera",
+      "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks 'going fine'",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Arab News Japan (Reuters/AFP)",
-      "title": "Trump says Iran war will end soon, US military insists Hormuz is secure",
-      "url": "https://www.arabnews.jp/en/middle-east/trump-says-iran-war-will-end-soon-us-military-insists-hormuz-is-secure-3001180",
+      "outlet": "Kuwait Times (AFP)",
+      "title": "Oman rescues 25 sailors from burning ship as Iran says tankers halted in Hormuz",
+      "url": "https://kuwaittimes.com/article/52709/world/oman-rescues-25-sailors-from-burning-ship-as-iran-says-tankers-halted-in-hormuz/",
       "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Türkiye Today",
-      "title": "Iran dismisses Qatar's new draft as 'unacceptable ideas, not an offer'",
-      "url": "https://www.turkiyetoday.com/region/iran-dismisses-qatars-new-draft-as-unacceptable-ideas-not-an-offer-3231258",
-      "date": "2026-10-29",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Fortune",
-      "title": "Alphabet's worst day ever leaves Google search valued below fossil fuel stocks, BofA says",
-      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
-      "date": "2026-10-29",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "GV Wire (Reuters)",
-      "title": "Nasdaq Faces $2 Trillion Wipeout in October as AI Spending Fears Deepen",
-      "url": "https://gvwire.com/2026/10/30/nasdaq-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "Al Jazeera",
-      "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-      "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "KSAT (AP)",
-      "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-      "url": "https://ksat.com/news/world/2026/10/31/congos-ebola-deaths-top-5000-as-worry-of-continent-wide-spread-mounts",
+      "outlet": "Times of Israel",
+      "title": "Oct. 31: Senior Iranian official says no nuclear talks or reopening of Hormuz until US accepts Iran's demands",
+      "url": "https://www.timesofisrael.com/liveblog-october-31-2026/",
       "date": "2026-10-31",
       "singleSource": false
     },
     {
+      "id": 5,
+      "outlet": "Jerusalem Post",
+      "title": "Araghchi says Vance's letter 'positive step' toward opening dialogue between Iran, US",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913396",
+      "date": "2026-10-31",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire",
+      "url": "https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Kyiv Independent",
+      "title": "Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+      "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Al Jazeera (AP)",
+      "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "Kyiv Independent",
+      "title": "Evacuation convoys from Russian-occupied Oleshky split toward Ukraine, Russia, officials say",
+      "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
+      "date": "2026-10-31",
+      "singleSource": true
+    },
+    {
       "id": 10,
       "outlet": "Al Jazeera",
-      "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
-      "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak",
-      "date": "2026-10-27",
+      "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
+      "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "The Kyiv Independent",
-      "title": "Oleshky evacuation begins but volunteer claims Russia already moved people outside of agreed terms",
-      "url": "https://kyivindependent.com/oleshky-evacuation-begins-but-volunteer-claims-russia-already-moved-people-outside-of-agreed-terms/",
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+      "url": "https://www.pbs.org/newshour/politics/millions-more-americans-vote-ahead-of-election-day-as-early-voting-jumps-across-senate-battlegrounds",
       "date": "2026-10-30",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "ABC News (Australia)",
-      "title": "Russia and Ukraine say aid operation and evacuations underway in Russian-controlled Oleshky",
-      "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
-      "date": "2026-10-30",
+      "outlet": "CBS News",
+      "title": "2026 elections live updates: the weekend before Election Day",
+      "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Euromaidan Press",
-      "title": "Russian ballistic missiles kill a man in Kyiv, capping a day that left at least 27 civilians dead across Ukraine",
-      "url": "https://euromaidanpress.com/2026/10/30/russian-ballistic-missiles-kill-a-man-in-kyiv-capping-a-day-that-left-at-least-27-civilians-dead-across-ukraine/",
-      "date": "2026-10-30",
+      "outlet": "The Media Line",
+      "title": "Herzog Calls for 'Creative Solutions' Ahead of Wednesday Coalition Talks",
+      "url": "https://themedialine.org/headlines/herzog-calls-for-creative-solutions-ahead-of-wednesday-coalition-talks/",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Al Jazeera",
-      "title": "How can Israel break its election deadlock?",
-      "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
-      "date": "2026-10-30",
+      "outlet": "1News (AP)",
+      "title": "Difficult talks ahead in Israel after Netanyahu's bloc loses majority",
+      "url": "https://www.1news.co.nz/2026/10/31/difficult-talks-ahead-in-israel-after-netanyahus-bloc-loses-majority/",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 15,
-      "outlet": "ABC News",
-      "title": "Israel final election results: Netanyahu's bloc maintains lead but does not secure majority",
-      "url": "https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276",
-      "date": "2026-10-29",
+      "outlet": "Al Jazeera",
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 16,
-      "outlet": "The Times of Israel",
-      "title": "Live blog, October 30, 2026",
-      "url": "https://www.timesofisrael.com/liveblog-october-30-2026/",
-      "date": "2026-10-30",
+      "outlet": "Carbon Brief",
+      "title": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+      "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
+      "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 17,
-      "outlet": "The Next Web",
-      "title": "Intel shares sink as memory shortage drags its PC chip outlook",
-      "url": "https://thenextweb.com/news/intel-q3-2026-outlook-pc-slump-memory-shortage",
+      "outlet": "Down To Earth",
+      "title": "Yerevan Pathway: COP17 ends with decisions on 50 agenda items",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/yerevan-pathway-cop17-ends-with-decisions-on-50-agenda-items",
+      "date": "2026-11-01",
+      "singleSource": false
+    },
+    {
+      "id": 18,
+      "outlet": "Common Dreams",
+      "title": "Global Summit Ends Without Securing Finance Commitments Needed to Protect Biodiversity",
+      "url": "https://www.commondreams.org/news/cop17-biodiversity",
+      "date": "2026-10-31",
+      "singleSource": false
+    },
+    {
+      "id": 19,
+      "outlet": "Irish Times",
+      "title": "ECB pauses rate hikes as Lagarde announces early exit",
+      "url": "https://www.irishtimes.com/business/2026/10/29/ecb-holds-rates-steady-as-lagardes-departure-overshadows-decision/",
       "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 20,
+      "outlet": "Al Jazeera",
+      "title": "European Central Bank President Lagarde to step down early",
+      "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 21,
+      "outlet": "RTÉ",
+      "title": "Lagarde announces resignation after months of speculation",
+      "url": "https://www.rte.ie/news/business/2026/1029/1597194-christine-lagarde/",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 22,
+      "outlet": "ABC News (AP)",
+      "title": "The sell-off for tech stocks drags Wall Street toward its worst day since June",
+      "url": "https://abcnews.com/Business/wireStory/asian-trading-mixed-worries-ai-related-issues-grow-137693961",
+      "date": "2026-10-30",
       "singleSource": false
     }
   ]
