@@ -1,82 +1,90 @@
 {
-  "date": "2026-11-01",
-  "summary": "A quiet weekend before a big week: Ontario's fall update shows deeper deficits, Ottawa tables its budget Wednesday, and Toronto's bike-lane fight returns.",
+  "date": "2026-11-02",
+  "summary": "Budget week: Ottawa tables its budget Thursday after weak growth numbers and a rate hike, while Carney says a Sunday call with Trump moved trade talks forward.",
   "body": [
-    "Ontario's fall economic statement, released on Wednesday, says the trade war with the US has pushed the province's return to a balanced budget back a year, to 2029-30 [^1][^2]. The province now expects deficits of $16.9 billion this year, $12.7 billion next year and $6.7 billion the year after, about $36 billion in total, and it cut its 2026 growth forecast to 0.5% from 1% [^1][^2]. The main new measure is an $8-billion \"Ontario Competitiveness Tax Cut\" that lets businesses deduct the full cost of new equipment and buildings right away, which the government says could bring $11 billion in investment and up to 30,000 jobs [^1][^2]. There is also a tax break for buyers of newly built homes [^1]. Interest on the province's debt costs about $1.4 billion a month [^1]. Finance Minister Peter Bethlenfalvy says the deficits \"are necessary in the current environment\" [^2].",
-    "Ottawa's turn comes on Wednesday, November 5, when Finance Minister François-Philippe Champagne tables the Carney government's second budget [^3]. The government says it is on track to balance its day-to-day (operating) spending by 2027-28, while the Parliamentary Budget Officer projects that goal will be missed by a year [^3]. Ottawa ran a $5.36-billion deficit from April to August [^4]. The budget lands the day after Tuesday's US midterms, where Canada's trade dispute has become a campaign issue [^6]. Prime Minister Mark Carney says any progress in talks is because \"the U.S. is coming closer to our position,\" while officials warn that more talking does not mean a deal is near [^5][^6].",
-    "Closer to home, Ontario's transportation minister said on Friday that 1.2 kilometres of bike lanes on Bloor Street West in Etobicoke have been removed, the \"first part\" of the province's plan to take out lanes on parts of Bloor, Yonge, Avenue Road and around Queen's Park to ease traffic [^7]. Dozens of cyclists protested at Queen's Park on Saturday, and Cycle Toronto has asked the Supreme Court of Canada to hear its challenge [^7]. My read: this week's two budgets will show how governments plan to pay for the trade war, which matters for jobs, housing and tuition support in Ontario."
+    "Finance Minister François-Philippe Champagne tables the federal budget on Thursday, November 5 (yesterday's brief wrongly called it Wednesday) [^1]. It is titled \"Masters of Our Destiny\" and framed around Canada's sovereignty, but no measures have been announced [^2]. Conservative Leader Pierre Poilievre wants federal diesel taxes paused until Canada Day and spending cut [^3]. Since winning three byelections in April, the Liberals hold a majority, so the budget is expected to pass [^7].",
+    "It arrives in a weak economy. Statistics Canada says the economy did not grow in August, the second flat month in a row, and an early estimate shows a small drop in September [^4]. Auto plant shutdowns and the August breakdown of trade talks, which brought new tariffs on both sides, are among the reasons [^4]. The Bank of Canada still raised its key rate to 2.5% on Oct. 28, its first hike in over three years, because of inflation risks [^4]. Higher rates make borrowing for cars, homes and student lines of credit more expensive.",
+    "On trade, Prime Minister Mark Carney called his Sunday talk with President Trump a \"good conversation\" and said teams will work \"in the coming weeks\" toward a deal [^5][^6]. No terms have been announced, and US tariffs of 50% still cover about $20 billion of Canadian goods [^6]. In Toronto, the province finished removing 1.2 km of bike lanes on Bloor Street West and plans more on Bloor, University and Yonge [^8]. My read: Thursday's budget will show how much Ottawa is willing to borrow to cushion the trade war."
   ],
-  "differences": "Ottawa says it will balance its operating budget by 2027-28; the Parliamentary Budget Officer expects that to slip a year [^3]. On trade, a White House adviser has suggested a deal is close, while Carney says he cannot be sure Trump would honour one [^5][^6]. The province says bike-lane removal eases congestion; cycling groups dispute this in court [^7].",
+  "differences": "Carney says the operating budget will balance by 2027-28; the Parliamentary Budget Officer expects that to slip a year [^1]. On trade, McGill's Daniel Béland says the White House sees political risk in the dispute, while U of T historian Robert Bothwell calls the thaw \"5 minutes of variable sunshine\" [^6]. Economists split on whether weak growth means the Bank of Canada will pause in December [^4].",
   "reads": [
     {
-      "title": "Ontario projects $36B in deficits over 3 years as trade war delays balance",
-      "outlet": "Global News",
-      "url": "https://globalnews.ca/news/12125618/ontario-fall-economic-update-2026/",
+      "title": "A 0.2% gain was expected, but Canada's GDP stalled again in August",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/economic-growth-stalled-again-in-august-statcan-says/",
       "kind": "news",
-      "summary": "The clearest list of what Ontario plans to spend, cut and borrow, and why balance is now four years away."
+      "summary": "A plain explanation of how tariffs, stalled growth and interest rates connect, with economists who disagree about what comes next."
     },
     {
-      "title": "Toronto cyclists protest Ontario's bike lane removals at Queen's Park",
-      "outlet": "CP24 (The Canadian Press)",
-      "url": "https://www.cp24.com/politics/queens-park/2026/10/31/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/",
+      "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
+      "outlet": "MPR News (AP)",
+      "url": "https://mprnews.org/story/2026/11/01/donald-trump-mark-carney-canada-us-trade-talks-ahead-of-midterms",
       "kind": "news",
-      "summary": "A Toronto story with a court case attached: what the province is removing, and how cyclists are fighting it."
+      "summary": "Where Canada-US trade talks stand before the midterms, with sceptical and hopeful experts side by side."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News",
-      "title": "Ontario projects $36B in deficits over 3 years as trade war delays balance",
-      "url": "https://globalnews.ca/news/12125618/ontario-fall-economic-update-2026/",
-      "date": "2026-10-29",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "KRP LLP",
-      "title": "2026 Ontario Fall Economic Statement offers tax cut for business, projects higher deficits",
-      "url": "https://www.krp.ca/2026-ontario-fall-economic-statement-offers-tax-cut-for-business-projects-higher-deficits",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 3,
       "outlet": "CP24",
-      "title": "Finance minister announces date for new federal budget to be tabled",
-      "url": "https://www.cp24.com/politics/2026/10/20/finance-minister-announces-date-for-new-federal-budget-to-be-tabled/",
+      "title": "The federal budget is coming. Here's when it will be tabled",
+      "url": "https://www.cp24.com/politics/2026/10/20/the-federal-budget-is-coming-heres-when-it-will-be-tabled/",
       "date": "2026-10-20",
       "singleSource": false
     },
     {
+      "id": 2,
+      "outlet": "Global News",
+      "title": "Budget 2026 title and theme focus on Canada's sovereignty, minister reveals",
+      "url": "https://globalnews.ca/news/12125733/budget-2026-theme-title/",
+      "date": "2026-10-29",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "CTV News",
+      "title": "Poilievre says Carney must keep fiscal promises in upcoming budget",
+      "url": "https://www.ctvnews.ca/canada/article/poilievre-says-carney-must-keep-fiscal-promises-in-upcoming-budget/",
+      "date": "2026-11-01",
+      "singleSource": false
+    },
+    {
       "id": 4,
-      "outlet": "CTV News (The Canadian Press)",
-      "title": "Canada posts $5.36B deficit for first five months of 2026-27 fiscal year",
-      "url": "https://www.ctvnews.ca/politics/article/canada-posts-536b-deficit-for-first-five-months-of-2026-27-fiscal-year/",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "A 0.2% gain was expected, but Canada's GDP stalled again in August",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/economic-growth-stalled-again-in-august-statcan-says/",
       "date": "2026-10-30",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "ABC News (AP)",
-      "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
-      "url": "https://abcnews.com/Business/wireStory/carney-trump-moving-closer-canadas-trade-demands-midterms-137585685",
-      "date": "2026-10-26",
+      "outlet": "Al Jazeera",
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Philippine Canadian Inquirer",
-      "title": "U.S. midterm elections put Canada's trade war with Trump in political spotlight",
-      "url": "https://canadianinquirer.net/2026/11/01/u-s-midterm-elections-put-canadas-trade-war-with-trump-in-political-spotlight/",
+      "outlet": "MPR News (AP)",
+      "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
+      "url": "https://mprnews.org/story/2026/11/01/donald-trump-mark-carney-canada-us-trade-talks-ahead-of-midterms",
       "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Toronto cyclists protest Ontario's bike lane removals at Queen's Park",
-      "url": "https://www.cp24.com/politics/queens-park/2026/10/31/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/",
+      "outlet": "Global News",
+      "title": "Carney's Liberals projected to form majority with 3 byelection victories",
+      "url": "https://globalnews.ca/news/11798684/federal-byelections-2026/",
+      "date": "2026-04-13",
+      "singleSource": true
+    },
+    {
+      "id": 8,
+      "outlet": "NOW Toronto",
+      "title": "Ontario completes Bloor Street bike lane removal in Etobicoke",
+      "url": "https://nowtoronto.com/news/ontario-completes-bloor-street-bike-lane-removal/",
       "date": "2026-10-31",
       "singleSource": false
     }

@@ -1,93 +1,84 @@
 {
-  "date": "2026-11-01",
-  "summary": "Fewer young Chinese are chasing 'safe' government jobs, car sales are slumping at home, and tech giants race to sell AI helpers to offices and shoppers.",
+  "date": "2026-11-02",
+  "summary": "China's factories shrank again in October as shoppers held back, while BYD's best month of the year came mostly from sales abroad.",
   "body": [
-    "For years, a government job has been the dream of many young Chinese graduates because it is seen as stable. That may be shifting a little: about 3.45 million applicants were approved to sit the national civil service exam for 2027 jobs, down 7.2% from last year and the first drop in seven years, Caixin reports [^1]. Caixin links the fall to tighter screening of applicants. Competition is still fierce, with 35,700 openings, or about 97 applicants for each post [^1].",
-    "The wider economy is cooling. Factory activity shrank in October for the third time in four months, and economists blame weak spending at home after the early-October holiday [^2]. Car buying has slumped: retail sales of passenger cars fell 28% from a year earlier in September and 26% in the first 25 days of October, according to Caixin [^3]. Carmakers are leaning on exports; Geely says its overseas sales rose 169% in the first nine months of the year [^3]. Industries tied to AI and electronics are the exception and are booming [^2].",
-    "Shoppers are being courted with AI. Alibaba's Tmall expects a record one million brands in its Singles' Day sale, which peaks on November 11, and its Qwen-powered shopping assistant compares products and lets people try on clothes virtually [^4][^5]. At work, Tencent launched \"Buddy One\" on October 29, an AI workspace whose agent carries out office tasks across apps, competing with similar tools from ByteDance and Alibaba [^6].",
-    "Tech tensions with the US continue. On October 30 the US Federal Communications Commission voted to stop accepting safety tests from labs in countries without a testing agreement, including mainland China, starting in December 2028; Chinese labs handled most of these tests last year [^7]. China, for its part, now requires export licences for some AI technologies, though state media report that DeepSeek and MiniMax have been allowed to keep selling abroad [^8]. My read: the two countries are building separate tech systems step by step."
+    "China's official factory survey fell to 49.3 in October, below the 50 line that separates growth from shrinking, for the third time in four months [^1]. Services and construction also slipped [^1]. An official at the group that runs the survey said \"insufficient demand\" is adding pressure, and spending faded after the October National Day holiday [^1]. The split is sharp: makers of AI hardware, trains and aircraft did well, while firms tied to housing struggled [^1]. Growth for the year is still expected to reach the 4.5-5% target [^1].",
+    "Electric cars show where growth is coming from. BYD, the largest EV maker, sold about 490,000 vehicles in October, its best month this year, and more than 300,000 fully electric cars for the first time [^2]. About a third of its sales were overseas, double a year earlier, while its total sales for the year are slightly down [^2]. Rivals Leapmotor and Xiaomi also posted strong months [^3].",
+    "Daily life reflects careful spending. Youth unemployment (ages 16-24, not in school) eased to 18% in September but was the highest September figure since this series began in 2024 [^5]. Shops are working hard for those customers: Alibaba expects a record 1 million brands in its Singles Day festival, which peaks on Nov 11, with an AI assistant to compare products [^4]. On technology, Beijing's proposed export controls on AI models and chips are open for comment until Nov 15 [^6]. The Register reports, citing Chinese state media, that DeepSeek has been allowed to keep exporting [^7]."
   ],
-  "differences": "Analysts quoted by Reuters expect China to meet its 4.5% to 5% growth target without new stimulus, while other economists call for more support for households, such as help with mortgage interest [^2]. The FCC rule is opposed by Beijing and by some US industry groups [^7].",
+  "differences": "Reports differ on how far the AI export rules go: The National describes proposed rules open for comment until Nov 15, while The Register describes restrictions already in place with licences required [^6][^7]. BYD's October total is about 490,000 vehicles in CnEVPost and 483,125 passenger cars in CarNewsChina; the gap is likely commercial vehicles [^2][^3].",
   "reads": [
     {
-      "title": "China's factory activity shrinks in October, third contraction in four months",
-      "outlet": "Yahoo Finance (Reuters)",
-      "url": "https://finance.yahoo.com/economy/articles/chinas-october-factory-activity-contracts-014826889.html",
-      "kind": "news",
-      "summary": "A clear snapshot of China's split economy: weak spending at home, while AI and export industries boom."
+      "title": "Ten Lives in China's Age of AI",
+      "outlet": "Sixth Tone",
+      "url": "https://www.sixthtone.com/news/1018341",
+      "kind": "analysis",
+      "summary": "Ten ordinary people, from an 11-year-old making songs to a 79-year-old with an AI companion, on how AI has entered daily life in China."
     },
     {
-      "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-      "outlet": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+      "title": "China's factory activity shrinks in October, third contraction in four months",
+      "outlet": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-october-factory-activity-contracts-014826889.html",
       "kind": "news",
-      "summary": "A short explainer on how Beijing now controls the export of AI models, and why it let DeepSeek keep selling."
+      "summary": "A short, clear look at why China's factories are slowing, and which industries are still growing."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Caixin Global",
-      "title": "China's Civil Service Exam Approvals Fall as Screening Tightens",
-      "url": "https://www.caixinglobal.com/2026-10-29/chinas-civil-service-exam-approvals-fall-as-screening-tightens-102498308.html",
-      "date": "2026-10-29",
-      "singleSource": true
-    },
-    {
-      "id": 2,
-      "outlet": "Yahoo Finance (Reuters)",
+      "outlet": "Reuters (via Yahoo Finance)",
       "title": "China's factory activity shrinks in October, third contraction in four months",
       "url": "https://finance.yahoo.com/economy/articles/chinas-october-factory-activity-contracts-014826889.html",
       "date": "2026-10-31",
       "singleSource": false
     },
     {
+      "id": 2,
+      "outlet": "CnEVPost",
+      "title": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
+      "url": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales/",
+      "date": "2026-11-01",
+      "singleSource": false
+    },
+    {
       "id": 3,
-      "outlet": "Caixin Global",
-      "title": "Geely's Profit Misses Estimates as China's Auto Market Slows",
-      "url": "https://www.caixinglobal.com/2026-10-30/geelys-profit-misses-estimates-as-chinas-auto-market-slows-102499110.html",
-      "date": "2026-10-30",
+      "outlet": "CarNewsChina",
+      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "KrASIA",
-      "title": "Tmall expects record one million brands for Singles' Day",
-      "url": "https://kr-asia.com/tmall-expects-record-one-million-brands-for-singles-day",
-      "date": "2026-10-16",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "The Star (SCMP)",
+      "outlet": "SCMP (via The Star)",
       "title": "Alibaba sets sights on record-breaking Singles' Day with 1 million brands joining festival",
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/alibaba-sets-sights-on-record-breaking-singles-day-with-1-million-brands-joining-festival",
       "date": "2026-10-23",
       "singleSource": false
     },
     {
-      "id": 6,
+      "id": 5,
       "outlet": "Caixin Global",
-      "title": "Tencent Expands Enterprise AI Push With Integrated Workspace",
-      "url": "https://www.caixinglobal.com/2026-10-30/tencent-expands-enterprise-ai-push-with-integrated-workspace-102498705.html",
-      "date": "2026-10-30",
+      "title": "China's Youth Unemployment Rate Eases to 18%",
+      "url": "https://www.caixinglobal.com/2026-10-21/chinas-youth-unemployment-rate-eases-to-18-102495753.html",
+      "date": "2026-10-21",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "The National",
+      "title": "China targets AI technology exports with new controls as US trade truce frays",
+      "url": "https://www.thenationalnews.com/future/technology/2026/10/16/china-targets-ai-technology-exports-with-new-controls-as-us-trade-truce-frays/",
+      "date": "2026-10-16",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Caixin Global",
-      "title": "FCC Votes to Ban Chinese Labs From Testing Electronics for U.S. Market",
-      "url": "https://www.caixinglobal.com/2026-10-30/fcc-votes-to-ban-chinese-labs-from-testing-electronics-for-us-market-102498962.html",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 8,
       "outlet": "The Register",
       "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
       "date": "2026-10-26",
-      "singleSource": false
+      "singleSource": true
     }
   ]
 }
