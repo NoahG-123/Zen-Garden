@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-02",
+  "reviewed": "2026-11-03",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's negotiators left Doha on Nov 1 after three days of talks; Tehran says its plan to reopen Hormuz within two days has been passed to the US via Qatar and the next move is Washington's.[^120][^121] Trump says the war will end soon with a deal or \"the hammer\"; Rubio says no decision on strikes has been made. US oil closed above $104 on Oct 30.[^121][^128]",
+      "standing": "Iran says its plan to reopen Hormuz, now condensed from seven days to two, is with Washington via Qatar; by Nov 2 the US had not replied.[^131] Trump says the war will end soon \"one way or the other\" and that one or two sites still must be dealt with; Rubio says no decision on strikes has been made.[^131] Oil fell on deal hopes on Nov 2, with US crude just under $100.[^132]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
         "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
@@ -153,7 +153,9 @@
         109,
         110,
         120,
-        121
+        121,
+        131,
+        132
       ]
     },
     {
@@ -162,7 +164,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The Oleshky local truce ended Nov 1 after civilians were evacuated; Ukraine's ombudsman says both sides kept its terms, while Ukraine's military says Russia used it to resupply.[^122] Russia launched 433 drones overnight into Nov 1, leaving hundreds of thousands of families without power.[^123] The US approved 500 Patriot interceptors paid for by Canada, Germany and Norway.[^111] Putin still claims all of Donbas.[^56]",
+      "standing": "Russian strikes on an aid centre in Komyshuvakha, Zaporizhzhia, killed at least 26 on Nov 2, a day after the Oleshky local truce ended; a Ukrainian source says Moscow refused to extend it.[^133] The US says working-level Russia-Ukraine talks will be held in Abu Dhabi on Nov 10-11.[^134] The US approved 500 Patriot interceptors paid for by Canada, Germany and Norway.[^111] Putin still claims all of Donbas.[^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -171,7 +173,7 @@
       "watch": [
         {
           "date": "2026-11-10",
-          "what": "Earliest window the Kremlin gives for three-way technical talks, possibly in Abu Dhabi; no date set"
+          "what": "US-announced Russia-Ukraine working-level talks in Abu Dhabi, Nov 10-11"
         },
         {
           "date": "2026-11-03",
@@ -306,7 +308,9 @@
         111,
         112,
         122,
-        123
+        123,
+        133,
+        134
       ]
     },
     {
@@ -315,7 +319,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel's Oct 27 vote left Netanyahu's bloc with 53 seats, the Jewish-led opposition 48 and Arab-led parties 19; no side has 61. Herzog told leaders to \"stop climbing trees\" and avoid another election.[^124] Hospitals say Israeli strikes killed eight in Gaza on Nov 1; Gaza's Health Ministry says about 1,580 have been killed since the truce began.[^125]",
+      "standing": "Israel's Oct 27 vote left parties opposed to Netanyahu with 67 of 120 seats, but they range from right-wing to Arab-led parties.[^124][^135] Herzog hears party recommendations on Nov 4-5 and must pick a nominee by Nov 11.[^136] Medics say Israeli strikes killed four in Gaza on Nov 2; Gaza health officials count at least 1,580 killed since the truce began.[^137]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -324,7 +328,7 @@
       "watch": [
         {
           "date": "2026-11-04",
-          "what": "President Herzog begins consultations on who first tries to form a government"
+          "what": "Herzog's consultations with parties, Nov 4-5, smallest parties first"
         },
         {
           "date": "2026-11-10",
@@ -445,7 +449,10 @@
         114,
         115,
         124,
-        125
+        125,
+        135,
+        136,
+        137
       ]
     },
     {
@@ -454,7 +461,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Over 53 million Americans voted early before the Nov 3 midterms, against about 46 million in 2022; polls favour Democrats nationally.[^126] Q3 growth was 3.4%, but PCE inflation rose to 3.6%.[^104] The Fed held at 3.75-4% on Oct 28, and markets see about a 75% chance of a December hike.[^127] US oil closed above $104 on Oct 30.[^128]",
+      "standing": "Americans vote Nov 3 for all 435 House seats, 35 Senate seats and 36 governors; over 54 million voted early.[^138][^139] Republicans hold the Senate 53-47, and polls favour Democrats nationally.[^138][^126] Q3 growth was 3.4%, but PCE inflation rose to 3.6%.[^104] The Fed held at 3.75-4% on Oct 28, and markets see about a 75% chance of a December hike.[^127]",
       "heading": {
         "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
         "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
@@ -574,7 +581,9 @@
         118,
         126,
         127,
-        128
+        128,
+        138,
+        139
       ]
     },
     {
@@ -583,7 +592,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "AI and chip stocks have lost about $5 trillion in value since Oct 6, even as most other sectors rose; Intel fell about 28% on Oct 30.[^128][^130] Big Tech plans over $740B in capex this year and has borrowed $326B in 2026.[^119] Ottawa will buy a stake of up to C$1.6B in Toronto's Cohere.[^107] Anthropic plans to sell $3.5B of IPO shares to Japanese investors.[^129]",
+      "standing": "AI and chip stocks keep swinging: Alphabet had its worst day on record on Oct 29, and the Nasdaq fell 1.1% on Nov 2 while most non-tech stocks rose.[^140] Goldman Sachs expects big cloud firms' capex to near $800B this year and $1.2T in 2027.[^141] Ottawa will buy a stake of up to C$1.6B in Toronto's Cohere.[^107] Anthropic plans to sell $3.5B of IPO shares to Japanese investors.[^129]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -731,7 +740,9 @@
         119,
         128,
         129,
-        130
+        130,
+        140,
+        141
       ]
     }
   ],
@@ -1792,6 +1803,94 @@
       "title": "AI pressures mount as Amazon and Intel shares tumble",
       "url": "https://www.thenationalnews.com/business/markets/2026/10/30/intel-amzn-nasdaq-ai/",
       "date": "2026-10-30",
+      "singleSource": false
+    },
+    {
+      "id": 131,
+      "outlet": "Al Jazeera (AP)",
+      "title": "Iran pushing accelerated plan for ceasefire talks with US",
+      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 132,
+      "outlet": "Transport Topics (AP)",
+      "title": "Oil prices decline on hopes for progress on Iran war efforts",
+      "url": "https://www.ttnews.com/articles/oil-prices-progress-iran-war",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 133,
+      "outlet": "The New Arab",
+      "title": "Russian strikes kill 26 in Ukraine, dashing peace progress hopes",
+      "url": "https://www.newarab.com/news/russian-strikes-kill-26-ukraine-dashing-peace-progress-hopes",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 134,
+      "outlet": "RFE/RL",
+      "title": "US, Russia, Ukraine To Resume Peace Talks Amid Doubts Over Breakthrough",
+      "url": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 135,
+      "outlet": "The Times of Israel",
+      "title": "Herzog to start consultations with smallest parties first; Religious Zionism meeting set for Wednesday evening",
+      "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 136,
+      "outlet": "Ynet News",
+      "title": "Israel's coalition consultations: The move pressuring undecided parties as support for Eisenkot grows",
+      "url": "https://www.ynetnews.com/article/hy3hwbiagx",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 137,
+      "outlet": "Al-Monitor (Reuters)",
+      "title": "Israeli strikes kill four people in Gaza, medics say",
+      "url": "https://www.al-monitor.com/originals/2026/11/israeli-strikes-kill-four-people-gaza-medics-say",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 138,
+      "outlet": "CBS News",
+      "title": "Here's what the U.S. is voting on today for the 2026 midterm elections",
+      "url": "https://www.cbsnews.com/news/what-us-voting-on-november-2026-elections/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 139,
+      "outlet": "Fox News",
+      "title": "The battle for Congress is just the beginning. Here's what's at stake on Election Day",
+      "url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 140,
+      "outlet": "AP (via 94.7 QDR)",
+      "title": "THE CLOSING BELL: US stocks erase their rally from the morning as tech and AI stocks keep swinging",
+      "url": "https://www.947qdr.com/2026/11/02/the-closing-bell-us-stocks-erase-their-rally-from-the-morning-as-tech-and-ai-stocks-keep-swinging/",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 141,
+      "outlet": "Reuters (via Investing.com)",
+      "title": "US tech selloff drags global stocks back into the red",
+      "url": "https://ca.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4920378",
+      "date": "2026-11-02",
       "singleSource": false
     }
   ]

@@ -1,426 +1,445 @@
 {
-  "date": "2026-11-02",
-  "summary": "The US votes Tuesday while Iran waits on Washington's answer, Ukraine's local truce ends, Israel's leaders are urged to compromise, and North Korea is blamed for a record crypto theft.",
+  "date": "2026-11-03",
+  "summary": "Americans vote today as Iran waits on Washington, a Russian strike kills 26 at a Ukrainian aid centre, Israel's coalition talks begin, Poland's court fight deepens and Ebola spreads.",
   "topics": [
     {
-      "id": "iran-hormuz-plan-passed-to-us",
-      "heading": "Iran sends its two-day Hormuz plan to Washington through Qatar",
+      "id": "iran-awaits-us-answer-hormuz",
+      "heading": "Iran waits for a US answer on its Hormuz plan as oil prices fall",
       "date": "2026-11-02",
       "status": "developing",
-      "summary": "Iran's negotiators left Doha after three days of talks with Qatari mediators, and Tehran says its plan to reopen the Strait of Hormuz is now with the US. President Trump says the war will end soon \"one way or the other\", and strikes after Tuesday's US vote remain possible.[^1][^3]",
+      "summary": "Iran says its offer to reopen the Strait of Hormuz in two days instead of seven is with Washington, but no US reply has come. President Trump says the war will end soon \"one way or the other\", and oil fell on hopes of a deal.[^1][^2]",
       "lead": {
-        "title": "Iranian negotiators depart Doha, but talks with Qatar not derailed, says official",
-        "outlet": "Arab News (Reuters)",
-        "url": "https://www.arabnews.pk/middle-east/iranian-negotiators-depart-doha-but-talks-with-qatar-not-derailed-says-official-3005861",
+        "title": "Iran pushing accelerated plan for ceasefire talks with US",
+        "outlet": "Al Jazeera (AP)",
+        "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
         "date": "2026-11-02"
       },
       "alsoReported": [
         {
-          "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know"
+          "title": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/02/oil-slides-on-hormuz-deal-hopes-but-trump-keeps-iran-strikes-on-the-table"
         },
         {
-          "title": "Trump, Rubio say more Iran strikes are still on the table, but not likely before midterms",
-          "outlet": "Fox News (AP)",
-          "url": "https://www.foxnews.com/live-news/iran-war-news-trump-us-israel-november-1"
+          "title": "Oil prices decline on hopes for progress on Iran war efforts",
+          "outlet": "Transport Topics (AP)",
+          "url": "https://www.ttnews.com/articles/oil-prices-progress-iran-war"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Iranian negotiators left Doha on Sunday after three days of talks with Qatar's mediators. An Iranian official told Reuters the departure did not mean the talks had run into trouble, and Foreign Minister Abbas Araghchi said discussion of a two-day plan to reopen the Strait of Hormuz is continuing[^1]. On Monday, Tehran said the proposal has been passed to the US through Qatar and that the next move is Washington's; if the US accepts, Iran says, \"security will be restored\" in the strait and wider negotiations could start[^3].",
-        "The plan comes with conditions. According to Al Jazeera, Iran wants recent US sanctions lifted, oil waivers restored, fewer US forces in the region, recognition of shipping routes set by Iran and Oman, and an end to fighting on all fronts, including Israeli attacks in Lebanon[^2]. AP reports that an earlier Iranian offer to reopen the strait within a week was rejected by the US[^4]. Araghchi says Iran has no plan to meet US officials directly[^4].",
-        "Both sides are mixing talks with threats. Secretary of State Marco Rubio says Trump \"hasn't made a decision\" on new strikes and prefers diplomacy[^4]. Trump calls the talks \"going fine\" but \"not very reliable\", and on Monday said the war will end \"very soon\" with either a deal or \"the hammer\"[^2][^3]. Iran's Supreme Leader Mojtaba Khamenei ordered a wider list of targets for any response, and security official Mohsen Rezaei spoke of \"new weaponry\"[^2].",
-        "Why it matters: the strait carries a large share of the world's oil, and it has been mostly shut for months. US oil prices closed above $104 a barrel on Friday[^24]. That cost reaches petrol stations and grocery bills far from the Gulf, including in Canada.",
-        "What comes next depends on Washington. Trump has said there will be no new attacks before Tuesday's election, but has not ruled them out afterwards[^1]. My read: the next few days will show whether the US treats Iran's plan as a starting point or a stalling tactic."
+        "Iran's foreign ministry spokesman, Esmaeil Baghaei, said on Monday that Tehran's seven-step plan to end the war is unchanged but has been \"condensed\" so it could be carried out in two days rather than seven[^1]. It covers reopening the Strait of Hormuz and restarting talks on Iran's nuclear programme[^1][^3]. Iran's negotiators left Doha on Sunday after three days of talks with Qatari mediators, and by Monday Washington had not answered[^1][^3]. Foreign Minister Abbas Araghchi says Iran is not talking to the US directly; Qatar is the main channel, and Pakistan also mediates[^1].",
+        "Iran's conditions are large. It wants the US naval blockade of its ports lifted, oil sanctions eased, frozen money abroad released, and fighting ended on every front, including Lebanon[^1]. Araghchi also wants the US to accept a shipping arrangement for the strait run by Iran and Oman[^3]. President Trump says the talks are \"going fine\" but calls Iran \"not very reliable\", says the US is in no great hurry, and says one or two sites, including one near Natanz, still have to be dealt with[^1][^3]. Secretary of State Marco Rubio says no decision on new strikes has been made[^1].",
+        "The US and Israel may differ on timing. Euronews, citing a report by Axios, says Prime Minister Benjamin Netanyahu urged strikes right after Tuesday's US midterms, while Trump and some advisers lean toward diplomacy[^2]. At sea, the war goes on: Al Jazeera's monitoring counted at least four tankers struck on Oct 30-31, and Iran says nearly ten ships have hit mines, a claim US Central Command calls false[^3].",
+        "Why it matters: the strait has been mostly closed for months, and oil prices reach petrol, flights and food everywhere, including Toronto. Oil fell on Monday on hopes of a deal; AP says US crude ended just under $100 a barrel[^4][^2]. What next: my read is that the days after the midterms are a decision point. Washington could answer the plan, ignore it, or return to strikes, and Trump has declined to say which[^2]."
       ],
-      "differences": "Iran says it has made its offer and the next step is Washington's[^3]. Trump calls Iran's negotiators unreliable and keeps strikes on the table, while Rubio says no decision has been made[^2][^4]. Reports that Gulf states were told to prepare for a short conflict after the vote come from unnamed sources and are not confirmed[^2]."
+      "differences": "Reports disagree on Monday's oil move: Euronews put Brent down about 2.8% at roughly $108.50, AP said both main benchmarks fell about 4.2%, and another AP report put Brent down 7.6% at $104.77[^2][^4][^22]. Iran says nearly ten ships have struck mines; US Central Command calls that false[^3]. Trump denied a Wall Street Journal report that Vice-President Vance wrote to Iran to revive talks, saying the contact was about medical supplies[^2]."
     },
     {
-      "id": "us-midterms-eve",
-      "heading": "Over 53 million Americans vote early as the US midterms arrive on Tuesday",
+      "id": "ukraine-aid-centre-strike",
+      "heading": "Russian bombs kill at least 26 at a Ukrainian aid centre as new talks are announced",
       "date": "2026-11-02",
       "status": "developing",
-      "summary": "More than 53 million ballots were cast before Tuesday's US midterm elections, well ahead of 2022. Polls give Democrats a clear national lead, and several Senate races in Republican-leaning states look close.[^5][^7]",
+      "summary": "Russian strikes on a school used as an aid centre in Zaporizhzhia region killed at least 26 people, the regional governor says, a day after a rare local truce ended. The US says Russian and Ukrainian officials will meet in Abu Dhabi on Nov 10-11.[^5][^6]",
       "lead": {
-        "title": "More than 50 million votes cast in US midterm elections: What does it mean?",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean",
-        "date": "2026-11-01"
-      },
-      "alsoReported": [
-        {
-          "title": "Donald Trump makes final midterm campaign push",
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/"
-        },
-        {
-          "title": "Hottest 2026 Midterm Races: Democrats Lead Almost All Major Senate Contests",
-          "outlet": "Forbes",
-          "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "On Tuesday, Americans elect all 435 members of the House of Representatives and 35 of the 100 senators. Republicans now hold narrow majorities in both chambers[^6]. Midterms fall halfway through a president's term and often go against the president's party.",
-        "Turnout before election day has been unusually high. By Sunday, more than 53 million people had voted early, in person or by mail, compared with about 46 million in 2022, according to a University of Florida count cited by Al Jazeera[^5]. About 11 million registered Democrats had voted, against about 8 million registered Republicans, though that does not show how anyone voted[^5]. Early voting rose by more than 80% in South Carolina and by about a third in Michigan and Kansas[^5].",
-        "Polls lean toward Democrats. The Silver Bulletin average of the national House vote shows Democrats at about 51% and Republicans at about 42%[^7]. YouGov polls show Democrats narrowly ahead in Senate races in Texas and Maine, and a tie in Nebraska between Republican Pete Ricketts and independent Dan Osborn[^7]. Polls can miss, especially in close races, so these are signals, not results.",
-        "Al Jazeera links Republican weakness to the cost of living, tariffs and the unpopular Iran war[^5]. Trump held rallies in Iowa and Kansas on Sunday and says he will \"surprise a lot of people\"[^6].",
-        "Why it matters: if Democrats win the House or Senate, they could block parts of Trump's agenda for his last two years and open investigations[^6]. For Canada, the result could shape the trade dispute and tariffs. Close races may take days to count, so control of the Senate may not be clear on Tuesday night."
-      ],
-      "differences": null
-    },
-    {
-      "id": "oleshky-truce-ends",
-      "heading": "Oleshky truce ends as Russian drone strikes leave Ukrainian homes without power",
-      "date": "2026-11-01",
-      "status": "developing",
-      "summary": "A rare local ceasefire that let civilians leave occupied Oleshky ended on Nov 1. Ukraine says both sides kept the deal, but also that Russia used the pause to resupply, while Russian drones again hit Ukraine's power grid.[^11][^9][^10]",
-      "lead": {
-        "title": "Civilians in Kherson prepare for return of war as localised ceasefire ends",
-        "outlet": "Irish Examiner (AP)",
-        "url": "https://www.irishexaminer.com/world/arid-41931945.html",
+        "title": "Russian strikes kill 26 in Ukraine, dashing peace progress hopes",
+        "outlet": "The New Arab",
+        "url": "https://www.newarab.com/news/russian-strikes-kill-26-ukraine-dashing-peace-progress-hopes",
         "date": "2026-11-02"
       },
       "alsoReported": [
         {
-          "title": "Melania Trump hails Oleshky evacuation as success, but civilians remain trapped and Russia reinforces positions",
-          "outlet": "hromadske",
-          "url": "https://hromadske.ua/en/war/273614-melania-trump-hails-oleshky-evacuation-as-success-but-civilians-remain-trapped-and-russia-reinforces-positions"
+          "title": "US, Russia, Ukraine To Resume Peace Talks Amid Doubts Over Breakthrough",
+          "outlet": "RFE/RL",
+          "url": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html"
         },
         {
-          "title": "Russian attacks kill 1, injure 47 over past day, leaving hundreds of thousands without electricity",
-          "outlet": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/"
+          "title": "Russian bombing of Ukrainian aid centre kills 24 people",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "For five days, guns were meant to fall silent around Oleshky, a town in Ukraine's Kherson region that Russia has occupied since 2022. The truce, mediated by the Vatican with help from US First Lady Melania Trump, let aid in and civilians out; it ended on Nov 1[^11]. Evacuees travelled by a long route through Russia and Belarus to reach Ukrainian-held land[^8].",
-        "How many left is unclear. Melania Trump says nearly 800 were evacuated, while AP reports that about 2,000 civilians had been in the town and that exact numbers were withheld to protect those who stayed[^9][^8]. Some who wanted to leave, including bedridden people, are still there, according to a source quoted by hromadske[^9].",
-        "Ukraine's human rights ombudsman, Dmytro Lubinets, says both sides kept their commitments and is exploring more humanitarian deals with his Russian counterpart[^11]. At the same time, Ukraine's General Staff says Russian troops used the pause to rotate, dig in and resupply[^9]. Both statements can be true: a truce can serve civilians and armies at once.",
-        "Elsewhere the war went on. Ukraine's air force says Russia launched 433 drones overnight into Nov 1 and that 371 were shot down; regional officials reported one person killed and at least 47 injured, and President Zelensky says hundreds of thousands of families lost power[^10]. Ukraine says it hit military sites in Russia's Rostov region, and Russian media reported a fire at the Kstovo oil refinery[^8].",
-        "What next: Trump said Oleshky could be \"the starting point for lasting peace\"[^11]. My read: small humanitarian deals have happened before without leading to wider talks, and winter strikes on energy are likely to continue."
+        "Russian bombs hit a school being used as an aid centre in the village of Komyshuvakha, in Ukraine's Zaporizhzhia region, on Sunday. Regional governor Mykhailo Semikin says at least 26 people were killed; early reports said 24[^5][^7]. President Volodymyr Zelenskyy says one aerial bomb was followed by nine more as people sheltered, a pattern called a \"double-tap\" strike, and called the attack \"utterly horrific\"[^5]. Russia says it does not target civilians[^5].",
+        "The strike came a day after a local truce in Kherson region ended. That pause, which the US First Lady helped arrange so civilians could leave occupied Oleshky, was the longest of the war; a Ukrainian source told AFP that Moscow refused to extend it[^5]. Ukraine says Russia used the quiet to strengthen its positions. Kremlin spokesman Dmitry Peskov did not deny this and called it \"completely normal\"[^5].",
+        "Both sides keep striking each other's territory. Zelenskyy says Ukraine hit a Russian rocket-fuel plant in Rostov region[^8]. RFE/RL reports that Ukrainian drones hit an oil refinery in Yaroslavl on Tuesday, while a Russian attack on a medical site in Kharkiv injured at least 62 people[^6]. Russia's defence ministry says it shot down 212 Ukrainian drones overnight into Monday[^7].",
+        "On diplomacy, US envoy Steve Witkoff announced working-level talks between Russia and Ukraine in Abu Dhabi on Nov 10-11, covering security after the war, steps to reduce fighting, and humanitarian issues; the last three-way round was in February[^6]. US officials also meet European governments, the EU and NATO in Brussels this week on security guarantees for Ukraine[^6].",
+        "What next: analysts quoted by RFE/RL expect no breakthrough, with prisoner exchanges the most realistic result[^6]. My read is that the Oleshky truce showed small, practical deals are possible, but the two sides remain far apart on land and on who would guarantee any peace."
       ],
-      "differences": "Ukraine's ombudsman says both sides kept the truce's terms, while Ukraine's military says Russia used it to reinforce[^11][^9]. Evacuee numbers differ: Melania Trump says nearly 800; AP says exact numbers were withheld[^9][^8]."
+      "differences": "Death tolls rose as rescue work continued: Al Jazeera's earlier report gave 24 dead, The New Arab's later one 26, citing the regional governor[^7][^5]. Ukraine says Russia exploited the Oleshky truce; the Kremlin calls that normal and denies targeting civilians[^5]."
     },
     {
-      "id": "herzog-unity-push-gaza-strikes",
-      "heading": "Herzog urges Israel's leaders to compromise as Gaza strikes kill eight",
-      "date": "2026-11-01",
+      "id": "israel-herzog-consultations",
+      "heading": "Herzog sets the order of talks that will decide who tries to form Israel's government",
+      "date": "2026-11-02",
       "status": "developing",
-      "summary": "With no bloc holding a majority after Israel's Oct 27 election, President Herzog told leaders to \"stop climbing trees\" and avoid another vote. In Gaza, hospitals say Israeli strikes killed eight people on Sunday, testing a fragile truce.[^12][^14]",
+      "summary": "Israel's president will meet party leaders on Nov 4-5, starting with the smallest, before choosing who gets the first chance to build a coalition. In Gaza, medics say Israeli strikes killed four people on Monday.[^9][^11]",
       "lead": {
-        "title": "'Stop climbing trees': Herzog offers party leaders ladders down, signals push for unity government",
-        "outlet": "Times of Israel",
-        "url": "https://www.timesofisrael.com/stop-climbing-trees-and-face-reality-in-appeal-to-leaders-herzog-signals-push-for-unity-government/",
-        "date": "2026-11-01"
+        "title": "Herzog to start consultations with smallest parties first; Religious Zionism meeting set for Wednesday evening",
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/",
+        "date": "2026-11-02"
       },
       "alsoReported": [
         {
-          "title": "Joint List, Ra'am to back Gadi Eisenkot for premiership as Isaac Herzog opens negotiations",
-          "outlet": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-913448"
+          "title": "Israel's coalition consultations: The move pressuring undecided parties as support for Eisenkot grows",
+          "outlet": "Ynet News",
+          "url": "https://www.ynetnews.com/article/hy3hwbiagx"
         },
         {
-          "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-          "outlet": "BBC (via AOL)",
-          "url": "https://www.aol.com/articles/israeli-strikes-gaza-kill-eight-162538000.html"
+          "title": "Israeli strikes kill four people in Gaza, medics say",
+          "outlet": "Al-Monitor (Reuters)",
+          "url": "https://www.al-monitor.com/originals/2026/11/israeli-strikes-kill-four-people-gaza-medics-say"
         }
       ],
       "eventId": "gaza",
       "article": [
-        "Israel's Oct 27 election left Prime Minister Benjamin Netanyahu's bloc with 53 of 120 seats, the Jewish-led opposition parties with 48 and the Arab-led parties with a record 19[^12]. A government needs 61. The opposition adds up to 67, but several of its parties refuse to govern with the Arab-led factions[^12].",
-        "On Sunday President Isaac Herzog told party leaders to \"stop climbing trees, and face reality\", and offered them \"ladders\" to climb down from earlier promises; reporters read this as a push toward a unity government[^12]. The Arab-led Joint List and Ra'am are expected to recommend former army chief Gadi Eisenkot for prime minister[^13]. Likud is split: one member says Netanyahu wants a unity government, while the party whip rejects sharing the top job in rotation[^12].",
-        "In Gaza, hospitals say Israeli strikes killed at least eight people on Sunday, including five police officers in al-Mawasi and a four-year-old boy in Gaza City[^14][^15]. Israel's military says it targeted militants and gave no evidence; Hamas called the strikes a war crime[^15]. Gaza's Health Ministry says about 1,580 people have been killed since the ceasefire began in October 2025[^14].",
-        "Why it matters: the next phase of the US-backed Gaza plan, including disarmament and reconstruction, is stalled, and it is waiting in part for a new Israeli government[^14]. Who governs Israel will shape what happens next in Gaza.",
-        "What next: Herzog receives official results and starts meeting parties on Nov 4, and the new Knesset is sworn in on Nov 10[^12]. My read: talks could run for weeks, and another election is possible."
+        "After Israel's Oct 27 election, President Isaac Herzog must pick one lawmaker to try to form a government. He will hear each party's recommendation on Wednesday and Thursday. Breaking with custom, he starts with the smallest parties and ends on Thursday evening with the two largest, Gadi Eisenkot's Yashar and Benjamin Netanyahu's Likud[^9][^10]. He must hand out the mandate by Nov 11; the nominee then has 28 days, which can be extended by 14[^10].",
+        "The numbers are tight. Parties opposed to Netanyahu hold 67 of the Knesset's 120 seats, but they range from right-wing parties to Arab-led ones, and the Times of Israel says even a minority government would need hard compromises[^9]. Avigdor Liberman, Naftali Bennett and Yair Golan say they will back Eisenkot, and the Arab-led Ra'am and Joint List appear likely to do the same, with the Joint List offering support from outside a coalition[^9][^10]. Ynet projects about 46 recommendations for Netanyahu; the ultra-Orthodox party UTJ may recommend no one, since its priority is a law exempting religious students from military service[^10].",
+        "In Gaza, the US-brokered truce is a year old but fragile. Medics say Israeli strikes killed at least four Palestinians on Monday in Khan Younis, central Gaza and Gaza City; Israel's military says it targeted militants[^11]. Gaza health officials count at least 1,580 people killed since the truce began, and Israel says four of its soldiers have been killed[^11]. Israel controls about two-thirds of the territory, and talks on Hamas giving up its weapons and Israel pulling back are stalled[^11].",
+        "Why it matters: the next government will shape Israel's approach to the Gaza truce, Lebanon and the war with Iran. What next: my read is that weeks of bargaining are likely, and neither a minority government nor another election can be ruled out."
       ],
-      "differences": "Israel's military says Sunday's strikes hit militants; Gaza's Hamas-run interior ministry says police officers were killed and calls it a massacre[^14][^15]. Gaza's death toll since the truce is given as about 1,580 by the Health Ministry via the BBC, and as over 1,500 by Al Jazeera[^14][^15]."
+      "differences": "Israel says Hamas is rearming and attacking in breach of the truce; Hamas denies it and accuses Israel of undermining the ceasefire[^11]. Netanyahu reportedly says there will be no unity talks if the Knesset speaker is replaced, a change Liberman wants[^9]."
     },
     {
-      "id": "binance-hack-north-korea",
-      "heading": "FBI blames North Korea for a $6.3-billion theft from crypto exchange Binance",
-      "date": "2026-11-01",
-      "status": "confirmed",
-      "summary": "Hackers took about $6.3 billion from Binance, the largest crypto exchange, in the biggest crypto theft on record. The FBI says a North Korean group did it; Binance says it covered losses from its own funds and reopened withdrawals.[^16][^17]",
+      "id": "us-midterms-election-day",
+      "heading": "Americans vote today in midterms that will decide control of Congress",
+      "date": "2026-11-03",
+      "status": "developing",
+      "summary": "All 435 House seats, 35 Senate seats and 36 governorships are on the ballot. Final polls lean toward Democrats, but several Senate races are close and some may take days to count.[^12][^14]",
       "lead": {
-        "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
-        "date": "2026-10-30"
+        "title": "Here's what the U.S. is voting on today for the 2026 midterm elections",
+        "outlet": "CBS News",
+        "url": "https://www.cbsnews.com/news/what-us-voting-on-november-2026-elections/",
+        "date": "2026-11-03"
       },
       "alsoReported": [
         {
-          "title": "Binance resumes withdrawals after more than $6 bn stolen in hack; FBI says North Korea behind",
-          "outlet": "Yahoo News (AFP)",
-          "url": "https://www.yahoo.com/news/us/articles/fbi-says-north-korea-behind-001658611.html"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Late on Oct 29, attackers drained about $6.3 billion in cryptocurrency from Binance wallets across 10 blockchains, most of it in about 20 minutes[^16]. That is about four times the previous record, the roughly $1.5-billion theft from the exchange Bybit in 2025[^16][^17].",
-        "The FBI says the hack was carried out by TraderTraitor, a North Korean state-linked group connected to the Lazarus Group, and that it has watched the stolen money being converted into Ether[^17]. North Korea routinely denies hacking[^16]. Binance has said its own investigation has not yet named anyone[^16].",
-        "About $3 billion has been frozen, more than $2.3 billion of it by Tether and Circle, two companies that issue \"stablecoins\" (crypto tokens tied to the US dollar)[^16]. Binance says it set aside more than $6.34 billion of its own money and has replaced about 90% of the stolen tokens; it planned to reopen withdrawals on Sunday[^17]. Bitcoin fell to a six-week low after the news[^16].",
-        "Why it matters: researchers have long said crypto theft helps fund North Korea's weapons programs, which the UN bans. A crypto investigator quoted by Al Jazeera calls this \"a global security issue, not just a crypto theft\"[^16]. It also shows that even the biggest platforms can be emptied in minutes.",
-        "What next: investigators will try to trace and freeze more of the money, and the FBI is asking firms to block the addresses used to launder it[^17]. My read: expect renewed pressure on governments to regulate exchanges more like banks."
-      ],
-      "differences": "The FBI names a North Korean group; Binance says its own investigation has not attributed the attack, and North Korea routinely denies such accusations[^16][^17]."
-    },
-    {
-      "id": "congo-ebola-5000-deaths",
-      "heading": "Congo's Ebola outbreak passes 5,000 deaths, the second-deadliest on record",
-      "date": "2026-10-31",
-      "status": "confirmed",
-      "summary": "Congo's Health Ministry reports 5,026 deaths among 10,351 confirmed Ebola cases. The strain has no approved vaccine, and health agencies say most new cases appear outside known contact chains.[^18][^19]",
-      "lead": {
-        "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-        "outlet": "PBS NewsHour (AP)",
-        "url": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
-        "date": "2026-10-31"
-      },
-      "alsoReported": [
+          "title": "The battle for Congress is just the beginning. Here's what's at stake on Election Day",
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day"
+        },
         {
-          "title": "Death toll from Ebola outbreak in DR Congo surpasses 5,000",
-          "outlet": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/health/death-toll-from-ebola-outbreak-in-dr-congo-surpasses-5-000/4107333"
+          "title": "Final 2026 Midterm Polls: Democrats Lead Key Senate Races In Last New York Times Poll",
+          "outlet": "Forbes",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/"
         }
       ],
-      "eventId": null,
+      "eventId": "us-politics-economy",
       "article": [
-        "On Saturday, the Democratic Republic of Congo's Health Ministry reported 5,026 deaths among 10,351 confirmed Ebola cases since the outbreak was declared in mid-May, meaning nearly half of those infected have died[^18][^19]. Only the 2014-16 outbreak in West Africa, with about 11,000 deaths, was deadlier[^18].",
-        "This outbreak is caused by the Bundibugyo strain of the virus, for which there is no approved vaccine or specific treatment[^18]. It has reached 8 of Congo's 26 provinces, centred on Ituri and North Kivu in the east, and cases have been confirmed in Kenya, Nigeria and, earlier, Uganda[^18].",
-        "The hardest part is tracking it. Africa CDC says about 80% of new cases are appearing outside the lists of known contacts that health workers follow[^18]. Congo's health authorities say only about 12% of confirmed cases came from known contacts[^19]. When cases come from unknown sources, the virus is spreading in ways responders cannot see.",
-        "The response is also hampered by conflict in eastern Congo, attacks on clinics and strikes by unpaid health workers, AP reports[^18]. A WHO official called the toll \"a very tragic milestone\"[^18].",
-        "Why it matters: Ebola outbreaks are usually contained in one region. This one is the most widespread in Africa so far, and further spread across borders is the main fear[^18]. What next: health agencies are asking for more money and staff for testing and contact tracing; no new dates have been set."
+        "Today is election day in the United States. Voters choose all 435 members of the House of Representatives, 35 senators and 36 governors, plus most state legislatures and 145 statewide ballot questions[^12][^13]. More than 54 million ballots were cast early, about nine million more than at the same point in 2022, according to AP figures cited by Fox News[^13].",
+        "Control of Congress is at stake. Republicans hold the Senate 53-47, so Democrats need a net gain of four seats; in the House, Democrats need a net gain of three[^12][^13]. Final New York Times/Siena polls show Democratic Senate candidates ahead in Texas, Kansas and Michigan, while a separate poll has Nebraska tied[^14]. The betting market Kalshi gives Democrats about a 94% chance of winning the House[^14]. Polls and markets are estimates, not results.",
+        "The parties tell different stories. President Trump predicts Republicans will keep both chambers, and the Republican chair says turnout will decide it[^13]. The Democratic chair says his party can flip both[^13]. Fox News lists the headwinds Republicans face: inflation, an unpopular war with Iran and falling approval ratings[^13].",
+        "Some ballot questions could matter beyond this year, including a one-time 5% tax on billionaires in California, new district maps in Maryland and Missouri, abortion measures in three states, and Alaska's vote on dropping ranked-choice voting[^12][^13].",
+        "Why it matters for Canada: Congress shapes trade, tariffs and support for Ukraine. What next: polls close between 6 p.m. and 1 a.m. Eastern, and close Senate races such as Alaska, Maine and Nebraska may take days[^13]. My read: if Democrats win even one chamber, the second half of Trump's term becomes harder for the White House."
       ],
       "differences": null
     },
     {
-      "id": "bulgaria-yotova-wins",
-      "heading": "Bulgaria elects Iliana Yotova, a critic of military aid to Ukraine, as president",
-      "date": "2026-11-01",
-      "status": "confirmed",
-      "summary": "Acting president Iliana Yotova won Bulgaria's presidential runoff with about 58% of the vote on a turnout near 27%. She favours a negotiated peace in Ukraine and better ties with Russia while keeping Bulgaria in the EU and NATO.[^21][^20]",
+      "id": "poland-court-standoff",
+      "heading": "Poland's fight over its top court becomes a standoff, and three ambassadors quit",
+      "date": "2026-11-02",
+      "status": "disputed",
+      "summary": "Poland's government and president are locked in a struggle over who controls the Constitutional Tribunal, including a late-night confrontation at the court. Three ambassadors resigned, and the European Commission backed parliament's right to appoint judges.[^15][^17]",
       "lead": {
-        "title": "Initial results suggest Yotova wins runoff to become Bulgaria's first elected female president",
-        "outlet": "Union-Bulletin (AP)",
-        "url": "https://www.union-bulletin.com/news/world/initial-results-suggest-yotova-wins-runoff-to-become-bulgaria-s-first-elected-female-president/article_3cc9970f-7615-51bd-8abe-ae17de2ec187.html",
-        "date": "2026-11-01"
+        "title": "Polish ambassador to UN becomes third envoy to resign amid crisis over constitutional court",
+        "outlet": "Notes From Poland",
+        "url": "https://notesfrompoland.com/2026/11/02/polish-ambassador-to-un-becomes-third-envoy-to-resign-amid-crisis-over-constitutional-court/",
+        "date": "2026-11-02"
       },
       "alsoReported": [
         {
-          "title": "Initial results show Bulgaria's acting president Yotova wins runoff election",
-          "outlet": "Euronews (AP)",
-          "url": "https://euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election"
+          "title": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis",
+          "outlet": "Euronews (AFP)",
+          "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum"
+        },
+        {
+          "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court"
         }
       ],
-      "eventId": "ukraine-war",
+      "eventId": null,
       "article": [
-        "Iliana Yotova won Sunday's runoff with 57.58% of the vote against Andrey Gyurov's 39.46%, with almost all polling stations counted[^21]. Turnout was about 27%, low even for Bulgaria[^21]. Gyurov conceded[^20]. Yotova becomes the country's first elected female president, and her five-year term starts on Jan 22, 2027[^21][^20].",
-        "Yotova, 62, has been acting president since January, when Rumen Radev resigned to run for parliament; Radev's Progressive Bulgaria party now holds 131 of 240 seats[^20]. She opposes sending weapons to Ukraine and favours a negotiated peace and better relations with Russia, while saying Bulgaria stays on its European path[^20][^22]. She said voters chose \"dialogue, rather than division\"[^21].",
-        "Bulgaria is a small EU and NATO member on the Black Sea, but its president speaks for it abroad and commands the armed forces. Its result adds to a group of European governments, including Hungary and Slovakia, that are more sceptical of military help for Ukraine.",
-        "Why it matters: EU decisions on Ukraine, such as sanctions on Russia, often need every member to agree. My read: one more sceptical voice makes those decisions slower, though Bulgaria's main policies are set by its government, not its president. Observers also warn that with the president and parliamentary majority on the same side, checks on power may weaken[^20]."
+        "Poland's Constitutional Tribunal, the court that rules on whether laws fit the constitution, is at the centre of a power struggle. On Oct 30, eight judges chosen by parliament this year declared the chief justice, Bogdan Święczkowski, suspended. He served in the former Law and Justice (PiS) government and called the move a \"coup d'état\"[^15]. Early on Oct 31, video showed President Karol Nawrocki, who is aligned with PiS, pushing past a judge who says she is the court's acting head[^18][^16].",
+        "The dispute goes back years. Prime Minister Donald Tusk's pro-EU government, in office since December 2023, does not recognise the court as it now stands and has not followed its rulings. The dispute dates to 2015, when the PiS government of the time named its own judges; this year parliament began filling the court's seats[^15]. Nawrocki has refused to swear in five of the eight new judges, even though the law says new judges take their oath before the president[^18][^15].",
+        "Each side accuses the other. Tusk says there can be \"no compromise\" on the rule of law and on Monday urged Nawrocki to recognise the judges[^15][^16]. PiS and its allies in Europe call the government's moves a coup[^17]. Many legal experts, including critics of PiS, doubt that the way the new judges took control was lawful[^15]. The European Commission says appointing the judges is within parliament's powers[^17]. Three ambassadors who once advised the former president resigned in protest, most recently Poland's envoy to the UN[^15].",
+        "Why it matters: Poland is one of the EU's largest members and a key backer of Ukraine. This is a judgment, but when a court becomes a prize in a political fight, people on both sides can lose trust that its rulings are fair. What next: the court's disputed acting head called a meeting of its judges for today, and a valid vote needs ten judges[^15]."
+      ],
+      "differences": "The government and the European Commission say parliament has the right to appoint the new judges[^16][^17]. PiS, President Nawrocki's allies and the suspended chief justice call the takeover a coup[^15][^17]. Independent legal experts are split: many doubt the method used, even if they criticise PiS[^15]. Foreign Minister Radosław Sikorski suggests the ambassadors resigned at Nawrocki's urging[^15]."
+    },
+    {
+      "id": "ebola-deaths-pass-5300",
+      "heading": "Ebola deaths pass 5,300 in the fastest-growing outbreak on record",
+      "date": "2026-11-02",
+      "status": "developing",
+      "summary": "Africa CDC says 5,376 people have died in the Ebola outbreak centred on Congo, with deaths also in Kenya and Uganda. The strain has no approved vaccine, and a trial of a related one has begun.[^19][^21]",
+      "lead": {
+        "title": "Ebola kills over 5,300 in fastest-growing outbreak on record",
+        "outlet": "Euronews (AFP)",
+        "url": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record",
+        "date": "2026-11-02"
+      },
+      "alsoReported": [
+        {
+          "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+          "outlet": "UN News",
+          "url": "https://news.un.org/en/story/2026/10/1168689"
+        },
+        {
+          "title": "Nigerian Health Chiefs Confirm Negative Results in Ebola Cases",
+          "outlet": "RFI (via AllAfrica)",
+          "url": "https://allafrica.com/stories/202611030061.html"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Africa CDC, the continent's disease-control agency, told AFP on Monday that 5,376 people have died in the current Ebola outbreak: 5,372 in the Democratic Republic of Congo and two each in Kenya and Uganda[^19]. Congo's figures show more than 10,000 infections since May, and more than half of known cases have died[^19]. The UN says it is Congo's largest Ebola outbreak and the second-largest ever, after West Africa in 2014-16[^21].",
+        "Ebola spreads through contact with the body fluids of sick or dead people. This outbreak is caused by the rare Bundibugyo strain, which has no approved vaccine or treatment[^19][^21]. On Oct 23, a trial began in Bunia using Ervebo, a vaccine approved for a different Ebola strain, given to close contacts of patients; WHO experts are also reviewing two vaccines designed for Bundibugyo[^21].",
+        "The virus has crossed borders. Kenya recorded its first-ever cases, nine with two deaths, all linked to one traveller from Congo[^19]. In Nigeria, two suspected cases tested negative on Monday; the country's only confirmed case was a traveller who has since returned to Switzerland[^20]. The Central African Republic has increased screening along its long border with Congo[^20].",
+        "Why it matters: eastern Congo has armed conflict and many displaced people, which makes tracing contacts and holding safe burials hard; a nurse was killed in Tshopo province on Oct 24[^21][^20]. WHO says more than 2,600 people have recovered and testing has expanded[^21]. What next: watch for WHO's verdict on the Bundibugyo vaccines, early results from the trial, and any spread to new countries."
+      ],
+      "differences": null
+    },
+    {
+      "id": "ai-stocks-keep-swinging",
+      "heading": "AI shares keep swinging as investors question the data-centre spending boom",
+      "date": "2026-11-02",
+      "status": "developing",
+      "summary": "US tech stocks fell again on Monday while most other shares rose, as investors ask whether hundreds of billions of dollars spent on AI data centres will pay off.[^22][^23]",
+      "lead": {
+        "title": "THE CLOSING BELL: US stocks erase their rally from the morning as tech and AI stocks keep swinging",
+        "outlet": "AP (via 94.7 QDR)",
+        "url": "https://www.947qdr.com/2026/11/02/the-closing-bell-us-stocks-erase-their-rally-from-the-morning-as-tech-and-ai-stocks-keep-swinging/",
+        "date": "2026-11-02"
+      },
+      "alsoReported": [
+        {
+          "title": "US tech selloff drags global stocks back into the red",
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://ca.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4920378"
+        },
+        {
+          "title": "Asian shares are mixed as tech losses offset broader gains on Wall Street",
+          "outlet": "AP (via News4Jax)",
+          "url": "https://www.news4jax.com/business/2026/11/03/asian-shares-are-mixed-as-tech-losses-offset-broader-gains-on-wall-street/"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "US stock markets had a split day on Monday. The S&P 500 fell 0.5% after rising early, and the tech-heavy Nasdaq dropped 1.1%, but the Dow rose 0.4% and seven in ten S&P 500 stocks outside tech gained[^22]. On Tuesday the selling reached Asia, where South Korea's main index fell 2.5% as chipmakers SK Hynix and Samsung dropped[^24].",
+        "The worry is about spending. Big technology companies are pouring money into data centres, the huge buildings full of computers that train and run AI. Goldman Sachs expects big cloud companies' spending on such projects to nearly double to about $800 billion this year and reach $1.2 trillion in 2027[^23]. Some investors fear the revenue will not be large enough to justify that, and some call it a bubble[^22].",
+        "Recent results fed the doubts. On Oct 29 Alphabet, Google's parent company, had its worst day on record, falling more than 12% on worries about search growth and heavy spending[^22]. On Monday Oracle fell 8.6% on plans to raise $20 billion, and chipmaker Marvell fell about 13% after agreeing to buy Lumentum[^23]. Not every signal was negative: Anthropic's updated filing to sell shares to the public showed revenue up 47% from the previous quarter[^23].",
+        "Why it matters: when a few giant companies lose value, so do the pension funds and savings that hold them, and slower AI building would affect jobs, power demand and chip supply worldwide. What next: more company results and US jobs data this week. My read: one rough stretch does not prove a bubble, but investors now want evidence that AI pays."
       ],
       "differences": null
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "Binance says it covered its customers' $6.3 billion loss with its own money. If big platforms always repay victims after a hack, how might that change the choices made by hackers, customers and the companies themselves?"
+    "type": "how-do-we-know",
+    "text": "Today's brief has several numbers that differ by outlet: the death toll in Komyshuvakha, the size of Monday's oil price drop, Ebola totals. When two reliable sources give different figures for the same event, what would you want to know before deciding which to use?"
   },
   "read": {
-    "title": "Analysis: October dive in AI-related shares tests broader US market resilience",
-    "outlet": "Reuters (via Global Banking & Finance Review)",
-    "url": "https://www.globalbankingandfinance.com/analysis-october-dive-ai-related-shares-tests-broader-us/",
+    "title": "Interactive: Who wants what at the COP31 climate change summit",
+    "outlet": "Carbon Brief",
+    "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
     "kind": "analysis",
-    "minutes": 6,
-    "summary": "Why US stocks mostly held up while AI shares fell in October, and why a slowdown in AI spending is the risk that would reach the wider economy."
+    "minutes": 10,
+    "summary": "A week before COP31 opens in Antalya, a clear map of what each country and bloc wants on climate money, adaptation and new emissions plans, drawn from about 100 negotiating papers."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Arab News (Reuters)",
-      "title": "Iranian negotiators depart Doha, but talks with Qatar not derailed, says official",
-      "url": "https://www.arabnews.pk/middle-east/iranian-negotiators-depart-doha-but-talks-with-qatar-not-derailed-says-official-3005861",
+      "outlet": "Al Jazeera (AP)",
+      "title": "Iran pushing accelerated plan for ceasefire talks with US",
+      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
       "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Al Jazeera",
-      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
-      "date": "2026-11-01",
+      "outlet": "Euronews",
+      "title": "Oil slides on Hormuz deal hopes but Trump keeps Iran strikes on the table",
+      "url": "https://www.euronews.com/2026/11/02/oil-slides-on-hormuz-deal-hopes-but-trump-keeps-iran-strikes-on-the-table",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Al Jazeera",
-      "title": "Iran war live: Tehran says Hormuz 'security restored' if US agrees to plan",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+      "outlet": "HNGN",
+      "title": "Iran Exits Doha, Awaits U.S. Reply as Trump Talks 'Hammer'",
+      "url": "https://www.hngn.com/articles/273662/20261102/trump-says-not-hurry-iran-awaits-answer-2-day-hormuz-plan.htm",
       "date": "2026-11-02",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Fox News (AP)",
-      "title": "Trump, Rubio say more Iran strikes are still on the table, but not likely before midterms",
-      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-us-israel-november-1",
-      "date": "2026-11-01",
+      "outlet": "Transport Topics (AP)",
+      "title": "Oil prices decline on hopes for progress on Iran war efforts",
+      "url": "https://www.ttnews.com/articles/oil-prices-progress-iran-war",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Al Jazeera",
-      "title": "More than 50 million votes cast in US midterm elections: What does it mean?",
-      "url": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean",
-      "date": "2026-11-01",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "The National",
-      "title": "Donald Trump makes final midterm campaign push",
-      "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
-      "date": "2026-11-01",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Forbes",
-      "title": "Hottest 2026 Midterm Races: Democrats Lead Almost All Major Senate Contests",
-      "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
-      "date": "2026-11-01",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "Irish Examiner (AP)",
-      "title": "Civilians in Kherson prepare for return of war as localised ceasefire ends",
-      "url": "https://www.irishexaminer.com/world/arid-41931945.html",
+      "outlet": "The New Arab",
+      "title": "Russian strikes kill 26 in Ukraine, dashing peace progress hopes",
+      "url": "https://www.newarab.com/news/russian-strikes-kill-26-ukraine-dashing-peace-progress-hopes",
       "date": "2026-11-02",
       "singleSource": false
     },
     {
+      "id": 6,
+      "outlet": "RFE/RL",
+      "title": "US, Russia, Ukraine To Resume Peace Talks Amid Doubts Over Breakthrough",
+      "url": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Al Jazeera",
+      "title": "Russian bombing of Ukrainian aid centre kills 24 people",
+      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "The Kyiv Independent",
+      "title": "Zelensky confirms attack on Russian rocket fuel factory, missile launcher system",
+      "url": "https://kyivindependent.com/zelensky-confirms-attack-on-russian-rocket-fuel-factory-missile-launcher-system/",
+      "date": "2026-11-01",
+      "singleSource": true
+    },
+    {
       "id": 9,
-      "outlet": "hromadske",
-      "title": "Melania Trump hails Oleshky evacuation as success, but civilians remain trapped and Russia reinforces positions",
-      "url": "https://hromadske.ua/en/war/273614-melania-trump-hails-oleshky-evacuation-as-success-but-civilians-remain-trapped-and-russia-reinforces-positions",
+      "outlet": "The Times of Israel",
+      "title": "Herzog to start consultations with smallest parties first; Religious Zionism meeting set for Wednesday evening",
+      "url": "https://www.timesofisrael.com/liveblog_entry/herzog-to-start-consultations-with-smallest-parties-first-religious-zionism-meeting-set-for-wednesday-evening/",
       "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Kyiv Independent",
-      "title": "Russian attacks kill 1, injure 47 over past day, leaving hundreds of thousands without electricity",
-      "url": "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/",
-      "date": "2026-11-01",
+      "outlet": "Ynet News",
+      "title": "Israel's coalition consultations: The move pressuring undecided parties as support for Eisenkot grows",
+      "url": "https://www.ynetnews.com/article/hy3hwbiagx",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Interfax-Ukraine",
-      "title": "Humanitarian ceasefire in Oleshky ends after aid delivery, civilian evacuation",
-      "url": "https://en.interfax.com.ua/news/general/1229540.html",
+      "outlet": "Al-Monitor (Reuters)",
+      "title": "Israeli strikes kill four people in Gaza, medics say",
+      "url": "https://www.al-monitor.com/originals/2026/11/israeli-strikes-kill-four-people-gaza-medics-say",
       "date": "2026-11-02",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Times of Israel",
-      "title": "'Stop climbing trees': Herzog offers party leaders ladders down, signals push for unity government",
-      "url": "https://www.timesofisrael.com/stop-climbing-trees-and-face-reality-in-appeal-to-leaders-herzog-signals-push-for-unity-government/",
-      "date": "2026-11-01",
+      "outlet": "CBS News",
+      "title": "Here's what the U.S. is voting on today for the 2026 midterm elections",
+      "url": "https://www.cbsnews.com/news/what-us-voting-on-november-2026-elections/",
+      "date": "2026-11-03",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Jerusalem Post",
-      "title": "Joint List, Ra'am to back Gadi Eisenkot for premiership as Isaac Herzog opens negotiations",
-      "url": "https://www.jpost.com/israel-election-2026/article-913448",
-      "date": "2026-11-01",
+      "outlet": "Fox News",
+      "title": "The battle for Congress is just the beginning. Here's what's at stake on Election Day",
+      "url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day",
+      "date": "2026-11-03",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "BBC (via AOL)",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://www.aol.com/articles/israeli-strikes-gaza-kill-eight-162538000.html",
-      "date": "2026-11-01",
+      "outlet": "Forbes",
+      "title": "Final 2026 Midterm Polls: Democrats Lead Key Senate Races In Last New York Times Poll",
+      "url": "https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 15,
-      "outlet": "Al Jazeera",
-      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
-      "date": "2026-11-01",
+      "outlet": "Notes From Poland",
+      "title": "Polish ambassador to UN becomes third envoy to resign amid crisis over constitutional court",
+      "url": "https://notesfrompoland.com/2026/11/02/polish-ambassador-to-un-becomes-third-envoy-to-resign-amid-crisis-over-constitutional-court/",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 16,
-      "outlet": "Al Jazeera",
-      "title": "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-      "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know",
-      "date": "2026-10-30",
+      "outlet": "Euronews (AFP)",
+      "title": "Polish PM Donald Tusk urges president to confirm judges amid constitutional crisis",
+      "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 17,
-      "outlet": "Yahoo News (AFP)",
-      "title": "Binance resumes withdrawals after more than $6 bn stolen in hack; FBI says North Korea behind",
-      "url": "https://www.yahoo.com/news/us/articles/fbi-says-north-korea-behind-001658611.html",
+      "outlet": "Euronews",
+      "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+      "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
       "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 18,
-      "outlet": "PBS NewsHour (AP)",
-      "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-      "url": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+      "outlet": "Notes From Poland",
+      "title": "Polish president in physical confrontation with judges amid power struggle at constitutional court",
+      "url": "https://notesfrompoland.com/2026/10/31/polish-president-in-physical-confrontation-with-judges-amid-power-struggle-at-constitutional-court/",
       "date": "2026-10-31",
       "singleSource": false
     },
     {
       "id": 19,
-      "outlet": "Anadolu Agency",
-      "title": "Death toll from Ebola outbreak in DR Congo surpasses 5,000",
-      "url": "https://www.aa.com.tr/en/health/death-toll-from-ebola-outbreak-in-dr-congo-surpasses-5-000/4107333",
-      "date": "2026-10-31",
+      "outlet": "Euronews (AFP)",
+      "title": "Ebola kills over 5,300 in fastest-growing outbreak on record",
+      "url": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 20,
-      "outlet": "Union-Bulletin (AP)",
-      "title": "Initial results suggest Yotova wins runoff to become Bulgaria's first elected female president",
-      "url": "https://www.union-bulletin.com/news/world/initial-results-suggest-yotova-wins-runoff-to-become-bulgaria-s-first-elected-female-president/article_3cc9970f-7615-51bd-8abe-ae17de2ec187.html",
-      "date": "2026-11-01",
+      "outlet": "RFI (via AllAfrica)",
+      "title": "Nigerian Health Chiefs Confirm Negative Results in Ebola Cases",
+      "url": "https://allafrica.com/stories/202611030061.html",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 21,
-      "outlet": "Novinite",
-      "title": "Yotova Wins Five More Years as Bulgaria's President, New Mandate Begins in January",
-      "url": "https://www.novinite.com/articles/241388/Yotova+Wins+Five+More+Years+as+Bulgaria%E2%80%99s+President,+New+Mandate+Begins+in+January",
-      "date": "2026-11-02",
-      "singleSource": true
+      "outlet": "UN News",
+      "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+      "url": "https://news.un.org/en/story/2026/10/1168689",
+      "date": "2026-10-28",
+      "singleSource": false
     },
     {
       "id": 22,
-      "outlet": "Euronews (AP)",
-      "title": "Initial results show Bulgaria's acting president Yotova wins runoff election",
-      "url": "https://euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election",
-      "date": "2026-11-01",
+      "outlet": "AP (via 94.7 QDR)",
+      "title": "THE CLOSING BELL: US stocks erase their rally from the morning as tech and AI stocks keep swinging",
+      "url": "https://www.947qdr.com/2026/11/02/the-closing-bell-us-stocks-erase-their-rally-from-the-morning-as-tech-and-ai-stocks-keep-swinging/",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 23,
+      "outlet": "Reuters (via Investing.com)",
+      "title": "US tech selloff drags global stocks back into the red",
+      "url": "https://ca.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4920378",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 24,
-      "outlet": "Yahoo Finance",
-      "title": "Stock futures jump ahead of a monster week after a $5 trillion AI rout",
-      "url": "https://finance.yahoo.com/markets/article/stock-futures-jump-ahead-of-a-monster-week-after-a-5-trillion-ai-rout-021203996.html",
-      "date": "2026-11-01",
+      "outlet": "AP (via News4Jax)",
+      "title": "Asian shares are mixed as tech losses offset broader gains on Wall Street",
+      "url": "https://www.news4jax.com/business/2026/11/03/asian-shares-are-mixed-as-tech-losses-offset-broader-gains-on-wall-street/",
+      "date": "2026-11-03",
       "singleSource": false
     }
   ]

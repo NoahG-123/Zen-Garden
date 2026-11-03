@@ -1,84 +1,109 @@
 {
-  "date": "2026-11-02",
-  "summary": "China's factories shrank again in October as shoppers held back, while BYD's best month of the year came mostly from sales abroad.",
+  "date": "2026-11-03",
+  "summary": "Singles' Day puts AI credits in the shopping cart, two factory surveys disagree, and carmakers sell more cars while earning far less.",
   "body": [
-    "China's official factory survey fell to 49.3 in October, below the 50 line that separates growth from shrinking, for the third time in four months [^1]. Services and construction also slipped [^1]. An official at the group that runs the survey said \"insufficient demand\" is adding pressure, and spending faded after the October National Day holiday [^1]. The split is sharp: makers of AI hardware, trains and aircraft did well, while firms tied to housing struggled [^1]. Growth for the year is still expected to reach the 4.5-5% target [^1].",
-    "Electric cars show where growth is coming from. BYD, the largest EV maker, sold about 490,000 vehicles in October, its best month this year, and more than 300,000 fully electric cars for the first time [^2]. About a third of its sales were overseas, double a year earlier, while its total sales for the year are slightly down [^2]. Rivals Leapmotor and Xiaomi also posted strong months [^3].",
-    "Daily life reflects careful spending. Youth unemployment (ages 16-24, not in school) eased to 18% in September but was the highest September figure since this series began in 2024 [^5]. Shops are working hard for those customers: Alibaba expects a record 1 million brands in its Singles Day festival, which peaks on Nov 11, with an AI assistant to compare products [^4]. On technology, Beijing's proposed export controls on AI models and chips are open for comment until Nov 15 [^6]. The Register reports, citing Chinese state media, that DeepSeek has been allowed to keep exporting [^7]."
+    "Singles' Day, China's biggest shopping festival, is under way, and this year AI is on the shelf. Shoppers can buy \"tokens\", prepaid credits for using AI tools, from companies such as Alibaba, DeepSeek and ByteDance. On Monday, livestream seller Austin Li, known as the \"Lipstick King\", sold 100,000 monthly memberships to an Alibaba office AI in half an hour, Reuters reports [^1]. An analyst warned that paying in advance is risky because AI products change quickly [^1].",
+    "Two surveys of factories tell different stories. The private RatingDog/S&P Global index was 52.0 in October, which signals growth, while the official index was 49.3, which signals shrinking [^2][^3]. The private survey covers fewer firms and leans toward exporters [^2]. Caixin links the weakness to fewer overseas Christmas orders and slower spending at home after the October holiday [^3].",
+    "Cars show a similar split. Xiaomi delivered more than 50,000 electric cars in October, its best month this year, and Leapmotor passed 100,000 [^6][^7]. Yet carmakers' total profits fell 68% from a year earlier in September, which Caixin blames on \"relentless price competition\" [^5]. Cheap cars help buyers, but a long price war squeezes companies and their workers.",
+    "In tech, food-delivery giant Meituan released a large AI model it says was trained entirely on Chinese-made chips [^4]. In Taiwan, the ruling party proposed prison terms of up to 10 years for sending advanced AI chips to mainland China without approval, though the opposition-controlled legislature may block it [^8]. The World Internet Conference opened in Wuzhen with a focus on open-source AI; Chinese state media says more than 460 companies are exhibiting [^9][^10]."
   ],
-  "differences": "Reports differ on how far the AI export rules go: The National describes proposed rules open for comment until Nov 15, while The Register describes restrictions already in place with licences required [^6][^7]. BYD's October total is about 490,000 vehicles in CnEVPost and 483,125 passenger cars in CarNewsChina; the gap is likely commercial vehicles [^2][^3].",
+  "differences": "October factory data conflict: the private RatingDog/S&P Global survey shows growth at 52.0, while the official survey shows contraction at 49.3, because they sample different firms [^2][^3]. The reports read for this brief do not name the chips Meituan used, so its claim cannot yet be checked independently [^4].",
   "reads": [
     {
-      "title": "Ten Lives in China's Age of AI",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1018341",
+      "title": "China is mobilizing thousands of one-person AI startups",
+      "outlet": "Rest of World",
+      "url": "https://restofworld.org/2026/china-ai-one-person-companies-incentives/",
       "kind": "analysis",
-      "summary": "Ten ordinary people, from an 11-year-old making songs to a 79-year-old with an AI companion, on how AI has entered daily life in China."
+      "summary": "Why Chinese cities are paying young founders to start AI companies on their own, and what that says about jobs and ambition."
     },
     {
-      "title": "China's factory activity shrinks in October, third contraction in four months",
-      "outlet": "Reuters (via Yahoo Finance)",
-      "url": "https://finance.yahoo.com/economy/articles/chinas-october-factory-activity-contracts-014826889.html",
-      "kind": "news",
-      "summary": "A short, clear look at why China's factories are slowing, and which industries are still growing."
+      "title": "In China, people are renting out their faces to AI",
+      "outlet": "Rest of World",
+      "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/",
+      "kind": "analysis",
+      "summary": "A look at AI-made short dramas and the ordinary people who sell the right to use their faces in them."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Reuters (via Yahoo Finance)",
-      "title": "China's factory activity shrinks in October, third contraction in four months",
-      "url": "https://finance.yahoo.com/economy/articles/chinas-october-factory-activity-contracts-014826889.html",
-      "date": "2026-10-31",
-      "singleSource": false
+      "outlet": "Reuters (via 102.7 WBOW)",
+      "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
+      "url": "https://1027wbow.com/2026/11/03/chinas-lipstick-king-touts-ai-tokens-in-first-for-singles-day-festival/",
+      "date": "2026-11-03",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "CnEVPost",
-      "title": "BYD sales rise 11% to year-to-date high in October as BEVs top 300,000 for first time",
-      "url": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales/",
-      "date": "2026-11-01",
+      "outlet": "investingLive",
+      "title": "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
+      "url": "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CarNewsChina",
-      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
-      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/",
+      "outlet": "Caixin Global",
+      "title": "China's Manufacturing Activity Returns to Contraction",
+      "url": "https://www.caixinglobal.com/2026-11-02/chinas-manufacturing-activity-returns-to-contraction-102499864.html",
       "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "SCMP (via The Star)",
-      "title": "Alibaba sets sights on record-breaking Singles' Day with 1 million brands joining festival",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/alibaba-sets-sights-on-record-breaking-singles-day-with-1-million-brands-joining-festival",
-      "date": "2026-10-23",
-      "singleSource": false
+      "outlet": "Caixin Global",
+      "title": "Meituan Unveils New AI Model Trained on Homegrown Chips",
+      "url": "https://www.caixinglobal.com/2026-11-03/meituan-unveils-new-ai-model-trained-on-homegrown-chips-102500305.html",
+      "date": "2026-11-03",
+      "singleSource": true
     },
     {
       "id": 5,
       "outlet": "Caixin Global",
-      "title": "China's Youth Unemployment Rate Eases to 18%",
-      "url": "https://www.caixinglobal.com/2026-10-21/chinas-youth-unemployment-rate-eases-to-18-102495753.html",
-      "date": "2026-10-21",
-      "singleSource": false
+      "title": "China Auto Industry Profits Plunge 68%",
+      "url": "https://www.caixinglobal.com/2026-11-02/china-auto-industry-profits-plunge-68-102499818.html",
+      "date": "2026-11-02",
+      "singleSource": true
     },
     {
       "id": 6,
-      "outlet": "The National",
-      "title": "China targets AI technology exports with new controls as US trade truce frays",
-      "url": "https://www.thenationalnews.com/future/technology/2026/10/16/china-targets-ai-technology-exports-with-new-controls-as-us-trade-truce-frays/",
-      "date": "2026-10-16",
+      "outlet": "Reuters (via Business Recorder)",
+      "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
+      "url": "https://www.brecorder.com/news/40446906/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "The Register",
-      "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
-      "date": "2026-10-26",
+      "outlet": "CnEVPost",
+      "title": "Roundup: October 2026 deliveries by major Chinese automakers",
+      "url": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers/",
+      "date": "2026-11-01",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Asia Times",
+      "title": "Taiwan to criminalize Nvidia AI chip smuggling to China",
+      "url": "https://asiatimes.com/2026/11/taiwan-to-criminalize-nvidia-ai-chip-smuggling-to-china",
+      "date": "2026-11-02",
       "singleSource": true
+    },
+    {
+      "id": 9,
+      "outlet": "Open Source For You",
+      "title": "WIC Wuzhen Summit 2026 Kicks Off With Major Focus on Open-Source AI",
+      "url": "https://www.opensourceforu.com/2026/11/wic-wuzhen-summit-2026/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "Global Times (Chinese state media)",
+      "title": "Wuzhen expo showcases China's broader AI integration, other digital advances",
+      "url": "https://www.globaltimes.cn/page/202611/1373462.shtml",
+      "date": "2026-11-02",
+      "singleSource": false
     }
   ]
 }

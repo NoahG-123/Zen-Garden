@@ -1,91 +1,76 @@
 {
-  "date": "2026-11-02",
-  "summary": "Budget week: Ottawa tables its budget Thursday after weak growth numbers and a rate hike, while Carney says a Sunday call with Trump moved trade talks forward.",
+  "date": "2026-11-03",
+  "summary": "Budget week: Champagne pitches a plan to lift productivity, Trump says a trade deal is \"very close\", factories shrink, and Ontario probes alleged OSAP fraud.",
   "body": [
-    "Finance Minister François-Philippe Champagne tables the federal budget on Thursday, November 5 (yesterday's brief wrongly called it Wednesday) [^1]. It is titled \"Masters of Our Destiny\" and framed around Canada's sovereignty, but no measures have been announced [^2]. Conservative Leader Pierre Poilievre wants federal diesel taxes paused until Canada Day and spending cut [^3]. Since winning three byelections in April, the Liberals hold a majority, so the budget is expected to pass [^7].",
-    "It arrives in a weak economy. Statistics Canada says the economy did not grow in August, the second flat month in a row, and an early estimate shows a small drop in September [^4]. Auto plant shutdowns and the August breakdown of trade talks, which brought new tariffs on both sides, are among the reasons [^4]. The Bank of Canada still raised its key rate to 2.5% on Oct. 28, its first hike in over three years, because of inflation risks [^4]. Higher rates make borrowing for cars, homes and student lines of credit more expensive.",
-    "On trade, Prime Minister Mark Carney called his Sunday talk with President Trump a \"good conversation\" and said teams will work \"in the coming weeks\" toward a deal [^5][^6]. No terms have been announced, and US tariffs of 50% still cover about $20 billion of Canadian goods [^6]. In Toronto, the province finished removing 1.2 km of bike lanes on Bloor Street West and plans more on Bloor, University and Yonge [^8]. My read: Thursday's budget will show how much Ottawa is willing to borrow to cushion the trade war."
+    "Thursday's federal budget is two days away. On Monday, Finance Minister François-Philippe Champagne told a Toronto business audience it is about \"changing Canada's growth model\": getting companies to invest more so workers produce more. He hinted at tax breaks for small businesses but gave no dollar figures [^3]. The Parliamentary Budget Officer expects a $63.3-billion deficit this year, smaller than it forecast in June [^1]. Conservative Leader Pierre Poilievre wants federal diesel taxes and the GST on fuel paused and spending cut [^1].",
+    "Trade talks with the US may be moving. Prime Minister Mark Carney and President Trump spoke on Saturday (not Sunday, as yesterday's brief said), and Trump now says the two countries are \"very close\" to a deal [^2]. Carney says the US has been \"coming closer\" to Canada's position, but asked whether Trump would sign, he said \"I don't know that\" [^2]. No terms are public. Carney is at the Commonwealth leaders' meeting in Antigua and Barbuda this week [^6].",
+    "The tariffs are showing up in factories. A monthly survey of manufacturers fell to 49.6 in October; below 50 means the sector is shrinking, the first time this year. New orders dropped, and costs rose at the fastest pace in over four years [^4].",
+    "For students: Ontario alleges in court documents that one internet address sent more than half of the OSAP student-aid applications at two campuses of a private career college. The claims are unproven, and the school denies wrongdoing [^5]. The province has paused payments to all private post-secondary schools, called in the OPP and ordered an audit; opposition critics ask why this was missed while OSAP grants for public college and university students were cut this year [^5]. My read: Thursday's budget and any trade deal matter most for jobs this winter."
   ],
-  "differences": "Carney says the operating budget will balance by 2027-28; the Parliamentary Budget Officer expects that to slip a year [^1]. On trade, McGill's Daniel Béland says the White House sees political risk in the dispute, while U of T historian Robert Bothwell calls the thaw \"5 minutes of variable sunshine\" [^6]. Economists split on whether weak growth means the Bank of Canada will pause in December [^4].",
+  "differences": "The government says the budget answers a time of \"profound change and uncertainty\"; Poilievre says it should cut spending and fuel taxes [^1]. The PBO expects Ottawa to miss its own goal of a falling deficit-to-GDP ratio [^1]. On trade, Trump says a deal is \"very close\", Carney says he does not know if Trump will sign, and Poilievre says Carney broke his promise of a better deal [^2].",
   "reads": [
     {
-      "title": "A 0.2% gain was expected, but Canada's GDP stalled again in August",
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/economic-growth-stalled-again-in-august-statcan-says/",
+      "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
+      "outlet": "CP24 (The Canadian Press)",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/02/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/",
       "kind": "news",
-      "summary": "A plain explanation of how tariffs, stalled growth and interest rates connect, with economists who disagree about what comes next."
+      "summary": "How a suspected student-aid fraud at private colleges unfolded, and how the government, opposition and courts are responding."
     },
     {
-      "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
-      "outlet": "MPR News (AP)",
-      "url": "https://mprnews.org/story/2026/11/01/donald-trump-mark-carney-canada-us-trade-talks-ahead-of-midterms",
+      "title": "Federal budget is about 'changing Canada's growth model,' finance minister says",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
       "kind": "news",
-      "summary": "Where Canada-US trade talks stand before the midterms, with sceptical and hopeful experts side by side."
+      "summary": "A short setup for Thursday's budget and the idea of productivity, in the finance minister's own words."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "CP24",
-      "title": "The federal budget is coming. Here's when it will be tabled",
-      "url": "https://www.cp24.com/politics/2026/10/20/the-federal-budget-is-coming-heres-when-it-will-be-tabled/",
-      "date": "2026-10-20",
+      "outlet": "Global News (The Canadian Press)",
+      "title": "Ahead of budget, Poilievre urges Carney to end diesel taxes and cut spending",
+      "url": "https://globalnews.ca/news/12129175/conservatives-budget-asks-deficit/",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Global News",
-      "title": "Budget 2026 title and theme focus on Canada's sovereignty, minister reveals",
-      "url": "https://globalnews.ca/news/12125733/budget-2026-theme-title/",
-      "date": "2026-10-29",
+      "outlet": "CP24",
+      "title": "Trump says Canada-U.S. 'very close' to having a deal, following PM Carney saying they had a 'good conversation'",
+      "url": "https://www.cp24.com/news/canada/2026/11/01/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/",
+      "date": "2026-11-01",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CTV News",
-      "title": "Poilievre says Carney must keep fiscal promises in upcoming budget",
-      "url": "https://www.ctvnews.ca/canada/article/poilievre-says-carney-must-keep-fiscal-promises-in-upcoming-budget/",
-      "date": "2026-11-01",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "Federal budget is about 'changing Canada's growth model,' finance minister says",
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "A 0.2% gain was expected, but Canada's GDP stalled again in August",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/30/economic-growth-stalled-again-in-august-statcan-says/",
-      "date": "2026-10-30",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Al Jazeera",
-      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom",
-      "date": "2026-11-01",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "MPR News (AP)",
-      "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
-      "url": "https://mprnews.org/story/2026/11/01/donald-trump-mark-carney-canada-us-trade-talks-ahead-of-midterms",
-      "date": "2026-11-01",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Global News",
-      "title": "Carney's Liberals projected to form majority with 3 byelection victories",
-      "url": "https://globalnews.ca/news/11798684/federal-byelections-2026/",
-      "date": "2026-04-13",
+      "outlet": "Reuters (via Yahoo Finance)",
+      "title": "Canadian factory PMI shows sector contracting for first time in 2026",
+      "url": "https://finance.yahoo.com/economy/articles/canadian-factory-pmi-shows-sector-143515776.html",
+      "date": "2026-11-02",
       "singleSource": true
     },
     {
-      "id": 8,
-      "outlet": "NOW Toronto",
-      "title": "Ontario completes Bloor Street bike lane removal in Etobicoke",
-      "url": "https://nowtoronto.com/news/ontario-completes-bloor-street-bike-lane-removal/",
-      "date": "2026-10-31",
+      "id": 5,
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/02/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/",
+      "date": "2026-11-02",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "CTV News",
+      "title": "PM Carney heads to Commonwealth meeting in Antigua and Barbuda focused on trade, investment",
+      "url": "https://www.ctvnews.ca/politics/article/pm-carney-heads-to-commonwealth-meeting-in-antigua-and-barbuda-focused-on-trade-investment/",
+      "date": "2026-11-02",
       "singleSource": false
     }
   ]
