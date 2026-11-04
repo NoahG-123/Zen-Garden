@@ -1,76 +1,99 @@
 {
-  "date": "2026-11-03",
-  "summary": "Budget week: Champagne pitches a plan to lift productivity, Trump says a trade deal is \"very close\", factories shrink, and Ontario probes alleged OSAP fraud.",
+  "date": "2026-11-04",
+  "summary": "The day after Democrats won the US Congress, Canada waits for Thursday's budget, the Bank of Canada explains its rate hike, and Ontario keeps an OSAP audit secret.",
   "body": [
-    "Thursday's federal budget is two days away. On Monday, Finance Minister François-Philippe Champagne told a Toronto business audience it is about \"changing Canada's growth model\": getting companies to invest more so workers produce more. He hinted at tax breaks for small businesses but gave no dollar figures [^3]. The Parliamentary Budget Officer expects a $63.3-billion deficit this year, smaller than it forecast in June [^1]. Conservative Leader Pierre Poilievre wants federal diesel taxes and the GST on fuel paused and spending cut [^1].",
-    "Trade talks with the US may be moving. Prime Minister Mark Carney and President Trump spoke on Saturday (not Sunday, as yesterday's brief said), and Trump now says the two countries are \"very close\" to a deal [^2]. Carney says the US has been \"coming closer\" to Canada's position, but asked whether Trump would sign, he said \"I don't know that\" [^2]. No terms are public. Carney is at the Commonwealth leaders' meeting in Antigua and Barbuda this week [^6].",
-    "The tariffs are showing up in factories. A monthly survey of manufacturers fell to 49.6 in October; below 50 means the sector is shrinking, the first time this year. New orders dropped, and costs rose at the fastest pace in over four years [^4].",
-    "For students: Ontario alleges in court documents that one internet address sent more than half of the OSAP student-aid applications at two campuses of a private career college. The claims are unproven, and the school denies wrongdoing [^5]. The province has paused payments to all private post-secondary schools, called in the OPP and ordered an audit; opposition critics ask why this was missed while OSAP grants for public college and university students were cut this year [^5]. My read: Thursday's budget and any trade deal matter most for jobs this winter."
+    "Democrats won control of both the US Senate and House in Tuesday's midterms, and Canada's trade fight was on the ballot in places[^1]. In Maine, which buys about $4.1 billion a year from Canada, Democrat Troy Jackson beat Senator Susan Collins after a race that featured tariffs; in Michigan, the Republican candidate distanced himself from Trump's tariffs[^2][^1]. Prime Minister Mark Carney says talks with Washington are \"more intense\" but \"we haven't finished\"[^2].",
+    "Finance Minister François-Philippe Champagne tables the federal budget on Thursday. He says it is about \"regaining our ability to build\", aiming for $1 trillion in private investment over five years, helped by a business tax deduction expected to cost about $36 billion over five years[^4]. His other priorities: new trade partners, Canadian industry, much higher defence spending and affordability[^5]. On Tuesday, Bank of Canada Governor Tiff Macklem told MPs the bank raised its key rate to 2.5%, its first increase since July 2023, as war-driven oil prices push inflation to near 3%[^6]. He said government spending and fighting inflation are not \"at odds\"[^7].",
+    "For students: Ontario's Colleges and Universities Minister Nolan Quinn will not publish the KPMG audit of OSAP student aid at private career colleges, citing confidentiality; its early findings went to the OPP[^8]. The PC majority on a legislature committee voted down a Liberal motion for an auditor general probe, and NDP Leader Marit Stiles said the government is trying \"to sweep things under the carpet\"[^8]. The schools in court filings deny wrongdoing[^8]. The province also told Toronto, which faces a $1.1-billion shortfall in 2027, that more money is not coming \"right now\"[^9]."
   ],
-  "differences": "The government says the budget answers a time of \"profound change and uncertainty\"; Poilievre says it should cut spending and fuel taxes [^1]. The PBO expects Ottawa to miss its own goal of a falling deficit-to-GDP ratio [^1]. On trade, Trump says a deal is \"very close\", Carney says he does not know if Trump will sign, and Poilievre says Carney broke his promise of a better deal [^2].",
+  "differences": "Analysts disagree on whether a Democratic Congress helps Canada. Asa McKercher says Congress could \"reassert its control\" over tariffs and strengthen Canada's hand, though Trump might \"lash out\"; Nicolas Schmitt says Canada \"should not count on\" a quick fix[^3].",
   "reads": [
     {
-      "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
+      "title": "Maine elects Democratic senator after race that featured Canada-U.S. trade war",
       "outlet": "CP24 (The Canadian Press)",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/02/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/",
+      "url": "https://www.cp24.com/news/money/2026/11/04/maine-elects-democratic-senator-after-race-that-featured-canada-us-trade-war/",
       "kind": "news",
-      "summary": "How a suspected student-aid fraud at private colleges unfolded, and how the government, opposition and courts are responding."
+      "summary": "How heating oil, road salt and lumber made Canada a campaign issue in Maine, and what Carney says about the trade talks."
     },
     {
-      "title": "Federal budget is about 'changing Canada's growth model,' finance minister says",
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
-      "kind": "news",
-      "summary": "A short setup for Thursday's budget and the idea of productivity, in the finance minister's own words."
+      "title": "U.S. midterm results could affect Trump's approach to Canada. Here's what Canadians need to know",
+      "outlet": "Yahoo News Canada",
+      "url": "https://ca.news.yahoo.com/us-midterm-results-could-affect-trumps-approach-to-canada-heres-what-canadians-need-to-know-170738439.html",
+      "kind": "analysis",
+      "summary": "Two Canadian experts disagree on how much a new Congress can change US tariffs on Canada."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News (The Canadian Press)",
-      "title": "Ahead of budget, Poilievre urges Carney to end diesel taxes and cut spending",
-      "url": "https://globalnews.ca/news/12129175/conservatives-budget-asks-deficit/",
-      "date": "2026-11-01",
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Blue wave crashes over American politics in midterm that rebukes Trump policies",
+      "url": "https://www.cp24.com/news/world/2026/11/04/blue-wave-crashes-over-american-politics-in-midterm-that-rebukes-trump-policies/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24",
-      "title": "Trump says Canada-U.S. 'very close' to having a deal, following PM Carney saying they had a 'good conversation'",
-      "url": "https://www.cp24.com/news/canada/2026/11/01/trump-says-canada-us-very-close-to-having-a-deal-following-pm-carney-saying-they-had-a-good-conversation/",
-      "date": "2026-11-01",
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Maine elects Democratic senator after race that featured Canada-U.S. trade war",
+      "url": "https://www.cp24.com/news/money/2026/11/04/maine-elects-democratic-senator-after-race-that-featured-canada-us-trade-war/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "Federal budget is about 'changing Canada's growth model,' finance minister says",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
-      "date": "2026-11-02",
+      "outlet": "Yahoo News Canada",
+      "title": "U.S. midterm results could affect Trump's approach to Canada. Here's what Canadians need to know",
+      "url": "https://ca.news.yahoo.com/us-midterm-results-could-affect-trumps-approach-to-canada-heres-what-canadians-need-to-know-170738439.html",
+      "date": "2026-11-03",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Reuters (via Yahoo Finance)",
-      "title": "Canadian factory PMI shows sector contracting for first time in 2026",
-      "url": "https://finance.yahoo.com/economy/articles/canadian-factory-pmi-shows-sector-143515776.html",
+      "outlet": "CP24 (The Canadian Press)",
+      "title": "Champagne gives a preview of what to expect in federal budget",
+      "url": "https://www.cp24.com/news/canada/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
       "date": "2026-11-02",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/02/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/",
+      "outlet": "Global News",
+      "title": "Budget 2026 is about 'us,' not the U.S. trade war, finance minister says",
+      "url": "https://globalnews.ca/news/12129875/budget-2026-about-us-not-trade-war-champagne/",
       "date": "2026-11-02",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "CTV News",
-      "title": "PM Carney heads to Commonwealth meeting in Antigua and Barbuda focused on trade, investment",
-      "url": "https://www.ctvnews.ca/politics/article/pm-carney-heads-to-commonwealth-meeting-in-antigua-and-barbuda-focused-on-trade-investment/",
-      "date": "2026-11-02",
+      "outlet": "Bank of Canada",
+      "title": "Opening Statement before the House of Commons Standing Committee on Finance",
+      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-house-commons-standing-committee-finance-2026-11-03/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "Fiscal and monetary policy are not at odds, Bank of Canada's Macklem tells MPs",
+      "url": "https://www.bnnbloomberg.ca/business/2026/11/03/fiscal-and-monetary-policy-are-not-at-odds-bank-of-canadas-macklem-tells-mps/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Yahoo News Canada (The Canadian Press)",
+      "title": "Ontario won't make career college OSAP audit public, minister says",
+      "url": "https://ca.news.yahoo.com/ontario-wont-career-college-osap-184239980.html",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "Global News",
+      "title": "'Always expecting more': Ford government pushes back against Toronto's new deal bid",
+      "url": "https://globalnews.ca/news/12135017/always-expecting-more-ford-government-pushes-back-against-torontos-new-deal-bid/",
+      "date": "2026-11-03",
       "singleSource": false
     }
   ]

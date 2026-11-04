@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-03",
+  "reviewed": "2026-11-04",
   "events": [
     {
       "id": "iran-war",
@@ -7,20 +7,20 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran says its plan to reopen Hormuz, now condensed from seven days to two, is with Washington via Qatar; by Nov 2 the US had not replied.[^131] Trump says the war will end soon \"one way or the other\" and that one or two sites still must be dealt with; Rubio says no decision on strikes has been made.[^131] Oil fell on deal hopes on Nov 2, with US crude just under $100.[^132]",
+      "standing": "US forces struck Iranian air-defence sites on Qeshm Island and nearby on Nov 3, which Trump called a \"minor attack\".[^146][^147] Iran calls the US reply to its two-day Hormuz plan \"unconvincing\"; Qatar says both sides remain committed to talks.[^146] US media report plans for wider strikes as early as Nov 4.[^146] Brent swung between about $103 and $107 on Nov 3.[^148]",
       "heading": {
         "likely": "My read: an uneasy stalemate continues for now, with ship attacks, a US blockade of Iranian ports and high oil prices, while both sides wait for elections in Israel and the US.",
-        "possible": "Renewed large-scale US strikes on Iran after the US midterms, which reports say are being planned; or a new mediated deal (Pakistan, Qatar, Oman have tried) that reopens the strait.",
+        "possible": "Wider US strikes on Iran in the days after the midterms, which US media say are planned; or a mediated deal via Qatar that lifts the US blockade and reopens the strait.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
         {
-          "date": "2026-11-03",
-          "what": "US midterm elections; reports say a decision on renewed strikes on Iran could follow soon after"
+          "date": "2026-11-05",
+          "what": "End of the roughly 36-hour window in which Qatar expected both sides' feedback on a deal"
         },
         {
           "date": "2026-11-04",
-          "what": "Earliest reported date for possible US strikes (unconfirmed); Israel's coalition consultations begin"
+          "what": "Earliest reported date for wider US strikes; Israel's coalition consultations begin"
         },
         {
           "date": "2026-11-09",
@@ -155,7 +155,10 @@
         120,
         121,
         131,
-        132
+        132,
+        146,
+        147,
+        148
       ]
     },
     {
@@ -164,7 +167,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Russian strikes on an aid centre in Komyshuvakha, Zaporizhzhia, killed at least 26 on Nov 2, a day after the Oleshky local truce ended; a Ukrainian source says Moscow refused to extend it.[^133] The US says working-level Russia-Ukraine talks will be held in Abu Dhabi on Nov 10-11.[^134] The US approved 500 Patriot interceptors paid for by Canada, Germany and Norway.[^111] Putin still claims all of Donbas.[^56]",
+      "standing": "The Kremlin confirmed three-way talks with the US and Ukraine in Abu Dhabi on Nov 10-11, with Vladimir Medinsky leading Russia's team.[^149] Russia fired hundreds of drones and dozens of missiles at Ukraine's energy system on Nov 2-4; Zelenskyy proposes an energy-strike halt as a first step to a ceasefire.[^150] The US approved 500 Patriot interceptors paid for by Canada, Germany and Norway.[^111] Putin still claims all of Donbas.[^56]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -172,12 +175,12 @@
       },
       "watch": [
         {
-          "date": "2026-11-10",
-          "what": "US-announced Russia-Ukraine working-level talks in Abu Dhabi, Nov 10-11"
+          "date": "2026-11-06",
+          "what": "US negotiators meet France, Germany, the UK, the EU and NATO in Brussels this week (exact day not given)"
         },
         {
-          "date": "2026-11-03",
-          "what": "US midterm elections, which could change how much room Trump has on Ukraine policy and sanctions"
+          "date": "2026-11-10",
+          "what": "Russia-US-Ukraine working-level talks in Abu Dhabi, Nov 10-11"
         },
         {
           "date": "2026-11-18",
@@ -310,7 +313,9 @@
         122,
         123,
         133,
-        134
+        134,
+        149,
+        150
       ]
     },
     {
@@ -319,7 +324,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel's Oct 27 vote left parties opposed to Netanyahu with 67 of 120 seats, but they range from right-wing to Arab-led parties.[^124][^135] Herzog hears party recommendations on Nov 4-5 and must pick a nominee by Nov 11.[^136] Medics say Israeli strikes killed four in Gaza on Nov 2; Gaza health officials count at least 1,580 killed since the truce began.[^137]",
+      "standing": "Israel's election committee certified the Oct 27 results on Nov 4, finding no evidence of compromise: Netanyahu's bloc 53 seats, Jewish opposition 48, Arab-led parties 19.[^151] Herzog hears party recommendations Nov 4-5 and must pick a nominee by Nov 11.[^152] Gaza's Health Ministry counts about 1,600 killed since the truce began; a Board of Peace envoy seeks to bring in tents before winter.[^153]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -327,8 +332,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-04",
-          "what": "Herzog's consultations with parties, Nov 4-5, smallest parties first"
+          "date": "2026-11-05",
+          "what": "Herzog's consultations end with Likud; then he chooses who first tries to form a government"
         },
         {
           "date": "2026-11-10",
@@ -452,33 +457,36 @@
         125,
         135,
         136,
-        137
+        137,
+        151,
+        152,
+        153
       ]
     },
     {
       "id": "us-politics-economy",
       "title": "US politics and economy under Trump's second term",
-      "status": "escalating",
+      "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Americans vote Nov 3 for all 435 House seats, 35 Senate seats and 36 governors; over 54 million voted early.[^138][^139] Republicans hold the Senate 53-47, and polls favour Democrats nationally.[^138][^126] Q3 growth was 3.4%, but PCE inflation rose to 3.6%.[^104] The Fed held at 3.75-4% on Oct 28, and markets see about a 75% chance of a December hike.[^127]",
+      "standing": "Democrats won the Senate (AP call) and the House (AP and CBS projections) in the Nov 3 midterms; several races are still being counted.[^142][^143][^144] Trump says \"I'll veto everything\", so divided government begins when the new Congress sits on Jan 3, 2027.[^142][^145] The Fed held at 3.75-4% on Oct 28, and markets see about a 75% chance of a December hike.[^127]",
       "heading": {
-        "likely": "My read: prices and the Iran war stay central to the Nov 3 midterms, and the Fed keeps rates high or raises once more while inflation stays well above its 2% goal.",
-        "possible": "A shift in control of the House, or both chambers, after the midterms could limit the White House's agenda; a Canada-US deal could ease some tariffs during the trade-pact review.",
-        "unlikely": "A quick return to low inflation and falling rates before the end of 2026 seems unlikely, given the Fed's own projections and continued oil-supply risks."
+        "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
+        "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
+        "unlikely": "A quick return to low inflation and falling rates before the end of 2026, given the Fed's own projections and continued oil-supply risks."
       },
       "watch": [
         {
-          "date": "2026-11-03",
-          "what": "US midterm elections: all House seats and 35 Senate seats are on the ballot"
-        },
-        {
           "date": "2026-11-06",
-          "what": "October jobs report; close Senate races may still be counting"
+          "what": "October jobs report; final House and Senate counts may still be coming in"
         },
         {
           "date": "2026-12-09",
           "what": "Federal Reserve decision after its Dec 8-9 meeting; markets expect a possible hike"
+        },
+        {
+          "date": "2027-01-03",
+          "what": "New Congress sworn in with Democratic majorities in both chambers"
         }
       ],
       "connects": [
@@ -542,10 +550,18 @@
         },
         {
           "heading": "Rate hike and a midterm campaign about prices",
-          "period": "Sep 2026-now",
+          "period": "Sep-Nov 2026",
           "paragraphs": [
             "On Sept. 16 the Fed unanimously raised its key rate by a quarter point to a range of 3.75% to 4%, its first hike since 2023, and projected one more increase this year[^14]. Trump wrote that rates should be '1%, or less' and called the Fed's board 'hostile', while saying he still had confidence in Warsh[^14].",
             "A September NPR/PBS News/Marist poll found 39% of registered voters approved of Trump's job performance and 53% favored Democrats for Congress versus 41% for Republicans; Democrats led on gas prices and the economy[^16]. On Oct. 14, data showed inflation at 3.7% in September, with gas prices up more than 9% in a month and diesel about $6.29 a gallon[^13]. The Fed meets Oct. 28, and the midterms are Nov. 3."
+          ]
+        },
+        {
+          "heading": "Democrats win both houses of Congress",
+          "period": "Nov 2026-now",
+          "paragraphs": [
+            "In the Nov 3 midterms, AP called the Senate for Democrats and AP and CBS projected a Democratic House, ending two years of full Republican control of Washington[^143][^144]. Democrats flipped Senate seats in long-Republican states including Texas, Kansas, Iowa, South Carolina and Maine[^142]. AP says high prices, the war in Iran and corruption concerns drove voters[^143].",
+            "House Democratic leader Hakeem Jeffries, in line to be Speaker, named reversing Medicaid cuts, restoring health-insurance tax credits, ending the Iran war and rolling back tariffs as priorities, and committee chairs plan subpoenas from January[^144]. Trump congratulated Democrats but said he would veto their bills[^142]."
           ]
         }
       ],
@@ -583,7 +599,11 @@
         127,
         128,
         138,
-        139
+        139,
+        142,
+        143,
+        144,
+        145
       ]
     },
     {
@@ -592,7 +612,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "AI and chip stocks keep swinging: Alphabet had its worst day on record on Oct 29, and the Nasdaq fell 1.1% on Nov 2 while most non-tech stocks rose.[^140] Goldman Sachs expects big cloud firms' capex to near $800B this year and $1.2T in 2027.[^141] Ottawa will buy a stake of up to C$1.6B in Toronto's Cohere.[^107] Anthropic plans to sell $3.5B of IPO shares to Japanese investors.[^129]",
+      "standing": "AI and chip stocks swung hard: the Nasdaq fell 2.9% on Oct 30, then chips led a rebound on Nov 3.[^156][^157] AMD's revenue rose 45% as data-centre sales nearly doubled.[^154] A senior Chinese regulator says global AI investment is \"overly concentrated\".[^155] Goldman Sachs expects big cloud firms' capex near $800B this year.[^141] Ottawa will buy a stake of up to C$1.6B in Cohere.[^107]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "Investors lose patience with slow profits and AI stocks fall sharply, slowing data-centre building; or another serious AI incident pushes Congress to pass binding safety rules quickly.",
@@ -742,11 +762,19 @@
         129,
         130,
         140,
-        141
+        141,
+        154,
+        155,
+        156,
+        157
       ]
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-04",
+      "text": "US politics and economy: status changed from escalating to shifting. Democrats won both houses of Congress in the Nov 3 midterms, so Trump's last two years will be under divided government; a new history chapter was added."
+    },
     {
       "date": "2026-11-01",
       "text": "Weekly review: all five events kept, with no status changes. Congo's Ebola outbreak (over 5,000 deaths, cases in Kenya and Nigeria) was tested again; it is now spreading across three African regions, so it stays in the World brief and will be re-tested next week."
@@ -1891,6 +1919,134 @@
       "title": "US tech selloff drags global stocks back into the red",
       "url": "https://ca.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4920378",
       "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 142,
+      "outlet": "Al Jazeera",
+      "title": "Democrats win Congress: How they did it, and what it means",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 143,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Democrats take control of the Senate after winning key midterm races",
+      "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 144,
+      "outlet": "CBS News",
+      "title": "Democrats retake House majority after 4 years",
+      "url": "https://www.cbsnews.com/news/democrats-win-house-majority/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 145,
+      "outlet": "Al Jazeera",
+      "title": "Democratic Party gains US House majority in 2026 midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 146,
+      "outlet": "Al Jazeera",
+      "title": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 147,
+      "outlet": "KSL (AP)",
+      "title": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
+      "url": "https://www.ksl.com/article/51643291/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 148,
+      "outlet": "The National",
+      "title": "Oil prices fluctuate after US strikes on Iran's Qeshm Island",
+      "url": "https://www.thenationalnews.com/business/energy/2026/11/03/oil-prices-cross-105-after-us-strikes-on-irans-qeshm-island/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 149,
+      "outlet": "Al-Monitor (Reuters)",
+      "title": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+      "url": "https://www.al-monitor.com/originals/2026/11/kremlin-confirms-trilateral-ukraine-peace-talks-abu-dhabi-next-week",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 150,
+      "outlet": "Kyiv Post",
+      "title": "Russia Attacks Ukraine With 310 Drones, Striking Energy Sites and Infrastructure",
+      "url": "https://www.kyivpost.com/post/89068",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 151,
+      "outlet": "The Jerusalem Post",
+      "title": "Isaac Herzog receives Knesset election results, begins mandate negotiations",
+      "url": "https://www.jpost.com/israel-election-2026/article-913806",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 152,
+      "outlet": "Ynet",
+      "title": "Israel's coalition consultations: The move pressuring undecided parties as support for Eisenkot grows",
+      "url": "https://www.ynetnews.com/article/hy3hwbiagx",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 153,
+      "outlet": "Al Jazeera",
+      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 154,
+      "outlet": "SiliconANGLE",
+      "title": "AMD beats expectations as agentic AI sparks its data center revenue growth engines",
+      "url": "https://siliconangle.com/2026/11/03/amd-beats-expectations-as-agentic-ai-sparks-its-data-center-revenue-growth-engines/",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 155,
+      "outlet": "Investing.com (Reuters)",
+      "title": "AI investment is becoming overly concentrated, Chinese official says",
+      "url": "https://www.investing.com/news/economy-news/ai-investment-is-becoming-overly-concentrated-chinese-official-says-4993398",
+      "date": "2026-11-03",
+      "singleSource": true
+    },
+    {
+      "id": 156,
+      "outlet": "Yahoo Finance (Zacks)",
+      "title": "Stock Market News for Nov 2, 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html",
+      "date": "2026-11-02",
+      "singleSource": false
+    },
+    {
+      "id": 157,
+      "outlet": "Kiplinger",
+      "title": "Nasdaq Bounces as Chips Lead AI Revival: Stock Market Today",
+      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-bounces-as-chips-lead-ai-revival-stock-market-today",
+      "date": "2026-11-03",
       "singleSource": false
     }
   ]
