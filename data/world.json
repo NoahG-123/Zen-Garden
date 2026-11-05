@@ -1,272 +1,253 @@
 {
-  "date": "2026-11-04",
-  "summary": "Democrats win both houses of the US Congress, the US strikes Iranian sites near Hormuz amid talks, Ukraine talks are set, and Israel's coalition contest begins.",
+  "date": "2026-11-05",
+  "summary": "Oil falls on hopes of a US-Iran deal after the midterms, Trump promises vetoes, Kyiv loses water, Israel's coalition race tilts, and climate and Ebola efforts move.",
   "topics": [
     {
-      "id": "democrats-win-us-congress",
-      "heading": "Democrats win control of both houses of the US Congress",
-      "date": "2026-11-03",
+      "id": "oil-falls-iran-deal-hopes",
+      "heading": "Oil falls 8.7% as the US vote raises hopes of an Iran deal; tankers burn near Hormuz",
+      "date": "2026-11-04",
       "status": "developing",
-      "summary": "Democrats won the Senate and, by AP and CBS projections, the House in Tuesday's midterms, ending full Republican control of Washington. Several races are still being counted, and Trump says he will veto Democratic bills.[^1][^2][^3]",
+      "summary": "Brent crude fell 8.7% to $94.62 on Wednesday as traders bet that Trump, weakened by the midterms, will seek a deal with Iran.[^1] Iran's leaders said US voters rejected the war, and Iran's Revolutionary Guards say more tankers caught fire near the strait.[^2][^4]",
       "lead": {
-        "title": "Democrats win Congress: How they did it, and what it means",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean",
-        "date": "2026-11-04"
+        "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+        "outlet": "GMA News (Reuters)",
+        "url": "https://www.gmanetwork.com/news/money/economy/1008333/oil-slumps-after-midterm-election-rebuke-to-trump-raises-bets-on-iran-war-exit/story/",
+        "date": "2026-11-05"
       },
       "alsoReported": [
         {
-          "title": "Democrats take control of the Senate after winning key midterm races",
-          "outlet": "PBS NewsHour (AP)",
-          "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races"
+          "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+          "outlet": "PBS News (AP)",
+          "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war"
         },
         {
-          "title": "Democratic Party gains US House majority in 2026 midterm elections",
+          "title": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
           "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "Democrats won control of both chambers of the US Congress in Tuesday's midterm elections. AP called the Senate for Democrats late on election night, and AP and CBS News project that Democrats also win the House of Representatives, which Republicans have held for four years[^1][^2][^3]. Al Jazeera's count early Wednesday had Democrats at 53 of the 100 Senate seats and leading in three more; several races are still too close to call, and final results could take days[^1].",
-        "Many of the Senate gains came in states Republicans have long held. Al Jazeera counts seven Democratic flips, including Texas, Kansas, Iowa, South Carolina and Maine[^1]. In Texas, James Talarico beat Ken Paxton, the first Democratic statewide win there in 32 years, and in Maine, Troy Jackson defeated Senator Susan Collins[^1][^3]. In the House, Democrats flipped seats in Texas, Pennsylvania, Wisconsin, Iowa and elsewhere, but the final size of their majority is not yet known[^3][^25].",
-        "Why it matters: a US president needs Congress to pass laws and budgets, and the Senate confirms judges and senior officials. AP says Senate control will reshape Trump's final two years and likely limit his agenda, including hopes for a more conservative Supreme Court[^2]. House Democratic leader Hakeem Jeffries, set to become Speaker, lists reversing Medicaid cuts, restoring health-insurance tax credits, ending the Iran war and rolling back tariffs as priorities[^3]. Committee leaders plan subpoenas, legal orders to hand over documents or testify, from January[^3].",
-        "AP says voters were driven by high prices, the war in Iran and concerns about corruption[^2]. Trump congratulated the Democrats but has also said \"I'll veto everything\"[^4][^1]. House Speaker Mike Johnson says Republicans \"will not be deterred by the outcome of one election\"[^3].",
-        "What next: the new Congress is sworn in on January 3, 2027, so the current one serves until then[^25]. My read: the likeliest result is two years of divided government, with fewer new laws, more investigations, and harder fights over budgets, tariffs and the Iran war."
-      ],
-      "differences": "Counts differ while votes are tallied. Al Jazeera lists seven Senate flips including Maine; AP's list of seven includes New Hampshire instead, and CBS also reports Maine[^1][^2][^3]. AP says Democrats needed a net gain of 3 House seats; Al Jazeera says 5[^2][^25]."
-    },
-    {
-      "id": "us-strikes-iran-hormuz-reply",
-      "heading": "US strikes Iranian sites near Hormuz as Iran calls Washington's reply 'unconvincing'",
-      "date": "2026-11-03",
-      "status": "developing",
-      "summary": "US forces hit Iranian air-defence sites on Qeshm Island and nearby, which Trump called a \"minor attack\". Iran says the US answer to its plan to reopen the Strait of Hormuz is \"unconvincing\", but Qatar says both sides remain in talks.[^5][^6]",
-      "lead": {
-        "title": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
-        "date": "2026-11-04"
-      },
-      "alsoReported": [
-        {
-          "title": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
-          "outlet": "KSL (AP)",
-          "url": "https://www.ksl.com/article/51643291/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next"
-        },
-        {
-          "title": "Oil prices fluctuate after US strikes on Iran's Qeshm Island",
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/business/energy/2026/11/03/oil-prices-cross-105-after-us-strikes-on-irans-qeshm-island/"
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "US forces struck Iranian targets around the Strait of Hormuz early on Tuesday. A US official told AP the strikes were limited and aimed at Iranian forces firing surface-to-air missiles at US forces; Iranian state media reported explosions on Qeshm and Hengam islands and near Bandar Abbas[^6]. President Trump confirmed a \"minor attack\" on an anti-aircraft site on Qeshm and said it \"wasn't war\"[^5]. He had said there would be no strikes before the midterms; the last known US attacks were in early September[^6].",
-        "Diplomacy continues alongside the strikes. Iran had offered to reopen the strait over two days if the US met seven demands, including lifting sanctions and ending the US naval blockade of its ports[^5]. The US did reply, and Mohsen Rezaei, secretary of Iran's Supreme National Security Council, called the answer \"unconvincing\"[^5]. Qatar, the main mediator, says both sides \"remain committed\" to negotiating, and a Qatari official told Reuters that mediators expected feedback within 36 hours[^5][^7]. Iran's foreign ministry says any deal must end the fighting on all fronts, including Lebanon[^7].",
-        "At sea, attacks go on. UKMTO, a British maritime security agency, says two projectiles hit a tanker's engine room off Oman, with no casualties, and it counted a record 30 attacks on ships in October[^5][^7]. India says one Indian sailor was killed when a dhow, a wooden cargo boat, was struck[^7]. Iran's Revolutionary Guards claim several tankers hit mines and caught fire; those claims have not been confirmed[^5][^7].",
-        "Why it matters: oil prices move with every turn, and they reach fuel and food prices everywhere, including Ontario. Brent crude, the global benchmark, fell more than 7% on Monday on deal hopes, then rose to nearly $107 a barrel on Tuesday after the strikes before falling back[^8]. What next: US media, citing officials, report plans for wider strikes that could begin as early as Wednesday[^5]. Vice-President JD Vance says he and Trump \"feel pretty good\" about a negotiated settlement[^6]. My read: both a deal and a wider fight remain possible this week."
+        "The price of Brent crude, the main global oil benchmark, fell $8.98, or 8.7%, to settle at $94.62 a barrel on Wednesday, its lowest close since August 31[^1]. It had been near $118 a week earlier, according to Gulf News[^5]. Reuters reports traders see a better chance that the war, which began on February 28, will end, because Tuesday's midterm defeat gives Trump more reason to seek a deal[^1][^2]. US stocks rose sharply the same day[^9].",
+        "Trump has said the war played a part in his party's losses, while also saying he would do it again[^1][^5]. Vice President JD Vance, who Axios reports is leading the advisers who want a deal, said \"the reason we lost is the war\"[^10][^5]. Qatar says both sides \"remain committed\" to talks and is passing proposals between them; it wants both to back a draft with three days of confidence-building steps that could restart direct talks[^3][^5].",
+        "Iran's leaders read the vote as a win. Chief negotiator Mohammad Baqer Qalibaf wrote that \"Americans said NO TO WAR\", but Supreme Leader Mojtaba Khamenei said anyone expecting concessions is \"gravely mistaken\"[^2]. Iran says the strait reopens only if the US ends its naval blockade, lifts sanctions and releases frozen funds[^5][^3]. A senior Iranian official told Reuters the two sides are still \"far from a deal\"[^1].",
+        "The strait itself is still dangerous. Iran's Revolutionary Guards (IRGC) say several tankers caught fire on Wednesday and Thursday after hitting mines or leaving the routes Iran allows; these claims have not been independently confirmed[^2][^4]. US officials told Axios the military is finishing preparations for a possible return to major combat, though \"preparations are not an order\"[^5].",
+        "Why it matters: oil prices feed into the cost of fuel, food and transport everywhere. NPR notes US gasoline averages $4.12 a gallon, about $1 more than a year ago, and analysts say pump prices could take months to fall even after a lasting deal[^10]. My read: markets are pricing in peace faster than diplomats are delivering it, so prices could swing again on any new strike."
       ],
-      "differences": "The timing of the strikes differs: CBS dates them to Nov 2, while AP and Al Jazeera say early Tuesday, Nov 3[^7][^6][^5]. Monday's Brent close is given as $105.03 by CBS and $104.77 by The National[^7][^8]. Iran's state broadcaster claims 11 tankers caught fire over nine days, which CBS says is unsupported[^7]."
+      "differences": "Qatar says both sides are committed to talks; a senior Iranian official told Reuters they are far from a deal[^3][^1]. On Wednesday's tankers, Al Jazeera reports the IRGC saying four were destroyed, while AP reports Iranian state TV saying they caught fire[^3][^2]."
     },
     {
-      "id": "abu-dhabi-talks-russia-air-attack",
-      "heading": "Kremlin confirms Abu Dhabi talks as Russia launches more mass air attacks on Ukraine",
-      "date": "2026-11-03",
+      "id": "trump-vetoes-democrats-plans",
+      "heading": "Trump vows vetoes as Democrats plan investigations after winning Congress",
+      "date": "2026-11-04",
       "status": "developing",
-      "summary": "Russia says three-way talks with the US and Ukraine will be held in Abu Dhabi on Nov 10-11. Meanwhile Russian drones and missiles hit Ukraine's energy system on two nights running, and Zelenskyy proposes halting energy strikes first.[^9][^10][^11]",
+      "summary": "A day after Democrats won both houses, Trump said he was \"a little bit surprised\" and promised to veto their agenda.[^6] Democrats named their priorities and planned investigations, while many House races were still being counted.[^7]",
       "lead": {
-        "title": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
-        "outlet": "Al-Monitor (Reuters)",
-        "url": "https://www.al-monitor.com/originals/2026/11/kremlin-confirms-trilateral-ukraine-peace-talks-abu-dhabi-next-week",
-        "date": "2026-11-03"
+        "title": "Democratic Party gains US House majority in 2026 midterm elections",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
+        "date": "2026-11-04"
       },
       "alsoReported": [
         {
-          "title": "Russia Attacks Ukraine With 310 Drones, Striking Energy Sites and Infrastructure",
-          "outlet": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/89068"
+          "title": "Trump says he was 'a little bit surprised' after Democrats' big win in midterms",
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-bit-surprised-after-democrats-big-win-midterms/story?id=137835787"
         },
         {
-          "title": "Russia launches massive overnight attack on Ukraine, killing 29; Zelenskyy urges US to step up support",
-          "outlet": "ANI",
-          "url": "https://aninews.in/news/world/europe/russia-launches-massive-overnight-attack-on-ukraine-killing-29-zelenskyy-urges-us-to-step-up-support20261103145237/"
+          "title": "2026 House midterm election results as Democrats capture majority with major wins",
+          "outlet": "CBS News (live updates)",
+          "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "The day after the midterms, President Trump said he was \"a little bit surprised\" by the Democrats' wins and thought \"we would do better\"[^6]. He blamed some candidates and high gas prices linked to the Iran war[^6]. He also said Democrats are \"in control, but they're really not\" because of his veto, the president's power to reject a bill, which Congress can override only with two-thirds of both chambers. He said he would consider an immigration deal if it is \"appropriate\"[^6].",
+        "Final numbers are not in. ABC's tracker shows Democrats with 54 Senate seats, and CBS said early Wednesday that about 75 House races were still undecided[^6][^7]. House Democratic leader Hakeem Jeffries, likely the next Speaker, says he expects at least 255 Democratic seats out of 435[^7]. Several Republicans conceded close races during the day[^7].",
+        "Democrats have begun saying what they will do from January 3, when the new Congress sits[^8]. Jeffries lists reversing Medicaid and food-aid (SNAP) cuts, extending expired health-insurance tax credits, ending the Iran war and rolling back tariffs[^7]. Robert Garcia, expected to chair the House Oversight Committee, plans investigations into the Trump family's business dealings and immigration enforcement, among other things; the White House calls them \"sham\" probes[^7].",
+        "Markets took the result calmly. The Dow rose 3% on Wednesday, its best day since April last year, as investors welcomed predictability and falling oil prices[^9]. Exit polls put Trump's approval at 38%, according to CBS[^7].",
+        "What comes next: Republicans choose new House leaders, since Speaker Mike Johnson will not run for minority leader, and Friday brings the October jobs report[^7]. My read: with Trump holding the veto and Democrats holding the budget and investigations, the next two years look more likely to bring standoffs than big new laws."
+      ],
+      "differences": null
+    },
+    {
+      "id": "kyiv-water-abu-dhabi-talks",
+      "heading": "Russian strikes cut Kyiv's water as Ukraine and its partners prepare for Abu Dhabi talks",
+      "date": "2026-11-04",
+      "status": "developing",
+      "summary": "A Russian attack on Ukraine's energy system caused Kyiv's worst water outage of the war, and a strike on an aid centre has killed at least 37.[^11][^14] Ukraine, the US and Europeans met in Brussels before talks with Russia on Nov 10-11.[^12]",
+      "lead": {
+        "title": "Russian strikes cause Kyiv's worst water outage of full-scale war",
+        "outlet": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-strikes-cause-kyivs-worst-water-outage-of-full-scale-war/",
+        "date": "2026-11-04"
+      },
+      "alsoReported": [
+        {
+          "title": "Ukraine, partners coordinate peace efforts ahead of Abu Dhabi talks with Russia",
+          "outlet": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-partners-coordinate-peace-efforts-ahead-of-abu-dhabi-talks-with-russia-2/"
+        },
+        {
+          "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "The Kremlin confirmed on Tuesday that three-way talks between Russia, Ukraine and the United States will take place in Abu Dhabi, in the United Arab Emirates, on November 10 and 11[^9]. Kremlin spokesman Dmitry Peskov said Putin aide Vladimir Medinsky will lead Russia's team[^9]. US envoy Steve Witkoff calls the meeting \"working-level\" and says it will cover post-war security agreements and de-escalation[^9][^11]. He says US negotiators will also meet France, Germany, the UK, the EU and NATO in Brussels this week[^11]. The last US-mediated talks were in February, before the war with Iran began[^9].",
-        "The fighting has not slowed. President Volodymyr Zelenskyy said Russia fired 289 drones, 17 ballistic missiles and 59 cruise missiles in one attack, mostly at energy sites, and that a hospital in Kharkiv was hit, injuring 73[^11]. ANI reports at least 29 dead, and says the toll from Sunday's strike on an aid centre in Komyshuvakha rose to 29 with people still under rubble[^11]. Overnight into Wednesday, Ukraine's air force said Russia launched 310 more drones, 272 of which were shot down or jammed; energy sites in western Ukraine were hit and most of the city of Kovel lost power[^10].",
-        "Zelenskyy linked the timing to US election day: \"The Russians believe that America will not notice this signal\"[^11]. In Berlin on Tuesday, he said a ceasefire could be agreed without a meeting of leaders and proposed stopping strikes on energy as a first step[^10]. Ukraine is asking allies to speed up deliveries of air defence and interceptor missiles[^10].",
-        "Why it matters: winter is close, and attacks on power plants decide whether millions of Ukrainians have heat and light. What next: my read is that Abu Dhabi is a technical meeting, not a peace conference. A useful sign would be something small and checkable, such as an energy truce, rather than a broad deal on borders."
+        "Russia's November 3 attack on Ukraine's energy system, the largest this year, left Kyiv almost entirely without running water, according to the city's water utility; many residents went more than 24 hours without it before the system was stabilized on November 4[^11]. One water expert called it \"the most serious water outage in Kyiv since the war began\"[^11]. Ukraine says Russia launched 310 drones overnight into November 4 and that it shot down 272; energy sites in several regions were hit and emergency power cuts followed[^28].",
+        "In the Zaporizhzhia region, Ukraine's emergency service says 37 people, including two rescuers, were confirmed dead after a November 2 strike on a school used to hand out aid in Komyshuvakha, with dozens still missing[^14]. Ukraine keeps striking Russian oil refineries: the governor of Russia's Ryazan region says more than 200 Ukrainian drones attacked overnight, and verified footage showed a fire at the Ryazan refinery[^13].",
+        "Diplomacy continues alongside the fighting. On November 4 the European Commission hosted Ukraine, the US, Germany, France, the UK, NATO and the World Bank in Brussels to plan for Ukraine's post-war economy[^12]. The first three-way talks between Russia, Ukraine and the US are set for November 10-11 in Abu Dhabi, announced by US envoy Steve Witkoff[^25]. After a call with Witkoff and Jared Kushner, Zelenskyy said security guarantees \"must be ironclad\" and that air defence, especially Patriot interceptors, is a priority[^15].",
+        "Why it matters: attacks on power and water target civilians' ability to get through winter, and Ukraine's refinery strikes target Russia's oil income. Moscow still rejects a full ceasefire and demands that Ukraine give up the Donbas region[^12]. A ceasefire on energy and at sea, prisoner exchanges and the return of children taken to Russia are on the technical agenda for Abu Dhabi[^29]. My read: a limited deal on energy strikes is more realistic than a full peace soon."
       ],
-      "differences": "ANI's report does not make clear whether 29 is the national toll from the latest attack or the Komyshuvakha toll alone; yesterday's brief gave at least 26 for Komyshuvakha, citing the regional governor[^11]."
+      "differences": "Russia's Defence Ministry says it hit a postal terminal near Kharkiv and a cargo ship carrying military equipment off Odesa; Ukraine had not confirmed those strikes[^13]."
     },
     {
-      "id": "israel-results-herzog-consultations",
-      "heading": "Israel certifies its election results as Herzog begins talks on who forms a government",
-      "date": "2026-11-04",
+      "id": "israel-herzog-eisenkot",
+      "heading": "Eisenkot wins more recommendations as Herzog weighs who forms Israel's next government",
+      "date": "2026-11-05",
       "status": "developing",
-      "summary": "Israel's election committee delivered the official results and found no evidence the vote was compromised. Parties now tell President Herzog whom they back; Netanyahu's opponents hold 67 seats but disagree on much.[^12][^13]",
+      "summary": "In talks with President Herzog, more parties backed Gadi Eisenkot than Benjamin Netanyahu to form a government, after the ultra-Orthodox UTJ declined to recommend anyone.[^16][^17] Herzog is due to choose a nominee within days.[^18]",
       "lead": {
-        "title": "Isaac Herzog receives Knesset election results, begins mandate negotiations",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-election-2026/article-913806",
+        "title": "As Herzog consults party heads, Haredi faction says it won't recommend Netanyahu as PM",
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/as-herzog-consults-party-heads-haredi-faction-says-it-wont-recommend-netanyahu-as-pm/",
         "date": "2026-11-04"
       },
       "alsoReported": [
         {
-          "title": "Opposition chiefs meet, agree to launch coalition talks, but path remains unclear",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear/"
+          "title": "As Haredi allies withhold support for Netanyahu, Eisenkot poised to secure most endorsements",
+          "outlet": "Ynetnews",
+          "url": "https://www.ynetnews.com/article/rydawnytgl"
         },
         {
-          "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds"
+          "title": "Israel's Herzog accepts vote results, opens talks on forming a government",
+          "outlet": "Yahoo News (Al Jazeera and AP)",
+          "url": "https://www.yahoo.com/news/world/articles/israel-herzog-accepts-vote-results-015330093.html"
         }
       ],
       "eventId": "gaza",
       "article": [
-        "On Wednesday, Justice Noam Sohlberg, chair of Israel's Central Elections Committee, gave President Isaac Herzog the official results of the October 27 election, saying he found no evidence the vote's integrity had been compromised[^12]. Likud had claimed, without evidence, that Qatar funded Arab turnout, and had tried to delay certification; Sohlberg rejected that[^13]. The result: Prime Minister Benjamin Netanyahu's bloc has 53 of 120 seats, the Jewish opposition parties 48, and the Arab-led parties Ra'am and the Joint List a record 19[^12].",
-        "Now comes the step that decides who gets the first try at forming a government. Herzog meets each party, smallest first, on Wednesday and Thursday, and asks whom they recommend[^12][^14]. Religious Zionism and Shas say they will back Netanyahu, while Avigdor Liberman, Naftali Bennett and Yair Golan say they will back former army chief Gadi Eisenkot[^12]. United Torah Judaism is undecided and may recommend no one[^14]. Herzog must assign the mandate by November 11; the nominee then has 28 days, plus up to 14 more, to win a majority of 61[^14].",
-        "The arithmetic is not simple. With Liberman and both Arab parties, Eisenkot could reach 67 recommendations, but his possible allies range from Liberman's right-wing party to Arab-led parties[^12]. Liberman says a government without the Arab parties is possible but has not said how[^13]. Opposition leaders met on Tuesday, agreed to start coalition talks and plan to replace the Knesset speaker, which could open the way to a state inquiry into the October 7, 2023 attack[^13].",
-        "In Gaza, the truce is a year old but still deadly. Al Jazeera, citing medics, says Israeli strikes killed at least four people on Monday; the Israeli military says it struck Palestinian fighters[^15]. Gaza's Health Ministry counts about 1,600 people killed since the truce began in October 2025[^15][^16]. Nickolay Mladenov, the Board of Peace's high representative, arrived in Israel seeking permission to bring in tents before winter[^15].",
-        "Why it matters: Israel's next government will shape the next phase in Gaza and its part in the Iran war. The possible outcomes include a broad unity government, a minority government, or another election[^12]."
+        "Israel's president, Isaac Herzog, met party leaders on November 4 and 5 to hear whom they recommend to form the next government after the October 27 election[^16][^17]. The certified results gave Prime Minister Benjamin Netanyahu's bloc 53 of the 120 seats, the Jewish opposition bloc led by former army chief Gadi Eisenkot 48, and Arab-led parties a record 19; a government needs 61[^18].",
+        "The biggest surprise came from United Torah Judaism (UTJ), an ultra-Orthodox alliance that has long backed Netanyahu. It recommended no one, and its Degel HaTorah faction said it acted on its rabbis' instructions[^16][^17]. Religious Zionism, Shas and Otzma Yehudit backed Netanyahu, while Yisrael Beytenu, The Democrats, Ra'am and others backed Eisenkot[^16][^17]. Ynet counts 56 seats behind Eisenkot and 46 behind Netanyahu; the Joint List, with 11 seats, had not yet announced its choice[^17].",
+        "Recommending someone is not the same as joining his government. Anadolu notes that if Ra'am and the Joint List both back Eisenkot he would reach 67 recommendations, but that would not mean they sit in his coalition[^26]. Whoever gets the mandate has 28 days, plus up to 14 more, to form a government; if both possible leaders fail, Israel could face another election early next year[^18][^16].",
+        "The elections committee found \"no evidence of irregularities\", rejecting claims from Netanyahu's camp that the vote was stolen[^18]. Herzog said, \"The elections are over. Now is the time to face reality\"[^18]. In Gaza, local officials said at least four people were killed in Israeli strikes on November 3; Israel says it struck militants[^27].",
+        "Why it matters: Israel's next government will shape what happens in Gaza's fragile truce and in the war with Iran. My read: Eisenkot looks likely to get the first chance, but turning recommendations from very different parties into a working coalition will be hard."
       ],
-      "differences": "Likud says the opposition is building a government \"reliant on supporters of terrorism\"; opposition leaders say they want to replace \"the October 7 government\"[^13]. Gaza tolls since the truce differ slightly between reports a day apart: 1,593 (Al Jazeera) and 1,599 (Middle East Monitor), both citing the Health Ministry[^15][^16]."
+      "differences": "Counts differ by method. The Times of Israel and AP put Netanyahu's camp at 53, while Ynet gives 46 because it leaves out UTJ's seven seats, which went to no one[^16][^18][^17]."
     },
     {
-      "id": "us-venezuela-eln-strike",
-      "heading": "US helped Venezuela strike a Colombian rebel camp, US officials tell the New York Times",
+      "id": "brazil-fossil-fuel-roadmap",
+      "heading": "Brazil publishes a voluntary roadmap for phasing out fossil fuels ahead of COP31",
       "date": "2026-11-03",
-      "status": "disputed",
-      "summary": "Four US officials say American intelligence and drones supported Venezuela's Oct 30 strike on an ELN guerrilla camp near the Colombian border. A rights group counts at least 23 dead, including some civilians; there is no official toll.[^17][^18]",
+      "status": "confirmed",
+      "summary": "Brazil, which led last year's UN climate summit, released a voluntary plan for countries to move away from coal, oil and gas, plus a plan to end deforestation by 2030.[^19] It will be discussed at COP31 in Türkiye, which opens Nov 9.[^19]",
       "lead": {
-        "title": "US Said to Help Venezuela Strike Rebel Camp",
-        "outlet": "The Rio Times",
-        "url": "https://www.riotimesonline.com/us-said-to-help-venezuela-strike-rebel-camp/",
+        "title": "'The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f",
         "date": "2026-11-04"
       },
       "alsoReported": [
         {
-          "title": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios",
-          "outlet": "Infobae (The New York Times)",
-          "url": "https://www.infobae.com/america/the-new-york-times/2026/11/04/ee-uu-ayudo-a-venezuela-en-un-ataque-letal-contra-el-eln-segun-funcionarios/"
+          "title": "Brazil Releases Roadmaps to Phase Out Fossil Fuels, End Deforestation",
+          "outlet": "ESG Today",
+          "url": "https://www.esgtoday.com/brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation/"
         }
       ],
       "eventId": null,
       "article": [
-        "Early on October 30, Venezuelan helicopters and drones attacked a camp of the ELN, a Colombian guerrilla group, in Venezuela's Apure state near the border with Colombia[^17]. On Tuesday, The New York Times reported that four US officials, speaking anonymously, said the strike used American intelligence and drones; it is not clear who flew the drones[^18]. The Pentagon referred questions to Venezuela, and Colombia denied any role[^18].",
-        "Some background: the ELN, or National Liberation Army, is a left-wing armed group with about 6,000 fighters that operates on both sides of the border[^18]. Venezuela has been led by acting President Delcy Rodríguez since Nicolás Maduro was removed in January[^17]. The US has also been striking boats it says carry drugs, and the Times counts 244 people killed in those strikes[^18].",
-        "The death toll is disputed. Fundaredes, a Venezuelan rights group, raised its count from 9 to at least 23 and says some of the dead were not fighters, including a woman of about 60[^17][^18]. Other counts range from 8 to 19, and no official toll exists[^17].",
-        "Why it matters: if confirmed, this shows the US working with Venezuela's new leadership against an armed group on land, a step beyond its strikes at sea. My read: questions about civilian deaths and about who oversees such operations are likely to grow, especially as a Democratic Congress gains more power to demand answers."
+        "On November 3, Brazil released what it calls a roadmap for phasing out coal, oil and gas, as the last act of its presidency of COP30, the UN climate summit held in Belém in 2025[^19]. It proposes three phases from 2028 to 2033 in which countries draft plans and change their energy systems, and says cuts in fossil-fuel production must \"match declining demand\"[^19][^20]. Brazil also published a roadmap to end deforestation by 2030[^19].",
+        "Background: at COP28 in Dubai in 2023, nearly 200 countries agreed to transition away from fossil fuels, but the final COP30 deal did not mention them after opposition from some oil producers[^19]. Brazil's team says energy causes about 75% of global greenhouse gas emissions and forest loss about 11%[^20]. The roadmap is voluntary; COP30 president André Corrêa do Lago said, \"We are not suggesting negotiations… The agreements already exist\"[^19].",
+        "Reactions are mixed. COP30 chief executive Ana Toni said \"the transition is inevitable, so start planning now\", while the campaign group 350.org warned the plan must not end up as a report \"gathering dust\"[^19]. The roadmap estimates that money for protecting forests needs to rise from $84.5 billion in 2023 to more than $300 billion a year by 2030[^20].",
+        "What comes next: COP31 runs November 9 to 20 in Antalya, Türkiye, with Australia leading the negotiations, and the roadmap is due for discussion on November 10[^19]. Euronews reports that a new fossil-fuel agreement there is considered unlikely[^19]. UN News notes that clean energy is growing fast, with electric vehicles about one in four new car sales in 2025, but developing economies outside China got only 18% of clean-energy investment[^24]. My read: the roadmap matters less as a rule than as a yardstick countries can be measured against."
       ],
-      "differences": "The US role rests on anonymous US officials quoted by the Times; the Pentagon has not confirmed it[^18]. Death counts range from 8 to at least 23 depending on the source, and some of the dead may have been civilians, according to Fundaredes[^17][^18]."
+      "differences": null
     },
     {
-      "id": "ai-stocks-amd-results",
-      "heading": "Chip stocks rebound and AMD beats forecasts after a week of doubts about the AI boom",
-      "date": "2026-11-03",
+      "id": "ebola-bundibugyo-vaccines",
+      "heading": "WHO adds two vaccines made for the Bundibugyo Ebola strain to its Congo trial",
+      "date": "2026-11-04",
       "status": "confirmed",
-      "summary": "After a sharp sell-off in AI shares, chipmakers led a rebound on Tuesday, and AMD reported revenue up 45% on data-centre demand. A senior Chinese regulator warned that AI investment is \"overly concentrated\".[^19][^20][^23]",
+      "summary": "Two experimental vaccines designed for the Bundibugyo Ebola virus will join a trial in Congo, the first such test during an outbreak of that strain.[^22] The outbreak has killed more than 5,300 people since May.[^21]",
       "lead": {
-        "title": "Nasdaq Bounces as Chips Lead AI Revival: Stock Market Today",
-        "outlet": "Kiplinger",
-        "url": "https://www.kiplinger.com/investing/stocks/nasdaq-bounces-as-chips-lead-ai-revival-stock-market-today",
-        "date": "2026-11-03"
+        "title": "WHO approves trials for two new Ebola vaccines",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+        "date": "2026-11-04"
       },
       "alsoReported": [
         {
-          "title": "AMD beats expectations as agentic AI sparks its data center revenue growth engines",
-          "outlet": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/11/03/amd-beats-expectations-as-agentic-ai-sparks-its-data-center-revenue-growth-engines/"
-        },
-        {
-          "title": "AI investment is becoming overly concentrated, Chinese official says",
-          "outlet": "Investing.com (Reuters)",
-          "url": "https://www.investing.com/news/economy-news/ai-investment-is-becoming-overly-concentrated-chinese-official-says-4993398"
+          "title": "Two new candidate vaccines to join Ebola trial as treatment research advances",
+          "outlet": "World Health Organization",
+          "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
         }
       ],
-      "eventId": "ai-race",
-      "article": [
-        "Shares in AI and chip companies have swung hard. On Friday, October 30, the Nasdaq Composite, a tech-heavy US stock index, fell 2.9%, its worst day in nearly five months, after a weak forecast sent Intel's shares down about 29% and an earnings miss by Alphabet weighed on the sector[^21]. On Tuesday, chips led a partial rebound: the Nasdaq rose 0.8%, Nvidia gained 2.3% and AMD 3.7%[^19].",
-        "After markets closed, AMD reported third-quarter revenue of $13.38 billion, up 45% from a year earlier, with its data-centre business nearly doubling to 64% of sales[^20]. It forecast about $17 billion for the next quarter, above analysts' expectations, and chief executive Lisa Su said Anthropic, OpenAI, Microsoft, Oracle and Meta use its server racks[^20]. Not all the news was good: Apple warned that rising memory-chip costs will squeeze its profit margin[^22].",
-        "Behind the swings is one question: will the huge spending on data centres pay off? Reuters notes investor worry about AI building paid for with debt[^22]. In Hong Kong on Tuesday, Xiao Yuanqi, a vice head of China's financial regulator, said global AI investment is \"overly concentrated\" and crowds out traditional industries by raising their borrowing costs[^23].",
-        "Why it matters, in my read: the AI boom now holds up much of the stock market and a growing share of business investment, so a slowdown would reach savings, jobs and energy demand far beyond tech. Strong sales for chipmakers and doubts about profits for the companies buying the chips can both be true at the same time."
-      ],
-      "differences": "Outlets differ on Intel's Friday drop: about 28.6% (Zacks) or more than 30% (SiliconANGLE)[^21][^20]. They also differ on whether Apple or Nvidia was the most valuable company this week[^19][^22]."
-    },
-    {
-      "id": "barnes-ice-cap-study",
-      "heading": "Study says warming halted a Baffin Island ice cap that had grown for 2,000 years",
-      "date": "2026-11-03",
-      "status": "developing",
-      "summary": "Researchers dating plants at the edge of Nunavut's Barnes Ice Cap say it had been regrowing for about 2,000 years until warming since the 1960s reversed it. The report does not name the journal.[^24]",
-      "lead": {
-        "title": "Human-driven climate change may have halted the onset of a new ice age, according to new study",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/03/study-suggests-human-driven-climate-change-may-have-halted-onset-of-a-new-ice-age",
-        "date": "2026-11-03"
-      },
-      "alsoReported": [],
       "eventId": null,
       "article": [
-        "A team led by Nicolás Young and Joerg Schaefer of Columbia University's Lamont-Doherty Earth Observatory studied the Barnes Ice Cap, about 6,000 square kilometres of ice on Baffin Island in Nunavut and a last remnant of the vast Laurentide ice sheet that once covered much of Canada[^24]. Using carbon-14 dating of plants exposed at the ice's edge, they say the ice cap began growing again about 2,000 years ago and kept growing until about 1960[^24].",
-        "Warming since the 1960s cut that regrowth short, the researchers say, which is why the report frames the finding as human-driven warming possibly halting the slow start of a new ice age[^24]. Canada's summer temperatures have risen about 2.1°C, and the North is warming about three times as fast as the global average[^24].",
-        "Why it matters: it suggests human influence on climate now works on geological time scales, not only on this year's weather. A caution: the Euronews report does not name the journal or say whether the study has been peer-reviewed, and it rests on one ice cap, so my read is that this is an interesting result to watch, not a settled conclusion[^24]."
+        "The World Health Organization said on November 4 that two new candidate vaccines will join a trial in the Democratic Republic of the Congo: one from the University of Oxford and the Serum Institute of India, and an mRNA vaccine from Moderna[^22]. It is the first time vaccines designed specifically against the Bundibugyo strain of Ebola will be tested during an outbreak of it[^22].",
+        "The outbreak, which began in May, has killed more than 5,300 people, most of them in Congo, and Africa CDC reports 10,444 confirmed cases, making it the fastest-growing outbreak in the country's history[^21]. Kenya has reported nine cases and Nigeria one[^21]. The strain kills about half the people it infects, and until now no vaccine or treatment had been made for it; a trial that began last month uses Ervebo, a vaccine approved for a different strain[^21].",
+        "The trial uses ring vaccination: health workers vaccinate the contacts of each confirmed patient to build a protective ring around the case[^22]. It is led by Congo's national biomedical research institute with WHO, Médecins Sans Frontières and Africa CDC, and funded by CEPI, a vaccine-research coalition[^22]. A separate trial is testing treatments, including antibody drugs and the antiviral remdesivir[^22].",
+        "WHO Director-General Tedros Adhanom Ghebreyesus said, \"Vaccines alone will not end this outbreak, but they could become a powerful new tool\"[^22]. He also urged countries to lift travel restrictions that he says \"punish countries for doing the right thing\"[^21]. Why it matters: an outbreak this large tests how fast the world can design, approve and deliver new vaccines, a lesson from COVID-19 now being tested again (my read)."
+      ],
+      "differences": null
+    },
+    {
+      "id": "google-schools-search-ai",
+      "heading": "Google faces backlash over tying Search in schools to its AI tools",
+      "date": "2026-11-04",
+      "status": "developing",
+      "summary": "Google said schools using its education software would lose Search unless they turned on its AI tools, then said after criticism that each can be switched on separately.[^23]",
+      "lead": {
+        "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+        "outlet": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+        "date": "2026-11-04"
+      },
+      "alsoReported": [],
+      "eventId": "ai-race",
+      "article": [
+        "On November 3, Google announced that schools using its K-12 software, which millions of students use on Chromebooks, would lose access to Search unless they opted in to its AI tools[^23]. A Google education executive told the New York Times that \"Search and AI are deeply integrated\"[^23]. After criticism, Google said Gemini, its Notebook tool and Search will each be off by default, and schools can turn them on separately[^23].",
+        "Many educators worry that AI-written answers at the top of search results will discourage students from working problems out for themselves[^23]. Critics went further: Senator Bernie Sanders called the plan \"extortion\", and New York City Mayor Zohran Mamdani said no company should be able to \"dictate how we teach our children\"[^23]. Google says the change gives schools \"more choice, not less\" and that it is building a \"Guided Learning\" mode that walks students through problems instead of just giving answers[^23].",
+        "Background: US courts have found Google broke antitrust laws, the rules that limit how dominant companies use their power[^23]. AI companies are racing to get their tools into classrooms early, since students who learn on one system often keep using it; that is my judgment, not a reported fact.",
+        "Why it matters for you: Ontario schools also use Google tools, though this announcement was about US schools and the report does not mention Canada[^23]. My read: the deeper question is not whether AI is in school, but who decides how it is used: teachers, school boards, or the companies that make the software."
       ],
       "differences": null
     }
   ],
   "question": {
-    "type": "second-order",
-    "text": "Democrats will soon control Congress while Trump keeps the presidency. Beyond which bills pass or fail, what knock-on effects could this split have on the Iran talks, on Canada's trade talks, or on how other countries deal with Washington?"
+    "type": "how-do-we-know",
+    "text": "This week's reports of burning tankers near Hormuz come mostly from Iran's Revolutionary Guards and have not been independently confirmed. What would you need to see before treating such a claim as fact, and why might each side want you to believe its version?"
   },
   "read": {
-    "title": "Democrats retake House majority after 4 years",
-    "outlet": "CBS News",
-    "url": "https://www.cbsnews.com/news/democrats-win-house-majority/",
-    "kind": "news",
+    "title": "COP31 explained: What's at stake at this year's UN climate summit?",
+    "outlet": "UN News",
+    "url": "https://news.un.org/en/story/2026/11/1168735",
+    "kind": "analysis",
     "minutes": 7,
-    "summary": "A clear account of what a Democratic House can actually do from January, from subpoenas and investigations to the priorities its leaders have named, and what it cannot."
+    "summary": "A clear guide to what nearly 200 countries will argue about at COP31 in Antalya from Nov 9: money, adaptation, emissions cuts, and why progress is both real and too slow."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Al Jazeera",
-      "title": "Democrats win Congress: How they did it, and what it means",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean",
-      "date": "2026-11-04",
+      "outlet": "GMA News (Reuters)",
+      "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+      "url": "https://www.gmanetwork.com/news/money/economy/1008333/oil-slumps-after-midterm-election-rebuke-to-trump-raises-bets-on-iran-war-exit/story/",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "PBS NewsHour (AP)",
-      "title": "Democrats take control of the Senate after winning key midterm races",
-      "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "CBS News",
-      "title": "Democrats retake House majority after 4 years",
-      "url": "https://www.cbsnews.com/news/democrats-win-house-majority/",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Yahoo News (The Hill)",
-      "title": "Trump congratulates Democrats after midterm romp",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-congratulates-democrats-midterm-romp-052444448.html",
+      "outlet": "PBS News (AP)",
+      "title": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
+      "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
-      "id": 5,
+      "id": 3,
       "outlet": "Al Jazeera",
       "title": "Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes",
       "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
@@ -274,163 +255,211 @@
       "singleSource": false
     },
     {
+      "id": 4,
+      "outlet": "Arab News (Reuters)",
+      "title": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz",
+      "url": "https://www.arabnews.com/middle-east/irans-irgc-says-two-tankers-and-tugboat-caught-fire-in-strait-of-hormuz-3009888",
+      "date": "2026-11-05",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "Gulf News (live updates)",
+      "title": "Trump weighs Iran strikes or deal after midterm loss as Vance urges agreement, Qatar mediates; Brent oil falls to $93",
+      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+      "date": "2026-11-05",
+      "singleSource": false
+    },
+    {
       "id": 6,
-      "outlet": "KSL (AP)",
-      "title": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
-      "url": "https://www.ksl.com/article/51643291/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "CBS News",
-      "title": "Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "The National",
-      "title": "Oil prices fluctuate after US strikes on Iran's Qeshm Island",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/03/oil-prices-cross-105-after-us-strikes-on-irans-qeshm-island/",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "Al-Monitor (Reuters)",
-      "title": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
-      "url": "https://www.al-monitor.com/originals/2026/11/kremlin-confirms-trilateral-ukraine-peace-talks-abu-dhabi-next-week",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 10,
-      "outlet": "Kyiv Post",
-      "title": "Russia Attacks Ukraine With 310 Drones, Striking Energy Sites and Infrastructure",
-      "url": "https://www.kyivpost.com/post/89068",
+      "outlet": "ABC News",
+      "title": "Trump says he was 'a little bit surprised' after Democrats' big win in midterms",
+      "url": "https://abcnews.com/Politics/trump-bit-surprised-after-democrats-big-win-midterms/story?id=137835787",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
+      "id": 7,
+      "outlet": "CBS News (live updates)",
+      "title": "2026 House midterm election results as Democrats capture majority with major wins",
+      "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Al Jazeera",
+      "title": "Democratic Party gains US House majority in 2026 midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "Investing.com (Reuters)",
+      "title": "Trading Day: Oil tanks, stocks leap on US midterms",
+      "url": "https://www.investing.com/news/economy-news/trading-day-oil-tanks-stocks-leap-on-us-midterms-5001616",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "WLRN (NPR)",
+      "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-11-05/does-the-blue-wave-mean-lower-gasoline-and-diesel-prices-soon-dont-hold-your-breath",
+      "date": "2026-11-05",
+      "singleSource": false
+    },
+    {
       "id": 11,
-      "outlet": "ANI",
-      "title": "Russia launches massive overnight attack on Ukraine, killing 29; Zelenskyy urges US to step up support",
-      "url": "https://aninews.in/news/world/europe/russia-launches-massive-overnight-attack-on-ukraine-killing-29-zelenskyy-urges-us-to-step-up-support20261103145237/",
-      "date": "2026-11-03",
+      "outlet": "The Kyiv Independent",
+      "title": "Russian strikes cause Kyiv's worst water outage of full-scale war",
+      "url": "https://kyivindependent.com/russian-strikes-cause-kyivs-worst-water-outage-of-full-scale-war/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "The Jerusalem Post",
-      "title": "Isaac Herzog receives Knesset election results, begins mandate negotiations",
-      "url": "https://www.jpost.com/israel-election-2026/article-913806",
+      "outlet": "The Kyiv Independent",
+      "title": "Ukraine, partners coordinate peace efforts ahead of Abu Dhabi talks with Russia",
+      "url": "https://kyivindependent.com/ukraine-partners-coordinate-peace-efforts-ahead-of-abu-dhabi-talks-with-russia-2/",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "The Times of Israel",
-      "title": "Opposition chiefs meet, agree to launch coalition talks, but path remains unclear",
-      "url": "https://www.timesofisrael.com/opposition-chiefs-meet-agree-to-launch-coalition-talks-but-path-remains-unclear/",
-      "date": "2026-11-03",
+      "outlet": "Al Jazeera",
+      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Ynet",
-      "title": "Israel's coalition consultations: The move pressuring undecided parties as support for Eisenkot grows",
-      "url": "https://www.ynetnews.com/article/hy3hwbiagx",
-      "date": "2026-11-02",
+      "outlet": "The Kyiv Independent",
+      "title": "Death toll from Russian attack on Komyshuvakha rises to 37 as search operation enters 3rd day",
+      "url": "https://kyivindependent.com/death-toll-from-russian-attack-on-komyshuvakha-rises-to-37-as-search-operation-enters-3rd-day/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 15,
-      "outlet": "Al Jazeera",
-      "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds",
-      "date": "2026-11-03",
+      "outlet": "The Kyiv Independent",
+      "title": "'Security guarantees must be ironclad' — Zelensky speaks to Trump's envoys ahead of trilateral peace talks",
+      "url": "https://kyivindependent.com/security-guarantees-must-be-ironclad-zelensky-speaks-to-trumps-envoys-ahead-of-trilateral-peace-talks/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 16,
-      "outlet": "Middle East Monitor",
-      "title": "3 Palestinians killed in Israeli attacks amid Gaza ceasefire violations",
-      "url": "https://www.middleeastmonitor.com/20261103-3-palestinians-killed-in-israeli-attacks-amid-gaza-ceasefire-violations/",
-      "date": "2026-11-03",
+      "outlet": "The Times of Israel",
+      "title": "As Herzog consults party heads, Haredi faction says it won't recommend Netanyahu as PM",
+      "url": "https://www.timesofisrael.com/as-herzog-consults-party-heads-haredi-faction-says-it-wont-recommend-netanyahu-as-pm/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 17,
-      "outlet": "The Rio Times",
-      "title": "US Said to Help Venezuela Strike Rebel Camp",
-      "url": "https://www.riotimesonline.com/us-said-to-help-venezuela-strike-rebel-camp/",
-      "date": "2026-11-04",
+      "outlet": "Ynetnews",
+      "title": "As Haredi allies withhold support for Netanyahu, Eisenkot poised to secure most endorsements",
+      "url": "https://www.ynetnews.com/article/rydawnytgl",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 18,
-      "outlet": "Infobae (The New York Times)",
-      "title": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios",
-      "url": "https://www.infobae.com/america/the-new-york-times/2026/11/04/ee-uu-ayudo-a-venezuela-en-un-ataque-letal-contra-el-eln-segun-funcionarios/",
-      "date": "2026-11-04",
-      "singleSource": true
+      "outlet": "Yahoo News (Al Jazeera and AP)",
+      "title": "Israel's Herzog accepts vote results, opens talks on forming a government",
+      "url": "https://www.yahoo.com/news/world/articles/israel-herzog-accepts-vote-results-015330093.html",
+      "date": "2026-11-05",
+      "singleSource": false
     },
     {
       "id": 19,
-      "outlet": "Kiplinger",
-      "title": "Nasdaq Bounces as Chips Lead AI Revival: Stock Market Today",
-      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-bounces-as-chips-lead-ai-revival-stock-market-today",
-      "date": "2026-11-03",
+      "outlet": "Euronews",
+      "title": "'The transition is inevitable': Brazil releases first global roadmap for phasing out fossil fuels",
+      "url": "https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 20,
-      "outlet": "SiliconANGLE",
-      "title": "AMD beats expectations as agentic AI sparks its data center revenue growth engines",
-      "url": "https://siliconangle.com/2026/11/03/amd-beats-expectations-as-agentic-ai-sparks-its-data-center-revenue-growth-engines/",
-      "date": "2026-11-03",
+      "outlet": "ESG Today",
+      "title": "Brazil Releases Roadmaps to Phase Out Fossil Fuels, End Deforestation",
+      "url": "https://www.esgtoday.com/brazil-launches-roadmaps-to-phase-out-fossil-fuels-end-deforestation/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 21,
-      "outlet": "Yahoo Finance (Zacks)",
-      "title": "Stock Market News for Nov 2, 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html",
-      "date": "2026-11-02",
+      "outlet": "Al Jazeera",
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 22,
-      "outlet": "Yahoo Finance (Reuters)",
-      "title": "US stock futures mixed as Apple slides, midterms loom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-apple-104958801.html",
-      "date": "2026-11-03",
+      "outlet": "World Health Organization",
+      "title": "Two new candidate vaccines to join Ebola trial as treatment research advances",
+      "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 23,
-      "outlet": "Investing.com (Reuters)",
-      "title": "AI investment is becoming overly concentrated, Chinese official says",
-      "url": "https://www.investing.com/news/economy-news/ai-investment-is-becoming-overly-concentrated-chinese-official-says-4993398",
-      "date": "2026-11-03",
+      "outlet": "TechCrunch",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "date": "2026-11-04",
       "singleSource": true
     },
     {
       "id": 24,
-      "outlet": "Euronews",
-      "title": "Human-driven climate change may have halted the onset of a new ice age, according to new study",
-      "url": "https://www.euronews.com/2026/11/03/study-suggests-human-driven-climate-change-may-have-halted-onset-of-a-new-ice-age",
-      "date": "2026-11-03",
-      "singleSource": true
+      "outlet": "UN News",
+      "title": "COP31 explained: What's at stake at this year's UN climate summit?",
+      "url": "https://news.un.org/en/story/2026/11/1168735",
+      "date": "2026-11-04",
+      "singleSource": false
     },
     {
       "id": 25,
-      "outlet": "Al Jazeera",
-      "title": "Democratic Party gains US House majority in 2026 midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
+      "outlet": "Meduza",
+      "title": "Trilateral talks between Russia, Ukraine and US set for November 10–11 in Abu Dhabi",
+      "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi",
+      "date": "2026-11-03",
+      "singleSource": false
+    },
+    {
+      "id": 26,
+      "outlet": "Anadolu Agency",
+      "title": "Netanyahu, Eisenkot draw rival endorsements as Herzog opens Israel's government talks",
+      "url": "https://www.aa.com.tr/en/middle-east/netanyahu-eisenkot-draw-rival-endorsements-as-herzog-opens-israel-s-government-talks/4111985",
       "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 27,
+      "outlet": "Dawn (agencies)",
+      "title": "Four killed in Israeli strikes on Gaza Strip",
+      "url": "https://www.dawn.com/news/2041990/four-killed-in-israeli-strikes-on-gaza-strip",
+      "date": "2026-11-04",
+      "singleSource": true
+    },
+    {
+      "id": 28,
+      "outlet": "The Kyiv Independent",
+      "title": "Russian attacks kill 6, injure 50 across Ukraine over past day, as energy facilities targeted in multiple regions",
+      "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-50-across-ukraine-over-past-day-as-energy-facilities-targeted-in-multiple-regions/",
+      "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 29,
+      "outlet": "The Kyiv Independent",
+      "title": "Zelensky expects trilateral peace talks in Abu Dhabi by Nov. 10, but no firm date set",
+      "url": "https://kyivindependent.com/zelensky-expects-trilateral-peace-talks-in-abu-dhabi-by-nov-10-but-no-firm-date-set/",
+      "date": "2026-10-28",
       "singleSource": false
     }
   ]

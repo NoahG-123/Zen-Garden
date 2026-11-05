@@ -1,83 +1,83 @@
 {
-  "date": "2026-11-04",
-  "summary": "DeepSeek reportedly plans to train its next model on Huawei chips, Alibaba's chairman pitches open-source AI at Wuzhen, and a Jiangsu county builds a fake-nail industry.",
+  "date": "2026-11-05",
+  "summary": "Apple starts testing AI on Chinese iPhones using Alibaba's Qwen, Tencent launches a new flagship model, and young shoppers build apps to talk themselves out of Double 11 buys.",
   "body": [
-    "DeepSeek, the Hangzhou AI company, reportedly plans to train its next major model, V5, on Huawei's Ascend chips. The report comes from STAR Market Daily, a Chinese financial outlet, as relayed by TechNode, which could not confirm it [^1]. Until now, Huawei chips have mainly run DeepSeek's finished models, not the much heavier work of training new ones [^1]. If true, it is a real test of whether China can build top AI without American chips, which US export rules restrict. DeepSeek also released a prototype coding agent that watches developer group chats and suggests fixes unprompted; Digital Trends calls it \"a prototype, not proof\" that DeepSeek has passed US rivals [^2].",
-    "At the World Internet Conference in Wuzhen, Alibaba chairman Joe Tsai argued that open-source AI, models anyone can download and adapt, is the path to wide use, unlike the closed approach of many US firms [^3][^4]. Chinese state media says about 1,800 delegates from 138 countries and regions attended [^5]. A note of caution came from Hong Kong: Xiao Yuanqi, a vice head of China's financial regulator, warned that global AI investment is \"overly concentrated\" and raises borrowing costs for traditional industries [^6].",
-    "Daily life: Sixth Tone reports from Donghai County in Jiangsu, where online selling networks built for the crystal trade grew into a press-on nail industry with nearly 25,000 businesses by 2024, according to a local industry association [^7]. Workers paid by the piece earn 3,000 to 4,000 yuan (about US$450 to $600) a month, some shops livestream until 3 a.m. for overseas buyers, and one wholesaler estimates six or seven of every ten newcomers go out of business [^7]. My read: it is a small picture of China's export economy, fast and cheap, with very thin margins."
+    "Apple Intelligence, Apple's set of AI features, is finally coming to iPhones in mainland China. Testing for registered developers began on November 4, with a public launch planned for December with iOS 27.3[^1][^2]. Because AI services in China need government approval, Alibaba's Qwen model powers the features there, and cloud requests go to Alibaba's servers rather than Apple's[^1][^2]. China's internet regulator approved the launch in July; Tech Times reports that the approval test checks the model refuses prompts on about 2,000 banned topics, a detail we could not confirm elsewhere[^2].",
+    "Tencent released Hy4, its new flagship AI model, on November 4[^3][^4]. Early reports differ on one point: one calls it open-weight, meaning anyone can download and run it, while another quotes Tencent saying the weights will follow \"in the coming days\"[^3][^4]. Electric-car makers posted mixed October numbers: BYD delivered 483,125 cars and Xpeng a record 50,237, but the China Passenger Car Association estimates overall retail car sales fell sharply from a year earlier[^5][^6].",
+    "Daily life: ahead of Double 11 (November 11), China's biggest online shopping festival, dozens of small WeChat and Alipay apps now let users post what is in their cart so friends or strangers can vote on whether to buy it, Sixth Tone reports[^7]. One 20-year-old student who built such an app says it saved her over 80 yuan in a week[^7]. An Accenture report cited by Sixth Tone found 82% of China's Gen Z were saving or cutting non-essential spending[^7]. My read: careful spending by young people is one reason China's government finds it hard to boost consumption."
   ],
   "differences": null,
   "reads": [
     {
-      "title": "Inside the Chinese County Selling $2 Nails to the World",
+      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019198/inside-the-chinese-county-selling-%242-nails-to-the-world",
+      "url": "https://www.sixthtone.com/news/1019220",
       "kind": "news",
-      "summary": "A look inside a Jiangsu county's press-on nail boom: piece-rate work, late-night livestreams and fierce competition."
+      "summary": "How young Chinese shoppers are using small apps and strangers' votes to resist impulse buying before the year's biggest sale."
     },
     {
-      "title": "DeepSeek reportedly plans to train V5 model on Huawei Ascend chips",
-      "outlet": "TechNode",
-      "url": "https://technode.com/2026/11/04/deepseek-reportedly-plans-to-train-v5-model-on-huawei-ascend-chips/",
+      "title": "Chinese iPhone Users Can Test Apple Intelligence Starting Tuesday: Here Is What They Are Opting Into",
+      "outlet": "Tech Times",
+      "url": "https://www.techtimes.com/articles/329871/20261102/chinese-iphone-users-can-test-apple-intelligence-starting-tuesday-here-what-they-are-opting.htm",
       "kind": "news",
-      "summary": "A short report on why training, not just running, AI models on Chinese chips would be a milestone, and what is still unconfirmed."
+      "summary": "What Chinese iPhone users get with Apple's AI, why Alibaba runs it, and the approvals it needed."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "TechNode",
-      "title": "DeepSeek reportedly plans to train V5 model on Huawei Ascend chips",
-      "url": "https://technode.com/2026/11/04/deepseek-reportedly-plans-to-train-v5-model-on-huawei-ascend-chips/",
-      "date": "2026-11-04",
-      "singleSource": true
+      "outlet": "36Kr Europe (iFanr)",
+      "title": "Official Launch of AI Features for China-Market iPhones: Qwen Becomes Siri's New Partner",
+      "url": "https://eu.36kr.com/en/p/4051767251735430",
+      "date": "2026-11-02",
+      "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Digital Trends",
-      "title": "DeepSeek wants to steal Claude Code and Codex's lunch with an AI Super Agent that does not wait around",
-      "url": "https://www.digitaltrends.com/computing/deepseek-wants-to-steal-claude-code-and-codexs-lunch-with-an-ai-agent-that-does-not-wait-around/",
-      "date": "2026-11-01",
+      "outlet": "Tech Times",
+      "title": "Chinese iPhone Users Can Test Apple Intelligence Starting Tuesday: Here Is What They Are Opting Into",
+      "url": "https://www.techtimes.com/articles/329871/20261102/chinese-iphone-users-can-test-apple-intelligence-starting-tuesday-here-what-they-are-opting.htm",
+      "date": "2026-11-02",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Seoul Economic Daily",
-      "title": "Alibaba Chairman Pushes Open-Source AI, Countering U.S. Closed Approach",
-      "url": "https://en.sedaily.com/international/2026/11/04/alibaba-chairman-pushes-open-source-ai-countering-us-closed",
+      "outlet": "AIFOD (Emergent)",
+      "title": "Tencent Releases 770B Open-Weight Hy4 With Computer-Use Skills",
+      "url": "https://af.net/realtime/tencent-releases-770b-open-weight-hy4-with-computer-use-skills/",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Dataconomy",
-      "title": "Alibaba's Tsai calls open source AI's only sustainable path",
-      "url": "https://dataconomy.com/2026/11/03/alibabas-tsai-calls-open-source-ais-only-sustainable-path/",
-      "date": "2026-11-03",
+      "outlet": "SiliconSnark",
+      "title": "Tencent Gives Hy4 Eyes. The Open Weights Are Still in Shipping.",
+      "url": "https://www.siliconsnark.com/tencent-gives-hy4-eyes-the-open-weights-are-still-in-shipping/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Xinhua (Chinese state media)",
-      "title": "China Focus: World Internet Conference Wuzhen Summit opens with shared vision of open, inclusive AI",
-      "url": "https://english.news.cn/20261104/f51322fd74844de79e762d9e16464a58/c.html",
-      "date": "2026-11-04",
-      "singleSource": true
+      "outlet": "CarNewsChina",
+      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
+      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/",
+      "date": "2026-11-02",
+      "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Investing.com (Reuters)",
-      "title": "AI investment is becoming overly concentrated, Chinese official says",
-      "url": "https://www.investing.com/news/economy-news/ai-investment-is-becoming-overly-concentrated-chinese-official-says-4993398",
-      "date": "2026-11-03",
-      "singleSource": true
+      "outlet": "ChinaEVHome",
+      "title": "October 2026 China EV Snapshot: Delivery Breakdown Across Major NEV Brands",
+      "url": "https://chinaevhome.com/2026/11/02/october-2026-china-ev-snapshot-delivery-breakdown-across-major-nev-brands/",
+      "date": "2026-11-02",
+      "singleSource": false
     },
     {
       "id": 7,
       "outlet": "Sixth Tone",
-      "title": "Inside the Chinese County Selling $2 Nails to the World",
-      "url": "https://www.sixthtone.com/news/1019198/inside-the-chinese-county-selling-%242-nails-to-the-world",
-      "date": "2026-11-03",
+      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
+      "url": "https://www.sixthtone.com/news/1019220",
+      "date": "2026-11-05",
       "singleSource": true
     }
   ]

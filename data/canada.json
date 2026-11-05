@@ -1,100 +1,84 @@
 {
-  "date": "2026-11-04",
-  "summary": "The day after Democrats won the US Congress, Canada waits for Thursday's budget, the Bank of Canada explains its rate hike, and Ontario keeps an OSAP audit secret.",
+  "date": "2026-11-05",
+  "summary": "Budget day: Champagne tables Budget 2026 this afternoon with deep deficits expected, Ottawa says the US vote won't change its trade plan, and Ontario students walk out.",
   "body": [
-    "Democrats won control of both the US Senate and House in Tuesday's midterms, and Canada's trade fight was on the ballot in places[^1]. In Maine, which buys about $4.1 billion a year from Canada, Democrat Troy Jackson beat Senator Susan Collins after a race that featured tariffs; in Michigan, the Republican candidate distanced himself from Trump's tariffs[^2][^1]. Prime Minister Mark Carney says talks with Washington are \"more intense\" but \"we haven't finished\"[^2].",
-    "Finance Minister François-Philippe Champagne tables the federal budget on Thursday. He says it is about \"regaining our ability to build\", aiming for $1 trillion in private investment over five years, helped by a business tax deduction expected to cost about $36 billion over five years[^4]. His other priorities: new trade partners, Canadian industry, much higher defence spending and affordability[^5]. On Tuesday, Bank of Canada Governor Tiff Macklem told MPs the bank raised its key rate to 2.5%, its first increase since July 2023, as war-driven oil prices push inflation to near 3%[^6]. He said government spending and fighting inflation are not \"at odds\"[^7].",
-    "For students: Ontario's Colleges and Universities Minister Nolan Quinn will not publish the KPMG audit of OSAP student aid at private career colleges, citing confidentiality; its early findings went to the OPP[^8]. The PC majority on a legislature committee voted down a Liberal motion for an auditor general probe, and NDP Leader Marit Stiles said the government is trying \"to sweep things under the carpet\"[^8]. The schools in court filings deny wrongdoing[^8]. The province also told Toronto, which faces a $1.1-billion shortfall in 2027, that more money is not coming \"right now\"[^9]."
+    "Finance Minister François-Philippe Champagne tables the federal budget this afternoon. He says it will give Canada a \"strong footing\" in a volatile world, and that running deficits to help workers hurt by US tariffs is \"the right thing to do\"[^1]. Analysts expect deep deficits, slightly smaller than the $65.3 billion forecast in the spring; the Parliamentary Budget Officer, Parliament's independent fiscal watchdog, projects $63.3 billion this year[^2][^3]. The Liberals hold a majority, so the budget is expected to pass[^3].",
+    "Conservative Leader Pierre Poilievre wants Prime Minister Mark Carney to cut spending and keep his promised \"debt anchors\", and is asking for a pause on federal diesel taxes and the GST on fuel[^4]. Trade Minister Dominic LeBlanc says Tuesday's US midterm results \"won't divert\" Canada's plan to find new trade partners, and that talks with Washington are productive[^5].",
+    "For students: the Canadian Federation of Students–Ontario, an advocacy group, has called walkouts on more than 15 campuses today against a 2% tuition increase and OSAP changes that make at least 75% of student aid loans rather than grants[^7]. And Premier Doug Ford said there is \"no 2.0\" New Deal for Toronto, telling the city it must handle its own budget[^6]."
   ],
-  "differences": "Analysts disagree on whether a Democratic Congress helps Canada. Asa McKercher says Congress could \"reassert its control\" over tariffs and strengthen Canada's hand, though Trump might \"lash out\"; Nicolas Schmitt says Canada \"should not count on\" a quick fix[^3].",
+  "differences": "The Liberals say they are a year ahead on their goal of balancing day-to-day spending by 2027-28. The budget officer doubts it, and economists at Desjardins and the C.D. Howe Institute warn deficits could get worse once high oil prices fade[^2][^4].",
   "reads": [
     {
-      "title": "Maine elects Democratic senator after race that featured Canada-U.S. trade war",
-      "outlet": "CP24 (The Canadian Press)",
-      "url": "https://www.cp24.com/news/money/2026/11/04/maine-elects-democratic-senator-after-race-that-featured-canada-us-trade-war/",
-      "kind": "news",
-      "summary": "How heating oil, road salt and lumber made Canada a campaign issue in Maine, and what Carney says about the trade talks."
+      "title": "Here's what fiscal hawks are watching out for in Budget 2026",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/04/heres-what-fiscal-hawks-are-watching-out-for-in-budget-2026/",
+      "kind": "analysis",
+      "summary": "What economists will look for in today's budget: deficit size, the government's own targets, and why oil prices flatter the numbers."
     },
     {
-      "title": "U.S. midterm results could affect Trump's approach to Canada. Here's what Canadians need to know",
-      "outlet": "Yahoo News Canada",
-      "url": "https://ca.news.yahoo.com/us-midterm-results-could-affect-trumps-approach-to-canada-heres-what-canadians-need-to-know-170738439.html",
-      "kind": "analysis",
-      "summary": "Two Canadian experts disagree on how much a new Congress can change US tariffs on Canada."
+      "title": "Here's what you need to know as the Liberals prepare to table Budget 2026",
+      "outlet": "650 CKOM (The Canadian Press)",
+      "url": "https://www.ckom.com/2026/11/05/heres-what-you-need-to-know-as-the-liberals-prepare-to-table-budget-2026/",
+      "kind": "news",
+      "summary": "A short guide to Budget 2026: the business tax deduction, immigration levels, debt costs and the opposition's case."
     }
   ],
   "sources": [
     {
       "id": 1,
       "outlet": "CP24 (The Canadian Press)",
-      "title": "Blue wave crashes over American politics in midterm that rebukes Trump policies",
-      "url": "https://www.cp24.com/news/world/2026/11/04/blue-wave-crashes-over-american-politics-in-midterm-that-rebukes-trump-policies/",
+      "title": "Budget 2026 is about giving Canada a 'strong footing': Champagne",
+      "url": "https://www.cp24.com/politics/2026/11/04/budget-2026-is-about-giving-canada-a-strong-footing-champagne/",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Maine elects Democratic senator after race that featured Canada-U.S. trade war",
-      "url": "https://www.cp24.com/news/money/2026/11/04/maine-elects-democratic-senator-after-race-that-featured-canada-us-trade-war/",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "Here's what fiscal hawks are watching out for in Budget 2026",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/04/heres-what-fiscal-hawks-are-watching-out-for-in-budget-2026/",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Yahoo News Canada",
-      "title": "U.S. midterm results could affect Trump's approach to Canada. Here's what Canadians need to know",
-      "url": "https://ca.news.yahoo.com/us-midterm-results-could-affect-trumps-approach-to-canada-heres-what-canadians-need-to-know-170738439.html",
-      "date": "2026-11-03",
+      "outlet": "650 CKOM (The Canadian Press)",
+      "title": "Here's what you need to know as the Liberals prepare to table Budget 2026",
+      "url": "https://www.ckom.com/2026/11/05/heres-what-you-need-to-know-as-the-liberals-prepare-to-table-budget-2026/",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Champagne gives a preview of what to expect in federal budget",
-      "url": "https://www.cp24.com/news/canada/2026/11/02/federal-budget-is-about-changing-canadas-growth-model-finance-minister-says/",
-      "date": "2026-11-02",
+      "outlet": "Global News",
+      "title": "Ahead of budget, Poilievre urges Carney to end diesel taxes and cut spending",
+      "url": "https://globalnews.ca/news/12129175/conservatives-budget-asks-deficit/",
+      "date": "2026-11-03",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Global News",
-      "title": "Budget 2026 is about 'us,' not the U.S. trade war, finance minister says",
-      "url": "https://globalnews.ca/news/12129875/budget-2026-about-us-not-trade-war-champagne/",
-      "date": "2026-11-02",
+      "outlet": "BNN Bloomberg (The Canadian Press)",
+      "title": "LeBlanc says U.S. midterm results won't change Ottawa's plans to diversify trade",
+      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/04/leblanc-says-us-midterm-results-wont-change-ottawas-plans-to-diversify-trade/",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Bank of Canada",
-      "title": "Opening Statement before the House of Commons Standing Committee on Finance",
-      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-house-commons-standing-committee-finance-2026-11-03/",
-      "date": "2026-11-03",
-      "singleSource": false
+      "outlet": "CP24",
+      "title": "Doug Ford says there's 'no 2.0' New Deal for Toronto",
+      "url": "https://www.cp24.com/local/toronto/2026/11/04/doug-ford-says-theres-no-20-new-deal-for-toronto/",
+      "date": "2026-11-04",
+      "singleSource": true
     },
     {
       "id": 7,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "Fiscal and monetary policy are not at odds, Bank of Canada's Macklem tells MPs",
-      "url": "https://www.bnnbloomberg.ca/business/2026/11/03/fiscal-and-monetary-policy-are-not-at-odds-bank-of-canadas-macklem-tells-mps/",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "Yahoo News Canada (The Canadian Press)",
-      "title": "Ontario won't make career college OSAP audit public, minister says",
-      "url": "https://ca.news.yahoo.com/ontario-wont-career-college-osap-184239980.html",
-      "date": "2026-11-03",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "Global News",
-      "title": "'Always expecting more': Ford government pushes back against Toronto's new deal bid",
-      "url": "https://globalnews.ca/news/12135017/always-expecting-more-ford-government-pushes-back-against-torontos-new-deal-bid/",
-      "date": "2026-11-03",
-      "singleSource": false
+      "outlet": "GlobeNewswire (CFS-Ontario release)",
+      "title": "Students in Ontario prepare to walk out of classes and rally against attacks on postsecondary education",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395739/0/en/students-in-ontario-prepare-to-walk-out-of-classes-and-rally-against-attacks-on-postsecondary-education.html",
+      "date": "2026-11-04",
+      "singleSource": true
     }
   ]
 }
