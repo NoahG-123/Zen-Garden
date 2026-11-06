@@ -1,84 +1,100 @@
 {
-  "date": "2026-11-05",
-  "summary": "Budget day: Champagne tables Budget 2026 this afternoon with deep deficits expected, Ottawa says the US vote won't change its trade plan, and Ontario students walk out.",
+  "date": "2026-11-06",
+  "summary": "Budget 2026 adds $142 billion in new measures and keeps deficits above $50 billion a year, Ottawa says US trade talks are improving, and Ontario students walked out.",
   "body": [
-    "Finance Minister François-Philippe Champagne tables the federal budget this afternoon. He says it will give Canada a \"strong footing\" in a volatile world, and that running deficits to help workers hurt by US tariffs is \"the right thing to do\"[^1]. Analysts expect deep deficits, slightly smaller than the $65.3 billion forecast in the spring; the Parliamentary Budget Officer, Parliament's independent fiscal watchdog, projects $63.3 billion this year[^2][^3]. The Liberals hold a majority, so the budget is expected to pass[^3].",
-    "Conservative Leader Pierre Poilievre wants Prime Minister Mark Carney to cut spending and keep his promised \"debt anchors\", and is asking for a pause on federal diesel taxes and the GST on fuel[^4]. Trade Minister Dominic LeBlanc says Tuesday's US midterm results \"won't divert\" Canada's plan to find new trade partners, and that talks with Washington are productive[^5].",
-    "For students: the Canadian Federation of Students–Ontario, an advocacy group, has called walkouts on more than 15 campuses today against a 2% tuition increase and OSAP changes that make at least 75% of student aid loans rather than grants[^7]. And Premier Doug Ford said there is \"no 2.0\" New Deal for Toronto, telling the city it must handle its own budget[^6]."
+    "Finance Minister François-Philippe Champagne tabled Budget 2026 on Thursday. It adds $142.1 billion in new measures over five years, partly paid for by stronger-than-expected revenue[^1][^2]. The deficit this year is $62.3 billion, about $3 billion less than forecast in the spring, and stays above $50 billion every year to 2030-31[^2][^6]. Debt stays near 40% of GDP, but interest on it costs $60.2 billion this year, more than Ottawa sends provinces for health care[^6][^2]. The biggest item is a business tax deduction meant to attract investment; there is also $3.5 billion for workers hurt by US tariffs, a one-time grocery benefit boost of up to $339 for a single person, and more defence spending[^3][^4][^5].",
+    "For students: the budget promises 175,000 youth work and skills placements in 2026-27 and a goal of up to 100,000 new Red Seal trades workers[^5]. Tuition and OSAP are provincial, and on Thursday students at more than a dozen Ontario campuses walked out over Ontario's cut to the grant share of student aid, from up to 85% to 25%, and tuition rises of up to 2% a year[^8]. The province says it is adding $6.4 billion for colleges and universities[^8].",
+    "Prime Minister Mark Carney says US negotiators have dropped demands on Canadian culture and on Canada's other trade deals: \"They're asking less, and they're offering more, but we're not quite there\"[^7]. The Liberals hold a majority, so the budget is expected to pass; Conservative Leader Pierre Poilievre has moved to reject it[^1]. October jobs figures come out this morning[^9]."
   ],
-  "differences": "The Liberals say they are a year ahead on their goal of balancing day-to-day spending by 2027-28. The budget officer doubts it, and economists at Desjardins and the C.D. Howe Institute warn deficits could get worse once high oil prices fade[^2][^4].",
+  "differences": "The government says its fiscal anchors are met: the operating budget balances a year early and debt-to-GDP is \"broadly stable\"[^1]. Poilievre calls it a \"credit card budget\"; economists from Desjardins and Queen's University warn that debt costs are rising and that the plan relies on optimistic revenue[^1][^2][^3]. The NDP says it favours corporations, and the Bloc says it costs Quebec revenue[^1].",
   "reads": [
     {
-      "title": "Here's what fiscal hawks are watching out for in Budget 2026",
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/04/heres-what-fiscal-hawks-are-watching-out-for-in-budget-2026/",
+      "title": "Carney's 'ambitious' but 'risky' budget eyes investment in uncertain world",
+      "outlet": "Global News",
+      "url": "https://globalnews.ca/news/12138651/budget-2026-mark-carney/",
       "kind": "analysis",
-      "summary": "What economists will look for in today's budget: deficit size, the government's own targets, and why oil prices flatter the numbers."
+      "summary": "A balanced look at Budget 2026's big bet on business investment, with economists on why it could work and why it is risky."
     },
     {
-      "title": "Here's what you need to know as the Liberals prepare to table Budget 2026",
-      "outlet": "650 CKOM (The Canadian Press)",
-      "url": "https://www.ckom.com/2026/11/05/heres-what-you-need-to-know-as-the-liberals-prepare-to-table-budget-2026/",
+      "title": "Carney says U.S. has dropped culture and third-country demands as Democrats' midterm sweep stirs tariff-relief hopes",
+      "outlet": "The Hub",
+      "url": "https://thehub.ca/2026/11/05/carney-says-u-s-has-dropped-culture-and-third-country-demands-as-democrats-midterm-sweep-stirs-tariff-relief-hopes/",
       "kind": "news",
-      "summary": "A short guide to Budget 2026: the business tax deduction, immigration levels, debt costs and the opposition's case."
+      "summary": "Where Canada-US trade talks stand, what the US midterms can and cannot change, and why autos remain the hard part."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Budget 2026 is about giving Canada a 'strong footing': Champagne",
-      "url": "https://www.cp24.com/politics/2026/11/04/budget-2026-is-about-giving-canada-a-strong-footing-champagne/",
-      "date": "2026-11-04",
+      "outlet": "Kelowna Daily Courier (The Canadian Press)",
+      "title": "Budget 2026: Liberals pin tax changes, billions in spending on 'economic sovereignty'",
+      "url": "https://www.kelownadailycourier.ca/news/national_news/article_4994f10f-0690-58e5-9d63-209950f2fba0.html",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "Here's what fiscal hawks are watching out for in Budget 2026",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/04/heres-what-fiscal-hawks-are-watching-out-for-in-budget-2026/",
-      "date": "2026-11-04",
+      "outlet": "CP24 (CTV News)",
+      "title": "Carney government adds $142B in new spending to spur economic growth, address affordability",
+      "url": "https://www.cp24.com/news/canada/2026/11/05/carney-government-adds-142b-in-new-spending-to-spur-economic-growth-address-affordability/",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "650 CKOM (The Canadian Press)",
-      "title": "Here's what you need to know as the Liberals prepare to table Budget 2026",
-      "url": "https://www.ckom.com/2026/11/05/heres-what-you-need-to-know-as-the-liberals-prepare-to-table-budget-2026/",
+      "outlet": "Global News",
+      "title": "Carney's 'ambitious' but 'risky' budget eyes investment in uncertain world",
+      "url": "https://globalnews.ca/news/12138651/budget-2026-mark-carney/",
       "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Global News",
-      "title": "Ahead of budget, Poilievre urges Carney to end diesel taxes and cut spending",
-      "url": "https://globalnews.ca/news/12129175/conservatives-budget-asks-deficit/",
-      "date": "2026-11-03",
+      "outlet": "Department of Finance Canada",
+      "title": "Budget 2026: Key Measures",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "LeBlanc says U.S. midterm results won't change Ottawa's plans to diversify trade",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/04/leblanc-says-us-midterm-results-wont-change-ottawas-plans-to-diversify-trade/",
-      "date": "2026-11-04",
+      "outlet": "Government of Canada",
+      "title": "Budget 2026: Budget in brief",
+      "url": "https://budget.canada.ca/2026/report-rapport/brief-bref-en.html",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "CP24",
-      "title": "Doug Ford says there's 'no 2.0' New Deal for Toronto",
-      "url": "https://www.cp24.com/local/toronto/2026/11/04/doug-ford-says-theres-no-20-new-deal-for-toronto/",
-      "date": "2026-11-04",
-      "singleSource": true
+      "outlet": "Government of Canada",
+      "title": "Budget 2026, Annex 1: Details of economic and fiscal projections",
+      "url": "https://budget.canada.ca/2026/report-rapport/anx1-en.html",
+      "date": "2026-11-05",
+      "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "GlobeNewswire (CFS-Ontario release)",
-      "title": "Students in Ontario prepare to walk out of classes and rally against attacks on postsecondary education",
-      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395739/0/en/students-in-ontario-prepare-to-walk-out-of-classes-and-rally-against-attacks-on-postsecondary-education.html",
-      "date": "2026-11-04",
+      "outlet": "The Hub",
+      "title": "Carney says U.S. has dropped culture and third-country demands as Democrats' midterm sweep stirs tariff-relief hopes",
+      "url": "https://thehub.ca/2026/11/05/carney-says-u-s-has-dropped-culture-and-third-country-demands-as-democrats-midterm-sweep-stirs-tariff-relief-hopes/",
+      "date": "2026-11-05",
       "singleSource": true
+    },
+    {
+      "id": 8,
+      "outlet": "Yahoo News Canada (CBC)",
+      "title": "Post-secondary students across Ontario walk out of classrooms to protest OSAP changes, tuition hike",
+      "url": "https://ca.news.yahoo.com/post-secondary-students-across-ontario-191528470.html",
+      "date": "2026-11-05",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "paNOW (The Canadian Press)",
+      "title": "Statistics Canada to release October labour force survey numbers today",
+      "url": "https://panow.com/2026/11/06/statistics-canada-to-release-october-labour-force-survey-numbers-today/",
+      "date": "2026-11-06",
+      "singleSource": false
     }
   ]
 }

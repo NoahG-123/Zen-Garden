@@ -1,82 +1,82 @@
 {
-  "date": "2026-11-05",
-  "summary": "Apple starts testing AI on Chinese iPhones using Alibaba's Qwen, Tencent launches a new flagship model, and young shoppers build apps to talk themselves out of Double 11 buys.",
+  "date": "2026-11-06",
+  "summary": "Nvidia chips pile up in Hong Kong as Beijing slows imports and DeepSeek reportedly turns to Huawei; shoppers save before Double 11; AI-made short dramas boom.",
   "body": [
-    "Apple Intelligence, Apple's set of AI features, is finally coming to iPhones in mainland China. Testing for registered developers began on November 4, with a public launch planned for December with iOS 27.3[^1][^2]. Because AI services in China need government approval, Alibaba's Qwen model powers the features there, and cloud requests go to Alibaba's servers rather than Apple's[^1][^2]. China's internet regulator approved the launch in July; Tech Times reports that the approval test checks the model refuses prompts on about 2,000 banned topics, a detail we could not confirm elsewhere[^2].",
-    "Tencent released Hy4, its new flagship AI model, on November 4[^3][^4]. Early reports differ on one point: one calls it open-weight, meaning anyone can download and run it, while another quotes Tencent saying the weights will follow \"in the coming days\"[^3][^4]. Electric-car makers posted mixed October numbers: BYD delivered 483,125 cars and Xpeng a record 50,237, but the China Passenger Car Association estimates overall retail car sales fell sharply from a year earlier[^5][^6].",
-    "Daily life: ahead of Double 11 (November 11), China's biggest online shopping festival, dozens of small WeChat and Alipay apps now let users post what is in their cart so friends or strangers can vote on whether to buy it, Sixth Tone reports[^7]. One 20-year-old student who built such an app says it saved her over 80 yuan in a week[^7]. An Accenture report cited by Sixth Tone found 82% of China's Gen Z were saving or cutting non-essential spending[^7]. My read: careful spending by young people is one reason China's government finds it hard to boost consumption."
+    "About 600,000 Nvidia H200 AI chips are waiting in Hong Kong because Beijing has not approved large imports into mainland China, Reuters reports, citing people familiar with the matter[^1]. Only some have been let in, and an eight-chip H200 server now sells in China for over 6 million yuan (about US$900,000), roughly three times last year's price[^1]. Reports say China wants its companies to run AI on Chinese chips instead[^1][^2]. In the same direction, DeepSeek, the Chinese AI lab, reportedly plans to train its next model, V5, on Huawei's Ascend chips, according to unnamed industry sources; neither company has confirmed it[^3][^4]. My read: Beijing is accepting slower AI progress now in exchange for less dependence on US technology later.",
+    "Many shoppers are holding back before Double 11 (November 11), China's biggest online sale. Retail sales grew just 1.1% in the first three quarters, and second-hand home prices in 100 cities fell 6.7% from a year earlier in October[^5]. Instead of spending, many families are paying off mortgages early: staff at three state banks in Shanghai say early repayments are above 2 billion yuan a month at each bank, against about 100 million three years ago[^5]. Spending on services is growing faster than spending on goods[^6].",
+    "Daily life: short dramas, series of one- or two-minute vertical episodes watched on phones, are booming. China's TV regulator says nearly 550,000 were released in the first ten months of 2026, about 17 times last year's total, and Caixin reports most new releases were made with AI[^7]. ByteDance's short-drama app Hongguo reached 430 million users in September[^7]."
   ],
-  "differences": null,
+  "differences": "Only one outlet, DIGITIMES, says DeepSeek's training on Huawei chips would happen in 2027 on the Ascend 950; the original report, carried by TechNode, gave no timeline[^3][^4].",
   "reads": [
     {
-      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019220",
-      "kind": "news",
-      "summary": "How young Chinese shoppers are using small apps and strangers' votes to resist impulse buying before the year's biggest sale."
+      "title": "Startups recalibrate Chinese AI for the West",
+      "outlet": "Rest of World",
+      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/",
+      "kind": "analysis",
+      "summary": "Why Western startups are building on free Chinese AI models, and how they retune them to remove censorship."
     },
     {
-      "title": "Chinese iPhone Users Can Test Apple Intelligence Starting Tuesday: Here Is What They Are Opting Into",
-      "outlet": "Tech Times",
-      "url": "https://www.techtimes.com/articles/329871/20261102/chinese-iphone-users-can-test-apple-intelligence-starting-tuesday-here-what-they-are-opting.htm",
+      "title": "Why are Chinese consumers tuning out of annual online shopping festival?",
+      "outlet": "The Korea Times (SCMP)",
+      "url": "https://www.koreatimes.co.kr/world/20261105/why-are-chinese-consumers-tuning-out-of-annual-online-shopping-festival",
       "kind": "news",
-      "summary": "What Chinese iPhone users get with Apple's AI, why Alibaba runs it, and the approvals it needed."
+      "summary": "Falling home prices, slow wage growth and early mortgage repayments explain why many Chinese shoppers are skipping Double 11."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "36Kr Europe (iFanr)",
-      "title": "Official Launch of AI Features for China-Market iPhones: Qwen Becomes Siri's New Partner",
-      "url": "https://eu.36kr.com/en/p/4051767251735430",
-      "date": "2026-11-02",
-      "singleSource": false
+      "outlet": "Lufkin Daily News (Reuters)",
+      "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
+      "url": "https://www.lufkindailynews.com/news_reuters/business/exclusive-nvidia-chips-pile-up-in-hong-kong-as-china-withholds-import-approval/article_34a11941-bd07-58cb-adcd-e9bf7af9cab4.html",
+      "date": "2026-11-05",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "Tech Times",
-      "title": "Chinese iPhone Users Can Test Apple Intelligence Starting Tuesday: Here Is What They Are Opting Into",
-      "url": "https://www.techtimes.com/articles/329871/20261102/chinese-iphone-users-can-test-apple-intelligence-starting-tuesday-here-what-they-are-opting.htm",
-      "date": "2026-11-02",
+      "outlet": "The Next Web",
+      "title": "Nvidia H200 chips pile up in Hong Kong as Beijing holds back, Reuters says",
+      "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval",
+      "date": "2026-11-06",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "AIFOD (Emergent)",
-      "title": "Tencent Releases 770B Open-Weight Hy4 With Computer-Use Skills",
-      "url": "https://af.net/realtime/tencent-releases-770b-open-weight-hy4-with-computer-use-skills/",
+      "outlet": "TechNode",
+      "title": "DeepSeek reportedly plans to train V5 model on Huawei Ascend chips",
+      "url": "https://technode.com/2026/11/04/deepseek-reportedly-plans-to-train-v5-model-on-huawei-ascend-chips/",
       "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "SiliconSnark",
-      "title": "Tencent Gives Hy4 Eyes. The Open Weights Are Still in Shipping.",
-      "url": "https://www.siliconsnark.com/tencent-gives-hy4-eyes-the-open-weights-are-still-in-shipping/",
+      "outlet": "DIGITIMES",
+      "title": "DeepSeek V5 reportedly targets Huawei Ascend 950 training in 2027, a crucial test for a Chinese alternative to Nvidia",
+      "url": "https://digitimes.com/news/a20261104VL213/deepseek-training-ascend-huawei-nvidia.html",
       "date": "2026-11-04",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "CarNewsChina",
-      "title": "China EV sales in October: BYD 483,125, Geely 214,996, Leapmotor 106,127, Xpeng 50,237",
-      "url": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/",
-      "date": "2026-11-02",
+      "outlet": "The Korea Times (SCMP)",
+      "title": "Why are Chinese consumers tuning out of annual online shopping festival?",
+      "url": "https://www.koreatimes.co.kr/world/20261105/why-are-chinese-consumers-tuning-out-of-annual-online-shopping-festival",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "ChinaEVHome",
-      "title": "October 2026 China EV Snapshot: Delivery Breakdown Across Major NEV Brands",
-      "url": "https://chinaevhome.com/2026/11/02/october-2026-china-ev-snapshot-delivery-breakdown-across-major-nev-brands/",
-      "date": "2026-11-02",
+      "outlet": "Seoul Economic Daily",
+      "title": "Chinese Shoppers Skip Singles' Day to Pay Down Debt",
+      "url": "https://en.sedaily.com/international/2026/11/05/chinese-shoppers-skip-singles-day-to-pay-down-debt",
+      "date": "2026-11-05",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Sixth Tone",
-      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
-      "url": "https://www.sixthtone.com/news/1019220",
+      "outlet": "Caixin Global",
+      "title": "China's Short Drama Boom Puts TV Show Creators on the Defensive",
+      "url": "https://www.caixinglobal.com/2026-11-05/chinas-short-drama-boom-puts-tv-show-creators-on-the-defensive-102501384.html",
       "date": "2026-11-05",
       "singleSource": true
     }
