@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-06",
+  "reviewed": "2026-11-07",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's Revolutionary Guards say three more tankers were damaged near Hormuz on Nov 5 (unverified), and Brent rose 3.9% to $98.29 a day after its 8.7% fall.[^175][^176] Iran's security chief told Putin Iran will not reopen the strait or negotiate until its conditions are met.[^177] Two Reuters sources think new US strikes are still likely; Qatar keeps mediating.[^175]",
+      "standing": "Trump confirmed small US strikes on Iran's Qeshm Island on Nov 6, the first since the US vote; Iran says it downed a US drone and that two tankers hit mines (unverified).[^189] Qatar says its mediation has made \"significant progress\".[^190] Brent settled near $98 after a 13% weekly fall, the biggest since 2022.[^191]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -16,15 +16,15 @@
       "watch": [
         {
           "date": "2026-11-09",
-          "what": "Possible restart of direct US-Iran talks under a Qatari draft (\"within days\", no date set)"
+          "what": "Possible restart of direct US-Iran talks under a Qatari draft (no date set)"
+        },
+        {
+          "date": "2026-11-09",
+          "what": "G7 foreign ministers meet in Paris on Nov 9-10; Iran and Hormuz expected on the agenda"
         },
         {
           "date": "2026-11-09",
           "what": "COP31 climate summit opens in Antalya; oil prices and energy security will hang over it"
-        },
-        {
-          "date": "2026-11-10",
-          "what": "CNN reports a possible House impeachment vote on Defence Secretary Hegseth as soon as next week"
         }
       ],
       "connects": [
@@ -164,7 +164,10 @@
         160,
         175,
         176,
-        177
+        177,
+        189,
+        190,
+        191
       ]
     },
     {
@@ -173,7 +176,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Ukraine, the US and European partners met at NATO headquarters on Nov 4-5 on reconstruction, 2027 funding and security guarantees.[^178] The first three-way US-Ukraine-Russia talks since February are set for Abu Dhabi on Nov 10-11. Kyiv's water was disrupted again on Nov 5, and Zelensky says the Komyshuvakha strike killed 43.[^179] Both sides keep striking energy sites, including Russian refineries.[^178]",
+      "standing": "Overnight into Nov 7, Russia fired 172 drones and 36 ballistic missiles, hitting substations linking nuclear plants to Kyiv, Zelensky says.[^192] The first US-Ukraine-Russia talks since February are set for Abu Dhabi on Nov 10-11; Moscow's team is led by Vladimir Medinsky.[^193] Both sides keep striking energy sites, including Russian refineries.[^178]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -323,7 +326,9 @@
         163,
         164,
         178,
-        179
+        179,
+        192,
+        193
       ]
     },
     {
@@ -332,7 +337,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Herzog's consultations ended Nov 5: parties with 67 seats recommended Gadi Eisenkot and 46 recommended Netanyahu; UTJ recommended no one.[^180] Herzog will name who first tries to form a government on Nov 8, and says he must judge whether a coalition can actually be built.[^180] In Gaza, Al Jazeera reports at least four killed in Israeli strikes on Nov 5.[^181]",
+      "standing": "Parties with 67 seats recommended Gadi Eisenkot and 46 recommended Netanyahu; Herzog names who first tries to form a government on Nov 8 and has floated a unity government.[^180][^199] The new Knesset is sworn in Nov 10. Gaza's civil defence says five people were killed on Nov 5; Gaza's health ministry says over 1,600 have died since the truce began.[^198]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -473,7 +478,9 @@
         166,
         167,
         180,
-        181
+        181,
+        198,
+        199
       ]
     },
     {
@@ -482,17 +489,13 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats lead 253-155 in called House races with 27 uncalled, and hold 54 Senate seats; Alaska and Mississippi are still counting (AP, Nov 5).[^182] Speaker Johnson will not seek the Republican leader post.[^183] Stocks fell sharply on Nov 5, with the S&P 500 down 4.4%.[^184] Government funding runs out Dec 11, which gives Congress leverage over the Iran war.[^188] The Fed held at 3.75-4% on Oct 28.[^127]",
+      "standing": "Democrats had 253 House seats to 157 with 25 uncalled, and 54 Senate seats with independents (AP count, Nov 6).[^196] Employers added 165,000 jobs in October and unemployment fell to 4.1%, raising odds of a December Fed hike to about 77%.[^194] Stocks steadied on Nov 6 after the Nov 5 sell-off.[^195] Government funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
         "unlikely": "A quick return to low inflation and falling rates before the end of 2026, given the Fed's own projections and continued oil-supply risks."
       },
       "watch": [
-        {
-          "date": "2026-11-06",
-          "what": "October jobs report; forecasts are for weak hiring of about 50,000 to 65,000"
-        },
         {
           "date": "2026-11-18",
           "what": "House leadership elections; Alaska's ranked-choice Senate count can begin"
@@ -633,7 +636,10 @@
         182,
         183,
         184,
-        188
+        188,
+        194,
+        195,
+        196
       ]
     },
     {
@@ -642,7 +648,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Chip and AI stocks crashed on Nov 5: the chip index fell about 12%, and Euronews says S&P 500 firms lost a record $2.9 trillion, as investors feared the new Congress and local bans would slow data centres.[^184][^187] Voters backed nearly every local data-centre limit on the ballot.[^185] About 600,000 Nvidia H200 chips sit in Hong Kong awaiting Beijing's approval.[^186]",
+      "standing": "Chip stocks rebounded about 4% on Nov 6 after their Nov 5 crash, driven by fears the new Congress and local bans would slow data centres.[^195][^187] OpenAI released GPT-6 Cyber to vetted security firms, its first model rated \"Critical\" for cyber risk.[^197] About 600,000 Nvidia H200 chips sit in Hong Kong awaiting Beijing's approval.[^186]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -798,7 +804,9 @@
         184,
         185,
         186,
-        187
+        187,
+        195,
+        197
       ]
     }
   ],
@@ -2327,6 +2335,94 @@
       "title": "Can Democrats stop Iran war, reverse Trump's tariffs after midterms win?",
       "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win",
       "date": "2026-11-04",
+      "singleSource": false
+    },
+    {
+      "id": 189,
+      "outlet": "Al Jazeera (AP)",
+      "title": "Trump confirms new US strikes on Iran's Qeshm Island",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 190,
+      "outlet": "Business Recorder (Reuters)",
+      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+      "url": "https://www.brecorder.com/news/40447895/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 191,
+      "outlet": "Rigzone (Bloomberg)",
+      "title": "Oil Posts Biggest Weekly Drop Since 2022",
+      "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 192,
+      "outlet": "Interfax-Ukraine",
+      "title": "Russia attacks substations linking Rivne, Khmelnytsky NPPs to Kyiv, central regions – Zelenskyy",
+      "url": "https://en.interfax.com.ua/news/general/1232773.html",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 193,
+      "outlet": "Jerusalem Post (Reuters)",
+      "title": "Russia names delegation for Abu Dhabi talks on Ukraine",
+      "url": "https://www.jpost.com/international/article-914121",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 194,
+      "outlet": "InvestmentNews",
+      "title": "October jobs report beats forecasts, lifting December Fed hike odds",
+      "url": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 195,
+      "outlet": "Business Standard (Reuters)",
+      "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
+      "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 196,
+      "outlet": "Anadolu Agency",
+      "title": "Democrats expand US House majority to 253 seats as midterm vote count continues",
+      "url": "https://www.aa.com.tr/en/americas/democrats-expand-us-house-majority-to-253-seats-as-midterm-vote-count-continues/4113982",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 197,
+      "outlet": "The Register",
+      "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+      "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "date": "2026-11-05",
+      "singleSource": true
+    },
+    {
+      "id": 198,
+      "outlet": "The New Arab (AFP)",
+      "title": "Israel kills five in Gaza, including child",
+      "url": "https://www.newarab.com/news/israel-kills-five-gaza-including-child",
+      "date": "2026-11-05",
+      "singleSource": false
+    },
+    {
+      "id": 199,
+      "outlet": "Al Jazeera",
+      "title": "Israel's President Herzog to name candidate to form government on Sunday",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
+      "date": "2026-11-06",
       "singleSource": false
     }
   ]

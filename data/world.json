@@ -1,399 +1,382 @@
 {
-  "date": "2026-11-06",
-  "summary": "AI and chip stocks plunge after voters turn on data centres, oil rebounds on new Hormuz attacks, Israel waits for Herzog, Ukraine heads to talks, and a record-warm October.",
+  "date": "2026-11-07",
+  "summary": "The US strikes an Iranian island as Qatar reports progress, Russia hits Ukraine's grid before talks, US hiring surprises, Paraguay ousts its president, and COP31 opens.",
+  "question": {
+    "type": "how-do-we-know",
+    "text": "Iran says tankers hit mines and US drones were shot down; the US says little or calls some reports invented. When the only sources for an event are the two sides fighting, what would you need to see before you believed either claim?"
+  },
+  "read": {
+    "title": "Russia's land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
+    "kind": "analysis",
+    "minutes": 7,
+    "summary": "Before the Abu Dhabi talks: how slowing Russian gains, Ukraine's strikes on refineries and Russia's fuel exports shape each side's bargaining power."
+  },
+  "weeklyRead": null,
   "topics": [
     {
-      "id": "ai-chip-stocks-plunge",
-      "heading": "AI and chip stocks plunge worldwide as voters turn against data centres",
-      "date": "2026-11-05",
+      "id": "us-strikes-qeshm-qatar-talks",
+      "heading": "US strikes Iran's Qeshm Island as Qatar reports progress in talks",
+      "date": "2026-11-06",
       "status": "developing",
-      "summary": "US stocks had one of their worst days in years on Thursday, led by a 12% fall in chipmakers, and Asian markets fell further on Friday.[^1][^2] Investors fear the new Democratic Congress and local voters will slow the building of AI data centres.[^4]",
+      "summary": "President Trump confirmed what he called minor US strikes on Iranian air defences on Qeshm Island in the Strait of Hormuz, the first since the US election.[^1] A day later Qatar said its mediation had made significant progress, as oil ended its biggest weekly fall since 2022.[^2][^4]",
       "lead": {
-        "title": "Global stock rout deepens as AI data centre fears fuel worst US chip sell-off since 2020",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/06/global-stock-rout-deepens-as-ai-data-centre-fears-fuel-worst-us-chip-sell-off-since-2020",
-        "date": "2026-11-06"
+        "title": "Trump confirms new US strikes on Iran's Qeshm Island",
+        "outlet": "Al Jazeera (AP)",
+        "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+        "date": "2026-11-07"
       },
       "alsoReported": [
         {
-          "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
-          "outlet": "Fox Business",
-          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+          "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+          "outlet": "Business Recorder (Reuters)",
+          "url": "https://www.brecorder.com/news/40447895/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation"
         },
         {
-          "title": "Why Democrats' win in US midterms could spell trouble for the AI boom",
-          "outlet": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/us-midterms-elections-2026-trump-democrats-republicans-data-centres-stocks-126110600691_1.html"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "On Thursday the S&P 500, an index of 500 large US companies, fell 4.36% and the tech-heavy Nasdaq fell 5.52%, its worst day since April 2025[^2]. The Philadelphia Semiconductor Index, which tracks chipmakers, fell about 12%; Nvidia lost about 9% and memory-chip makers such as Micron fell about 17%[^2][^3]. Euronews reports S&P 500 companies lost a record $2.9 trillion in value in one day[^1]. On Friday Japan's Nikkei fell about 6% and South Korea briefly halted trading after a drop of almost 9%[^6][^1].",
-        "The trigger was Tuesday's midterm elections. Electricity prices became a campaign issue, and data centres, the huge buildings full of computers that train and run AI, were on the ballot in at least 40 places; voters backed almost every proposal to halt or restrict them, according to a Guardian count cited by Business Standard[^4]. In Ohio, all 13 town bans on the ballot looked set to pass in early results[^5]. Senator Bernie Sanders called for a national pause on new data centres, and Texas's governor-elect said she would stop approvals until residents are protected[^4].",
-        "Why it matters: for two years, much of the stock market's rise has rested on companies spending hundreds of billions of dollars on AI buildings and chips. If voters and lawmakers slow that building, the expected profits shrink. One fund manager told Reuters it \"feels like the capitulation phase\", meaning investors giving up, for those stocks[^2].",
-        "My read: a one-day fall, even a record one, does not tell us the AI boom is over. Laws take time, and a Democratic Congress cannot override a veto without Republican votes. But the vote showed something new: AI's physical costs, such as power and land, have become a local political issue. Watch Nvidia's results on November 17 and whether the selling continues next week."
-      ],
-      "differences": "Outlets measure the loss differently: Euronews says S&P 500 companies lost a record $2.9 trillion, while a Reuters column calls the chip index fall its second-biggest on record and Euronews calls it the biggest since 2020[^1][^3]. President Trump blamed the Democrats' win; analysts also point to higher borrowing costs and the Iran war[^1][^2]."
-    },
-    {
-      "id": "hormuz-tankers-oil-rebounds",
-      "heading": "Iran says more tankers hit near Hormuz; oil rebounds as Trump weighs his next step",
-      "date": "2026-11-05",
-      "status": "developing",
-      "summary": "Iran's Revolutionary Guards say three more tankers were damaged near the Strait of Hormuz, and Brent crude rose 3.9% to $98.29.[^7][^8] Iran told Russia it will not reopen the strait or negotiate until its conditions are met, while Qatar keeps mediating.[^10]",
-      "lead": {
-        "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote",
-        "outlet": "BOE Report (Reuters)",
-        "url": "https://boereport.com/2026/11/05/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote/",
-        "date": "2026-11-05"
-      },
-      "alsoReported": [
-        {
-          "title": "Iran's security chief meets Putin, delivers message from Khamenei",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei"
-        },
-        {
-          "title": "Iran's top diplomat speaks with Gulf leaders about tensions, and other Mideast news",
-          "outlet": "WCCB (AP)",
-          "url": "https://www.wccbcharlotte.com/2026/11/05/irans-top-diplomat-speaks-with-gulf-leaders-about-tensions-and-other-mideast-news/"
+          "title": "Oil Posts Biggest Weekly Drop Since 2022",
+          "outlet": "Rigzone (Bloomberg)",
+          "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Iran's Revolutionary Guards (IRGC) said three more tankers were damaged in the Strait of Hormuz on Thursday, two by sea mines and one by fire; the ships were not named and the claim has not been independently confirmed[^7][^9]. The UK's maritime security agency logged at least five incidents since Sunday and says 35 ships were hit in October, the most in any month of the war, which began on February 28[^7].",
-        "Oil reacted fast. A day after Brent crude, the global benchmark, fell more than 8% on hopes of a deal, it rose $3.67, or 3.9%, to settle at $98.29 a barrel[^8]. The consulting firm Eurasia Group now gives a 60% chance of renewed US strikes, 10% for a deal and 30% for a continued standoff, and says escalation could push Brent to $110 to $125[^8].",
-        "In Moscow, Iran's security chief Mohsen Rezaei handed President Putin a letter from Supreme Leader Mojtaba Khamenei. Rezaei said Iran \"will neither open the Strait of Hormuz nor have negotiations\" with the US until its seven conditions are met; Putin said Russia is ready to help end the war[^10]. Iran's foreign minister also called Gulf neighbours, and Qatar's statement stressed freedom of navigation[^9][^10].",
-        "In Washington, Vice President JD Vance has blamed the war for the midterm defeat[^7]. Trump said late Thursday he would soon decide whether to widen the war, saying the US might have to \"destroy the rest of the country\" though he would rather not[^11]. Two Reuters sources think new strikes are still likely[^7]. Qatar's draft plan for three days of confidence-building steps has no meeting date yet[^11]. My read: both sides are testing whether the US vote changed the other's position, and the strait stays dangerous meanwhile."
+        "On Friday, Iranian state media reported two missile strikes on Qeshm, an Iranian island in the Strait of Hormuz, the narrow sea lane that normally carries about a fifth of the world's oil. Trump confirmed them, describing a quick hit on an anti-aircraft system, and said of Iran: \"They want to make a deal.\"[^1] Iranian media said its air defences shot down a US drone; the US military called the area \"relatively calm\" and gave no more detail.[^1]",
+        "At sea, Iran's Revolutionary Guards said two tankers hit mines and caught fire on what they called unauthorised routes, and blamed the US for encouraging those ships to sail.[^3] No independent body has confirmed this, and Trump has accused Iran of inventing incidents.[^1] Iran has not shipped oil for export since mid-August because of the US naval blockade of its ports.[^3]",
+        "On Saturday, Qatar's prime minister said the US still wants a solution after the midterms and that \"significant progress\" has been made, adding that the goal is a good agreement, not a perfect one.[^2] Iran's plan, which Trump rejected in September, asks the US to lift the blockade, release frozen Iranian money and accept an Iranian-backed shipping route through Hormuz.[^2]",
+        "Markets are betting on calm. Brent crude, the global benchmark, settled near $98 a barrel on Friday after falling about 13% over the week, its biggest weekly drop since 2022, helped by Saudi and UAE exports returning to pre-war levels.[^4][^20] My read: small strikes alongside public talk of a deal look like pressure tactics on both sides. The thing to watch is whether direct US-Iran talks restart, or whether the larger US forces the New York Times reports are ready are used instead.[^1]"
       ],
-      "differences": "Accounts of Thursday's incidents differ: Reuters reports the IRGC saying two ships hit mines and one caught fire, while AP reports Iranian state TV saying two tankers and a towboat caught fire; AP could not verify it[^7][^9]. Iran says it needs the US blockade and sanctions lifted first; a senior Iranian official says the sides remain far apart[^7][^11]."
+      "differences": "Iran says US drones were shot down and tankers were hit by mines; the US military gave few details, and Trump says Iran fabricates some incidents.[^1][^3] Iranian media earlier claimed five tankers and a tug were hit on Nov 5, which no maritime authority confirmed.[^1] Outlets put the oil drop for the week at about 12% to 13%.[^4][^20]"
     },
     {
-      "id": "eisenkot-67-recommendations",
-      "heading": "Eisenkot wins 67 recommendations; Herzog will name Israel's next PM candidate Sunday",
-      "date": "2026-11-05",
-      "status": "developing",
-      "summary": "Parties with 67 of the Knesset's 120 seats recommended Gadi Eisenkot as prime minister, against 46 for Benjamin Netanyahu.[^12] President Herzog will decide on Sunday who gets the first chance to form a government.[^12][^13]",
+      "id": "russia-strikes-grid-before-abu-dhabi",
+      "heading": "Russia strikes Ukraine's power grid three days before Abu Dhabi talks",
+      "date": "2026-11-07",
+      "status": "confirmed",
+      "summary": "Overnight, Russia fired 172 drones and 36 ballistic missiles at Ukraine, hitting substations that link nuclear plants to Kyiv, Ukraine's president says.[^5] Moscow has named its team for US-Ukraine-Russia talks in Abu Dhabi on Nov 10-11.[^7]",
       "lead": {
-        "title": "As Eisenkot wins 67 nods to be PM, Herzog says he'll announce mandate decision on Sunday",
-        "outlet": "Times of Israel",
-        "url": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/",
-        "date": "2026-11-05"
+        "title": "Russia launches missile attack on Kyiv, injuring residents",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents",
+        "date": "2026-11-07"
       },
       "alsoReported": [
         {
-          "title": "Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday",
-          "outlet": "Ynet",
-          "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+          "title": "Russia attacks substations linking Rivne, Khmelnytsky NPPs to Kyiv, central regions – Zelenskyy",
+          "outlet": "Interfax-Ukraine",
+          "url": "https://en.interfax.com.ua/news/general/1232773.html"
         },
         {
-          "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "After Israel's election, the president meets every party and asks whom they recommend as prime minister, then gives one person the first chance, called the mandate, to build a coalition with a majority of the Knesset, Israel's 120-seat parliament. Those talks ended on Thursday: parties with 67 seats backed Gadi Eisenkot, a former army chief who leads the Yashar party, and parties with 46 backed Netanyahu[^12].",
-        "Eisenkot's backers include centre and left parties, Avigdor Liberman's right-wing Yisrael Beytenu, and two Arab-led parties, Ra'am and the Joint List[^13]. The ultra-Orthodox United Torah Judaism (7 seats) recommended no one, a blow to Netanyahu, who has relied on it[^12][^13]. Herzog called the result \"clear\" but said he must judge whether a government can actually be formed, and will announce his choice on Sunday, November 8[^12][^13]. The new Knesset is sworn in on November 10[^12].",
-        "A recommendation is not a coalition. A Times of Israel analysis says only 48 of the 67 are firm allies: Liberman rules out relying on Arab parties, and UTJ's demand to keep army-service exemptions for ultra-Orthodox men clashes with Eisenkot's camp[^15]. Netanyahu's Likud warns against a government that depends on Arab parties[^13].",
-        "In Gaza, where a ceasefire has held unevenly since October 2025, Al Jazeera reports at least four people killed in Israeli strikes on Thursday. Gaza's Health Ministry, run by Hamas, says 1,602 people have been killed since the ceasefire began[^14]. My read: who leads Israel's next government will shape the next phase of the Gaza plan, so Sunday's decision matters well beyond Israel."
-      ],
-      "differences": "Likud argues a government relying on Arab-led parties would be illegitimate; Eisenkot's camp says 67 recommendations is the clearest result since 2015 and rules out a unity government with Netanyahu[^12][^13]."
-    },
-    {
-      "id": "ukraine-brussels-abu-dhabi",
-      "heading": "Ukraine and partners meet in Brussels as three-way talks with Russia near",
-      "date": "2026-11-05",
-      "status": "developing",
-      "summary": "Ukraine, the US and European partners met at NATO headquarters on reconstruction and security guarantees, ahead of US-Ukraine-Russia talks in Abu Dhabi on November 10-11.[^16][^17] Strikes continued on both sides, and Kyiv's water was disrupted again.[^18]",
-      "lead": {
-        "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels",
-        "outlet": "ClickOrlando (AP)",
-        "url": "https://www.clickorlando.com/business/2026/11/05/russia-and-ukraine-trade-airstrikes-as-reconstruction-and-security-talks-resume-in-brussels/",
-        "date": "2026-11-05"
-      },
-      "alsoReported": [
-        {
-          "title": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks",
-          "outlet": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-water-supply-disrupted-after-power-fluctuations-due-to-russian-attacks/"
-        },
-        {
-          "title": "Zelensky Holds 90-Minute Discussion With US Envoys Witkoff, Kushner",
-          "outlet": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/89174"
+          "title": "Russia names delegation for Abu Dhabi talks on Ukraine",
+          "outlet": "Jerusalem Post (Reuters)",
+          "url": "https://www.jpost.com/international/article-914121"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On November 4-5, Ukraine met the US, UK, France, Germany, the EU and NATO in Brussels to discuss rebuilding the country, funding for 2027 and security guarantees, meaning promises from other countries to help defend Ukraine if Russia attacks again; the World Bank and the investment firm BlackRock also took part[^16]. President Zelensky said talks \"must move forward at full throttle\"[^16].",
-        "The next step is Abu Dhabi on November 10-11: the first three-way US-Ukraine-Russia talks since February. US envoy Steve Witkoff says the agenda covers post-war security, de-escalation, humanitarian issues and next steps[^17].",
-        "The war goes on meanwhile. Ukraine says it stopped 105 of 128 Russian drones overnight into Thursday, and Russia says it downed 496 Ukrainian drones, many aimed at the Ryazan region, where a refinery fire was reported[^16]. On Friday morning drones reportedly targeted the Afipsky refinery in southern Russia, which Kyiv Post could not confirm[^19]. Kyiv's water supply was disrupted again on Thursday by power problems after Russia's largest attack on energy sites this year[^18].",
-        "The toll from Monday's guided-bomb strike on an aid point in Komyshuvakha keeps rising: Zelensky says 43 dead and 33 missing; police told AP 42 bodies have been recovered[^18][^16]. Zelensky also says Ukraine received only 24 US Patriot interceptors in 90 days against a need of about 350 a month[^17]. My read: winter strikes on energy will shape both sides' leverage in Abu Dhabi."
+        "President Zelensky says Russia's overnight attack used 172 drones and 36 ballistic missiles, all of the missiles aimed at Kyiv and the region around it, with energy \"once again the main target.\"[^5] Strikes hit substations that carry power from the Rivne and Khmelnytskyi nuclear plants to the capital and central Ukraine, and power, water and heating in Kyiv were disrupted.[^5] Reported injuries rose during the day: Al Jazeera reported two people hurt, while Zelensky later said nine, including a child.[^6][^5]",
+        "The timing matters. The first three-way talks between the US, Ukraine and Russia since February are set for Abu Dhabi on Nov 10-11.[^7] The Kremlin says its team will be led by Vladimir Medinsky and include two deputy foreign ministers and the head of military intelligence; Putin met them on Friday.[^7] Zelensky said Russia was \"preparing for trilateral talks by launching ballistic missiles\" and asked for more US support and sanctions.[^5]",
+        "Ukraine is also striking Russia's energy. Al Jazeera, citing the Institute for the Study of War and Ukrainian figures, reports Ukraine hit eight Russian oil refineries in a week, and that Russia's gains on the battlefield have slowed sharply this year.[^19] Both sides seem to be trying to weaken the other's economy and strengthen their hand before negotiating.",
+        "What could happen next: earlier rounds in Abu Dhabi produced prisoner swaps but no ceasefire. My read is that a limited deal, such as a pause on energy strikes before winter, is more realistic than a full peace, because the two sides still disagree on territory and on who would guarantee any agreement."
       ],
-      "differences": "Zelensky says 43 people were killed at Komyshuvakha and 33 are missing; AP, citing police, reports 42 bodies recovered and more than 30 believed trapped[^18][^16]. Drone counts come from each side's military and are not independently checked."
+      "differences": null
     },
     {
-      "id": "bank-of-england-hike",
-      "heading": "Bank of England raises rates for the first time since 2023, citing war-driven energy costs",
+      "id": "us-jobs-beat-fed-hike-odds",
+      "heading": "Strong US jobs report raises odds of a December Fed rate hike",
+      "date": "2026-11-06",
+      "status": "confirmed",
+      "summary": "US employers added 165,000 jobs in October, far more than forecast, and unemployment fell to 4.1%.[^8] Traders now see about a 77% chance the Fed raises rates in December, and chip stocks bounced back after Thursday's crash.[^8][^10]",
+      "lead": {
+        "title": "October jobs report beats forecasts, lifting December Fed hike odds",
+        "outlet": "InvestmentNews",
+        "url": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915",
+        "date": "2026-11-06"
+      },
+      "alsoReported": [
+        {
+          "title": "Strong October jobs report sends yields higher",
+          "outlet": "Yahoo Finance (Reuters)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+        },
+        {
+          "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
+          "outlet": "Business Standard (Reuters)",
+          "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "The US Labor Department reported that employers added 165,000 jobs in October, against forecasts of roughly 59,000 to 65,000, and the unemployment rate fell to 4.1% from 4.2%.[^8][^9] Earlier months were revised up, and average hourly pay rose 3.1% over the year.[^8]",
+        "Why it matters: the Federal Reserve, the US central bank, already raised rates in September and held them at 3.75% to 4% in October because inflation, pushed up by war-driven oil prices, is still above its 2% target.[^8] A strong job market gives it room to raise rates again. After the report, futures markets put the chance of a hike at the Dec 8-9 meeting at about 77%, and the yield on two-year US government bonds rose to about 4.5%.[^8][^9] Higher rates make mortgages, car loans and business borrowing more expensive.",
+        "Stocks steadied after Thursday's sell-off in AI and chip companies. On Friday the chip index rose about 4%, the Nasdaq about 1% and the S&P 500 slightly, though all major indexes were down for the week.[^10] Meanwhile the midterm count continued: Democrats had won 253 House seats to Republicans' 157 with 25 races uncalled, and hold 54 Senate seats with independents.[^11]",
+        "My read: the US economy looks stronger than many expected, which is good for workers but makes faster rate cuts less likely. Canada is in a different place, with unemployment rising, so the two central banks may move in different directions."
+      ],
+      "differences": null
+    },
+    {
+      "id": "paraguay-pena-removed",
+      "heading": "Paraguay removes President Peña after a major bank collapses",
+      "date": "2026-11-06",
+      "status": "confirmed",
+      "summary": "Paraguay's Congress impeached and removed President Santiago Peña after the failure of Ueno, a bank used by most of the country's adults.[^12] He is under house arrest, and Vice-President Pedro Alliana was sworn in.[^12]",
+      "lead": {
+        "title": "Paraguay's Santiago Pena under arrest, new president Pedro Alliana sworn in",
+        "outlet": "Al Jazeera (AP)",
+        "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
+        "date": "2026-11-07"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "On Nov 3, Paraguay's central bank took over Ueno, the country's fifth-largest bank by deposits. AP reports it had about 3 million members, nearly two-thirds of adults, and held about $800 million in public money plus $355 million of state pension savings.[^12]",
+        "Peña offered to resign, but Congress refused and impeached him instead: the lower house voted 78-0 on Thursday and the Senate voted 44-0, with one abstention, to remove him on Friday.[^12] Prosecutors suspect him of breach of trust; he was a Ueno shareholder in 2023 and says he sold his shares in early 2025.[^12] At least 27 people have been charged, and there is an arrest warrant for the former central bank chief.[^12] Pedro Alliana, 52, became president.[^12]",
+        "Why it matters: when one bank holds the savings of most of a country, its failure becomes a political crisis, not only a financial one. Peña was a close ally of the US government in South America. What comes next depends on how much of people's money is recovered, and on whether the courts find he did anything wrong. Only one verified report was available, so details may change."
+      ],
+      "differences": null
+    },
+    {
+      "id": "cop31-opens-antalya",
+      "heading": "COP31 climate talks open Monday in Antalya with modest hopes",
+      "date": "2026-11-07",
+      "status": "developing",
+      "summary": "Nearly 200 countries meet in Antalya, Turkey, from Nov 9 to 20 for the UN climate summit.[^13] The hosts want a pledge to raise electricity's share of energy use, while the US government is staying out of the negotiations.[^13][^14]",
+      "lead": {
+        "title": "With temperatures rising, COP31 confronts familiar battles over cash and carbon",
+        "outlet": "Malay Mail (AFP)",
+        "url": "https://www.malaymail.com/news/world/2026/11/07/with-temperatures-rising-cop31-confronts-familiar-battles-over-cash-and-carbon/242187",
+        "date": "2026-11-07"
+      },
+      "alsoReported": [
+        {
+          "title": "Daily Briefing: COP31 to start | Rosebank push | 'Simply staggering' El Niño",
+          "outlet": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/daily-briefing-cop31-to-start-rosebank-push-simply-staggering-el-nino"
+        },
+        {
+          "title": "COP31 Antalya preview: seven issues to watch, November 9–20, 2026",
+          "outlet": "Climate & Capital Media",
+          "url": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "COP31, the yearly UN climate conference, runs from Nov 9 to 20 in Antalya, with more than 100,000 people expected and world leaders speaking on Nov 11-12.[^13] Turkey hosts and holds the presidency, while Australia leads the negotiations under a compromise that settled a dispute over who would host.[^13][^15]",
+        "The hosts' main goal is a pledge to raise electricity's share of the world's final energy use from about 20% to 35% by 2035, since electric cars, heat pumps and factories can run on clean power.[^13][^14] African countries want a promise to triple money for adaptation, meaning help coping with heat, floods and drought.[^13] The US administration is not taking part in the talks, though some members of Congress will attend.[^13]",
+        "The gap is large. A UN tally of 154 national climate plans puts 2035 emissions only about 6% below 2019 levels, and the UN Environment Programme projects about 2.8°C of warming on current paths, far above the Paris goal of 1.5°C to well below 2°C.[^15] Fewer leaders are due to speak than at recent summits.[^15] A strong El Niño, a natural warming of the Pacific, may make 2026 or 2027 the hottest year on record.[^13][^14]",
+        "My read: expectations are low. A former French chief negotiator told AFP this \"is not going to be the COP that changes the world.\"[^13] Smaller steps, like the electricity pledge or adaptation money, are the realistic test."
+      ],
+      "differences": "Carbon Brief describes Australia's Chris Bowen as president of the talks; AFP and others say Turkey's Murat Kurum is COP31 president and Bowen leads the negotiations.[^13][^14]"
+    },
+    {
+      "id": "openai-gpt-6-cyber",
+      "heading": "OpenAI releases GPT-6 Cyber, its first model rated 'Critical' for hacking risk",
       "date": "2026-11-05",
       "status": "confirmed",
-      "summary": "The Bank of England raised its key rate from 3.75% to 4% and warned UK inflation could reach about 5% by mid-2027 because of energy costs from the Iran war.[^20] It joins the US Fed and European Central Bank in raising rates.[^20]",
+      "summary": "OpenAI released a model that can find software flaws and help build working attacks, available only to vetted security customers.[^16] It is the first OpenAI model rated at the top level of its own cyber-risk scale.[^16][^17]",
       "lead": {
-        "title": "Bank of England raises key interest rate for first time in over 3 years",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years",
+        "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+        "outlet": "The Register",
+        "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+        "date": "2026-11-05"
+      },
+      "alsoReported": [
+        {
+          "title": "Everything That Happened in AI Today (Friday, November 6, 2026)",
+          "outlet": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "OpenAI's new GPT-6 Cyber is built for security work: finding weaknesses in software before criminals do. The Register reports researchers used it to find 81 previously unknown serious flaws in the Firefox browser, which Mozilla is fixing, and to help build working exploits, meaning code that actually uses a flaw, for 948 Linux kernel weaknesses, 588 of them new.[^16]",
+        "OpenAI rated it \"Critical\", the highest cyber-risk level in its own safety framework, and is giving access only to selected security customers, widening over the coming weeks.[^16][^17] The company says it stayed within its permitted tasks more than 99% of the time; 0.07% of cases went out of bounds, and OpenAI did not describe them.[^16] It also raised its reward for people who report serious bugs in its own systems.[^16]",
+        "Why it matters: the same skill that helps defenders patch software could help attackers break into hospitals, power grids or banks. Companies argue it is safer for defenders to have these tools first. Critics worry that limits based on vetting customers are hard to enforce over time, and that a company is grading its own risk. Here my read is that both concerns are real.",
+        "What to watch: whether governments set rules for releasing such models, and whether other labs release similar tools. On the same day, the US Justice Department announced a task force to prosecute crimes that use advanced AI.[^17]"
+      ],
+      "differences": null
+    },
+    {
+      "id": "nigeria-court-voids-atiku",
+      "heading": "Nigerian court voids opposition candidate Atiku's 2027 nomination",
+      "date": "2026-11-05",
+      "status": "disputed",
+      "summary": "A court in Nigeria set aside Atiku Abubakar's nomination as the main opposition party's presidential candidate for the January 2027 election.[^18] His party, the ADC, calls the ruling political and will appeal.[^18]",
+      "lead": {
+        "title": "Nigerian court voids candidacy of opposition ADC's Atiku for 2027 election",
+        "outlet": "Yahoo News (Reuters)",
+        "url": "https://www.yahoo.com/news/articles/nigerian-court-voids-candidacy-opposition-151148095.html",
         "date": "2026-11-05"
       },
       "alsoReported": [],
       "eventId": null,
       "article": [
-        "On Thursday the Bank of England, the UK's central bank, raised its main interest rate from 3.75% to 4%, its first increase since August 2023. Eight of its nine policymakers voted for the rise and one wanted a bigger one[^20].",
-        "The reason is energy. The bank warned that inflation, the pace at which prices rise, could reach about 5% by mid-2027, up from 3.5% in September, because the Iran war and disruption in the Strait of Hormuz have pushed up oil and gas prices[^20]. Central banks raise rates to cool spending and stop higher prices spreading through the economy, but that also makes mortgages and loans more expensive.",
-        "Governor Andrew Bailey said the rise \"shouldn't be seen as the first in an inevitable long sequence of hikes\"[^20]. The bank also raised its growth forecast for 2026 to 1.6%[^20]. The move follows recent rate rises by the US Federal Reserve and the European Central Bank[^20]; in the US, traders had seen a 67% chance of another Fed hike in December before Thursday's market fall[^24].",
-        "Why it matters: a few years ago, central banks were cutting rates. Now several are raising them again because of a war far away. My read: this shows how one conflict, through the price of oil, reaches household budgets in Britain, Canada and elsewhere."
+        "A single judge ruled that the African Democratic Congress (ADC) had not chosen its leaders at a proper national convention, and set aside both those leaders and Atiku's nomination, Reuters reports.[^18] The case was brought by a former deputy chair of the party.[^18]",
+        "Atiku, a former vice-president and the runner-up in the last election, was seen as President Bola Tinubu's strongest challenger; Tinubu has already launched his re-election campaign.[^18] The ADC's spokesman said \"we have seen this script before\" and the party will go to the Court of Appeal.[^18]",
+        "Why it matters: Nigeria is Africa's most populous country, and a sitting president there has lost only once, in 2015.[^18] Whether courts are seen as fair referees affects trust in the whole election. The ruling is not final, and the appeal could reverse it. Only one verified report was available."
       ],
-      "differences": null
-    },
-    {
-      "id": "warmest-october-cop31",
-      "heading": "October was the warmest on record as COP31 climate talks prepare to open in Antalya",
-      "date": "2026-11-06",
-      "status": "confirmed",
-      "summary": "Europe's Copernicus climate service says October was the warmest on record, 1.75C above pre-industrial levels, and 2026 is likely the second-hottest year.[^21] UN climate talks open in Antalya, Turkey, on Monday.[^23]",
-      "lead": {
-        "title": "2026 'most likely' to be second-hottest year on record: EU monitor",
-        "outlet": "Yahoo News (AFP)",
-        "url": "https://www.yahoo.com/news/science/articles/2026-most-likely-second-hottest-094826312.html",
-        "date": "2026-11-06"
-      },
-      "alsoReported": [
-        {
-          "title": "Cop31 will expose the conflicts and contradictions of the world's fossil fuel reliance",
-          "outlet": "The Guardian (via AOL)",
-          "url": "https://www.aol.co.uk/articles/cop31-expose-conflicts-contradictions-world-070046000.html"
-        },
-        {
-          "title": "COP31 summit faces tough test as climate threats mount",
-          "outlet": "RTE (AFP)",
-          "url": "https://www.rte.ie/news/2026/1106/1598207-cop31-climate-talks/"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "The EU's Copernicus climate service says October 2026 was the warmest October on record, 1.75C above the average before industrialisation, and the third month in a row above 1.5C[^21]. It says 2026 will most likely be the second-hottest year, with a 20% chance it ties or beats 2024[^21]. A very strong El Niño, a natural warming of the Pacific that heats the whole planet for a while, has not yet peaked and could make 2027 the hottest year yet[^21].",
-        "COP31, the yearly UN climate summit, runs from November 9 to 20 in Antalya, with nearly 200 countries and more than 100,000 people expected[^23]. It has an unusual split: Australia runs the negotiations and Turkey runs the programme of voluntary pledges[^22]. The US government is not taking part in the negotiations, although a congressional delegation will attend[^23].",
-        "Key arguments will be about money and energy. African negotiators want a pledge to triple funding for adaptation, meaning help coping with heat, floods and drought[^23]. A proposed goal would have electricity supply 35% of the world's final energy use by 2035; the COP31 president says \"electrification is the answer\"[^23][^22]. The Guardian notes coal is still Turkey's biggest power source[^22].",
-        "Expectations are modest. A former French chief negotiator told AFP \"this is not going to be the COP that changes the world\"[^23]. My read: high oil prices from the Iran war cut both ways, making clean power more attractive while pushing some countries to secure fossil fuel supplies."
-      ],
-      "differences": null
+      "differences": "The ADC says the ruling is politically motivated; the court's ruling rests on the party's internal rules for choosing leaders.[^18]"
     }
   ],
-  "question": {
-    "type": "second-order",
-    "text": "Many towns voted this week to block new AI data centres near them. If more places do the same, what might happen next: where would the data centres go instead, who would gain or lose, and what would change for people who use AI?"
-  },
-  "read": {
-    "title": "Can Democrats stop Iran war, reverse Trump's tariffs after midterms win?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win",
-    "kind": "analysis",
-    "minutes": 7,
-    "summary": "A clear guide to what a Democratic Congress can and cannot change on the Iran war, tariffs and technology: veto math, funding deadlines and the courts."
-  },
-  "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "Euronews",
-      "title": "Global stock rout deepens as AI data centre fears fuel worst US chip sell-off since 2020",
-      "url": "https://www.euronews.com/2026/11/06/global-stock-rout-deepens-as-ai-data-centre-fears-fuel-worst-us-chip-sell-off-since-2020",
-      "date": "2026-11-06",
+      "outlet": "Al Jazeera (AP)",
+      "title": "Trump confirms new US strikes on Iran's Qeshm Island",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+      "date": "2026-11-07",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Fox Business",
-      "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
-      "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
-      "date": "2026-11-05",
+      "outlet": "Business Recorder (Reuters)",
+      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+      "url": "https://www.brecorder.com/news/40447895/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
+      "date": "2026-11-07",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Investing.com (Reuters column)",
-      "title": "Trading Day: A November 5 market bonfire",
-      "url": "https://www.investing.com/news/economy-news/trading-day-a-november-5-market-bonfire-5005919",
-      "date": "2026-11-05",
-      "singleSource": false
+      "outlet": "Iran International",
+      "title": "IRGC says two tankers hit mines in Strait of Hormuz",
+      "url": "https://www.iranintl.com/en/202611067840",
+      "date": "2026-11-06",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Business Standard",
-      "title": "Why Democrats' win in US midterms could spell trouble for the AI boom",
-      "url": "https://www.business-standard.com/world-news/us-midterms-elections-2026-trump-democrats-republicans-data-centres-stocks-126110600691_1.html",
+      "outlet": "Rigzone (Bloomberg)",
+      "title": "Oil Posts Biggest Weekly Drop Since 2022",
+      "url": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_drop_since_2022-06-nov-2026-185035-article/",
       "date": "2026-11-06",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Forbes",
-      "title": "Here's Where Voters Are Rejecting Data Centers At The Ballot (Full List)",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/04/heres-where-voters-are-rejecting-data-centers-at-the-ballot-full-list/",
-      "date": "2026-11-04",
-      "singleSource": true
+      "outlet": "Interfax-Ukraine",
+      "title": "Russia attacks substations linking Rivne, Khmelnytsky NPPs to Kyiv, central regions – Zelenskyy",
+      "url": "https://en.interfax.com.ua/news/general/1232773.html",
+      "date": "2026-11-07",
+      "singleSource": false
     },
     {
       "id": 6,
       "outlet": "Al Jazeera",
-      "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading",
-      "date": "2026-11-06",
+      "title": "Russia launches missile attack on Kyiv, injuring residents",
+      "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents",
+      "date": "2026-11-07",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "BOE Report (Reuters)",
-      "title": "Tankers hit in Hormuz as Iran keeps up pressure after US vote",
-      "url": "https://boereport.com/2026/11/05/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote/",
-      "date": "2026-11-05",
+      "outlet": "Jerusalem Post (Reuters)",
+      "title": "Russia names delegation for Abu Dhabi talks on Ukraine",
+      "url": "https://www.jpost.com/international/article-914121",
+      "date": "2026-11-07",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Investing.com (Reuters)",
-      "title": "Brent crude jumps, settles up over $3 after tanker attacks",
-      "url": "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "WCCB (AP)",
-      "title": "Iran's top diplomat speaks with Gulf leaders about tensions, and other Mideast news",
-      "url": "https://www.wccbcharlotte.com/2026/11/05/irans-top-diplomat-speaks-with-gulf-leaders-about-tensions-and-other-mideast-news/",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 10,
-      "outlet": "Al Jazeera",
-      "title": "Iran's security chief meets Putin, delivers message from Khamenei",
-      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei",
+      "outlet": "InvestmentNews",
+      "title": "October jobs report beats forecasts, lifting December Fed hike odds",
+      "url": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915",
       "date": "2026-11-06",
       "singleSource": false
     },
     {
+      "id": 9,
+      "outlet": "Yahoo Finance (Reuters)",
+      "title": "Strong October jobs report sends yields higher",
+      "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "Business Standard (Reuters)",
+      "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
+      "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
       "id": 11,
-      "outlet": "Gulf News",
-      "title": "US/Israel-Iran war: Trump faces pressure to choose between renewed attacks and a deal as Qatar steps up mediation",
-      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+      "outlet": "Anadolu Agency",
+      "title": "Democrats expand US House majority to 253 seats as midterm vote count continues",
+      "url": "https://www.aa.com.tr/en/americas/democrats-expand-us-house-majority-to-253-seats-as-midterm-vote-count-continues/4113982",
       "date": "2026-11-06",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Times of Israel",
-      "title": "As Eisenkot wins 67 nods to be PM, Herzog says he'll announce mandate decision on Sunday",
-      "url": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/",
-      "date": "2026-11-05",
-      "singleSource": false
+      "outlet": "Al Jazeera (AP)",
+      "title": "Paraguay's Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in",
+      "date": "2026-11-07",
+      "singleSource": true
     },
     {
       "id": 13,
-      "outlet": "Ynet",
-      "title": "Eisenkot leads Netanyahu 67-46, but Herzog delays mandate decision until Sunday",
-      "url": "https://www.ynetnews.com/article/rjj1td9pfx",
-      "date": "2026-11-05",
+      "outlet": "Malay Mail (AFP)",
+      "title": "With temperatures rising, COP31 confronts familiar battles over cash and carbon",
+      "url": "https://www.malaymail.com/news/world/2026/11/07/with-temperatures-rising-cop31-confronts-familiar-battles-over-cash-and-carbon/242187",
+      "date": "2026-11-07",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Al Jazeera",
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 15,
-      "outlet": "Times of Israel",
-      "title": "Eisenkot bolstered by PM recommendations, but still well short of a government",
-      "url": "https://www.timesofisrael.com/eisenkot-bolstered-by-pm-recommendations-but-still-well-short-of-a-government/",
+      "outlet": "Carbon Brief",
+      "title": "Daily Briefing: COP31 to start | Rosebank push | 'Simply staggering' El Niño",
+      "url": "https://www.carbonbrief.org/daily-briefing-cop31-to-start-rosebank-push-simply-staggering-el-nino",
       "date": "2026-11-06",
       "singleSource": false
     },
     {
-      "id": 16,
-      "outlet": "ClickOrlando (AP)",
-      "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume in Brussels",
-      "url": "https://www.clickorlando.com/business/2026/11/05/russia-and-ukraine-trade-airstrikes-as-reconstruction-and-security-talks-resume-in-brussels/",
+      "id": 15,
+      "outlet": "Climate & Capital Media",
+      "title": "COP31 Antalya preview: seven issues to watch, November 9–20, 2026",
+      "url": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/",
       "date": "2026-11-05",
       "singleSource": false
     },
     {
+      "id": 16,
+      "outlet": "The Register",
+      "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+      "url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+      "date": "2026-11-05",
+      "singleSource": true
+    },
+    {
       "id": 17,
-      "outlet": "Kyiv Post",
-      "title": "Zelensky Holds 90-Minute Discussion With US Envoys Witkoff, Kushner",
-      "url": "https://www.kyivpost.com/post/89174",
-      "date": "2026-11-04",
+      "outlet": "The Neuron",
+      "title": "Everything That Happened in AI Today (Friday, November 6, 2026)",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+      "date": "2026-11-06",
       "singleSource": false
     },
     {
       "id": 18,
-      "outlet": "Kyiv Independent",
-      "title": "Ukraine war latest: Kyiv water supply disrupted after power fluctuations due to Russian attacks",
-      "url": "https://kyivindependent.com/ukraine-war-latest-kyiv-water-supply-disrupted-after-power-fluctuations-due-to-russian-attacks/",
+      "outlet": "Yahoo News (Reuters)",
+      "title": "Nigerian court voids candidacy of opposition ADC's Atiku for 2027 election",
+      "url": "https://www.yahoo.com/news/articles/nigerian-court-voids-candidacy-opposition-151148095.html",
       "date": "2026-11-05",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 19,
-      "outlet": "Kyiv Post",
-      "title": "Russia's Major Oil Refinery Reportedly Targeted as 142 Drones Downed",
-      "url": "https://www.kyivpost.com/post/89302",
+      "outlet": "Al Jazeera",
+      "title": "Russia's land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+      "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
       "date": "2026-11-06",
       "singleSource": false
     },
     {
       "id": 20,
-      "outlet": "Euronews",
-      "title": "Bank of England raises key interest rate for first time in over 3 years",
-      "url": "https://www.euronews.com/2026/11/05/bank-of-england-raises-key-interest-rate-for-first-time-in-over-3-years",
-      "date": "2026-11-05",
-      "singleSource": true
-    },
-    {
-      "id": 21,
-      "outlet": "Yahoo News (AFP)",
-      "title": "2026 'most likely' to be second-hottest year on record: EU monitor",
-      "url": "https://www.yahoo.com/news/science/articles/2026-most-likely-second-hottest-094826312.html",
+      "outlet": "OilPrice.com",
+      "title": "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
       "date": "2026-11-06",
-      "singleSource": true
-    },
-    {
-      "id": 22,
-      "outlet": "The Guardian (via AOL)",
-      "title": "Cop31 will expose the conflicts and contradictions of the world's fossil fuel reliance",
-      "url": "https://www.aol.co.uk/articles/cop31-expose-conflicts-contradictions-world-070046000.html",
-      "date": "2026-11-06",
-      "singleSource": false
-    },
-    {
-      "id": 23,
-      "outlet": "RTE (AFP)",
-      "title": "COP31 summit faces tough test as climate threats mount",
-      "url": "https://www.rte.ie/news/2026/1106/1598207-cop31-climate-talks/",
-      "date": "2026-11-06",
-      "singleSource": false
-    },
-    {
-      "id": 24,
-      "outlet": "Yahoo Finance",
-      "title": "Friday's jobs report is expected to show the labor market chugging along",
-      "url": "https://finance.yahoo.com/economy/article/fridays-jobs-report-is-expected-to-show-the-labor-market-chugging-along-213135742.html",
-      "date": "2026-11-05",
       "singleSource": false
     }
   ]
