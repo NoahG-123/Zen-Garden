@@ -1,100 +1,68 @@
 {
-  "date": "2026-11-07",
-  "summary": "Canada lost 4,700 jobs in October and youth unemployment rose to 13.7%; Ottawa sells its budget, and Democrats' tariff pledges collide with Trump's veto.",
+  "date": "2026-11-08",
+  "summary": "A quiet weekend: Ottawa defends its budget as critics question who it helps, and Ontario teachers have begun voting on whether to authorize strikes.",
   "body": [
-    "Statistics Canada says employment was little changed in October, down 4,700, and the unemployment rate rose to 6.7%, its second rise in a row.[^1] Young people were hit hardest: unemployment for 15- to 24-year-olds rose to 13.7% from 13.0%.[^1][^2] In Ontario the rate rose to 7.3%, mainly because more people were looking for work.[^1] Retail and wholesale lost 29,000 jobs, while construction and education gained.[^1] Economists had expected a gain; CIBC's Avery Shenfeld said the economy is \"just not hot enough\", which hurts students and young people most, though he does not see a recession yet.[^2][^3]",
-    "Prime Minister Mark Carney and Finance Minister François-Philippe Champagne are touring the country to sell Thursday's budget.[^5] With a Liberal majority it is expected to pass even though the Conservatives will vote against it.[^5][^4] It projects a $62.3 billion deficit this year, and interest on the debt now costs more than federal health transfers.[^4] One item for young people: free museum admission for under-25s.[^6]",
-    "On trade, Democrats who won the US Congress promise to repeal Trump's tariffs on Canada, but they lack the votes to override his veto, and Trump answered with an image of a hat reading \"veto\".[^7] Trade Minister Dominic LeBlanc says Ottawa will \"focus on what we can control.\"[^7] Bank of Canada Governor Tiff Macklem told senators that inflation of about 3% is driven mainly by oil prices, and that another rate rise is possible; the next decision is Dec 9.[^8]"
+    "It was a quiet weekend in Canadian politics, with the budget debate continuing. On CTV's Question Period, Finance Minister François-Philippe Champagne said \"deficits are lower, that's a fact\", pointing out that last year's came in $27.5 billion below the spring forecast because revenue was higher than expected.[^1] The deficit is still projected at over $62 billion next year and above $50 billion a year through 2030, and interest on the debt will cost more than federal health transfers to the provinces.[^1] Champagne says about two-thirds of the new measures aim to grow the economy: \"you're not going to borrow for groceries.\"[^1]",
+    "Critics see it differently. Conservative Leader Pierre Poilievre says debt interest \"does not buy a single doctor\", and NDP Leader Avi Lewis calls the budget a gift to corporations.[^1] An analysis in The Hub finds program spending rises $44 billion, or about 9%, next year.[^2] For young people, a Financial Post review finds the budget leans toward older Canadians, though a larger benefit for low-income workers and changes to first-time buyers' mortgage rules may help younger people.[^3]",
+    "Closer to the classroom: Ontario's education unions are holding strike votes this month. Public high-school teachers (OSSTF) began voting on Nov 6, and elementary teachers (ETFO) start on Nov 9, with Catholic and French-language teachers and education workers to follow by Nov 18.[^4][^5] Contracts expired on Aug 31, and talks are stuck on the province's push to bargain more issues centrally.[^5] A \"yes\" vote does not mean an immediate strike; several legal steps would come first.[^4]"
   ],
-  "differences": "Conservatives link federal deficits to higher inflation and rates; Macklem said spending is \"not really\" adding to inflation, and a Desjardins economist calls the effect slight.[^9] Outlets also total the budget differently, from $142 billion in new measures to $151 billion in added spending.[^4][^6]",
+  "differences": "The government calls most new spending investment that will grow the economy; Conservatives say the issue is how much is spent, and the NDP doubts benefits will reach ordinary people.[^1] Outlets total the budget's new measures differently, from about $142 billion to $151 billion, depending on what they count.[^1]",
   "reads": [
     {
-      "title": "Labour Force Survey, October 2026",
-      "outlet": "Statistics Canada",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
+      "title": "Budget 2026 provides small investment in post-secondary sector",
+      "outlet": "University Affairs",
+      "url": "https://universityaffairs.ca/news/budget-2026-provides-small-investment-in-post-secondary-sector/",
       "kind": "news",
-      "summary": "The official release behind the headlines, with sections on youth, students and each province. Compare it with how the news reported it."
+      "summary": "What the federal budget does, and mostly does not do, for colleges, universities and students heading there, including AI jobs and international student caps."
     },
     {
-      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy",
-      "outlet": "Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-standing-senate-committee-banking-commerce-and-economy-2026-11-05/",
-      "kind": "analysis",
-      "summary": "The Bank of Canada governor explains in plain terms how oil prices, tariffs and jobs feed into interest-rate decisions."
+      "title": "'Our members want fair, negotiated contracts': All major Ontario education unions are holding strike votes in November",
+      "outlet": "NOW Toronto",
+      "url": "https://nowtoronto.com/news/ontario-education-unions-strike-votes-november-2026/",
+      "kind": "news",
+      "summary": "A plain guide to which Ontario school unions vote when, and what a strike vote does and does not mean."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Statistics Canada",
-      "title": "Labour Force Survey, October 2026",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
-      "date": "2026-11-06",
+      "outlet": "CP24 (CTV News)",
+      "title": "'Deficits are lower, that's a fact': Finance minister defends budget",
+      "url": "https://www.cp24.com/politics/2026/11/08/deficits-are-lower-thats-a-fact-finance-minister-defends-budget/",
+      "date": "2026-11-08",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Global News",
-      "title": "Unemployment ticked up to 6.7% in October, says StatCan",
-      "url": "https://globalnews.ca/news/12139675/jobs-unemployment-report-october-2026/",
-      "date": "2026-11-06",
-      "singleSource": false
+      "outlet": "The Hub",
+      "title": "Carney's 2026 budget shows massive government spending on par with Trudeau years",
+      "url": "https://thehub.ca/2026/11/07/carneys-2026-budget-shows-massive-government-spending-on-par-with-trudeau-years/",
+      "date": "2026-11-07",
+      "singleSource": true
     },
     {
       "id": 3,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Canada lost 4,700 jobs in October as unemployment rate climbs to 6.7%",
-      "url": "https://www.cp24.com/news/canada/2026/11/07/canada-lost-4700-jobs-in-october-as-unemployment-rate-climbs-to-67/",
+      "outlet": "Yahoo Finance Canada (Financial Post)",
+      "title": "Boomer budget or gen Z budget? Which generation made out better",
+      "url": "https://ca.finance.yahoo.com/news/boomer-budget-gen-z-budget-190301608.html",
       "date": "2026-11-06",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Carney government unveils $142B plan to boost economy, affordability in Budget 2026",
-      "url": "https://www.cp24.com/news/canada/2026/11/05/carney-government-adds-142b-in-new-spending-to-spur-economic-growth-address-affordability/",
-      "date": "2026-11-05",
+      "outlet": "NOW Toronto",
+      "title": "'Our members want fair, negotiated contracts': All major Ontario education unions are holding strike votes in November",
+      "url": "https://nowtoronto.com/news/ontario-education-unions-strike-votes-november-2026/",
+      "date": "2026-09-27",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "BNN Bloomberg (The Canadian Press)",
-      "title": "Champagne, Carney travelling across country to sell federal budget to Canadians",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/06/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/",
-      "date": "2026-11-06",
+      "outlet": "Your ThunderBay",
+      "title": "Education workers across Ontario begin strike votes",
+      "url": "https://yourthunderbay.ca/education-workers-across-ontario-begin-strike-votes",
+      "date": "2026-11-04",
       "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "Global News",
-      "title": "Carney's 'ambitious' but 'risky' budget eyes investment in uncertain world",
-      "url": "https://globalnews.ca/news/12138651/budget-2026-mark-carney/",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Yahoo Finance Canada (Money.ca)",
-      "title": "Democrats pledge to repeal Trump's tariffs on Canada, but lack the votes to override his veto",
-      "url": "https://ca.finance.yahoo.com/news/democrats-pledge-repeal-trumps-tariffs-140000845.html",
-      "date": "2026-11-06",
-      "singleSource": true
-    },
-    {
-      "id": 8,
-      "outlet": "Bank of Canada",
-      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy",
-      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-standing-senate-committee-banking-commerce-and-economy-2026-11-05/",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "The Hub",
-      "title": "Macklem tells MPs federal spending 'not really' adding to inflation, days before budget",
-      "url": "https://thehub.ca/2026/11/05/macklem-tells-mps-federal-spending-not-really-adding-to-inflation-days-before-budget",
-      "date": "2026-11-05",
-      "singleSource": true
     }
   ]
 }

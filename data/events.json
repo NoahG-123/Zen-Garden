@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-07",
+  "reviewed": "2026-11-08",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Trump confirmed small US strikes on Iran's Qeshm Island on Nov 6, the first since the US vote; Iran says it downed a US drone and that two tankers hit mines (unverified).[^189] Qatar says its mediation has made \"significant progress\".[^190] Brent settled near $98 after a 13% weekly fall, the biggest since 2022.[^191]",
+      "standing": "Iranian media reported unexplained blasts on Qeshm Island and in Jask on Nov 7, a day after small US strikes; Iran's Revolutionary Guards say they have lifted their 2,000 km missile-range limit.[^200][^201] The US fired on a ship leaving an Iranian port and set up Task Force Iron Gate to target Iran's land and Caspian supply routes.[^202] Qatar's mediation continues, and Iran is reviewing its proposals.[^200]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -167,7 +167,10 @@
         177,
         189,
         190,
-        191
+        191,
+        200,
+        201,
+        202
       ]
     },
     {
@@ -176,7 +179,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Overnight into Nov 7, Russia fired 172 drones and 36 ballistic missiles, hitting substations linking nuclear plants to Kyiv, Zelensky says.[^192] The first US-Ukraine-Russia talks since February are set for Abu Dhabi on Nov 10-11; Moscow's team is led by Vladimir Medinsky.[^193] Both sides keep striking energy sites, including Russian refineries.[^178]",
+      "standing": "Russia fired 172 drones and 36 ballistic missiles on Nov 7, aiming, Zelensky says, at a nationwide blackout; Ukraine says it hit a Russian missile-parts plant in Oryol and a Saratov refinery.[^203] Rustem Umerov leads Ukraine's team at US-mediated talks with Russia in Abu Dhabi on Nov 10-11, the first since February; Russia still demands all of Donbas.[^204][^203]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -186,6 +189,10 @@
         {
           "date": "2026-11-10",
           "what": "Russia-US-Ukraine working-level talks in Abu Dhabi, Nov 10-11"
+        },
+        {
+          "date": "2026-11-13",
+          "what": "EU leaders discuss how Europe is represented in Ukraine peace talks"
         },
         {
           "date": "2026-11-18",
@@ -328,7 +335,9 @@
         178,
         179,
         192,
-        193
+        193,
+        203,
+        204
       ]
     },
     {
@@ -337,7 +346,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Parties with 67 seats recommended Gadi Eisenkot and 46 recommended Netanyahu; Herzog names who first tries to form a government on Nov 8 and has floated a unity government.[^180][^199] The new Knesset is sworn in Nov 10. Gaza's civil defence says five people were killed on Nov 5; Gaza's health ministry says over 1,600 have died since the truce began.[^198]",
+      "standing": "President Herzog chose Gadi Eisenkot, backed by 67 lawmakers to Netanyahu's 46, to try to form Israel's next government; he has 28 days plus a possible 14 to reach 61 seats, and the path is hard.[^205][^206] The new Knesset is sworn in Nov 10. Gaza's health ministry says over 1,600 people have died since the truce began.[^198]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -345,12 +354,12 @@
       },
       "watch": [
         {
-          "date": "2026-11-08",
-          "what": "Herzog announces who gets the first mandate to form Israel's next government"
-        },
-        {
           "date": "2026-11-10",
           "what": "New Knesset sworn in"
+        },
+        {
+          "date": "2026-12-06",
+          "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
         },
         {
           "date": "2026-12-31",
@@ -480,7 +489,9 @@
         180,
         181,
         198,
-        199
+        199,
+        205,
+        206
       ]
     },
     {
@@ -811,6 +822,10 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-08",
+      "text": "Weekly review: all five events kept, with no status changes. Congo's Ebola outbreak (10,668 cases, 5,198 deaths; new vaccines entering a trial) was re-tested; WHO rates global risk low, so it stays in the World brief and will be re-tested next week.[^207]"
+    },
     {
       "date": "2026-11-04",
       "text": "US politics and economy: status changed from escalating to shifting. Democrats won both houses of Congress in the Nov 3 midterms, so Trump's last two years will be under divided government; a new history chapter was added."
@@ -2422,6 +2437,70 @@
       "outlet": "Al Jazeera",
       "title": "Israel's President Herzog to name candidate to form government on Sunday",
       "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 200,
+      "outlet": "ABC News (AP/Reuters)",
+      "title": "Explosions heard in Strait of Hormuz as Iran reviews de-escalation proposals",
+      "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 201,
+      "outlet": "The Times of Israel",
+      "title": "IRGC claims a self-imposed limit on ballistic missile range 'has been lifted'",
+      "url": "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 202,
+      "outlet": "Gulf News",
+      "title": "US releases video of strike on cargo ship in Gulf of Oman amid Iran blockade enforcement",
+      "url": "https://gulfnews.com/world/mena/us-strikes-cargo-ship-in-gulf-of-oman-amid-iran-blockade-enforcement-1.500739942",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 203,
+      "outlet": "Eurasia Review (RFE/RL)",
+      "title": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
+      "url": "https://www.eurasiareview.com/08112026-zelenskyy-says-russia-seeks-blackout-in-ukraine-ahead-of-us-mediated-talks-in-abu-dhabi/",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 204,
+      "outlet": "The Kyiv Independent",
+      "title": "Umerov to lead Ukraine delegation in Abu Dhabi peace talks despite media confusion, top official confirms",
+      "url": "https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/",
+      "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 205,
+      "outlet": "Al Jazeera",
+      "title": "Israel's president picks Eisenkot over Netanyahu to form next government",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 206,
+      "outlet": "The Times of Israel",
+      "title": "President Herzog taps Eisenkot to form coalition, but path remains fraught",
+      "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 207,
+      "outlet": "World Health Organization",
+      "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
       "date": "2026-11-06",
       "singleSource": false
     }

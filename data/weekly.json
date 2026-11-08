@@ -1,6 +1,15 @@
 {
   "reads": [
     {
+      "date": "2026-11-08",
+      "title": "Navigating a Shock-Prone World: Lessons from Cost-of-Living Crises",
+      "outlet": "International Monetary Fund",
+      "url": "https://www.imf.org/-/media/files/publications/weo/2026/october/english/ch2.pdf",
+      "kind": "paper",
+      "minutes": 40,
+      "summary": "An IMF study of price shocks in 85 economies since 2005: why poorer households are hit hardest and which kinds of help work. Skim the maths; read it as the IMF's market-minded view."
+    },
+    {
       "date": "2026-11-01",
       "title": "UNEP: Opportunity has 'been lost' to meet 1.5C warming limit without 'overshoot'",
       "outlet": "Carbon Brief",

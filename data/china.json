@@ -1,82 +1,51 @@
 {
-  "date": "2026-11-07",
-  "summary": "Beijing blocks SoftBank's purchase of ABB's robot business in China, shoppers ask strangers to veto their carts before Double 11, and Starbucks China ends free seating.",
+  "date": "2026-11-08",
+  "summary": "Before Double 11, Chinese shoppers stock up on AI 'tokens'; AI-made short dramas flood screens; and a professor's death exposes pay-to-publish research quotas.",
   "body": [
-    "China's foreign-investment security review office has prohibited SoftBank's purchase of ABB's robotics business in China, ABB said on Nov 5.[^1] SoftBank agreed in 2025 to buy the whole ABB Robotics division for about US$5.4 billion, and China is the unit's largest market.[^1][^2] No official reason was given; reports point to Beijing wanting to keep factory know-how and data at home, which has not been confirmed.[^2][^3] ABB says the two companies are still working on the deal.[^1] My read: as robots become central to China's factories, Beijing is treating them like chips, as strategic technology.",
-    "Before Double 11 (Nov 11), China's biggest online sale, apps where friends or strangers vote on whether you should buy what is in your cart have spread, Sixth Tone reports.[^4] One, \"Still Want to Buy?\", passed 500,000 users within weeks; over 85% were women under 24.[^4] Platforms are reshaping the sale for careful shoppers, with simpler flat discounts instead of complicated coupons, and last year's sales grew about half as fast as the year before.[^5]",
-    "Daily life: Starbucks China now requires customers to buy something before sitting down, ending its open-seating habit at about 8,000 mainland cafés.[^6] China Mobile, the state phone company, plans to spend more than 100 billion yuan (about US$15 billion) on computing for AI in 2027.[^7] China's October trade figures are due Nov 10."
+    "Ahead of Double 11 (Nov 11), China's biggest online sale, AI is being sold like a household good. Shoppers can buy packages of \"tokens\", the units of text an AI model processes, from Alibaba, MiniMax, Moonshot, DeepSeek and others on Tmall and JD.com, Reuters reports.[^1] Livestream star Austin Li sold 100,000 monthly memberships for an Alibaba office AI tool in half an hour, Alibaba says.[^1] An analyst warned buyers may hesitate to prepay for services that could soon be replaced.[^1]",
+    "AI is also changing entertainment. China's TV and online video regulator says nearly 550,000 short dramas, series of episodes a minute or two long watched on phones, were released in the first ten months of 2026, about 17 times last year's number, Caixin reports; Caixin's summary says most were made with AI.[^3] Traditional TV makers are on the defensive.[^3] Separately, lidar, the laser sensors that help cars \"see\" in 3D, now appears on Chinese cars costing 60,000 to 80,000 yuan (about $11,000 to $15,000 CAD), as prices have fallen by about three-quarters in three years, the maker Hesai says.[^4]",
+    "Daily life: the death in October of Bai Baoguo, a music professor at Yan'an University, has drawn attention to research quotas. Caixin reports his final letter says he would have had to pay about 200,000 yuan of his own money to fund and publish research to keep his job, and other teachers describe similar \"pay to work\" pressure.[^5] Shaanxi's education department has set up an investigation; the claims have not been verified.[^5] China's October trade figures are due Nov 10."
   ],
-  "differences": "ABB's statement says only the China part of the deal is prohibited, while many headlines say the whole deal was blocked; whether it can be restructured without China is unclear.[^1][^2]",
+  "differences": null,
   "reads": [
     {
-      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
+      "title": "Chinese App Tracking Hotel Pests Returns After Some Debugging",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019220/double-11-looming%2C-chinese-shoppers-ask-strangers-to-vet-their-carts",
+      "url": "https://www.sixthtone.com/news/1019216/chinese-app-tracking-hotel-pests-returns-after-some-debugging",
       "kind": "news",
-      "summary": "Why many young Chinese shoppers now want to be talked out of buying things, and what that says about saving and spending."
-    },
-    {
-      "title": "Starbucks' Pay-to-Sit Policy Tests 'Third Place' Image in China",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019222/starbucks%E2%80%99-pay-to-sit-policy-tests-%E2%80%98third-place%E2%80%99-image-in-china",
-      "kind": "news",
-      "summary": "How a change in café seating rules sparked debate about public space and who coffee shops are for in Chinese cities."
+      "summary": "A young factory worker built a bedbug-reporting app with AI; it drew 300,000 users, then refund fights. A story about trust, apps and reviews."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "ABB",
-      "title": "Update on divestment of ABB Robotics",
-      "url": "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "Robotics 24/7",
-      "title": "SoftBank's proposed $5.4B acquisition of ABB Robotics blocked by China",
-      "url": "https://www.robotics247.com/article/softbanks-proposed-5.4b-acquisition-of-abb-robotics-blocked-by-china",
-      "date": "2026-11-05",
+      "outlet": "Aaj English TV (Reuters)",
+      "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
+      "url": "https://english.aaj.tv/news/330479157/chinas-lipstick-king-touts-ai-tokens-in-first-for-singles-day-festival",
+      "date": "2026-11-03",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Yahoo Finance (Investing.com)",
-      "title": "Softbank's $5.4 bln takeover of ABB robotics unit blocked by China- FT",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-5-4-bln-takeover-034551741.html",
+      "outlet": "Caixin Global",
+      "title": "China's Short Drama Boom Puts TV Show Creators on the Defensive",
+      "url": "https://www.caixinglobal.com/2026-11-05/chinas-short-drama-boom-puts-tv-show-creators-on-the-defensive-102501384.html",
       "date": "2026-11-05",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Sixth Tone",
-      "title": "Double 11 Looming, Chinese Shoppers Ask Strangers to Vet Their Carts",
-      "url": "https://www.sixthtone.com/news/1019220/double-11-looming%2C-chinese-shoppers-ask-strangers-to-vet-their-carts",
+      "outlet": "Caixin Global",
+      "title": "Chinese Lidar-Maker Hesai Eyes Growth Overseas, Where Adoption Lags",
+      "url": "https://www.caixinglobal.com/2026-11-05/chinese-lidar-maker-hesai-eyes-growth-overseas-where-adoption-lags-102501402.html",
       "date": "2026-11-05",
       "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "ChinaTechNews (CNA)",
-      "title": "No more midnight rush: How Singles' Day is being rebuilt for China's cautious consumers",
-      "url": "https://www.chinatechnews.com/2026/11/07/132241-no-more-midnight-rush-how-singles-day-is-being-rebuilt-for-chinas-cautious-consumers",
-      "date": "2026-11-07",
-      "singleSource": true
-    },
-    {
-      "id": 6,
-      "outlet": "Sixth Tone",
-      "title": "Starbucks' Pay-to-Sit Policy Tests 'Third Place' Image in China",
-      "url": "https://www.sixthtone.com/news/1019222/starbucks%E2%80%99-pay-to-sit-policy-tests-%E2%80%98third-place%E2%80%99-image-in-china",
-      "date": "2026-11-05",
-      "singleSource": true
-    },
-    {
-      "id": 7,
       "outlet": "Caixin Global",
-      "title": "China Mobile Bets Bigger on Data Centers as AI Demand Grows",
-      "url": "https://www.caixinglobal.com/2026-11-06/china-mobile-bets-bigger-on-data-centers-as-ai-demand-grows-102501919.html",
+      "title": "In Depth: Chinese Professor's Death Draws Attention to Faculty Paying to Meet Research Quotas",
+      "url": "https://www.caixinglobal.com/2026-11-06/in-depth-chinese-professors-death-draws-attention-to-faculty-paying-to-meet-research-quotas-102501691.html",
       "date": "2026-11-06",
       "singleSource": true
     }
