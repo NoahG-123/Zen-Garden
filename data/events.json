@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-08",
+  "reviewed": "2026-11-09",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iranian media reported unexplained blasts on Qeshm Island and in Jask on Nov 7, a day after small US strikes; Iran's Revolutionary Guards say they have lifted their 2,000 km missile-range limit.[^200][^201] The US fired on a ship leaving an Iranian port and set up Task Force Iron Gate to target Iran's land and Caspian supply routes.[^202] Qatar's mediation continues, and Iran is reviewing its proposals.[^200]",
+      "standing": "Ships caught fire near Hormuz over the weekend, and the US says Task Force Iron Gate is in full effect; Houthi missiles aimed at Riyadh damaged an Aramco building.[^208][^215] Trump calls new strikes \"highly unlikely\" if talks progress and meets Qatar's prime minister on Nov 9. Brent fell about 16% last week as markets bet on calm.[^208][^209]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -16,15 +16,15 @@
       "watch": [
         {
           "date": "2026-11-09",
-          "what": "Possible restart of direct US-Iran talks under a Qatari draft (no date set)"
+          "what": "Trump meets Qatar's prime minister, the main mediator, at the White House"
         },
         {
-          "date": "2026-11-09",
-          "what": "G7 foreign ministers meet in Paris on Nov 9-10; Iran and Hormuz expected on the agenda"
+          "date": "2026-11-10",
+          "what": "G7 foreign ministers end two days of talks in Paris; Iran and Hormuz on the agenda"
         },
         {
-          "date": "2026-11-09",
-          "what": "COP31 climate summit opens in Antalya; oil prices and energy security will hang over it"
+          "date": "2026-11-18",
+          "what": "APEC summit in China, where Trump says he will discuss Iran with Xi and Putin"
         }
       ],
       "connects": [
@@ -170,7 +170,10 @@
         191,
         200,
         201,
-        202
+        202,
+        208,
+        209,
+        215
       ]
     },
     {
@@ -179,7 +182,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Russia fired 172 drones and 36 ballistic missiles on Nov 7, aiming, Zelensky says, at a nationwide blackout; Ukraine says it hit a Russian missile-parts plant in Oryol and a Saratov refinery.[^203] Rustem Umerov leads Ukraine's team at US-mediated talks with Russia in Abu Dhabi on Nov 10-11, the first since February; Russia still demands all of Donbas.[^204][^203]",
+      "standing": "Russia upgraded its team for US-mediated talks in Abu Dhabi on Nov 10-11, the first three-way talks since February, adding two deputy foreign ministers and its military intelligence chief.[^210] Weekend strikes left about 850,000 Ukrainians without power; Russia still demands all of Donbas.[^211][^204]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -337,7 +340,9 @@
         192,
         193,
         203,
-        204
+        204,
+        210,
+        211
       ]
     },
     {
@@ -346,7 +351,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "President Herzog chose Gadi Eisenkot, backed by 67 lawmakers to Netanyahu's 46, to try to form Israel's next government; he has 28 days plus a possible 14 to reach 61 seats, and the path is hard.[^205][^206] The new Knesset is sworn in Nov 10. Gaza's health ministry says over 1,600 people have died since the truce began.[^198]",
+      "standing": "Herzog formally gave Gadi Eisenkot the mandate on Nov 8; he has 28 days plus a possible 14 to reach 61 seats, and allies like Liberman reject relying on Arab parties.[^212][^206] The new Knesset is sworn in Nov 10. Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -491,7 +496,9 @@
         198,
         199,
         205,
-        206
+        206,
+        212,
+        213
       ]
     },
     {
@@ -659,7 +666,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Chip stocks rebounded about 4% on Nov 6 after their Nov 5 crash, driven by fears the new Congress and local bans would slow data centres.[^195][^187] OpenAI released GPT-6 Cyber to vetted security firms, its first model rated \"Critical\" for cyber risk.[^197] About 600,000 Nvidia H200 chips sit in Hong Kong awaiting Beijing's approval.[^186]",
+      "standing": "Voters passed 39 local measures restricting data centres on Nov 3, and chip stocks crashed on Nov 5 before rebounding about 4% on Nov 6.[^214][^195] OpenAI released GPT-6 Cyber to vetted security firms, its first model rated \"Critical\" for cyber risk.[^197] About 600,000 Nvidia H200 chips sit in Hong Kong awaiting Beijing's approval.[^186]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -817,7 +824,8 @@
         186,
         187,
         195,
-        197
+        197,
+        214
       ]
     }
   ],
@@ -2502,6 +2510,70 @@
       "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625",
       "date": "2026-11-06",
+      "singleSource": false
+    },
+    {
+      "id": 208,
+      "outlet": "Gulf News",
+      "title": "Middle East conflict: Trump says Iran Task Force Iron Gate is in effect, expects Xi and Putin meeting next week",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-task-force-iron-gate-is-in-effect-expects-xi-and-putin-meeting-next-week-1.500740691",
+      "date": "2026-11-09",
+      "singleSource": false
+    },
+    {
+      "id": 209,
+      "outlet": "RTÉ",
+      "title": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz attacks",
+      "url": "https://www.rte.ie/news/business/2026/1109/1598486-world-oil-prices/",
+      "date": "2026-11-09",
+      "singleSource": false
+    },
+    {
+      "id": 210,
+      "outlet": "Kyiv Post",
+      "title": "Russia Sends High-Level Delegation to Abu Dhabi Talks",
+      "url": "https://www.kyivpost.com/post/89466",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 211,
+      "outlet": "Euronews",
+      "title": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
+      "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 212,
+      "outlet": "The Jerusalem Post",
+      "title": "'Unconventional steps required': Eisenkot vows to form emergency gov't as Herzog bestows mandate",
+      "url": "https://www.jpost.com/israel-election-2026/article-914236",
+      "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 213,
+      "outlet": "Middle East Monitor (Anadolu)",
+      "title": "2 Gazans killed, 12 others wounded in continued Israeli attacks",
+      "url": "https://www.middleeastmonitor.com/20261108-2-gazans-killed-12-others-wounded-in-continued-israeli-attacks/",
+      "date": "2026-11-08",
+      "singleSource": true
+    },
+    {
+      "id": 214,
+      "outlet": "TechCrunch",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "date": "2026-11-07",
+      "singleSource": false
+    },
+    {
+      "id": 215,
+      "outlet": "The National",
+      "title": "Aramco building in Riyadh damaged in attempted attack, ministry says",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh/",
+      "date": "2026-11-08",
       "singleSource": false
     }
   ]

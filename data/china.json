@@ -1,53 +1,61 @@
 {
-  "date": "2026-11-08",
-  "summary": "Before Double 11, Chinese shoppers stock up on AI 'tokens'; AI-made short dramas flood screens; and a professor's death exposes pay-to-publish research quotas.",
+  "date": "2026-11-09",
+  "summary": "China's exports and car sales abroad boom while shoppers at home hold back before Double 11, AI chips sit in Hong Kong, and a Pakistani astronaut heads to Tiangong.",
   "body": [
-    "Ahead of Double 11 (Nov 11), China's biggest online sale, AI is being sold like a household good. Shoppers can buy packages of \"tokens\", the units of text an AI model processes, from Alibaba, MiniMax, Moonshot, DeepSeek and others on Tmall and JD.com, Reuters reports.[^1] Livestream star Austin Li sold 100,000 monthly memberships for an Alibaba office AI tool in half an hour, Alibaba says.[^1] An analyst warned buyers may hesitate to prepay for services that could soon be replaced.[^1]",
-    "AI is also changing entertainment. China's TV and online video regulator says nearly 550,000 short dramas, series of episodes a minute or two long watched on phones, were released in the first ten months of 2026, about 17 times last year's number, Caixin reports; Caixin's summary says most were made with AI.[^3] Traditional TV makers are on the defensive.[^3] Separately, lidar, the laser sensors that help cars \"see\" in 3D, now appears on Chinese cars costing 60,000 to 80,000 yuan (about $11,000 to $15,000 CAD), as prices have fallen by about three-quarters in three years, the maker Hesai says.[^4]",
-    "Daily life: the death in October of Bai Baoguo, a music professor at Yan'an University, has drawn attention to research quotas. Caixin reports his final letter says he would have had to pay about 200,000 yuan of his own money to fund and publish research to keep his job, and other teachers describe similar \"pay to work\" pressure.[^5] Shaanxi's education department has set up an investigation; the claims have not been verified.[^5] China's October trade figures are due Nov 10."
+    "Two Chinas show up in this week's numbers. Abroad, business is booming: economists polled by Reuters expect October exports, due Tuesday, to be about a third higher than a year ago, and China's trade surplus this year is on track to pass $1 trillion, helped by the global AI building boom.[^1] Car exports jumped 68% to 932,000 in October, but car sales inside China fell 27%, the 12th monthly drop in a row, according to the China Passenger Car Association.[^2]",
+    "At home, people are cautious. Ahead of Double 11 (Nov 11), the biggest online shopping day, the South China Morning Post reports shoppers are tuning out: retail sales grew just 1.1% in the first three quarters.[^4] Second-hand home prices in 100 cities fell 6.7% from a year earlier, and families are rushing to pay off mortgages early; at three state banks in Shanghai, early repayments now top 2 billion yuan a month at each.[^4] My read: when home values fall, people save instead of spend, which is why China leans on exports.",
+    "In technology, about 600,000 Nvidia H200 AI chips are sitting in Hong Kong because Beijing has not approved large-scale imports, Reuters reports, as China pushes Alibaba, ByteDance, Tencent and DeepSeek to use Chinese-made chips.[^3] And in space, a Pakistani astronaut will fly to China's Tiangong space station on Shenzhou-24, the first foreign visitor to the station, AFP says; Pakistan's planning minister names Nov 25 as the date.[^5]"
   ],
   "differences": null,
   "reads": [
     {
-      "title": "Chinese App Tracking Hotel Pests Returns After Some Debugging",
+      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
       "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019216/chinese-app-tracking-hotel-pests-returns-after-some-debugging",
+      "url": "https://www.sixthtone.com/news/1019154/in-stitches%3A-why-young-chinese-are-buying-clothes-they-can-throw-away-",
       "kind": "news",
-      "summary": "A young factory worker built a bedbug-reporting app with AI; it drew 300,000 users, then refund fights. A story about trust, apps and reviews."
+      "summary": "Young people buy outfits for under 50 yuan to wear once on a trip or for social media. A look at cheap fashion, skin worries and textile waste."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Aaj English TV (Reuters)",
-      "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-      "url": "https://english.aaj.tv/news/330479157/chinas-lipstick-king-touts-ai-tokens-in-first-for-singles-day-festival",
-      "date": "2026-11-03",
+      "outlet": "Investing.com (Reuters)",
+      "title": "China's export growth expected to have remained strong in October: Reuters poll",
+      "url": "https://www.investing.com/news/economy-news/chinas-export-growth-expected-to-have-remained-strong-in-october-reuters-poll-5010623",
+      "date": "2026-11-09",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "AOL (Reuters)",
+      "title": "China's October car exports stay resilient",
+      "url": "https://www.aol.com/articles/chinas-october-car-exports-stay-051235000.html",
+      "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Caixin Global",
-      "title": "China's Short Drama Boom Puts TV Show Creators on the Defensive",
-      "url": "https://www.caixinglobal.com/2026-11-05/chinas-short-drama-boom-puts-tv-show-creators-on-the-defensive-102501384.html",
-      "date": "2026-11-05",
+      "outlet": "The Next Web (Reuters)",
+      "title": "Nvidia H200 chips pile up in Hong Kong as Beijing holds back, Reuters says",
+      "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval",
+      "date": "2026-11-06",
       "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Caixin Global",
-      "title": "Chinese Lidar-Maker Hesai Eyes Growth Overseas, Where Adoption Lags",
-      "url": "https://www.caixinglobal.com/2026-11-05/chinese-lidar-maker-hesai-eyes-growth-overseas-where-adoption-lags-102501402.html",
+      "outlet": "The Korea Times (SCMP)",
+      "title": "Why are Chinese consumers tuning out of annual online shopping festival?",
+      "url": "https://www.koreatimes.co.kr/world/20261105/why-are-chinese-consumers-tuning-out-of-annual-online-shopping-festival",
       "date": "2026-11-05",
       "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "Caixin Global",
-      "title": "In Depth: Chinese Professor's Death Draws Attention to Faculty Paying to Meet Research Quotas",
-      "url": "https://www.caixinglobal.com/2026-11-06/in-depth-chinese-professors-death-draws-attention-to-faculty-paying-to-meet-research-quotas-102501691.html",
-      "date": "2026-11-06",
-      "singleSource": true
+      "outlet": "Dawn (AFP)",
+      "title": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
+      "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+      "date": "2026-11-07",
+      "singleSource": false
     }
   ]
 }
