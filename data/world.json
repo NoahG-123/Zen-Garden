@@ -1,437 +1,298 @@
 {
-  "date": "2026-11-09",
-  "summary": "A softer US tone on Iran as oil falls, a coalition race in Israel, a senior Russian team for Abu Dhabi talks, missiles over Riyadh, and COP31 opens.",
+  "date": "2026-11-10",
+  "summary": "Trump talks up momentum on Iran, three-way Ukraine talks open in Abu Dhabi, Israel's new Knesset sits, China's surplus tops $1 trillion, and COP31 begins.",
   "question": {
-    "type": "second-order",
-    "text": "Dozens of US towns just voted to limit AI data centres over power and water. If many more places do the same, what might happen two or three steps later, for where AI is built, what it costs, and who pays for electricity?"
+    "type": "how-do-we-know",
+    "text": "Trump says the Iran war is \"effectively over\" and that there is momentum toward a deal, while Iran says there are no real talks. Without inside access, what evidence in the coming weeks would tell you which description is closer to the truth?"
   },
   "read": {
-    "title": "Interactive: Who wants what at the COP31 climate change summit",
-    "outlet": "Carbon Brief",
-    "url": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit",
-    "kind": "analysis",
-    "minutes": 12,
-    "summary": "A clear map of the main fights at COP31, from finance and adaptation to fossil fuels, and where about 100 countries and blocs stand on each."
+    "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+    "kind": "news",
+    "minutes": 8,
+    "summary": "A clear explainer of where US-Iran talks stand: Iran's seven conditions, the US position, and why Qatar is the go-between."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "tankers-burn-trump-plays-down-strikes",
-      "heading": "Tankers burn near Hormuz as Trump calls new strikes on Iran \"highly unlikely\"",
-      "date": "2026-11-08",
+      "id": "trump-qatar-iran-positive-momentum",
+      "heading": "Trump sees \"positive momentum\" on Iran after meeting Qatar's prime minister",
+      "date": "2026-11-09",
       "status": "developing",
-      "summary": "Several ships caught fire in and near the Strait of Hormuz over the weekend, and Iran's Revolutionary Guards and a shipping monitor give different accounts.[^2][^4] Trump says new US strikes are \"highly unlikely\" if talks progress and meets Qatar's prime minister on Monday; oil fell again.[^5][^3][^8]",
+      "summary": "After White House talks with Qatar's prime minister, the main go-between, Trump said the war was \"effectively over\" militarily and new strikes were unlikely for now.[^1][^3] Iran's top security official told the US to stop talking about \"imaginary talks\" and accept Tehran's seven conditions.[^3]",
       "lead": {
-        "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, 'denuclearisation'",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
-        "date": "2026-11-09"
+        "title": "Trump claims war 'effectively over', Iran presses on conditions",
+        "outlet": "The New Arab",
+        "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+        "date": "2026-11-10"
       },
       "alsoReported": [
         {
-          "title": "Iran live updates: Americans are tired of 'Forever Wars,' Araghchi says",
-          "outlet": "ABC News (US)",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256"
+          "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
         },
         {
-          "title": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz attacks",
-          "outlet": "RTÉ",
-          "url": "https://www.rte.ie/news/business/2026/1109/1598486-world-oil-prices/"
+          "title": "Live blog, November 10, 2026",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-10-2026/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Over the weekend, several ships caught fire in and near the Strait of Hormuz, the narrow sea lane that carried about a fifth of the world's oil and gas shipments before the war began on Feb 28.[^8] Iran's Revolutionary Guards (IRGC) first said two tankers hit mines on an \"unauthorised route\", then said three were on fire.[^2] The UK's maritime monitor, UKMTO, reported one tanker hit by an \"unknown projectile\" and a separate fire off Khasab in Oman, with crews safe, and the UAE rescued 22 sailors from a burning cargo ship.[^2][^4]",
-        "The US is tightening pressure. The White House says Task Force Iron Gate, which aims to choke Iran's land and sea supply routes, is in \"full force and effect\"; the IRGC calls it \"a play on words\".[^2][^3] A drone of unknown origin hit the Khor Mor gas field in Iraqi Kurdistan, and the regional government says it lost about 2.8 gigawatts of power generation.[^3]",
-        "Yet Washington's tone has softened. President Trump told CNN that a return to war is \"highly unlikely\" if talks on Iran's nuclear programme and on reopening Hormuz make progress, and he meets Qatar's prime minister, the main mediator, at the White House on Monday.[^8][^3] He says he will discuss Iran with Xi Jinping and Vladimir Putin at next week's APEC summit in China.[^5][^3] Iran's foreign minister, Abbas Araghchi, says Iran's proposal stands but the US must first meet its conditions, including an end to the war \"on all fronts\".[^4]",
-        "G7 foreign ministers meeting in Paris on Nov 9-10 want shipping back to normal and no new US strikes.[^6] Markets are betting on calm: Brent crude, the global oil benchmark, fell about 16% last week, its steepest weekly drop since early in the pandemic, and slipped below $97 a barrel on Monday.[^7][^8] An analyst told The National prices could fall further if calm holds but warned new attacks could reverse that.[^8] My read: talk and pressure now run side by side, and the test this week is whether Qatar's visit turns softer words into a date for direct talks."
+        "On Monday, President Trump met Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, at the White House. Qatar carries messages between Washington and Tehran. Afterwards Trump wrote that they had \"an excellent conversation\" about Iran, said there was \"positive momentum\" toward ending the conflict, and called the war \"effectively over\" in military terms, while keeping new strikes as an option.[^1] He wrote that Gulf states \"would prefer the status quo\" and told Reuters the US is still \"ready to go anytime\".[^3]",
+        "The meeting followed a week of mixed signals. Iran sent a new proposal through Qatar, but says it can be discussed only after the US meets seven demands, including lifting sanctions, releasing frozen funds, cutting US forces in the region, recognising an Iran-Oman shipping route through Hormuz, and ending the war \"on all fronts\", including Israel's strikes on Lebanon.[^2] Secretary of State Marco Rubio called those demands \"outrageous and ridiculous\" and said there was no breakthrough close.[^2]",
+        "Iran's reply was cool. Mohsen Rezaei, head of its Supreme National Security Council, told Washington to stop \"manufacturing fake news about imaginary talks\" and to accept the seven conditions.[^3] The Financial Times reported that Israel's Prime Minister Netanyahu has urged Trump to restart the war, while Arab leaders urge talks; that report comes from unnamed sources.[^3] The Qatari prime minister was due to meet European and Saudi ministers on the sidelines of the G7 in Paris on Tuesday.[^1]",
+        "My read: both sides now describe the pause as something they can live with, but neither has moved on the core issues, Iran's nuclear material and control of Hormuz. A real test would be whether direct talks resume, or the US naval blockade is eased, in the coming weeks."
       ],
-      "differences": "The IRGC blames mines on routes it had warned ships away from; UKMTO describes a projectile strike, and no outside source has confirmed what caused each fire.[^2][^4] Trump says Iran wants a deal \"very badly\"; Araghchi says the US must meet Iran's requirements first.[^6][^4]"
+      "differences": "Trump says there is \"positive momentum\" and a \"good chance\" of a deal.[^1][^3] Rubio said a day earlier that talks had not progressed.[^2] Iran's Rezaei says there are no real talks until the US accepts Iran's conditions.[^3]"
     },
     {
-      "id": "eisenkot-gets-mandate-knesset-tuesday",
-      "heading": "Eisenkot formally gets the mandate to form Israel's government; Knesset sits Tuesday",
-      "date": "2026-11-08",
-      "status": "confirmed",
-      "summary": "President Herzog formally handed Gadi Eisenkot the mandate on Sunday, giving him 28 days, plus up to 14 more, to build a 61-seat majority.[^9][^10] He meets Avigdor Liberman on Monday, and the new Knesset is sworn in on Tuesday.[^11] In Lod, police arrested 11 people after a far-right march through an Arab neighbourhood ended in a brawl.[^12]",
-      "lead": {
-        "title": "'Unconventional steps required': Eisenkot vows to form emergency gov't as Herzog bestows mandate",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-election-2026/article-914236",
-        "date": "2026-11-08"
-      },
-      "alsoReported": [
-        {
-          "title": "President Herzog taps Eisenkot to form coalition, but path remains fraught",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
-        },
-        {
-          "title": "11 arrested in Lod brawl after far-right 'sovereignty march' in Arab neighborhood",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/11-arrested-in-lod-brawl-after-far-right-sovereignty-march-in-arab-neighborhood"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "At the President's Residence in Jerusalem on Sunday, Isaac Herzog formally asked Gadi Eisenkot, the former army chief who leads the Yashar party, to form Israel's next government.[^9] Herzog said Eisenkot has the \"clear and unequivocal support\" of a majority: 67 of 120 lawmakers recommended him, including the two Arab-led parties, against 46 for Benjamin Netanyahu.[^9] Eisenkot said \"creative and unconventional\" steps would be needed and called for a \"national emergency government\".[^9]",
-        "Recommending someone is not the same as joining his government. Eisenkot's own bloc has 48 seats and Netanyahu's 53.[^9] One route to 61 adds the two ultra-Orthodox parties, but Shas calls reports it could join \"total fake news\".[^10] Another relies on Arab parties backing him from outside: Haaretz reports that Ra'am would, but Avigdor Liberman, whose party is in Eisenkot's bloc, rules out any government that depends on them.[^13][^11] The two men meet on Monday.[^11] Eisenkot has also invited Likud members, though not Netanyahu, to join.[^10]",
-        "Netanyahu instead calls for a \"national unity government\" with his far-right and ultra-Orthodox allies, warning that Israel \"simply won't survive\" otherwise; Eisenkot's party called his message \"hysterical\".[^10] National Security Minister Itamar Ben Gvir has called the Oct 27 election \"stolen\" without offering evidence.[^13]",
-        "Tensions showed on the street. Late Sunday, far-right activists led a \"sovereignty march\" through an Arab neighbourhood of Lod, a mixed Arab-Jewish city near Tel Aviv. Police arrested 11 people after a brawl; the mayor said there were injuries and arrests on both sides, and police denied reports of a stabbing.[^12] In Gaza, local medical sources say Israeli strikes killed two people on Sunday, and Gaza's health ministry counts 1,610 deaths since the truce began in October 2025.[^14] My read: a new government will take weeks, and how it is built will shape both Gaza policy and Arab-Jewish relations inside Israel."
-      ],
-      "differences": "Eisenkot's camp says a clear majority asked for change; Netanyahu says a government relying on Arab parties would endanger Israel.[^9][^10] Inside Eisenkot's bloc, Liberman and other hawks oppose relying on Arab parties, while Haaretz reports Ra'am is ready to back him.[^11][^13]"
-    },
-    {
-      "id": "russia-senior-team-abu-dhabi-talks",
-      "heading": "Russia sends a senior team to Abu Dhabi talks as strikes cut power to 850,000",
-      "date": "2026-11-08",
+      "id": "abu-dhabi-trilateral-talks-begin",
+      "heading": "US, Russia and Ukraine begin their first three-way talks since February in Abu Dhabi",
+      "date": "2026-11-10",
       "status": "developing",
-      "summary": "Russia has upgraded its team for US-mediated talks with Ukraine in Abu Dhabi on Nov 10-11, the first three-way talks since February.[^17] Over the weekend, Russian strikes left about 850,000 Ukrainians without power, and Ukraine says Moscow is raising pressure before the talks.[^15][^16]",
+      "summary": "Delegations from the US, Russia and Ukraine opened two days of talks in Abu Dhabi focused on security guarantees, the first such meeting since February.[^5][^6] Europe is present on the sidelines, and both sides still disagree sharply on territory.[^7][^8]",
       "lead": {
-        "title": "Russia Sends High-Level Delegation to Abu Dhabi Talks",
-        "outlet": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/89466",
-        "date": "2026-11-08"
+        "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+        "outlet": "CBS News",
+        "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+        "date": "2026-11-10"
       },
       "alsoReported": [
         {
-          "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+          "title": "Russia and Ukraine security-focused talks start in Abu Dhabi",
+          "outlet": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/"
         },
         {
-          "title": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+          "title": "Russia, Ukraine, and the U.S. to hold peace talks in Abu Dhabi on November 10",
+          "outlet": "Meduza",
+          "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Tuesday and Wednesday, negotiators from Ukraine, Russia and the US meet in Abu Dhabi, the capital of the United Arab Emirates.[^17] Russia's team is led by presidential aide Vladimir Medinsky and now includes two deputy foreign ministers and the head of military intelligence; Bloomberg and Reuters, as cited by the Kyiv Post, say the upgrade may signal more serious engagement.[^17] Ukraine's team is led by former defence minister Rustem Umerov.[^29]",
-        "The fighting has not paused. Russian strikes on the power grid on Saturday left more than 600,000 people without electricity in the Dnipropetrovsk region and about 250,000 in the Kharkiv region, where power was later restored, according to the energy company DTEK and officials.[^15][^16] Russia's defence ministry says it will keep striking energy sites it calls linked to the military.[^15] President Zelensky says Russia used about 115 missiles, 1,900 guided bombs and over 3,000 drones in a week, and accuses Moscow of escalating to pressure Kyiv before the talks.[^16]",
-        "The gaps are wide. Russia rejects an unconditional ceasefire and demands that Ukraine give up all of the Donbas region, including land Ukraine still holds.[^29] On the US side, Jared Kushner has proposed a five-part framework for European security, which Kyiv and European capitals say lacks ways to enforce it.[^17] President Trump says both sides \"for the first time want to make a deal\".[^17] France's foreign minister says Europeans will be represented in Abu Dhabi, and European ministers at the G7 in Paris plan to press the US not to push Ukraine into bad terms.[^6]",
-        "What to watch: whether the talks produce something limited but real, such as a pause in energy strikes or a prisoner exchange. My read: a full settlement is unlikely this week, because the two sides still disagree on territory and on who would guarantee any deal."
+        "Talks between the United States, Russia and Ukraine began in Abu Dhabi on Tuesday and are planned to run two days.[^5] They are the first three-way meeting since February; diplomacy largely stalled after the US went to war with Iran.[^5] US envoys Steve Witkoff and Jared Kushner lead the American side, and a US official said they expect to cover security guarantees, meaning promises about who would defend Ukraine against a future attack.[^6]",
+        "The delegations are senior. Russia's is led by presidential aide Vladimir Medinsky with two deputy foreign ministers and the head of military intelligence; Ukraine's is led by foreign intelligence chief Rustem Umerov.[^7] European officials from the EU, NATO, Germany, France and the UK are in Abu Dhabi for separate meetings but are not at the main table, which the Kremlin insists is three-way.[^7][^8]",
+        "The gaps are wide. Russia demands that Ukraine leave four regions, including areas Russia has not captured, drop its NATO bid and accept limits on its army.[^5] President Zelenskyy rejects giving up territory and says Ukraine needs firm guarantees and a ceasefire first.[^5] Trump says he believes the war will \"end soon\"; a senior Ukrainian lawmaker told ABC he expects little beyond possible prisoner swaps.[^8] Overnight, Ukraine's air force said Russia launched 162 drones and a missile.[^8]",
+        "At the G7 meeting in Paris, European ministers pressed Rubio to make any deal fair to Ukraine, and Germany's foreign minister said Europe \"must have a place at the table\".[^4] Canada announced new sanctions on 38 entities and 24 people.[^4] My read: a limited result, such as a prisoner exchange or an energy truce, is more plausible this week than a breakthrough on borders."
       ],
-      "differences": "Russia says its strikes hit energy sites tied to Ukraine's military; Ukraine says they aim to black out civilians before winter.[^15][^16] Trump says both sides now want a deal; Kyiv and European capitals say the US security framework lacks enforcement.[^17]"
+      "differences": "Kushner calls the talks a first step that could \"build momentum\".[^5] Moscow says the talks are strictly three-way, while France says Europe will be represented.[^8][^4] Ukrainian MP Oleksandr Merezhko has \"absolutely no hopes\" beyond prisoner swaps.[^8]"
     },
     {
-      "id": "houthi-missiles-riyadh-aramco-tower",
-      "heading": "Houthi missiles aimed at Riyadh damage an Aramco tower as Saudi strikes hit Yemen",
-      "date": "2026-11-08",
+      "id": "knesset-sworn-in-eisenkot",
+      "heading": "Israel's new Knesset is sworn in as Eisenkot searches for 61 seats",
+      "date": "2026-11-10",
       "status": "developing",
-      "summary": "Saudi Arabia says it intercepted missiles fired by Yemen's Houthi movement at Riyadh and the oil-rich east, and falling debris damaged an Aramco office building without injuring anyone.[^18][^19] The Houthi-run health ministry says Saudi strikes near Sanaa killed at least 33 people.[^18]",
+      "summary": "Israel's new 120-seat parliament was due to be sworn in on Tuesday, with neither Netanyahu's bloc nor Gadi Eisenkot's holding a majority.[^9] Eisenkot has the first chance to form a government, and his opposition plans to name Matan Kahana as speaker.[^9]",
       "lead": {
-        "title": "Aramco building in Riyadh damaged in attempted attack, ministry says",
-        "outlet": "The National",
-        "url": "https://www.thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh/",
-        "date": "2026-11-08"
+        "title": "New Israel parliament to be sworn in as Eisenkot seeks government",
+        "outlet": "Al-Monitor (AFP)",
+        "url": "https://www.al-monitor.com/originals/2026/11/new-israel-parliament-be-sworn-eisenkot-seeks-government",
+        "date": "2026-11-10"
       },
-      "alsoReported": [
-        {
-          "title": "Saudi Aramco tower damaged after Houthi missile attacks on Riyadh",
-          "outlet": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh"
-        }
-      ],
-      "eventId": "iran-war",
+      "alsoReported": [],
+      "eventId": "gaza",
       "article": [
-        "On Sunday, the Saudi-led coalition fighting in Yemen said it shot down two ballistic missiles aimed at Riyadh, then two cruise missiles, plus another ballistic missile aimed at the Eastern Province, home to much of the kingdom's oil industry.[^18][^19] Saudi Arabia's energy ministry says falling fragments caused minor damage to an office building of Aramco, the state oil company, and no one was hurt. A Reuters witness saw windows blown out on several floors of the Aramco tower in Riyadh's financial district.[^18][^19]",
-        "The Houthis, an armed movement that controls Yemen's capital, Sanaa, and much of the north, claim six attacks on Riyadh's main airport and several oil sites; these claims have not been independently verified.[^18][^19] Their spokesman says attacks will continue until what he calls the \"aggression\" and blockade end.[^18] The Houthi-run health ministry says Saudi air strikes on Saturday killed at least 33 people near Sanaa and wounded 39; Saudi authorities say they are investigating.[^18]",
-        "Some background: Saudi Arabia and the Houthis largely stopped fighting under a UN-brokered truce in 2022. That calm collapsed when fighting resumed in July, and Yemen's internationally recognised government launched an offensive on Sanaa last month.[^18][^19] The Houthis are long-time allies of Iran, so this front is tied to the wider Iran war.",
-        "Why it matters: Saudi Arabia is one of the world's largest oil exporters, and attacks near its oil sites can move prices everywhere. My read: even when damage is small, missiles over Riyadh show the Gulf war has more than one front, which would make any US-Iran deal harder to make stick."
+        "Israel's 26th Knesset, elected last month, was due to be sworn in on Tuesday, with President Isaac Herzog speaking at the opening session.[^9] The result left neither main camp with the 61 votes needed for a government. Herzog gave opposition leader Gadi Eisenkot, a former army chief, the first mandate on Sunday, starting a 28-day clock that can be extended by 14 days.[^9]",
+        "Eisenkot's core bloc has 48 seats, according to AFP. He could reach a majority with the 19 Arab-Israeli lawmakers, most likely by having them vote for a government without joining it.[^9] But Avigdor Lieberman, a key ally, says he will not let Eisenkot rely on Arab parties and has suggested a deal with the two ultra-Orthodox parties, which hold 13 seats and have backed Netanyahu until now.[^9]",
+        "In the meantime the opposition plans to use its numbers in parliament. It will nominate Matan Kahana, a former senior military figure, as speaker and Lieberman to chair the foreign affairs and defence committee.[^9] One stated priority is a state commission of inquiry into the security failures that allowed the October 7, 2023 Hamas attack, which Netanyahu has resisted.[^9]",
+        "Why it matters beyond Israel: the next government will decide how Israel handles the stalled next phase of the Gaza ceasefire and the war with Iran. AFP notes Eisenkot has largely supported past war decisions but promises to act against extremist settlers in the West Bank.[^9] My read: the coalition maths may take most of the 28 days, and a second election cannot be ruled out."
       ],
-      "differences": "The Houthis claim strikes on an airport and several oil facilities; Saudi Arabia says its defences intercepted the missiles and reports only minor damage from debris.[^18][^19] The death toll near Sanaa comes from the Houthi-run health ministry and has not been independently confirmed.[^18]"
+      "differences": null
     },
     {
-      "id": "cop31-opens-climate-finance-fight",
-      "heading": "COP31 opens in Antalya with a fight over climate money and a warning on extremes",
-      "date": "2026-11-09",
-      "status": "developing",
-      "summary": "The UN climate summit opened in Turkey about 90 minutes late after overnight arguments over putting climate finance on the official agenda.[^20] UN chief António Guterres said the world has entered \"a new age of climate extremes\", as the WMO says 2026 is among the four hottest years on record.[^21]",
+      "id": "china-trade-surplus-1-trillion",
+      "heading": "China's trade surplus passes $1 trillion for a second year as exports jump 35%",
+      "date": "2026-11-10",
+      "status": "confirmed",
+      "summary": "China's customs data show October exports up 35.2% from a year ago and a surplus of $1.04 trillion for January to October, led by chips and cars.[^10] Economists say weak demand at home keeps China leaning on sales abroad, ahead of Trump-Xi talks next week.[^10]",
       "lead": {
-        "title": "COP31 opens with early fight over climate finance",
-        "outlet": "Kuwait Times (AFP)",
-        "url": "https://kuwaittimes.com/article/53287/world/cop31-opens-with-early-fight-over-climate-finance/",
+        "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+        "outlet": "ClickOnDetroit (AP)",
+        "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
+        "date": "2026-11-10"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "China's customs agency said on Tuesday that exports in October were 35.2% higher than a year earlier, and imports rose 41.6%.[^10] That pushed the trade surplus, the amount by which exports exceed imports, to $1.04 trillion for the first ten months of 2026, the second year in a row above $1 trillion. China is on track to beat last year's record of about $1.2 trillion.[^10]",
+        "The details show what the world is buying. Chinese semiconductor exports rose 137% in value in October and car exports 37.6%, as the global AI building boom pulls in electronics.[^10] Exports to the US rose 32.9% and to the EU 24.3%. Imports grew partly because crude oil shipments from the Persian Gulf recovered.[^10]",
+        "Economists see a problem underneath the strength. Alicia García-Herrero of Natixis says overcapacity, high savings and weak spending at home keep China exporting, and calls this \"not sustainable\".[^10] Small exporters describe fierce price wars. An economist at Moody's Analytics expects exports to stay strong this year, but names an AI slowdown and new EU trade limits as risks.[^10]",
+        "Trade is expected to top the agenda when Trump and Xi Jinping meet next week at the APEC summit in Shenzhen; a trade truce was recently extended to January.[^10] My read: a surplus this big makes other countries more likely to add tariffs, which is one of the main pressures to watch in 2027."
+      ],
+      "differences": null
+    },
+    {
+      "id": "cop31-opens-antalya",
+      "heading": "COP31 opens in Antalya with its host saying 1.5C will be overshot",
+      "date": "2026-11-09",
+      "status": "confirmed",
+      "summary": "The UN climate summit opened in Turkey after a year of deadly extremes, and its president said it is now clear the world will pass 1.5C of warming.[^11] Poorer countries want clarity on money; the US is not taking part.[^11][^12]",
+      "lead": {
+        "title": "COP31 climate summit begins after disastrous year of extreme weather",
+        "outlet": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather",
         "date": "2026-11-09"
       },
       "alsoReported": [
         {
-          "title": "World enters 'new age of climate extremes', UN chief tells COP31",
-          "outlet": "Malay Mail (AFP)",
-          "url": "https://www.malaymail.com/news/world/2026/11/09/world-enters-new-age-of-climate-extremes-un-chief-tells-cop31/242598"
-        },
-        {
-          "title": "Ankara's COP31 message: electrify, recycle, don't mention coal",
-          "outlet": "Turkish Minute (AFP)",
-          "url": "https://turkishminute.com/2026/11/09/ankaras-cop31-message-electrify-recycle-dont-mention-coal"
+          "title": "COP31 enters 2nd day with focus on energy, transport",
+          "outlet": "Hürriyet Daily News",
+          "url": "https://www.hurriyetdailynews.com/cop31-enters-2nd-day-with-focus-on-energy-transport-229217"
         }
       ],
       "eventId": null,
       "article": [
-        "COP31, this year's UN climate summit, runs in Antalya, Turkey, from Nov 9 to 20, with Turkey as host and Australia leading the formal negotiations, an unusual shared arrangement.[^20] The opening started about 90 minutes late without explanation, after talks late on Sunday over developing countries' demand to put climate finance (money from richer countries to help poorer ones cut emissions and adapt) on the official agenda.[^20] A source told AFP a finance work programme will be included, but African countries did not win a separate item on tripling money for adaptation.[^20]",
-        "Guterres told delegates that \"a supersized El Niño is colliding with a planet already superheated\".[^21] The World Meteorological Organization (WMO) says global temperatures from January to September were about 1.47°C above pre-industrial levels, and that this El Niño, a natural warming of the Pacific that heats the whole planet, is likely the strongest since at least 1950.[^21] One hopeful figure: countries with early warning systems for several hazards rose from 55 in 2015 to 136.[^21]",
-        "Turkey's main proposal is a voluntary \"35 by 35\" goal: electricity would supply 35% of the world's final energy use by 2035, up from about one-fifth today, according to the International Energy Agency.[^22] COP31's president, Murat Kurum, says electrification protects communities from volatile markets and cuts emissions.[^22] Critics, including Greenpeace Turkey, note the goal does not require the extra electricity to be clean, and Turkey still gets about a third of its own power from coal.[^22][^23]",
-        "The US government sent no officials, though a congressional delegation is attending, and the war around Hormuz hangs over the energy talks.[^20][^22] A senior EU official warned there is \"no political will\" for new funding pledges.[^20] My read: the real test is whether money for poorer countries moves at all; an electricity target is easier to agree than who pays."
+        "COP31, the yearly UN climate summit, opened in Antalya, Turkey, on Monday and runs to November 20.[^11] About 68,500 people have registered. Turkey hosts the meeting, while Australia leads the formal negotiations; the United States is absent, having pulled out of the climate talks.[^11]",
+        "The mood is sober. Turkey's environment minister Murat Kurum, the COP president, said this is the first COP where it is \"clear beyond a reasonable doubt\" that the world will overshoot the 1.5C limit set in Paris in 2015.[^11] UN climate chief Simon Stiell called the climate crisis \"a global health crisis\" and framed the choice as \"electric or shock\", pointing to how the Iran war has driven up fuel and fertiliser prices.[^11]",
+        "Kurum wants this summit to turn past promises into action rather than set new targets, with an \"Action Agenda\" on methane and resilient cities and a goal to raise electricity's share of energy use from 21% to 35% by 2035.[^11] The second day focused on energy security, power grids and transport, with about 370 sessions.[^12]",
+        "The main fight is money. Developing countries want rich ones to say how they will pay for adaptation; Meena Raman of Third World Network said the poorest countries \"shouldn't have to borrow their way through it\".[^11] The African Group's agenda proposals are contested by the EU and Canada, an adviser to African negotiators said.[^11] Leaders speak on Nov 11-12."
       ],
-      "differences": "Turkey says electrification is \"the answer\"; the EU wants the goal tied to clean power, and climate groups say that without it the goal could lock in coal and gas.[^20][^22][^23] Pacific island states want a clear roadmap away from fossil fuels, while Saudi Arabia and other producers say fossil fuels can stay if paired with carbon capture.[^22]"
+      "differences": null
     },
     {
-      "id": "us-voters-limit-ai-data-centres",
-      "heading": "US voters back local limits on AI data centres, and tech stocks swing",
-      "date": "2026-11-07",
+      "id": "fossil-emissions-dip-2026",
+      "heading": "Scientists project fossil CO2 emissions will dip in 2026, partly due to the Iran war",
+      "date": "2026-11-10",
       "status": "confirmed",
-      "summary": "In the Nov 3 elections, voters passed 39 local measures restricting AI data centres, and the Nasdaq fell sharply on Nov 5 before chip stocks recovered on Nov 6.[^26][^28] AI companies now face local worries about power, water and secret deals.[^24]",
+      "summary": "The Global Carbon Budget projects fossil CO2 emissions will fall 0.4% in 2026, helped by solar and wind and by the oil shock from the Iran war.[^13][^14] Its authors warn a fall caused by a crisis is not a lasting solution.[^13]",
       "lead": {
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "outlet": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-        "date": "2026-11-07"
+        "title": "Fossil CO2 emissions decrease in 2026",
+        "outlet": "University of Exeter",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+        "date": "2026-11-10"
       },
       "alsoReported": [
         {
-          "title": "AI stocks plunge after US election, driving down markets",
-          "outlet": "Al Jazeera (Reuters)",
-          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets"
-        },
-        {
-          "title": "Americans overwhelmingly voted against data centers in the midterms",
-          "outlet": "Engadget",
-          "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/"
+          "title": "Iran war disruption expected to curb global fossil fuel emissions, scientists say",
+          "outlet": "A News (Anadolu Agency)",
+          "url": "https://www.anews.com.tr/middle-east/2026/11/10/iran-war-disruption-expected-to-curb-global-fossil-fuel-emissions-scientists-say"
         }
       ],
-      "eventId": "ai-race",
+      "eventId": "iran-war",
       "article": [
-        "Data centres are huge buildings full of computer chips that train and run AI systems, and they use large amounts of electricity and, in some places, water. In last week's US elections, voters decided 45 local ballot measures about them, and 39 restrictive measures passed, according to Reuters as published by Al Jazeera; only North Dakota voted against restrictions.[^26] The measures included bans, pauses on new building, energy-use limits and requirements for public approval; restrictions won all 20 votes in Ohio, Engadget reports.[^27]",
-        "Investors reacted. On Nov 5 the tech-heavy Nasdaq index fell about 4.8% at midday, its steepest drop since April 2025, with chipmaker Nvidia down 8.2%.[^26] The bank UBS estimates construction pauses could put about 30% of planned new US data-centre capacity for 2028 at risk.[^26] The next day, chip stocks rebounded about 4%, helped by strong US jobs numbers.[^28]",
-        "TechCrunch reports that measures to speed up building were \"nearly all defeated\", and that local concerns include secret deals, officials signing non-disclosure agreements, and water use in the dry Southwest. OpenAI has responded with a blueprint for \"compute campuses\" without such agreements.[^24] Separately, the Justice Department launched a \"Super Intelligence Task Force\" to pursue foreign state actors, criminal groups and AI-enabled fraud.[^25]",
-        "How much this moved voters is debated. An NBC exit poll found 56% of voters called AI and data centres a crucial or major factor, but a TechCrunch editor argues it was not the main driver of the results, even if it is a grassroots issue in both parties.[^27][^24] My read: the AI boom depends on building in real towns, and local consent is becoming as real a limit as chips or money."
+        "An international team of scientists, the Global Carbon Project, published its yearly estimate on Tuesday. It projects that carbon dioxide from burning fossil fuels will fall 0.4% in 2026, to 38.2 billion tonnes.[^13] Emissions from oil are expected to drop 1.9%, likely a short-term response to the energy shock from the Iran war, while gas falls 0.3% and coal rises 0.6%.[^13][^14]",
+        "Countries move in different directions. The study projects falls of 1.5% in the EU, 1.3% in the US and 0.9% in China, but a 4.4% rise in India.[^13] A linked paper in Nature Climate Change finds that solar, wind and electric vehicles are covering most new energy demand, and that 59 countries cut emissions below 2019 levels in 2025 while their economies grew.[^13]",
+        "The total picture is less good. When fires and forest loss are included, total CO2 emissions still rise, to 43.3 billion tonnes, because of peat fires in Southeast Asia.[^13] CO2 in the air reaches about 427.7 parts per million, 54% above pre-industrial levels, and the remaining budget for 1.5C is about 150 billion tonnes, less than four years at today's rate.[^13]",
+        "The lead author, Pierre Friedlingstein, said a drop \"driven partly by geopolitical shocks is not a sustainable climate solution\".[^13] Glen Peters of CICERO added that one year's fall is not a peak unless it comes from lasting change.[^13] The numbers arrive as COP31 negotiators meet in Turkey."
       ],
-      "differences": "Analysts disagree on the sell-off: eToro saw a political risk premium \"unwinding\", while Swissquote saw investors moving away from US tech.[^28][^26] An exit poll suggests AI was a major issue for most voters; TechCrunch's Kirsten Korosec says it was not the main driver of the results.[^27][^24]"
+      "differences": null
     }
   ],
   "sources": [
     {
+      "id": 1,
+      "outlet": "The New Arab",
+      "title": "Trump claims war 'effectively over', Iran presses on conditions",
+      "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
       "id": 2,
-      "outlet": "Gulf News",
-      "title": "Middle East conflict: UAE rescues 22 crew in Gulf of Oman; US tightens Iran blockade; Tehran lifts missile limits",
-      "url": "https://gulfnews.com/world/mena/uae-rescues-22-crew-in-gulf-of-oman-as-us-tightens-iran-blockade-and-tehran-lifts-missile-limits-1.500739993",
+      "outlet": "Al Jazeera",
+      "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
+      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
       "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Gulf News",
-      "title": "Middle East conflict: Trump says Iran Task Force Iron Gate is in effect, expects Xi and Putin meeting next week",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-task-force-iron-gate-is-in-effect-expects-xi-and-putin-meeting-next-week-1.500740691",
-      "date": "2026-11-09",
+      "outlet": "The Times of Israel",
+      "title": "Live blog, November 10, 2026",
+      "url": "https://www.timesofisrael.com/liveblog-november-10-2026/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "ABC News (US)",
-      "title": "Iran live updates: Americans are tired of 'Forever Wars,' Araghchi says",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
-      "date": "2026-11-09",
+      "outlet": "Business Recorder (AFP)",
+      "title": "G7 ministers press Rubio on Iran, Ukraine at Paris talks",
+      "url": "https://www.brecorder.com/news/40448218/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Al Jazeera",
-      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, 'denuclearisation'",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
-      "date": "2026-11-09",
+      "outlet": "CBS News",
+      "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+      "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Asharq Al-Awsat (AFP)",
-      "title": "G7 Ministers Meet on Efforts to End Ukraine Conflict, Halt New Iran War",
-      "url": "https://english.aawsat.com/world/5339131-g7-ministers-meet-efforts-end-ukraine-conflict-halt-new-iran-war",
-      "date": "2026-11-09",
+      "outlet": "The National",
+      "title": "Russia and Ukraine security-focused talks start in Abu Dhabi",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "RTÉ",
-      "title": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz attacks",
-      "url": "https://www.rte.ie/news/business/2026/1109/1598486-world-oil-prices/",
+      "outlet": "Meduza",
+      "title": "Russia, Ukraine, and the U.S. to hold peace talks in Abu Dhabi on November 10",
+      "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda",
       "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "The National",
-      "title": "Oil edges lower as Trump plays down prospect of new US attacks on Iran",
-      "url": "https://thenationalnews.com/business/energy/2026/11/09/oil-edges-lower-as-trump-plays-down-prospect-of-new-us-attacks-on-iran",
-      "date": "2026-11-09",
+      "outlet": "ABC News (US)",
+      "title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "The Jerusalem Post",
-      "title": "'Unconventional steps required': Eisenkot vows to form emergency gov't as Herzog bestows mandate",
-      "url": "https://www.jpost.com/israel-election-2026/article-914236",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 10,
-      "outlet": "The Times of Israel",
-      "title": "President Herzog taps Eisenkot to form coalition, but path remains fraught",
-      "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 11,
-      "outlet": "The Tribune (ANI)",
-      "title": "Israel: Eisenkot-Liberman to meet today over govt formation, Yashar party boss to head Change bloc in Knesset",
-      "url": "https://tribuneindia.com/news/avigdor-lieberman/israel-eisenkot-liberman-to-meet-today-over-govt-formation-yashar-party-boss-to-head-change-bloc-in-knesset",
-      "date": "2026-11-09",
+      "outlet": "Al-Monitor (AFP)",
+      "title": "New Israel parliament to be sworn in as Eisenkot seeks government",
+      "url": "https://www.al-monitor.com/originals/2026/11/new-israel-parliament-be-sworn-eisenkot-seeks-government",
+      "date": "2026-11-10",
       "singleSource": true
     },
     {
-      "id": 12,
-      "outlet": "The Times of Israel",
-      "title": "11 arrested in Lod brawl after far-right 'sovereignty march' in Arab neighborhood",
-      "url": "https://www.timesofisrael.com/11-arrested-in-lod-brawl-after-far-right-sovereignty-march-in-arab-neighborhood",
+      "id": 10,
+      "outlet": "ClickOnDetroit (AP)",
+      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
+      "date": "2026-11-10",
+      "singleSource": true
+    },
+    {
+      "id": 11,
+      "outlet": "PBS NewsHour (AP)",
+      "title": "COP31 climate summit begins after disastrous year of extreme weather",
+      "url": "https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather",
       "date": "2026-11-09",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "Hürriyet Daily News",
+      "title": "COP31 enters 2nd day with focus on energy, transport",
+      "url": "https://www.hurriyetdailynews.com/cop31-enters-2nd-day-with-focus-on-energy-transport-229217",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "The Times of Israel",
-      "title": "Liveblog, November 8, 2026",
-      "url": "https://www.timesofisrael.com/liveblog-november-08-2026/",
-      "date": "2026-11-08",
+      "outlet": "University of Exeter",
+      "title": "Fossil CO2 emissions decrease in 2026",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Middle East Monitor (Anadolu)",
-      "title": "2 Gazans killed, 12 others wounded in continued Israeli attacks",
-      "url": "https://www.middleeastmonitor.com/20261108-2-gazans-killed-12-others-wounded-in-continued-israeli-attacks/",
-      "date": "2026-11-08",
-      "singleSource": true
-    },
-    {
-      "id": 15,
-      "outlet": "Al Jazeera",
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 16,
-      "outlet": "Euronews",
-      "title": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
-      "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 17,
-      "outlet": "Kyiv Post",
-      "title": "Russia Sends High-Level Delegation to Abu Dhabi Talks",
-      "url": "https://www.kyivpost.com/post/89466",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 18,
-      "outlet": "The National",
-      "title": "Aramco building in Riyadh damaged in attempted attack, ministry says",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh/",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 19,
-      "outlet": "Middle East Eye",
-      "title": "Saudi Aramco tower damaged after Houthi missile attacks on Riyadh",
-      "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh",
-      "date": "2026-11-08",
-      "singleSource": false
-    },
-    {
-      "id": 20,
-      "outlet": "Kuwait Times (AFP)",
-      "title": "COP31 opens with early fight over climate finance",
-      "url": "https://kuwaittimes.com/article/53287/world/cop31-opens-with-early-fight-over-climate-finance/",
-      "date": "2026-11-09",
-      "singleSource": false
-    },
-    {
-      "id": 21,
-      "outlet": "Malay Mail (AFP)",
-      "title": "World enters 'new age of climate extremes', UN chief tells COP31",
-      "url": "https://www.malaymail.com/news/world/2026/11/09/world-enters-new-age-of-climate-extremes-un-chief-tells-cop31/242598",
-      "date": "2026-11-09",
-      "singleSource": false
-    },
-    {
-      "id": 22,
-      "outlet": "Al Jazeera",
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
-      "date": "2026-11-09",
-      "singleSource": false
-    },
-    {
-      "id": 23,
-      "outlet": "Turkish Minute (AFP)",
-      "title": "Ankara's COP31 message: electrify, recycle, don't mention coal",
-      "url": "https://turkishminute.com/2026/11/09/ankaras-cop31-message-electrify-recycle-dont-mention-coal",
-      "date": "2026-11-09",
-      "singleSource": true
-    },
-    {
-      "id": 24,
-      "outlet": "TechCrunch",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "date": "2026-11-07",
-      "singleSource": false
-    },
-    {
-      "id": 25,
-      "outlet": "Engadget",
-      "title": "DOJ just launched something called the Super Intelligence Task Force",
-      "url": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
-      "date": "2026-11-06",
-      "singleSource": true
-    },
-    {
-      "id": 26,
-      "outlet": "Al Jazeera (Reuters)",
-      "title": "AI stocks plunge after US election, driving down markets",
-      "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets",
-      "date": "2026-11-05",
-      "singleSource": false
-    },
-    {
-      "id": 27,
-      "outlet": "Engadget",
-      "title": "Americans overwhelmingly voted against data centers in the midterms",
-      "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/",
-      "date": "2026-11-04",
-      "singleSource": false
-    },
-    {
-      "id": 28,
-      "outlet": "Fox Business",
-      "title": "Nasdaq rallies as chip stocks recover from brutal losses",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-6-2026",
-      "date": "2026-11-06",
-      "singleSource": false
-    },
-    {
-      "id": 29,
-      "outlet": "Kyiv Independent",
-      "title": "Umerov to lead Ukraine delegation in Abu Dhabi peace talks despite media confusion, top official confirms",
-      "url": "https://kyivindependent.com/umerov-to-lead-ukraine-delegation-in-abu-dhabi-peace-talks-despite-media-confusion-top-official-confirms/",
-      "date": "2026-11-06",
+      "outlet": "A News (Anadolu Agency)",
+      "title": "Iran war disruption expected to curb global fossil fuel emissions, scientists say",
+      "url": "https://www.anews.com.tr/middle-east/2026/11/10/iran-war-disruption-expected-to-curb-global-fossil-fuel-emissions-scientists-say",
+      "date": "2026-11-10",
       "singleSource": false
     }
   ]

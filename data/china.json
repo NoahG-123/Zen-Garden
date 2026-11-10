@@ -1,61 +1,29 @@
 {
-  "date": "2026-11-09",
-  "summary": "China's exports and car sales abroad boom while shoppers at home hold back before Double 11, AI chips sit in Hong Kong, and a Pakistani astronaut heads to Tiangong.",
+  "date": "2026-11-10",
+  "summary": "China's exports jump 35% and its surplus passes $1 trillion again, while Double 11 shoppers buy AI tools and want more than discounts.",
   "body": [
-    "Two Chinas show up in this week's numbers. Abroad, business is booming: economists polled by Reuters expect October exports, due Tuesday, to be about a third higher than a year ago, and China's trade surplus this year is on track to pass $1 trillion, helped by the global AI building boom.[^1] Car exports jumped 68% to 932,000 in October, but car sales inside China fell 27%, the 12th monthly drop in a row, according to the China Passenger Car Association.[^2]",
-    "At home, people are cautious. Ahead of Double 11 (Nov 11), the biggest online shopping day, the South China Morning Post reports shoppers are tuning out: retail sales grew just 1.1% in the first three quarters.[^4] Second-hand home prices in 100 cities fell 6.7% from a year earlier, and families are rushing to pay off mortgages early; at three state banks in Shanghai, early repayments now top 2 billion yuan a month at each.[^4] My read: when home values fall, people save instead of spend, which is why China leans on exports.",
-    "In technology, about 600,000 Nvidia H200 AI chips are sitting in Hong Kong because Beijing has not approved large-scale imports, Reuters reports, as China pushes Alibaba, ByteDance, Tencent and DeepSeek to use Chinese-made chips.[^3] And in space, a Pakistani astronaut will fly to China's Tiangong space station on Shenzhou-24, the first foreign visitor to the station, AFP says; Pakistan's planning minister names Nov 25 as the date.[^5]"
+    "China's customs agency said on Tuesday that October exports were 35.2% higher than a year ago, pushing the trade surplus for January to October to $1.04 trillion, the second year above $1 trillion, AP reports.[^1] Semiconductor exports more than doubled in value (up 137%) and car exports rose 37.6%, as the world's AI building boom pulls in Chinese electronics.[^1] Economists say the other side of this is weak spending at home: Alicia García-Herrero of Natixis says overcapacity and high savings keep China exporting and calls it \"not sustainable\".[^1] Trade will be a main topic when Trump and Xi meet at APEC in Shenzhen next week.[^1]",
+    "Daily life shows up in Double 11 (Nov 11), the biggest online shopping festival, now in its 18th year. This year's surprise best-seller is AI: a famous livestream host sold about 100,000 monthly plans for Alibaba's office AI assistant in 30 minutes, and Taobao and Tmall say token sales, paid units of AI use, rose 450% from the previous month on the first sale day, the Seoul Economic Daily reports, citing China's The Paper.[^2] Overall, spending across big platforms from Oct 7 to 31 was up only 2.4% from a year earlier, by data firm Syntun's count.[^2]",
+    "A survey cited in the same report found about 70% of shoppers say the festival loses its appeal if it only offers price cuts.[^2] My read: Chinese shoppers seem to be buying fewer things on impulse and more things they think will be useful, which fits the cautious mood seen in housing and car sales this year."
   ],
   "differences": null,
-  "reads": [
-    {
-      "title": "In Stitches: Why Young Chinese Are Buying Clothes They Can Throw Away",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019154/in-stitches%3A-why-young-chinese-are-buying-clothes-they-can-throw-away-",
-      "kind": "news",
-      "summary": "Young people buy outfits for under 50 yuan to wear once on a trip or for social media. A look at cheap fashion, skin worries and textile waste."
-    }
-  ],
+  "reads": [],
   "sources": [
     {
       "id": 1,
-      "outlet": "Investing.com (Reuters)",
-      "title": "China's export growth expected to have remained strong in October: Reuters poll",
-      "url": "https://www.investing.com/news/economy-news/chinas-export-growth-expected-to-have-remained-strong-in-october-reuters-poll-5010623",
-      "date": "2026-11-09",
+      "outlet": "ClickOnDetroit (AP)",
+      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "AOL (Reuters)",
-      "title": "China's October car exports stay resilient",
-      "url": "https://www.aol.com/articles/chinas-october-car-exports-stay-051235000.html",
-      "date": "2026-11-09",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "The Next Web (Reuters)",
-      "title": "Nvidia H200 chips pile up in Hong Kong as Beijing holds back, Reuters says",
-      "url": "https://thenextweb.com/news/nvidia-h200-chips-hong-kong-china-import-approval",
-      "date": "2026-11-06",
-      "singleSource": true
-    },
-    {
-      "id": 4,
-      "outlet": "The Korea Times (SCMP)",
-      "title": "Why are Chinese consumers tuning out of annual online shopping festival?",
-      "url": "https://www.koreatimes.co.kr/world/20261105/why-are-chinese-consumers-tuning-out-of-annual-online-shopping-festival",
+      "outlet": "Seoul Economic Daily",
+      "title": "AI Tokens Emerge as Hot Sellers in China's Singles Day Shopping Festival",
+      "url": "https://en.sedaily.com/international/2026/11/05/ai-tokens-emerge-as-hot-sellers-in-chinas-singles-day",
       "date": "2026-11-05",
       "singleSource": true
-    },
-    {
-      "id": 5,
-      "outlet": "Dawn (AFP)",
-      "title": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
-      "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
-      "date": "2026-11-07",
-      "singleSource": false
     }
   ]
 }

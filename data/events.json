@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-09",
+  "reviewed": "2026-11-10",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Ships caught fire near Hormuz over the weekend, and the US says Task Force Iron Gate is in full effect; Houthi missiles aimed at Riyadh damaged an Aramco building.[^208][^215] Trump calls new strikes \"highly unlikely\" if talks progress and meets Qatar's prime minister on Nov 9. Brent fell about 16% last week as markets bet on calm.[^208][^209]",
+      "standing": "After meeting Qatar's prime minister on Nov 9, Trump said there was \"positive momentum\", called the war \"effectively over\" militarily and new strikes unlikely for now, while saying the US is ready to strike.[^216][^217] Iran's Mohsen Rezaei told the US to accept Tehran's seven conditions. Ships still face attacks near Hormuz.[^217][^208]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -15,12 +15,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-09",
-          "what": "Trump meets Qatar's prime minister, the main mediator, at the White House"
-        },
-        {
           "date": "2026-11-10",
-          "what": "G7 foreign ministers end two days of talks in Paris; Iran and Hormuz on the agenda"
+          "what": "G7 foreign ministers end Paris talks; Qatar's PM meets European and Saudi ministers there"
         },
         {
           "date": "2026-11-18",
@@ -173,7 +169,9 @@
         202,
         208,
         209,
-        215
+        215,
+        216,
+        217
       ]
     },
     {
@@ -182,7 +180,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Russia upgraded its team for US-mediated talks in Abu Dhabi on Nov 10-11, the first three-way talks since February, adding two deputy foreign ministers and its military intelligence chief.[^210] Weekend strikes left about 850,000 Ukrainians without power; Russia still demands all of Donbas.[^211][^204]",
+      "standing": "US, Russian and Ukrainian delegations opened two days of talks in Abu Dhabi on Nov 10, the first three-way round since February, focused on security guarantees.[^218][^210] Russia still demands Ukraine leave four regions; Zelenskyy refuses to cede territory. Europeans are present for side meetings only.[^218]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -190,8 +188,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-10",
-          "what": "Russia-US-Ukraine working-level talks in Abu Dhabi, Nov 10-11"
+          "date": "2026-11-11",
+          "what": "Abu Dhabi three-way talks end; watch for a prisoner swap or energy truce"
         },
         {
           "date": "2026-11-13",
@@ -342,7 +340,8 @@
         203,
         204,
         210,
-        211
+        211,
+        218
       ]
     },
     {
@@ -351,17 +350,13 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Herzog formally gave Gadi Eisenkot the mandate on Nov 8; he has 28 days plus a possible 14 to reach 61 seats, and allies like Liberman reject relying on Arab parties.[^212][^206] The new Knesset is sworn in Nov 10. Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
+      "standing": "Israel's new Knesset was sworn in on Nov 10. Eisenkot's core bloc has 48 seats; he needs 61 and could rely on Arab parties' votes or the ultra-Orthodox, while ally Lieberman rejects the first option.[^219] Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
         "unlikely": "In the near term, either a full return to large-scale war or a quick political settlement on Palestinian statehood. Both remain conceivable, but neither side appears to be moving that way now."
       },
       "watch": [
-        {
-          "date": "2026-11-10",
-          "what": "New Knesset sworn in"
-        },
         {
           "date": "2026-12-06",
           "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
@@ -498,7 +493,8 @@
         205,
         206,
         212,
-        213
+        213,
+        219
       ]
     },
     {
@@ -666,7 +662,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Voters passed 39 local measures restricting data centres on Nov 3, and chip stocks crashed on Nov 5 before rebounding about 4% on Nov 6.[^214][^195] OpenAI released GPT-6 Cyber to vetted security firms, its first model rated \"Critical\" for cyber risk.[^197] About 600,000 Nvidia H200 chips sit in Hong Kong awaiting Beijing's approval.[^186]",
+      "standing": "Nvidia shares fell about 4% on Nov 9 after its board opened an independent investigation into whether CEO Jensen Huang was targeted by a Chinese intelligence operation; the board says it has no reason to think secrets were compromised, and China calls the claim a smear.[^220] China's chip exports rose 137% in October.[^221] Voters passed 39 local data-centre limits on Nov 3.[^214]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -825,7 +821,9 @@
         187,
         195,
         197,
-        214
+        214,
+        220,
+        221
       ]
     }
   ],
@@ -2574,6 +2572,54 @@
       "title": "Aramco building in Riyadh damaged in attempted attack, ministry says",
       "url": "https://www.thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh/",
       "date": "2026-11-08",
+      "singleSource": false
+    },
+    {
+      "id": 216,
+      "outlet": "The New Arab",
+      "title": "Trump claims war 'effectively over', Iran presses on conditions",
+      "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
+      "id": 217,
+      "outlet": "The Times of Israel",
+      "title": "Live blog, November 10, 2026",
+      "url": "https://www.timesofisrael.com/liveblog-november-10-2026/",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
+      "id": 218,
+      "outlet": "CBS News",
+      "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
+      "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
+      "id": 219,
+      "outlet": "Al-Monitor (AFP)",
+      "title": "New Israel parliament to be sworn in as Eisenkot seeks government",
+      "url": "https://www.al-monitor.com/originals/2026/11/new-israel-parliament-be-sworn-eisenkot-seeks-government",
+      "date": "2026-11-10",
+      "singleSource": true
+    },
+    {
+      "id": 220,
+      "outlet": "Al Jazeera",
+      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang",
+      "date": "2026-11-09",
+      "singleSource": true
+    },
+    {
+      "id": 221,
+      "outlet": "ClickOnDetroit (AP)",
+      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
+      "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
+      "date": "2026-11-10",
       "singleSource": false
     }
   ]

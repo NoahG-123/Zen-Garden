@@ -1,76 +1,60 @@
 {
-  "date": "2026-11-09",
-  "summary": "A quiet weekend after a busy week: youth unemployment climbs to 13.7%, the budget debate rolls on, and elementary teachers start strike votes today.",
+  "date": "2026-11-10",
+  "summary": "Carney names a Bridgewater executive to run Canada's new $25-billion wealth fund, the budget sales tour continues, and Ontario teachers keep voting on strikes.",
   "body": [
-    "It was a quiet weekend, so the most useful news is still Friday's jobs report. Canada lost 4,700 jobs in October and unemployment rose to 6.7%, Statistics Canada says.[^1] For young people aged 15 to 24 it jumped to 13.7%, and Ontario's rate rose to 7.3%.[^1] It is the third month of losses in a row; private-sector jobs fell by 53,000 while public-sector jobs rose by 50,000, and economists had expected a gain.[^2] Markets put about a 35% chance on another Bank of Canada rate rise on Dec 9, after it lifted its rate to 2.5% in October.[^2]",
-    "In Ottawa, Prime Minister Mark Carney and Finance Minister François-Philippe Champagne are touring the country to sell last week's budget, while Conservative Leader Pierre Poilievre calls it a \"costly credit-card budget\".[^3] The House resumed debate on Friday on a Conservative amendment. The final budget vote is a test of confidence, but with a Liberal majority its outcome is \"not in serious doubt\", The Hub reports.[^4]",
-    "On trade, Carney welcomed plans by US Democrats, who won both houses of Congress, to roll back tariffs on Canada, but relief is not immediate: the new Congress sits in January and the president can veto bills.[^5]",
-    "For Ontario classrooms: elementary teachers (ETFO) start strike votes today, through Nov 18; Catholic teachers vote Nov 12-13, and high-school teachers and education workers are already voting.[^6] Talks are stuck over the province's push to bargain more issues centrally, and CUPE expects a labour board ruling in late November that could restart them. A \"yes\" vote does not mean an immediate strike.[^6]"
+    "Prime Minister Mark Carney named Karen Karniol-Tambour, co-chief investment officer at the US investment firm Bridgewater Associates, as the first CEO of the Canada Strong Fund on Sunday.[^1] The fund is Canada's first national sovereign wealth fund, meaning a government-owned investment pool. It starts with $25 billion, will run at arm's length from the government with its own board, and will invest in big Canadian projects and companies. Ordinary Canadians will be able to buy \"Canada Strong Notes\" through banks, with their original money protected.[^1]",
+    "Carney and Finance Minister François-Philippe Champagne spent the weekend touring the country to sell last week's budget,[^2] and Carney is in Montreal today to promote its culture funding.[^3] The plan's biggest new item is a $36.1-billion \"mega deduction\" over five years that lets businesses write off new investments, and the deficit this year is projected at just over $62 billion.[^2] Supporters call it a bet on growth; NDP Leader Avi Lewis says it \"doesn't deal with the price of food\", and economist Don Drummond says very little of it reaches households.[^2]",
+    "Abroad, Canada announced new sanctions on 38 Russian-linked entities and 24 people at the G7 foreign ministers' meeting in Paris.[^4] For Ontario classrooms, strike votes continue: elementary teachers (ETFO) vote until Nov 18, Catholic teachers on Nov 12-13, and high-school teachers (OSSTF) until Nov 16. A vote passes with more than 50% support, and a \"yes\" does not mean an immediate strike.[^5]"
   ],
-  "differences": "Statistics Canada calls October employment \"little changed\"; economists quoted by The Canadian Press are concerned because losses now reach beyond trade-hit industries.[^1][^2]",
+  "differences": "The government says the budget is about affordability and being \"masters of our own destiny\"; critics, including the NDP and economist Don Drummond, say most of the money goes to business incentives rather than households.[^2]",
   "reads": [
     {
-      "title": "Ontario deficit grows to $16.9 billion as trade war with U.S. drags on",
-      "outlet": "CP24",
-      "url": "https://www.cp24.com/politics/queens-park/2026/10/29/ontario-deficit-grows-to-169-billion-as-trade-war-with-us-drags-on/",
+      "title": "Carney claims new federal budget will help Canadians with affordability. Experts are divided.",
+      "outlet": "BTPM (NPR)",
+      "url": "https://www.btpm.org/ontario-news/2026-11-09/carney-claims-new-federal-budget-will-help-canadians-with-affordability-experts-are-divided",
       "kind": "news",
-      "summary": "Ontario's fall update: a bigger deficit, steel exports to the US down by half, and a 7.2% unemployment forecast. The backdrop for jobs in this province."
-    },
-    {
-      "title": "Parliament Today: Champagne tables Budget 2026 at 4 p.m.",
-      "outlet": "The Hub",
-      "url": "https://thehub.ca/2026/11/05/parliament-today-champagne-tables-budget-2026-at-4-p-m/",
-      "kind": "analysis",
-      "summary": "A short guide to how a budget moves through the House, and why its final vote is a test of confidence in the government."
+      "summary": "A balanced look at Budget 2026: what is in it, who likes it, and why several economists doubt it will help household costs much."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Statistics Canada",
-      "title": "Labour Force Survey, October 2026",
-      "url": "https://www150.statcan.gc.ca/daily-quotidien/261106/dq261106a-eng.htm",
-      "date": "2026-11-06",
+      "outlet": "Prime Minister of Canada",
+      "title": "Prime Minister Carney announces Chief Executive Officer of the Canada Strong Fund",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/09/prime-minister-carney-announces-chief-executive-officer-canada-strong",
+      "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Economists concerned after labour market sheds jobs for third month in a row",
-      "url": "https://www.cp24.com/news/canada/2026/11/06/unemployment-rate-rose-to-67-in-october-statcan-says/",
-      "date": "2026-11-06",
+      "outlet": "BTPM (NPR)",
+      "title": "Carney claims new federal budget will help Canadians with affordability. Experts are divided.",
+      "url": "https://www.btpm.org/ontario-news/2026-11-09/carney-claims-new-federal-budget-will-help-canadians-with-affordability-experts-are-divided",
+      "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Champagne, Carney travelling across country to sell federal budget to Canadians",
-      "url": "https://www.cp24.com/news/canada/2026/11/06/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/",
-      "date": "2026-11-06",
+      "outlet": "Prime Minister of Canada",
+      "title": "Itinerary: Tuesday, November 10, 2026",
+      "url": "https://www.pm.gc.ca/en/news/media-advisories/2026/11/09/tuesday-november-10-2026",
+      "date": "2026-11-09",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Hub",
-      "title": "Parliament Today: Budget debate resumes",
-      "url": "https://thehub.ca/2026/11/06/parliament-today-budget-debate-resumes/",
-      "date": "2026-11-06",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "NetNewsLedger (AP)",
-      "title": "Carney welcomes U.S. Democratic push against Canada tariffs, but relief is not immediate",
-      "url": "https://netnewsledger.com/2026/11/08/carney-welcomes-u-s-democratic-push-against-canada-tariffs-but-relief-is-not-immediate",
-      "date": "2026-11-08",
+      "outlet": "Business Recorder (AFP)",
+      "title": "G7 ministers press Rubio on Iran, Ukraine at Paris talks",
+      "url": "https://www.brecorder.com/news/40448218/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks",
+      "date": "2026-11-10",
       "singleSource": true
     },
     {
-      "id": 6,
-      "outlet": "Your Sunset Country",
-      "title": "Education workers across Ontario begin strike votes",
-      "url": "https://yoursunsetcountry.ca/education-workers-across-ontario-begin-strike-votes/",
-      "date": "2026-11-04",
+      "id": 5,
+      "outlet": "NOW Toronto",
+      "title": "All major Ontario education unions are holding strike votes in November",
+      "url": "https://nowtoronto.com/news/ontario-education-unions-strike-votes-november-2026/",
+      "date": "2026-09-27",
       "singleSource": false
     }
   ]
