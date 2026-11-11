@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-10",
+  "reviewed": "2026-11-11",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "After meeting Qatar's prime minister on Nov 9, Trump said there was \"positive momentum\", called the war \"effectively over\" militarily and new strikes unlikely for now, while saying the US is ready to strike.[^216][^217] Iran's Mohsen Rezaei told the US to accept Tehran's seven conditions. Ships still face attacks near Hormuz.[^217][^208]",
+      "standing": "Qatar says it sees \"progress\" after Trump's Nov 9 talks with its prime minister, but Iran's security chief Mohsen Rezaei calls reports of negotiations \"a pure lie\" and says Hormuz stays shut until the US meets Iran's seven conditions.[^222] Monitors count at least 37 attacks on ships near Hormuz in November, the most of the war; the US blockade continues.[^222]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -15,12 +15,12 @@
       },
       "watch": [
         {
-          "date": "2026-11-10",
-          "what": "G7 foreign ministers end Paris talks; Qatar's PM meets European and Saudi ministers there"
-        },
-        {
           "date": "2026-11-18",
           "what": "APEC summit in China, where Trump says he will discuss Iran with Xi and Putin"
+        },
+        {
+          "date": "2026-11-30",
+          "what": "November count of attacks on ships near Hormuz, already a record for the war"
         }
       ],
       "connects": [
@@ -171,7 +171,8 @@
         209,
         215,
         216,
-        217
+        217,
+        222
       ]
     },
     {
@@ -180,7 +181,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "US, Russian and Ukrainian delegations opened two days of talks in Abu Dhabi on Nov 10, the first three-way round since February, focused on security guarantees.[^218][^210] Russia still demands Ukraine leave four regions; Zelenskyy refuses to cede territory. Europeans are present for side meetings only.[^218]",
+      "standing": "US-brokered talks between Russian and Ukrainian delegations in Abu Dhabi ran into a second day on Nov 11, the first round since February; Zelenskyy called day one \"constructive\" and said prisoner releases are the priority.[^223] Russia still demands the rest of Donbas, and Europeans meet the delegations only separately.[^223] Drone and missile strikes continue on both sides.[^223]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -188,8 +189,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-11",
-          "what": "Abu Dhabi three-way talks end; watch for a prisoner swap or energy truce"
+          "date": "2026-11-12",
+          "what": "Outcome of the Abu Dhabi round: any prisoner swap or envoy trips to Moscow and Kyiv"
         },
         {
           "date": "2026-11-13",
@@ -341,7 +342,8 @@
         204,
         210,
         211,
-        218
+        218,
+        223
       ]
     },
     {
@@ -662,7 +664,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia shares fell about 4% on Nov 9 after its board opened an independent investigation into whether CEO Jensen Huang was targeted by a Chinese intelligence operation; the board says it has no reason to think secrets were compromised, and China calls the claim a smear.[^220] China's chip exports rose 137% in October.[^221] Voters passed 39 local data-centre limits on Nov 3.[^214]",
+      "standing": "Treasury Secretary Bessent says a meeting with Xi in Shenzhen next week will launch a US-China dialogue on \"superintelligence\", with a direct line for serious AI incidents.[^224] Nvidia is investigating whether its CEO was targeted by Chinese intelligence, which China calls \"groundless\".[^224] China's chip exports rose 137% in October.[^221]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -676,6 +678,10 @@
         {
           "date": "2026-11-17",
           "what": "Nvidia quarterly results, a key test of AI demand"
+        },
+        {
+          "date": "2026-11-18",
+          "what": "Bessent meets Xi in Shenzhen; US-China AI dialogue due to launch"
         },
         {
           "date": "2026-12-02",
@@ -823,7 +829,8 @@
         197,
         214,
         220,
-        221
+        221,
+        224
       ]
     }
   ],
@@ -2621,6 +2628,30 @@
       "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
       "date": "2026-11-10",
       "singleSource": false
+    },
+    {
+      "id": 222,
+      "outlet": "Al Jazeera",
+      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 223,
+      "outlet": "News4JAX (AP)",
+      "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi",
+      "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 224,
+      "outlet": "Lufkin Daily News (Reuters)",
+      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
+      "date": "2026-11-10",
+      "singleSource": true
     }
   ]
 }

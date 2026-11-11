@@ -1,60 +1,53 @@
 {
-  "date": "2026-11-10",
-  "summary": "Carney names a Bridgewater executive to run Canada's new $25-billion wealth fund, the budget sales tour continues, and Ontario teachers keep voting on strikes.",
+  "date": "2026-11-11",
+  "summary": "Carney calls Stellantis's sale of its Brampton plant a \"betrayal\", sets off on a four-summit trip ending in China, and the budget makes museums free for under-25s.",
   "body": [
-    "Prime Minister Mark Carney named Karen Karniol-Tambour, co-chief investment officer at the US investment firm Bridgewater Associates, as the first CEO of the Canada Strong Fund on Sunday.[^1] The fund is Canada's first national sovereign wealth fund, meaning a government-owned investment pool. It starts with $25 billion, will run at arm's length from the government with its own board, and will invest in big Canadian projects and companies. Ordinary Canadians will be able to buy \"Canada Strong Notes\" through banks, with their original money protected.[^1]",
-    "Carney and Finance Minister François-Philippe Champagne spent the weekend touring the country to sell last week's budget,[^2] and Carney is in Montreal today to promote its culture funding.[^3] The plan's biggest new item is a $36.1-billion \"mega deduction\" over five years that lets businesses write off new investments, and the deficit this year is projected at just over $62 billion.[^2] Supporters call it a bet on growth; NDP Leader Avi Lewis says it \"doesn't deal with the price of food\", and economist Don Drummond says very little of it reaches households.[^2]",
-    "Abroad, Canada announced new sanctions on 38 Russian-linked entities and 24 people at the G7 foreign ministers' meeting in Paris.[^4] For Ontario classrooms, strike votes continue: elementary teachers (ETFO) vote until Nov 18, Catholic teachers on Nov 12-13, and high-school teachers (OSSTF) until Nov 16. A vote passes with more than 50% support, and a \"yes\" does not mean an immediate strike.[^5]"
+    "Stellantis, the carmaker behind Jeep and Chrysler, announced on Monday that it will sell its idle assembly plant in Brampton to Roshel, a Canadian maker of armoured vehicles.[^1] More than 2,200 workers have been laid off since production stopped in December 2023. On Tuesday Prime Minister Mark Carney called the sale \"a betrayal of the workers\" and said Canada will \"fully enforce our rights\", since Ottawa agreed in 2022 to give Stellantis $529 million to retool its Brampton and Windsor plants. Industry Minister Mélanie Joly says the company broke its contract and will meet Unifor and Stellantis in Toronto on Thursday.[^1]",
+    "Roshel's chief executive says Brampton residents will get priority for jobs but the company will not rehire all former Stellantis workers. The auto parts industry group says an armoured-vehicle plant would employ \"a fraction\" of the thousands the car plant once supported. Conservative Leader Pierre Poilievre called the sale \"yet another Liberal betrayal\" and wants Joly fired.[^1]",
+    "After Remembrance Day ceremonies today, Carney leaves on an eight-day trip: a European summit in Dublin, the ASEAN summit in Manila, where Canada hopes to finish a trade deal with Southeast Asian countries, the Francophonie summit in Cambodia, and APEC in Shenzhen, China, where he is due to meet Xi Jinping.[^2][^3] The government says it wants new trading partners beyond the US; Conservatives say past trips have brought few real gains.[^2]",
+    "For students: in Montreal, Carney highlighted $4 billion for culture in last week's budget, including over $45 million over five years to make national museums free for visitors under 25, and $300 million more for CBC/Radio-Canada.[^4]"
   ],
-  "differences": "The government says the budget is about affordability and being \"masters of our own destiny\"; critics, including the NDP and economist Don Drummond, say most of the money goes to business incentives rather than households.[^2]",
+  "differences": "The government calls Stellantis's sale a breach of contract and promises legal action; Stellantis says it offered to return support for Brampton's original retooling plan. Conservatives blame the government for the outcome.[^1]",
   "reads": [
     {
-      "title": "Carney claims new federal budget will help Canadians with affordability. Experts are divided.",
-      "outlet": "BTPM (NPR)",
-      "url": "https://www.btpm.org/ontario-news/2026-11-09/carney-claims-new-federal-budget-will-help-canadians-with-affordability-experts-are-divided",
+      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+      "outlet": "CKOM (The Canadian Press)",
+      "url": "https://www.ckom.com/2026/11/11/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/",
       "kind": "news",
-      "summary": "A balanced look at Budget 2026: what is in it, who likes it, and why several economists doubt it will help household costs much."
+      "summary": "A clear guide to Carney's four summits this week, what Canada hopes to get from each, and why some experts call Canada a \"fairweather friend\"."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Prime Minister of Canada",
-      "title": "Prime Minister Carney announces Chief Executive Officer of the Canada Strong Fund",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/09/prime-minister-carney-announces-chief-executive-officer-canada-strong",
-      "date": "2026-11-09",
+      "outlet": "CP24",
+      "title": "'A betrayal:' Carney says Canada will 'fully enforce' its rights following sale of Stellantis plant",
+      "url": "https://www.cp24.com/local/toronto/2026/11/10/a-betrayal-carney-says-canada-will-fully-enforce-its-rights-following-sale-of-stellantis-plant/",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "BTPM (NPR)",
-      "title": "Carney claims new federal budget will help Canadians with affordability. Experts are divided.",
-      "url": "https://www.btpm.org/ontario-news/2026-11-09/carney-claims-new-federal-budget-will-help-canadians-with-affordability-experts-are-divided",
-      "date": "2026-11-09",
+      "outlet": "CKOM (The Canadian Press)",
+      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+      "url": "https://www.ckom.com/2026/11/11/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Prime Minister of Canada",
-      "title": "Itinerary: Tuesday, November 10, 2026",
-      "url": "https://www.pm.gc.ca/en/news/media-advisories/2026/11/09/tuesday-november-10-2026",
-      "date": "2026-11-09",
+      "outlet": "Prime Minister of Canada (CNW)",
+      "title": "Prime Minister Carney to travel to Europe and Asia to diversify Canada's international partnerships, increase our trade, and attract new investment",
+      "url": "https://www.newswire.ca/news-releases/prime-minister-carney-to-travel-to-europe-and-asia-to-diversify-canada-s-international-partnerships-increase-our-trade-and-attract-new-investment-813942500.html",
+      "date": "2026-11-04",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Business Recorder (AFP)",
-      "title": "G7 ministers press Rubio on Iran, Ukraine at Paris talks",
-      "url": "https://www.brecorder.com/news/40448218/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks",
+      "outlet": "Prime Minister of Canada",
+      "title": "Prime Minister Carney highlights largest culture investment in Canadian history",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/10/prime-minister-carney-highlights-largest-culture-investment-canadian",
       "date": "2026-11-10",
-      "singleSource": true
-    },
-    {
-      "id": 5,
-      "outlet": "NOW Toronto",
-      "title": "All major Ontario education unions are holding strike votes in November",
-      "url": "https://nowtoronto.com/news/ontario-education-unions-strike-votes-november-2026/",
-      "date": "2026-09-27",
       "singleSource": false
     }
   ]

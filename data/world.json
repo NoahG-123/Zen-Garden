@@ -1,183 +1,185 @@
 {
-  "date": "2026-11-10",
-  "summary": "Trump talks up momentum on Iran, three-way Ukraine talks open in Abu Dhabi, Israel's new Knesset sits, China's surplus tops $1 trillion, and COP31 begins.",
+  "date": "2026-11-11",
+  "summary": "Russia and Ukraine talk for a second day, Iran and the US tell opposite stories, the US and China plan an AI hotline, and South Africa's ANC hits a low.",
   "question": {
-    "type": "how-do-we-know",
-    "text": "Trump says the Iran war is \"effectively over\" and that there is momentum toward a deal, while Iran says there are no real talks. Without inside access, what evidence in the coming weeks would tell you which description is closer to the truth?"
+    "type": "other-side",
+    "text": "Iran says the US talks up negotiations to lower oil prices; the US says Iran's demands are unreasonable. Pick one side and write its strongest honest case. What does it need the other side to believe, and what would change its mind?"
   },
   "read": {
-    "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+    "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
+    "outlet": "Sentinel Colorado (AP)",
+    "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
     "kind": "news",
-    "minutes": 8,
-    "summary": "A clear explainer of where US-Iran talks stand: Iran's seven conditions, the US position, and why Qatar is the go-between."
+    "minutes": 6,
+    "summary": "A clear account of what Brazil's fossil fuel road map proposes, who supports it, and the tensions inside it, including Brazil's own oil exports."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "trump-qatar-iran-positive-momentum",
-      "heading": "Trump sees \"positive momentum\" on Iran after meeting Qatar's prime minister",
-      "date": "2026-11-09",
+      "id": "abu-dhabi-talks-day-two",
+      "heading": "Russia-Ukraine talks in Abu Dhabi go to a second day, focused on prisoners",
+      "date": "2026-11-11",
       "status": "developing",
-      "summary": "After White House talks with Qatar's prime minister, the main go-between, Trump said the war was \"effectively over\" militarily and new strikes were unlikely for now.[^1][^3] Iran's top security official told the US to stop talking about \"imaginary talks\" and accept Tehran's seven conditions.[^3]",
+      "summary": "US-brokered talks between Russian and Ukrainian delegations continued in Abu Dhabi for a second day, the first such meeting in nine months.[^1] Zelenskyy called day one \"constructive and quite substantive\", with prisoner releases the main focus; neither side has dropped its core demands.[^1][^2]",
       "lead": {
-        "title": "Trump claims war 'effectively over', Iran presses on conditions",
-        "outlet": "The New Arab",
-        "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
-        "date": "2026-11-10"
+        "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi",
+        "outlet": "News4JAX (AP)",
+        "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+        "date": "2026-11-11"
       },
       "alsoReported": [
         {
-          "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
-        },
-        {
-          "title": "Live blog, November 10, 2026",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-november-10-2026/"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "On Monday, President Trump met Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, at the White House. Qatar carries messages between Washington and Tehran. Afterwards Trump wrote that they had \"an excellent conversation\" about Iran, said there was \"positive momentum\" toward ending the conflict, and called the war \"effectively over\" in military terms, while keeping new strikes as an option.[^1] He wrote that Gulf states \"would prefer the status quo\" and told Reuters the US is still \"ready to go anytime\".[^3]",
-        "The meeting followed a week of mixed signals. Iran sent a new proposal through Qatar, but says it can be discussed only after the US meets seven demands, including lifting sanctions, releasing frozen funds, cutting US forces in the region, recognising an Iran-Oman shipping route through Hormuz, and ending the war \"on all fronts\", including Israel's strikes on Lebanon.[^2] Secretary of State Marco Rubio called those demands \"outrageous and ridiculous\" and said there was no breakthrough close.[^2]",
-        "Iran's reply was cool. Mohsen Rezaei, head of its Supreme National Security Council, told Washington to stop \"manufacturing fake news about imaginary talks\" and to accept the seven conditions.[^3] The Financial Times reported that Israel's Prime Minister Netanyahu has urged Trump to restart the war, while Arab leaders urge talks; that report comes from unnamed sources.[^3] The Qatari prime minister was due to meet European and Saudi ministers on the sidelines of the G7 in Paris on Tuesday.[^1]",
-        "My read: both sides now describe the pause as something they can live with, but neither has moved on the core issues, Iran's nuclear material and control of Hormuz. A real test would be whether direct talks resume, or the US naval blockade is eased, in the coming weeks."
-      ],
-      "differences": "Trump says there is \"positive momentum\" and a \"good chance\" of a deal.[^1][^3] Rubio said a day earlier that talks had not progressed.[^2] Iran's Rezaei says there are no real talks until the US accepts Iran's conditions.[^3]"
-    },
-    {
-      "id": "abu-dhabi-trilateral-talks-begin",
-      "heading": "US, Russia and Ukraine begin their first three-way talks since February in Abu Dhabi",
-      "date": "2026-11-10",
-      "status": "developing",
-      "summary": "Delegations from the US, Russia and Ukraine opened two days of talks in Abu Dhabi focused on security guarantees, the first such meeting since February.[^5][^6] Europe is present on the sidelines, and both sides still disagree sharply on territory.[^7][^8]",
-      "lead": {
-        "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
-        "outlet": "CBS News",
-        "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [
-        {
-          "title": "Russia and Ukraine security-focused talks start in Abu Dhabi",
-          "outlet": "The National",
-          "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/"
-        },
-        {
-          "title": "Russia, Ukraine, and the U.S. to hold peace talks in Abu Dhabi on November 10",
-          "outlet": "Meduza",
-          "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda"
+          "title": "2nd day of trilateral peace talks begins between Ukraine, Russia, US in Abu Dhabi",
+          "outlet": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Talks between the United States, Russia and Ukraine began in Abu Dhabi on Tuesday and are planned to run two days.[^5] They are the first three-way meeting since February; diplomacy largely stalled after the US went to war with Iran.[^5] US envoys Steve Witkoff and Jared Kushner lead the American side, and a US official said they expect to cover security guarantees, meaning promises about who would defend Ukraine against a future attack.[^6]",
-        "The delegations are senior. Russia's is led by presidential aide Vladimir Medinsky with two deputy foreign ministers and the head of military intelligence; Ukraine's is led by foreign intelligence chief Rustem Umerov.[^7] European officials from the EU, NATO, Germany, France and the UK are in Abu Dhabi for separate meetings but are not at the main table, which the Kremlin insists is three-way.[^7][^8]",
-        "The gaps are wide. Russia demands that Ukraine leave four regions, including areas Russia has not captured, drop its NATO bid and accept limits on its army.[^5] President Zelenskyy rejects giving up territory and says Ukraine needs firm guarantees and a ceasefire first.[^5] Trump says he believes the war will \"end soon\"; a senior Ukrainian lawmaker told ABC he expects little beyond possible prisoner swaps.[^8] Overnight, Ukraine's air force said Russia launched 162 drones and a missile.[^8]",
-        "At the G7 meeting in Paris, European ministers pressed Rubio to make any deal fair to Ukraine, and Germany's foreign minister said Europe \"must have a place at the table\".[^4] Canada announced new sanctions on 38 entities and 24 people.[^4] My read: a limited result, such as a prisoner exchange or an energy truce, is more plausible this week than a breakthrough on borders."
-      ],
-      "differences": "Kushner calls the talks a first step that could \"build momentum\".[^5] Moscow says the talks are strictly three-way, while France says Europe will be represented.[^8][^4] Ukrainian MP Oleksandr Merezhko has \"absolutely no hopes\" beyond prisoner swaps.[^8]"
-    },
-    {
-      "id": "knesset-sworn-in-eisenkot",
-      "heading": "Israel's new Knesset is sworn in as Eisenkot searches for 61 seats",
-      "date": "2026-11-10",
-      "status": "developing",
-      "summary": "Israel's new 120-seat parliament was due to be sworn in on Tuesday, with neither Netanyahu's bloc nor Gadi Eisenkot's holding a majority.[^9] Eisenkot has the first chance to form a government, and his opposition plans to name Matan Kahana as speaker.[^9]",
-      "lead": {
-        "title": "New Israel parliament to be sworn in as Eisenkot seeks government",
-        "outlet": "Al-Monitor (AFP)",
-        "url": "https://www.al-monitor.com/originals/2026/11/new-israel-parliament-be-sworn-eisenkot-seeks-government",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [],
-      "eventId": "gaza",
-      "article": [
-        "Israel's 26th Knesset, elected last month, was due to be sworn in on Tuesday, with President Isaac Herzog speaking at the opening session.[^9] The result left neither main camp with the 61 votes needed for a government. Herzog gave opposition leader Gadi Eisenkot, a former army chief, the first mandate on Sunday, starting a 28-day clock that can be extended by 14 days.[^9]",
-        "Eisenkot's core bloc has 48 seats, according to AFP. He could reach a majority with the 19 Arab-Israeli lawmakers, most likely by having them vote for a government without joining it.[^9] But Avigdor Lieberman, a key ally, says he will not let Eisenkot rely on Arab parties and has suggested a deal with the two ultra-Orthodox parties, which hold 13 seats and have backed Netanyahu until now.[^9]",
-        "In the meantime the opposition plans to use its numbers in parliament. It will nominate Matan Kahana, a former senior military figure, as speaker and Lieberman to chair the foreign affairs and defence committee.[^9] One stated priority is a state commission of inquiry into the security failures that allowed the October 7, 2023 Hamas attack, which Netanyahu has resisted.[^9]",
-        "Why it matters beyond Israel: the next government will decide how Israel handles the stalled next phase of the Gaza ceasefire and the war with Iran. AFP notes Eisenkot has largely supported past war decisions but promises to act against extremist settlers in the West Bank.[^9] My read: the coalition maths may take most of the 28 days, and a second election cannot be ruled out."
+        "Delegations from Russia and Ukraine met for a second straight day on Wednesday in Abu Dhabi, the capital of the United Arab Emirates, with US envoys Steve Witkoff and Jared Kushner mediating. It is the first round between the two sides since February in Geneva. On Tuesday they talked for about four hours.[^1]",
+        "Ukraine's team is led by Rustem Umerov, the head of its foreign intelligence service; Russia's is led by Vladimir Medinsky, an aide to President Putin who also negotiated in 2022 and 2025.[^2] Zelenskyy said the first day was \"constructive and quite substantive\" and that \"the release of prisoners is a priority\". Talks also covered returning civilians and children, and how security guarantees for Ukraine could work over the long term.[^1][^2] US Secretary of State Marco Rubio called the meeting \"very productive\" but said a breakthrough would take time.[^1]",
+        "Europe is in the room next door, not at the table. Moscow does not want European countries in the direct talks, so national security advisers from France, Germany, the UK and Italy, plus EU and NATO officials, met the Ukrainian and US teams separately.[^2][^1]",
+        "The war continued around the talks. Russia's Defence Ministry said it downed 627 Ukrainian drones overnight, 150 of them over the St. Petersburg region, and a regional governor said drones started a fire at Ust-Luga, one of Russia's main oil export ports. Russian strikes on Zaporizhzhia and Kharkiv wounded seven civilians, AP reports.[^1]",
+        "My read: humanitarian steps such as a prisoner exchange are the most realistic result this week. The hard questions, the land Russia still demands and who would guarantee any deal, remain far apart. Watch whether the envoys travel to Moscow and Kyiv, and whether the topic returns at next week's APEC summit in China."
       ],
       "differences": null
     },
     {
-      "id": "china-trade-surplus-1-trillion",
-      "heading": "China's trade surplus passes $1 trillion for a second year as exports jump 35%",
-      "date": "2026-11-10",
-      "status": "confirmed",
-      "summary": "China's customs data show October exports up 35.2% from a year ago and a surplus of $1.04 trillion for January to October, led by chips and cars.[^10] Economists say weak demand at home keeps China leaning on sales abroad, ahead of Trump-Xi talks next week.[^10]",
+      "id": "iran-denies-talks-hormuz-shut",
+      "heading": "Iran denies any talks with the US and says Hormuz stays shut until its demands are met",
+      "date": "2026-11-11",
+      "status": "disputed",
+      "summary": "Iran's security chief called reports of US-Iran negotiations \"a pure lie\" and said the Strait of Hormuz stays closed until Washington meets seven conditions.[^3] Qatar, the main go-between, said a day earlier it had seen \"progress\".[^4]",
       "lead": {
-        "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-        "outlet": "ClickOnDetroit (AP)",
-        "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [],
-      "eventId": null,
-      "article": [
-        "China's customs agency said on Tuesday that exports in October were 35.2% higher than a year earlier, and imports rose 41.6%.[^10] That pushed the trade surplus, the amount by which exports exceed imports, to $1.04 trillion for the first ten months of 2026, the second year in a row above $1 trillion. China is on track to beat last year's record of about $1.2 trillion.[^10]",
-        "The details show what the world is buying. Chinese semiconductor exports rose 137% in value in October and car exports 37.6%, as the global AI building boom pulls in electronics.[^10] Exports to the US rose 32.9% and to the EU 24.3%. Imports grew partly because crude oil shipments from the Persian Gulf recovered.[^10]",
-        "Economists see a problem underneath the strength. Alicia García-Herrero of Natixis says overcapacity, high savings and weak spending at home keep China exporting, and calls this \"not sustainable\".[^10] Small exporters describe fierce price wars. An economist at Moody's Analytics expects exports to stay strong this year, but names an AI slowdown and new EU trade limits as risks.[^10]",
-        "Trade is expected to top the agenda when Trump and Xi Jinping meet next week at the APEC summit in Shenzhen; a trade truce was recently extended to January.[^10] My read: a surplus this big makes other countries more likely to add tariffs, which is one of the main pressures to watch in 2027."
-      ],
-      "differences": null
-    },
-    {
-      "id": "cop31-opens-antalya",
-      "heading": "COP31 opens in Antalya with its host saying 1.5C will be overshot",
-      "date": "2026-11-09",
-      "status": "confirmed",
-      "summary": "The UN climate summit opened in Turkey after a year of deadly extremes, and its president said it is now clear the world will pass 1.5C of warming.[^11] Poorer countries want clarity on money; the US is not taking part.[^11][^12]",
-      "lead": {
-        "title": "COP31 climate summit begins after disastrous year of extreme weather",
-        "outlet": "PBS NewsHour (AP)",
-        "url": "https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather",
-        "date": "2026-11-09"
+        "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+        "date": "2026-11-11"
       },
       "alsoReported": [
         {
-          "title": "COP31 enters 2nd day with focus on energy, transport",
-          "outlet": "Hürriyet Daily News",
-          "url": "https://www.hurriyetdailynews.com/cop31-enters-2nd-day-with-focus-on-energy-transport-229217"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "COP31, the yearly UN climate summit, opened in Antalya, Turkey, on Monday and runs to November 20.[^11] About 68,500 people have registered. Turkey hosts the meeting, while Australia leads the formal negotiations; the United States is absent, having pulled out of the climate talks.[^11]",
-        "The mood is sober. Turkey's environment minister Murat Kurum, the COP president, said this is the first COP where it is \"clear beyond a reasonable doubt\" that the world will overshoot the 1.5C limit set in Paris in 2015.[^11] UN climate chief Simon Stiell called the climate crisis \"a global health crisis\" and framed the choice as \"electric or shock\", pointing to how the Iran war has driven up fuel and fertiliser prices.[^11]",
-        "Kurum wants this summit to turn past promises into action rather than set new targets, with an \"Action Agenda\" on methane and resilient cities and a goal to raise electricity's share of energy use from 21% to 35% by 2035.[^11] The second day focused on energy security, power grids and transport, with about 370 sessions.[^12]",
-        "The main fight is money. Developing countries want rich ones to say how they will pay for adaptation; Meena Raman of Third World Network said the poorest countries \"shouldn't have to borrow their way through it\".[^11] The African Group's agenda proposals are contested by the EU and Canada, an adviser to African negotiators said.[^11] Leaders speak on Nov 11-12."
-      ],
-      "differences": null
-    },
-    {
-      "id": "fossil-emissions-dip-2026",
-      "heading": "Scientists project fossil CO2 emissions will dip in 2026, partly due to the Iran war",
-      "date": "2026-11-10",
-      "status": "confirmed",
-      "summary": "The Global Carbon Budget projects fossil CO2 emissions will fall 0.4% in 2026, helped by solar and wind and by the oil shock from the Iran war.[^13][^14] Its authors warn a fall caused by a crisis is not a lasting solution.[^13]",
-      "lead": {
-        "title": "Fossil CO2 emissions decrease in 2026",
-        "outlet": "University of Exeter",
-        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [
-        {
-          "title": "Iran war disruption expected to curb global fossil fuel emissions, scientists say",
-          "outlet": "A News (Anadolu Agency)",
-          "url": "https://www.anews.com.tr/middle-east/2026/11/10/iran-war-disruption-expected-to-curb-global-fossil-fuel-emissions-scientists-say"
+          "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "An international team of scientists, the Global Carbon Project, published its yearly estimate on Tuesday. It projects that carbon dioxide from burning fossil fuels will fall 0.4% in 2026, to 38.2 billion tonnes.[^13] Emissions from oil are expected to drop 1.9%, likely a short-term response to the energy shock from the Iran war, while gas falls 0.3% and coal rises 0.6%.[^13][^14]",
-        "Countries move in different directions. The study projects falls of 1.5% in the EU, 1.3% in the US and 0.9% in China, but a 4.4% rise in India.[^13] A linked paper in Nature Climate Change finds that solar, wind and electric vehicles are covering most new energy demand, and that 59 countries cut emissions below 2019 levels in 2025 while their economies grew.[^13]",
-        "The total picture is less good. When fires and forest loss are included, total CO2 emissions still rise, to 43.3 billion tonnes, because of peat fires in Southeast Asia.[^13] CO2 in the air reaches about 427.7 parts per million, 54% above pre-industrial levels, and the remaining budget for 1.5C is about 150 billion tonnes, less than four years at today's rate.[^13]",
-        "The lead author, Pierre Friedlingstein, said a drop \"driven partly by geopolitical shocks is not a sustainable climate solution\".[^13] Glen Peters of CICERO added that one year's fall is not a peak unless it comes from lasting change.[^13] The numbers arrive as COP31 negotiators meet in Turkey."
+        "The war that began in February is now in its ninth month, and the two sides are describing the same moment very differently. On Monday, after meeting Qatar's prime minister at the White House, President Trump said he saw \"positive momentum\" and that new attacks on Iran were unnecessary for now, while keeping the US naval blockade of Iranian ports in place.[^3][^4]",
+        "On Tuesday, Qatar's foreign ministry said it had seen \"progress\", though its spokesperson added that \"we cannot say how close or how far away an agreement is\".[^4] Then on Wednesday, Mohsen Rezaei, head of Iran's top security council, told Lebanon's Al Mayadeen TV that reports of negotiations or a meeting in Qatar were \"a pure lie\" meant to calm oil prices. He said the US's first reply to Iran's seven conditions was \"insufficient and deceptive\".[^3]",
+        "Iran has not published the full list. Officials say it includes lifting sanctions and the blockade and ending fighting on all fronts, especially Israel's strikes on Lebanon. Foreign Minister Abbas Araghchi says the strait could reopen within two days if the demands are met.[^3] In Paris, Secretary of State Rubio said the US is \"open to diplomacy\" and that its economic pressure is strong enough that \"there is no need for major combat operations\".[^3]",
+        "The strait matters because a large share of the world's oil and liquefied gas normally passes through it. Iran's Revolutionary Guards said three tankers caught fire after hitting mines on an \"unauthorised route\" on Tuesday, and maritime monitors count at least 37 attacks on ships near Hormuz so far in November, the most of any month in the war.[^3]",
+        "My read: both sides gain from appearing reasonable to Gulf states and to oil markets, which is why the public messages diverge. The test is concrete: a confirmed meeting, an eased blockade, or ships moving safely."
+      ],
+      "differences": "The US and Qatar describe progress and momentum toward talks.[^4] Iran's security chief says there are no talks at all and calls the reports a US ploy to lower oil prices.[^3]"
+    },
+    {
+      "id": "us-china-superintelligence-dialogue",
+      "heading": "US and China plan a dialogue on 'superintelligence' at next week's Xi meeting",
+      "date": "2026-11-10",
+      "status": "developing",
+      "summary": "US Treasury Secretary Scott Bessent said a meeting with Xi Jinping next week will launch a US-China dialogue on very advanced AI, including a direct channel to warn each other of serious incidents.[^5]",
+      "lead": {
+        "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+        "outlet": "Lufkin Daily News (Reuters)",
+        "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
+        "date": "2026-11-10"
+      },
+      "alsoReported": [],
+      "eventId": "ai-race",
+      "article": [
+        "Speaking in New York on Tuesday to the National Committee on US-China Relations, Treasury Secretary Scott Bessent said he will meet Chinese President Xi Jinping in Shenzhen on the sidelines of the APEC summit on Nov 18-19. That meeting, he said, will launch a two-way dialogue on \"superintelligence\", meaning AI systems that could outperform people at most tasks, with the stated aim to \"prevent a misunderstanding between our two systems\".[^5]",
+        "According to Reuters, the two governments will exchange best practices for testing advanced AI models before release and have agreed on a direct channel to alert each other to serious AI incidents.[^5] Channels like this already exist for military crises; the idea is to have a phone line ready before something goes wrong, not after.",
+        "Bessent was careful not to sound warm. He said both countries \"should harbor no illusions\" about their differences and that US policy is to \"de-risk, not to decouple\", meaning reduce dependence on China without cutting ties. He also described planned boards to agree mutual tariff cuts on about $30 billion of non-sensitive goods each way.[^5]",
+        "The backdrop is tense. Nvidia, the leading AI chip maker, is investigating whether its chief executive was targeted by Chinese intelligence; China's foreign ministry calls the accusations \"groundless\".[^5] Bessent did not mention the case.",
+        "My read: an incident channel is a modest step, and the details are so far known from one Reuters report. Still, it would be the first formal US-China arrangement aimed at the most powerful AI systems. Watch what the two sides actually sign in Shenzhen."
+      ],
+      "differences": null
+    },
+    {
+      "id": "indonesia-vp-gibran-offers-resign",
+      "heading": "Indonesia's vice president offers to resign after a court rules against his documents",
+      "date": "2026-11-10",
+      "status": "developing",
+      "summary": "Vice President Gibran Rakabuming Raka, son of former president Joko Widodo, offered to resign in a meeting with President Prabowo Subianto after a court found his school documents did not meet election rules.[^6][^7]",
+      "lead": {
+        "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
+        "outlet": "ABC News (AP)",
+        "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
+        "date": "2026-11-10"
+      },
+      "alsoReported": [
+        {
+          "title": "Breaking News: Gibran Offers to Resign as Indonesia's Vice President Amid Diploma Dispute",
+          "outlet": "Jakarta Globe",
+          "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Indonesia is the world's fourth most populous country and Southeast Asia's largest economy. On Tuesday its vice president, Gibran Rakabuming Raka, 39, offered to resign during a meeting of more than two hours with President Prabowo Subianto, according to State Secretary Prasetyo Hadi.[^6][^7]",
+        "The dispute is about paperwork. Gibran finished his secondary schooling abroad, and last month Indonesia's Supreme Court found that the education documents he submitted for the 2024 election did not meet the requirements.[^6] Some lawmakers then called for his impeachment. Gibran said he did not want the situation \"to become a prolonged political controversy\" but did not speak about the offer directly.[^6]",
+        "It is not clear what happens next. Prasetyo said it was \"not true\" that Prabowo had rejected the offer, but no written resignation was announced and no constitutional process has begun.[^7] Prabowo advised Gibran to keep defending his documents in court, and Gibran asked for a chance to do that at the State Administrative Court.[^6][^7]",
+        "The case also reflects a wider split. Gibran is the son of Joko Widodo, the popular former president whose backing helped Prabowo win in 2024. AP reports a widening rift between Prabowo and Widodo, who separately denies allegations that he used a fake university diploma.[^6]",
+        "My read: the immediate question is legal, but the bigger one is political, about who holds power in Prabowo's coalition. Watch the court case and whether parliament begins any formal process."
+      ],
+      "differences": null
+    },
+    {
+      "id": "anc-worst-local-election",
+      "heading": "South Africa's ANC falls to about 31% in local elections, its worst since apartheid",
+      "date": "2026-11-08",
+      "status": "confirmed",
+      "summary": "Final results show the ANC, Nelson Mandela's party, at 30.76% nationally, down from 45.59% in 2021; the Democratic Alliance leads in five of the eight big metro areas.[^8][^9]",
+      "lead": {
+        "title": "2026 election final results announced",
+        "outlet": "BusinessTech",
+        "url": "https://businesstech.co.za/news/government/883205/final-2026-election-results-announced/",
+        "date": "2026-11-08"
+      },
+      "alsoReported": [
+        {
+          "title": "African National Congress Suffers Its Worst Election Result Since South Africa Ended Apartheid",
+          "outlet": "Democracy Now!",
+          "url": "https://www.democracynow.org/2026/11/10/headlines/african_national_congress_suffers_its_worst_election_result_since_south_africa_ended_apartheid"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "South Africa's electoral commission has finished counting the 2026 local government elections. The African National Congress, which has led the country since the end of apartheid in 1994, won 30.76% of the national vote, down almost 15 points from 45.59% in 2021.[^8] It remains the largest party, but this is its worst result since apartheid ended.[^9]",
+        "The Democratic Alliance (DA), the main rival, rose to 24.64%. Next came the MK party of former president Jacob Zuma at 9.77%, the Economic Freedom Fighters at 6.22% and ActionSA at 5.67%.[^8] The DA says it won more than a million votes from Black South Africans for the first time, which matters because it has long been seen as a party of mostly white and mixed-race voters.[^9]",
+        "The cities show the shift most clearly. The DA leads in five of eight metros, including Johannesburg (34.79% to the ANC's 20.25%) and Cape Town (56.42%). In eThekwini, which includes Durban, MK took 38.29%. The ANC leads only in Buffalo City and, narrowly, Mangaung.[^8]",
+        "Local councils run water, electricity distribution, roads and rubbish collection, so many results now depend on coalitions. ANC Secretary-General Fikile Mbalula said \"the people of South Africa have spoken\" and the party would respond \"with introspection\"; the DA says coalition talks will be handled nationally.[^8] The two parties already govern together nationally after the ANC lost its majority in 2024.",
+        "My read: the result shows a long decline continuing rather than a sudden break. The next test is whether city coalitions can deliver basic services more reliably than before."
+      ],
+      "differences": null
+    },
+    {
+      "id": "cop31-brazil-fossil-roadmap",
+      "heading": "Brazil presents a road map away from fossil fuels at COP31",
+      "date": "2026-11-10",
+      "status": "confirmed",
+      "summary": "On COP31's energy day in Antalya, Brazil presented a voluntary road map for moving away from coal, oil and gas, and the UN chief urged countries to set timelines.[^10][^11]",
+      "lead": {
+        "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
+        "outlet": "Sentinel Colorado (AP)",
+        "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
+        "date": "2026-11-10"
+      },
+      "alsoReported": [
+        {
+          "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+          "outlet": "The Manila Times (UN News)",
+          "url": "https://www.manilatimes.net/2026/11/11/world/un-news/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels/2467236"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "On Tuesday, the second day of the COP31 climate summit in Antalya, Turkey, Brazil presented a road map for a \"transition away from fossil fuels\".[^10] Brazil hosted last year's summit, COP30, where countries could not agree on such a plan, so it wrote one itself. The document is voluntary and is not a new binding agreement.[^11]",
+        "It lists \"levers\" countries can pull, such as halting new fossil fuel power plants and cutting fossil fuel subsidies.[^10] Ana Toni, who leads Brazil's COP30 team, said the aim is to be \"very pragmatic\" and told countries to \"start now from wherever you are\".[^10][^11] Brazil is itself a major oil exporter, a tension Toni declined to discuss directly.[^10]",
+        "UN Secretary-General António Guterres linked the plan to this year's oil shock. He said the European Union alone has paid more than €100 billion in extra fossil fuel import costs since the Middle East escalation began, and that fuel prices rose in 130 countries. \"Disruption anywhere drives up prices everywhere,\" he said, asking countries for national plans with timelines by 2028.[^11]",
+        "Host Turkey is promoting a pledge to raise electricity's share of world energy use to 35% by 2035, from about 23% today, according to AP.[^10] A UN expert noted that about 2,500 gigawatts of projects worldwide are waiting to be connected to power grids.[^11] The US government is absent for a second year; former envoy John Kerry said \"we don't need more promises, we need plans\".[^10]",
+        "My read: a voluntary road map cannot force anyone to act, but the Iran war has made the economic case for cutting oil dependence easier to argue. The final COP31 text, due next week, will show how many countries sign up to anything concrete."
       ],
       "differences": null
     }
@@ -185,114 +187,90 @@
   "sources": [
     {
       "id": 1,
-      "outlet": "The New Arab",
-      "title": "Trump claims war 'effectively over', Iran presses on conditions",
-      "url": "https://www.newarab.com/news/trump-claims-war-effectively-over-iran-presses-conditions",
-      "date": "2026-11-10",
+      "outlet": "News4JAX (AP)",
+      "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi",
+      "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Al Jazeera",
-      "title": "Qatar PM to meet Trump: What's the latest on US-Iran negotiations?",
-      "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
-      "date": "2026-11-09",
+      "outlet": "The Kyiv Independent",
+      "title": "2nd day of trilateral peace talks begins between Ukraine, Russia, US in Abu Dhabi",
+      "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Times of Israel",
-      "title": "Live blog, November 10, 2026",
-      "url": "https://www.timesofisrael.com/liveblog-november-10-2026/",
-      "date": "2026-11-10",
+      "outlet": "Al Jazeera",
+      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Business Recorder (AFP)",
-      "title": "G7 ministers press Rubio on Iran, Ukraine at Paris talks",
-      "url": "https://www.brecorder.com/news/40448218/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks",
+      "outlet": "Euronews",
+      "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
+      "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
       "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "CBS News",
-      "title": "U.S., Russia and Ukraine begin talks in Abu Dhabi aimed at ending war in Ukraine",
-      "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+      "outlet": "Lufkin Daily News (Reuters)",
+      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
       "date": "2026-11-10",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 6,
-      "outlet": "The National",
-      "title": "Russia and Ukraine security-focused talks start in Abu Dhabi",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
+      "outlet": "ABC News (AP)",
+      "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
+      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
       "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Meduza",
-      "title": "Russia, Ukraine, and the U.S. to hold peace talks in Abu Dhabi on November 10",
-      "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda",
-      "date": "2026-11-09",
+      "outlet": "Jakarta Globe",
+      "title": "Breaking News: Gibran Offers to Resign as Indonesia's Vice President Amid Diploma Dispute",
+      "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "ABC News (US)",
-      "title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
-      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
-      "date": "2026-11-10",
+      "outlet": "BusinessTech",
+      "title": "2026 election final results announced",
+      "url": "https://businesstech.co.za/news/government/883205/final-2026-election-results-announced/",
+      "date": "2026-11-08",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Al-Monitor (AFP)",
-      "title": "New Israel parliament to be sworn in as Eisenkot seeks government",
-      "url": "https://www.al-monitor.com/originals/2026/11/new-israel-parliament-be-sworn-eisenkot-seeks-government",
+      "outlet": "Democracy Now!",
+      "title": "African National Congress Suffers Its Worst Election Result Since South Africa Ended Apartheid",
+      "url": "https://www.democracynow.org/2026/11/10/headlines/african_national_congress_suffers_its_worst_election_result_since_south_africa_ended_apartheid",
       "date": "2026-11-10",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "ClickOnDetroit (AP)",
-      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-      "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
+      "outlet": "Sentinel Colorado (AP)",
+      "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
+      "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
       "date": "2026-11-10",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "PBS NewsHour (AP)",
-      "title": "COP31 climate summit begins after disastrous year of extreme weather",
-      "url": "https://www.pbs.org/newshour/science/cop31-climate-summit-begins-after-disastrous-year-of-extreme-weather",
-      "date": "2026-11-09",
-      "singleSource": false
-    },
-    {
-      "id": 12,
-      "outlet": "Hürriyet Daily News",
-      "title": "COP31 enters 2nd day with focus on energy, transport",
-      "url": "https://www.hurriyetdailynews.com/cop31-enters-2nd-day-with-focus-on-energy-transport-229217",
-      "date": "2026-11-10",
-      "singleSource": false
-    },
-    {
-      "id": 13,
-      "outlet": "University of Exeter",
-      "title": "Fossil CO2 emissions decrease in 2026",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-      "date": "2026-11-10",
-      "singleSource": false
-    },
-    {
-      "id": 14,
-      "outlet": "A News (Anadolu Agency)",
-      "title": "Iran war disruption expected to curb global fossil fuel emissions, scientists say",
-      "url": "https://www.anews.com.tr/middle-east/2026/11/10/iran-war-disruption-expected-to-curb-global-fossil-fuel-emissions-scientists-say",
-      "date": "2026-11-10",
+      "outlet": "The Manila Times (UN News)",
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+      "url": "https://www.manilatimes.net/2026/11/11/world/un-news/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels/2467236",
+      "date": "2026-11-11",
       "singleSource": false
     }
   ]

@@ -1,28 +1,36 @@
 {
-  "date": "2026-11-10",
-  "summary": "China's exports jump 35% and its surplus passes $1 trillion again, while Double 11 shoppers buy AI tools and want more than discounts.",
+  "date": "2026-11-11",
+  "summary": "Singles' Day turns into a test of AI shopping assistants, and the US says it will open a dialogue with China on advanced AI at next week's APEC summit.",
   "body": [
-    "China's customs agency said on Tuesday that October exports were 35.2% higher than a year ago, pushing the trade surplus for January to October to $1.04 trillion, the second year above $1 trillion, AP reports.[^1] Semiconductor exports more than doubled in value (up 137%) and car exports rose 37.6%, as the world's AI building boom pulls in Chinese electronics.[^1] Economists say the other side of this is weak spending at home: Alicia García-Herrero of Natixis says overcapacity and high savings keep China exporting and calls it \"not sustainable\".[^1] Trade will be a main topic when Trump and Xi meet at APEC in Shenzhen next week.[^1]",
-    "Daily life shows up in Double 11 (Nov 11), the biggest online shopping festival, now in its 18th year. This year's surprise best-seller is AI: a famous livestream host sold about 100,000 monthly plans for Alibaba's office AI assistant in 30 minutes, and Taobao and Tmall say token sales, paid units of AI use, rose 450% from the previous month on the first sale day, the Seoul Economic Daily reports, citing China's The Paper.[^2] Overall, spending across big platforms from Oct 7 to 31 was up only 2.4% from a year earlier, by data firm Syntun's count.[^2]",
-    "A survey cited in the same report found about 70% of shoppers say the festival loses its appeal if it only offers price cuts.[^2] My read: Chinese shoppers seem to be buying fewer things on impulse and more things they think will be useful, which fits the cautious mood seen in housing and car sales this year."
+    "Today is Singles' Day, or Double 11, China's biggest online shopping festival. This year the story is AI. JD.com says nearly 80 million people used its AI shopping assistant during the event, more than three times last year, and on Douyin (China's TikTok) chatbot links drove about 5% of purchases in October, rising above 20% for things people research first, such as supplements, Reuters reports.[^1][^2] Tmall says sales of AI tokens, prepaid units of AI use, rose more than 700% in the run-up, and Alibaba says AI toys passed 100 million yuan (about $15 million US) in sales within a year.[^1][^2]",
+    "The bigger picture is calmer. Data firm Syntun counted festival sales up only 2.4% from Oct 7 to 31, and China's retail sales grew just 1.1% in the year to September.[^1] My read: the platforms are using AI to make shopping feel new, but households are still careful with money. Syntun publishes its full figure on Thursday.[^1]",
+    "On technology diplomacy, US Treasury Secretary Scott Bessent said he will meet Xi Jinping in Shenzhen at the APEC summit (Nov 18-19) to launch a dialogue on \"superintelligence\", including a direct line to warn each other of serious AI incidents.[^3] He also described planned mutual tariff cuts on about $30 billion of non-sensitive goods each way. China's foreign ministry calls US spying accusations involving Nvidia's chief executive \"groundless\".[^3]"
   ],
   "differences": null,
   "reads": [],
   "sources": [
     {
       "id": 1,
-      "outlet": "ClickOnDetroit (AP)",
-      "title": "China's trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%",
-      "url": "https://www.clickondetroit.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/",
-      "date": "2026-11-10",
+      "outlet": "TimesLIVE (Reuters)",
+      "title": "China's Singles' Day shopping festival puts AI selling power to the test",
+      "url": "https://www.timeslive.co.za/news/2026-11-11-chinas-singles-day-shopping-festival-puts-ai-selling-power-to-the-test/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Seoul Economic Daily",
-      "title": "AI Tokens Emerge as Hot Sellers in China's Singles Day Shopping Festival",
-      "url": "https://en.sedaily.com/international/2026/11/05/ai-tokens-emerge-as-hot-sellers-in-chinas-singles-day",
-      "date": "2026-11-05",
+      "outlet": "102.7 WBOW (Reuters)",
+      "title": "China's Singles Day shopping festival puts AI selling power to the test",
+      "url": "https://1027wbow.com/2026/11/11/chinas-singles-day-shopping-festival-puts-ai-selling-power-to-the-test/",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Lufkin Daily News (Reuters)",
+      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
+      "date": "2026-11-10",
       "singleSource": true
     }
   ]
