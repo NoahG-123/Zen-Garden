@@ -1,275 +1,309 @@
 {
-  "date": "2026-11-11",
-  "summary": "Russia and Ukraine talk for a second day, Iran and the US tell opposite stories, the US and China plan an AI hotline, and South Africa's ANC hits a low.",
+  "date": "2026-11-12",
+  "summary": "Russia and Ukraine agree a prisoner swap but not land, Iran says Hormuz has changed for good, Ebola passes 11,000 cases, and COP31 leaders meet.",
   "question": {
-    "type": "other-side",
-    "text": "Iran says the US talks up negotiations to lower oil prices; the US says Iran's demands are unreasonable. Pick one side and write its strongest honest case. What does it need the other side to believe, and what would change its mind?"
+    "type": "second-order",
+    "text": "Iran says it and Oman will now oversee the Strait of Hormuz. If shipping companies came to accept that, what might change a few steps later: for other narrow sea lanes, for oil buyers in Asia, and for the treaty rules that govern the sea?"
   },
   "read": {
-    "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
-    "outlet": "Sentinel Colorado (AP)",
-    "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
+    "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
+    "outlet": "Yahoo News (Reuters)",
+    "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
     "kind": "news",
     "minutes": 6,
-    "summary": "A clear account of what Brazil's fossil fuel road map proposes, who supports it, and the tensions inside it, including Brazil's own oil exports."
+    "summary": "A clear guide to what COP31 is trying to agree, why Turkey is betting on electrification, and why critics say that is not the same as leaving fossil fuels."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "abu-dhabi-talks-day-two",
-      "heading": "Russia-Ukraine talks in Abu Dhabi go to a second day, focused on prisoners",
+      "id": "abu-dhabi-prisoner-deal",
+      "heading": "Russia-Ukraine talks in Abu Dhabi end with a prisoner swap deal, but no deal on land",
       "date": "2026-11-11",
       "status": "developing",
-      "summary": "US-brokered talks between Russian and Ukrainian delegations continued in Abu Dhabi for a second day, the first such meeting in nine months.[^1] Zelenskyy called day one \"constructive and quite substantive\", with prisoner releases the main focus; neither side has dropped its core demands.[^1][^2]",
+      "summary": "Two days of US-brokered talks ended with Russia and Ukraine agreeing in principle to a large prisoner exchange, with numbers to be set on Thursday.[^1][^2] Both sides say territory is still unresolved, and US envoys head to Moscow and then to Zelenskyy in Dublin.[^1][^3]",
       "lead": {
-        "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi",
-        "outlet": "News4JAX (AP)",
-        "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+        "title": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
         "date": "2026-11-11"
       },
       "alsoReported": [
         {
-          "title": "2nd day of trilateral peace talks begins between Ukraine, Russia, US in Abu Dhabi",
-          "outlet": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/"
+          "title": "Russia–Ukraine peace talks conclude in Abu Dhabi with prisoner exchange agreement but no breakthrough on territory",
+          "outlet": "Meduza",
+          "url": "https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory"
+        },
+        {
+          "title": "Abu Dhabi Talks End With Prisoner Exchange But No Peace Breakthrough",
+          "outlet": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Delegations from Russia and Ukraine met for a second straight day on Wednesday in Abu Dhabi, the capital of the United Arab Emirates, with US envoys Steve Witkoff and Jared Kushner mediating. It is the first round between the two sides since February in Geneva. On Tuesday they talked for about four hours.[^1]",
-        "Ukraine's team is led by Rustem Umerov, the head of its foreign intelligence service; Russia's is led by Vladimir Medinsky, an aide to President Putin who also negotiated in 2022 and 2025.[^2] Zelenskyy said the first day was \"constructive and quite substantive\" and that \"the release of prisoners is a priority\". Talks also covered returning civilians and children, and how security guarantees for Ukraine could work over the long term.[^1][^2] US Secretary of State Marco Rubio called the meeting \"very productive\" but said a breakthrough would take time.[^1]",
-        "Europe is in the room next door, not at the table. Moscow does not want European countries in the direct talks, so national security advisers from France, Germany, the UK and Italy, plus EU and NATO officials, met the Ukrainian and US teams separately.[^2][^1]",
-        "The war continued around the talks. Russia's Defence Ministry said it downed 627 Ukrainian drones overnight, 150 of them over the St. Petersburg region, and a regional governor said drones started a fire at Ust-Luga, one of Russia's main oil export ports. Russian strikes on Zaporizhzhia and Kharkiv wounded seven civilians, AP reports.[^1]",
-        "My read: humanitarian steps such as a prisoner exchange are the most realistic result this week. The hard questions, the land Russia still demands and who would guarantee any deal, remain far apart. Watch whether the envoys travel to Moscow and Kyiv, and whether the topic returns at next week's APEC summit in China."
+        "The first direct talks between Russia and Ukraine in nine months ended on Wednesday in Abu Dhabi, the capital of the United Arab Emirates. US envoy Jared Kushner said the two sides had agreed to a prisoner exchange and would settle the numbers the next day.[^1] Zelenskyy had said negotiators discussed 1,000 prisoners from each side, possibly rising to 1,500.[^1] A Ukrainian delegate said it could be one of the largest swaps of the war.[^2]",
+        "Both delegations described the swap as the main result. Ukraine's lead negotiator Rustem Umerov said \"significant differences remain\" on other issues.[^4] Kushner said the hardest question is territory, but reported progress on security guarantees for Ukraine and on ways to monitor a future ceasefire.[^2][^4]",
+        "Russia's lead negotiator, Putin aide Vladimir Medinsky, repeated Moscow's demand for land, saying \"every inch of our land will be returned to Russia.\"[^3] Ukraine refuses to give up territory it controls.[^3] Medinsky also said his team did not talk to the European officials who came to Abu Dhabi and questioned why they were there; the US says it wants Europeans in a wider format later.[^1][^4]",
+        "The fighting did not pause. Ukraine's prime minister said Russia struck six large electricity substations in central Ukraine during the talks.[^4]",
+        "What comes next: Kushner and Steve Witkoff planned to meet Putin in Moscow on Thursday and then Zelenskyy in Dublin.[^1][^3] My read: a big prisoner exchange is likely soon, because both sides have agreed to it before, including a 1,000-for-1,000 swap in May 2025.[^1] A wider deal still depends on the land question, where neither side has moved."
       ],
-      "differences": null
+      "differences": "Medinsky frames the talks as being about Europe's whole security system and calls Europe's role unclear.[^2][^3] Kushner and Ukraine frame them as steps toward a ceasefire, with progress on monitoring and guarantees.[^4] A Ukrainian delegate suggested a deal could come \"by the New Year\"; US negotiators say there is no trust between the sides.[^2]"
     },
     {
-      "id": "iran-denies-talks-hormuz-shut",
-      "heading": "Iran denies any talks with the US and says Hormuz stays shut until its demands are met",
+      "id": "ghalibaf-hormuz-never-return",
+      "heading": "Iran's top negotiator says Hormuz will 'never return' to how it was before the war",
       "date": "2026-11-11",
-      "status": "disputed",
-      "summary": "Iran's security chief called reports of US-Iran negotiations \"a pure lie\" and said the Strait of Hormuz stays closed until Washington meets seven conditions.[^3] Qatar, the main go-between, said a day earlier it had seen \"progress\".[^4]",
+      "status": "developing",
+      "summary": "Iran's parliament speaker Mohammad Bagher Ghalibaf told Al Jazeera that Iran and Oman have agreed to oversee the Strait of Hormuz, and that Iran awaits a US reply to its seven conditions.[^5] Trump says the US has already won the war.[^6]",
       "lead": {
-        "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+        "title": "Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says",
         "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+        "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
         "date": "2026-11-11"
       },
       "alsoReported": [
         {
-          "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
+          "title": "Nov. 11: Trump claims US has already won the Iran war, now wants 'total victory'",
+          "outlet": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-11-2026/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "The war that began in February is now in its ninth month, and the two sides are describing the same moment very differently. On Monday, after meeting Qatar's prime minister at the White House, President Trump said he saw \"positive momentum\" and that new attacks on Iran were unnecessary for now, while keeping the US naval blockade of Iranian ports in place.[^3][^4]",
-        "On Tuesday, Qatar's foreign ministry said it had seen \"progress\", though its spokesperson added that \"we cannot say how close or how far away an agreement is\".[^4] Then on Wednesday, Mohsen Rezaei, head of Iran's top security council, told Lebanon's Al Mayadeen TV that reports of negotiations or a meeting in Qatar were \"a pure lie\" meant to calm oil prices. He said the US's first reply to Iran's seven conditions was \"insufficient and deceptive\".[^3]",
-        "Iran has not published the full list. Officials say it includes lifting sanctions and the blockade and ending fighting on all fronts, especially Israel's strikes on Lebanon. Foreign Minister Abbas Araghchi says the strait could reopen within two days if the demands are met.[^3] In Paris, Secretary of State Rubio said the US is \"open to diplomacy\" and that its economic pressure is strong enough that \"there is no need for major combat operations\".[^3]",
-        "The strait matters because a large share of the world's oil and liquefied gas normally passes through it. Iran's Revolutionary Guards said three tankers caught fire after hitting mines on an \"unauthorised route\" on Tuesday, and maritime monitors count at least 37 attacks on ships near Hormuz so far in November, the most of any month in the war.[^3]",
-        "My read: both sides gain from appearing reasonable to Gulf states and to oil markets, which is why the public messages diverge. The test is concrete: a confirmed meeting, an eased blockade, or ships moving safely."
+        "Mohammad Bagher Ghalibaf, the speaker of Iran's parliament and its top negotiator, said in an interview with Al Jazeera published on Wednesday that the Strait of Hormuz will \"never return\" to its pre-war status.[^5] The strait, between Iran and Oman, normally carries about a fifth of the world's oil and has been largely shut during the eight-month war.",
+        "Ghalibaf said Iran and Oman have reached an understanding to oversee the waterway together, as part of a seven-point Iranian plan to end the war.[^5] He argued there are no \"free waters\" in the strait and that the 1982 UN Convention on the Law of the Sea, the treaty most countries use for shipping rights, does not apply there.[^5] The US is not a party to that treaty, but it has long held that ships have a right to pass through straits like Hormuz.",
+        "According to Ghalibaf, Iran sent its conditions to Washington through a Qatari mediator and is waiting for an official answer. Al Jazeera lists them as including an end to the US naval blockade and sanctions, the release of frozen Iranian money, an end to fighting on all fronts and a formal announcement that the war is over. \"The ball is now in the American court,\" he said.[^5]",
+        "The US message is different. The Times of Israel reports that President Trump claims the US has already won the war and now wants \"total victory\".[^6] Ghalibaf, for his part, predicted Trump would face pressure from the new Democratic-led Congress in January.[^5]",
+        "My read: both sides are describing the same stalemate in the language of winning. The key test is whether the US answers the Qatari message, and whether shipping companies treat an Iran-Oman arrangement as something they can live with or as a new risk."
       ],
-      "differences": "The US and Qatar describe progress and momentum toward talks.[^4] Iran's security chief says there are no talks at all and calls the reports a US ploy to lower oil prices.[^3]"
+      "differences": "Iran, through Ghalibaf, says the strait's rules are now for Iran and Oman to set and that talks need US concessions first.[^5] Trump says the US has already won and wants total victory.[^6] Neither account has been independently confirmed."
     },
     {
-      "id": "us-china-superintelligence-dialogue",
-      "heading": "US and China plan a dialogue on 'superintelligence' at next week's Xi meeting",
+      "id": "congo-ebola-11000",
+      "heading": "Congo's Ebola outbreak passes 11,000 cases, the second largest on record",
       "date": "2026-11-10",
-      "status": "developing",
-      "summary": "US Treasury Secretary Scott Bessent said a meeting with Xi Jinping next week will launch a US-China dialogue on very advanced AI, including a direct channel to warn each other of serious incidents.[^5]",
+      "status": "confirmed",
+      "summary": "Government data show 11,042 confirmed Ebola cases and 5,387 deaths in Congo since May, Reuters reports.[^7] The Bundibugyo strain behind it has no approved vaccine or treatment, and cases have reached East, Central and West Africa.[^7][^8]",
       "lead": {
-        "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
-        "outlet": "Lufkin Daily News (Reuters)",
-        "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
+        "title": "Congo's Ebola cases surpass 11,000, government data show",
+        "outlet": "CNBC Africa (Reuters)",
+        "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show",
+        "date": "2026-11-11"
+      },
+      "alsoReported": [
+        {
+          "title": "Congo-Kinshasa: Congo Ebola Cases Surpass 11,000 As Death Toll Reaches 5,387",
+          "outlet": "AllAfrica (Daba Finance)",
+          "url": "https://allafrica.com/stories/202611120020.html"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Congo's government released figures on Tuesday showing 11,042 confirmed Ebola infections and 5,387 deaths since the outbreak was declared in mid-May.[^7] Reuters says that makes it the second-largest Ebola outbreak on record, behind the 2014 to 2016 West African epidemic, which infected more than 28,600 people.[^7]",
+        "Ebola is a virus that causes severe bleeding and organ failure and spreads through contact with the body fluids of sick people. This outbreak is caused by the Bundibugyo species, for which there are no approved vaccines or specific treatments.[^7] Vaccine trials are under way, with first results expected in 2027.[^8]",
+        "Eight of Congo's 26 provinces are affected, mostly in the east, in Ituri and North Kivu.[^8] Reuters links the spread to late detection, armed conflict and overstretched health services, and many people have died outside treatment centres, which makes tracing harder.[^7] Cases have been reported in Uganda, Kenya and Nigeria, and some patients have been flown to Europe.[^8]",
+        "Why it matters: about half of confirmed patients have died.[^8] The World Health Organization's last count, on Nov 3, was 10,668 cases, so the outbreak is still growing by hundreds of cases a week.[^8]",
+        "What next: health agencies are asking for more money and supplies.[^8] My read: without a vaccine, slowing this outbreak depends on safe access to the conflict zones in the east, which is the hardest part to change quickly."
+      ],
+      "differences": null
+    },
+    {
+      "id": "cop31-leaders-summit",
+      "heading": "Guterres tells COP31 leaders 'the climate crisis is outrunning us'",
+      "date": "2026-11-11",
+      "status": "confirmed",
+      "summary": "UN chief Antonio Guterres urged leaders at the COP31 climate talks in Antalya, Turkey, to move away from coal, oil and gas.[^9] Many major leaders stayed away, and Turkey is pushing a plan to raise electricity's share of energy use.[^10][^11]",
+      "lead": {
+        "title": "'Climate crisis is outrunning us,' UN chief Guterres says at COP31",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
+        "date": "2026-11-11"
+      },
+      "alsoReported": [
+        {
+          "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
+          "outlet": "Yahoo News (Reuters)",
+          "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html"
+        },
+        {
+          "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
+          "outlet": "Turkish Minute",
+          "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "World leaders began two days of speeches at the UN climate conference, COP31, in Antalya, Turkey, on Wednesday. Secretary-General Antonio Guterres opened with a warning: \"The brutal truth is that the climate crisis is outrunning us.\"[^9] He said emissions hit an all-time high in 2025 and accused the fossil fuel industry of delaying action.[^9][^11] This is his last COP before his term ends in December.[^11]",
+        "Background: in 2023, countries agreed to \"transition away\" from fossil fuels, but they have struggled to agree how.[^11] A UN report last month found the world on course to pass 1.5°C of warming, the limit set in the 2015 Paris Agreement.[^10]",
+        "The host's main idea is electrification. Turkey proposes a voluntary goal for electricity to supply 35% of the world's energy use by 2035, up from a little over a fifth now.[^10] Critics note the plan does not require that new power be clean.[^10] Brazil, last year's host, has published a road map to cut fossil fuel supply from 2031.[^10]",
+        "The guest list says a lot. The US is skipping the talks for a second year, China sent its vice president, and the leaders of France, Germany, Italy, Japan and Canada are not attending.[^9][^11] The EU's climate commissioner said \"expectations are not necessarily high.\"[^11] Iran's president Masoud Pezeshkian is attending and planned to accuse the US and Israel of damaging the environment.[^9]",
+        "What next: talks run until Nov 20.[^9] My read: high oil prices from the Iran war make the case for cheaper electricity stronger, but they also make governments nervous about cutting supply, so expect small, voluntary steps rather than a big new deal."
+      ],
+      "differences": null
+    },
+    {
+      "id": "anthropic-ipo-range",
+      "heading": "Anthropic sets an IPO price that could value it at $1.4 trillion",
+      "date": "2026-11-10",
+      "status": "confirmed",
+      "summary": "AI company Anthropic plans to sell shares at $70 to $78 each, raising up to about $64 billion, with trading expected around Nov 19, TechCrunch reports.[^12] Its filing shows fast-growing revenue and very large losses.[^12]",
+      "lead": {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "outlet": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
         "date": "2026-11-10"
       },
       "alsoReported": [],
       "eventId": "ai-race",
       "article": [
-        "Speaking in New York on Tuesday to the National Committee on US-China Relations, Treasury Secretary Scott Bessent said he will meet Chinese President Xi Jinping in Shenzhen on the sidelines of the APEC summit on Nov 18-19. That meeting, he said, will launch a two-way dialogue on \"superintelligence\", meaning AI systems that could outperform people at most tasks, with the stated aim to \"prevent a misunderstanding between our two systems\".[^5]",
-        "According to Reuters, the two governments will exchange best practices for testing advanced AI models before release and have agreed on a direct channel to alert each other to serious AI incidents.[^5] Channels like this already exist for military crises; the idea is to have a phone line ready before something goes wrong, not after.",
-        "Bessent was careful not to sound warm. He said both countries \"should harbor no illusions\" about their differences and that US policy is to \"de-risk, not to decouple\", meaning reduce dependence on China without cutting ties. He also described planned boards to agree mutual tariff cuts on about $30 billion of non-sensitive goods each way.[^5]",
-        "The backdrop is tense. Nvidia, the leading AI chip maker, is investigating whether its chief executive was targeted by Chinese intelligence; China's foreign ministry calls the accusations \"groundless\".[^5] Bessent did not mention the case.",
-        "My read: an incident channel is a modest step, and the details are so far known from one Reuters report. Still, it would be the first formal US-China arrangement aimed at the most powerful AI systems. Watch what the two sides actually sign in Shenzhen."
+        "Anthropic, the company behind the Claude AI models, said in an updated filing on Tuesday that it will offer 825 million shares at $70 to $78 each in its initial public offering (IPO), its first sale of shares to the public.[^12] At the top of the range, that would raise about $64 billion and value the company at about $1.4 trillion.[^12] (A note: Zen Garden is written with Claude, an Anthropic product. This summary sticks to what the filing and reporting say.)",
+        "Separately, Anthropic agreed to sell $26 billion of non-voting shares to chip and cloud companies, including Google, Nvidia, Microsoft and TSMC.[^12] Its founders keep a special class of shares with a majority of the votes, so public buyers will have limited say.[^12]",
+        "The numbers show the shape of the AI boom. The filing reports $17 billion in revenue in the third quarter, but a net loss of $104 billion over nine months, and about $900 billion in commitments for computing and infrastructure.[^12] The valuation is below the roughly $2 trillion it was reportedly aiming for a few months ago, as markets have become shakier.[^12]",
+        "Why it matters: if a company this size lists, ordinary investors and pension funds get direct exposure to frontier AI for the first time at this scale. Shares are expected to trade on Nasdaq around Nov 19, with up to 20% offered to individual investors, according to TechCrunch citing CNBC.[^12]",
+        "My read: the IPO will be read as a vote on whether AI's huge spending can turn into profits. A strong debut could encourage more spending; a weak one would add to recent worries about an AI bubble."
       ],
       "differences": null
     },
     {
-      "id": "indonesia-vp-gibran-offers-resign",
-      "heading": "Indonesia's vice president offers to resign after a court rules against his documents",
-      "date": "2026-11-10",
-      "status": "developing",
-      "summary": "Vice President Gibran Rakabuming Raka, son of former president Joko Widodo, offered to resign in a meeting with President Prabowo Subianto after a court found his school documents did not meet election rules.[^6][^7]",
-      "lead": {
-        "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
-        "outlet": "ABC News (AP)",
-        "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [
-        {
-          "title": "Breaking News: Gibran Offers to Resign as Indonesia's Vice President Amid Diploma Dispute",
-          "outlet": "Jakarta Globe",
-          "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Indonesia is the world's fourth most populous country and Southeast Asia's largest economy. On Tuesday its vice president, Gibran Rakabuming Raka, 39, offered to resign during a meeting of more than two hours with President Prabowo Subianto, according to State Secretary Prasetyo Hadi.[^6][^7]",
-        "The dispute is about paperwork. Gibran finished his secondary schooling abroad, and last month Indonesia's Supreme Court found that the education documents he submitted for the 2024 election did not meet the requirements.[^6] Some lawmakers then called for his impeachment. Gibran said he did not want the situation \"to become a prolonged political controversy\" but did not speak about the offer directly.[^6]",
-        "It is not clear what happens next. Prasetyo said it was \"not true\" that Prabowo had rejected the offer, but no written resignation was announced and no constitutional process has begun.[^7] Prabowo advised Gibran to keep defending his documents in court, and Gibran asked for a chance to do that at the State Administrative Court.[^6][^7]",
-        "The case also reflects a wider split. Gibran is the son of Joko Widodo, the popular former president whose backing helped Prabowo win in 2024. AP reports a widening rift between Prabowo and Widodo, who separately denies allegations that he used a fake university diploma.[^6]",
-        "My read: the immediate question is legal, but the bigger one is political, about who holds power in Prabowo's coalition. Watch the court case and whether parliament begins any formal process."
-      ],
-      "differences": null
-    },
-    {
-      "id": "anc-worst-local-election",
-      "heading": "South Africa's ANC falls to about 31% in local elections, its worst since apartheid",
-      "date": "2026-11-08",
-      "status": "confirmed",
-      "summary": "Final results show the ANC, Nelson Mandela's party, at 30.76% nationally, down from 45.59% in 2021; the Democratic Alliance leads in five of the eight big metro areas.[^8][^9]",
-      "lead": {
-        "title": "2026 election final results announced",
-        "outlet": "BusinessTech",
-        "url": "https://businesstech.co.za/news/government/883205/final-2026-election-results-announced/",
-        "date": "2026-11-08"
-      },
-      "alsoReported": [
-        {
-          "title": "African National Congress Suffers Its Worst Election Result Since South Africa Ended Apartheid",
-          "outlet": "Democracy Now!",
-          "url": "https://www.democracynow.org/2026/11/10/headlines/african_national_congress_suffers_its_worst_election_result_since_south_africa_ended_apartheid"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "South Africa's electoral commission has finished counting the 2026 local government elections. The African National Congress, which has led the country since the end of apartheid in 1994, won 30.76% of the national vote, down almost 15 points from 45.59% in 2021.[^8] It remains the largest party, but this is its worst result since apartheid ended.[^9]",
-        "The Democratic Alliance (DA), the main rival, rose to 24.64%. Next came the MK party of former president Jacob Zuma at 9.77%, the Economic Freedom Fighters at 6.22% and ActionSA at 5.67%.[^8] The DA says it won more than a million votes from Black South Africans for the first time, which matters because it has long been seen as a party of mostly white and mixed-race voters.[^9]",
-        "The cities show the shift most clearly. The DA leads in five of eight metros, including Johannesburg (34.79% to the ANC's 20.25%) and Cape Town (56.42%). In eThekwini, which includes Durban, MK took 38.29%. The ANC leads only in Buffalo City and, narrowly, Mangaung.[^8]",
-        "Local councils run water, electricity distribution, roads and rubbish collection, so many results now depend on coalitions. ANC Secretary-General Fikile Mbalula said \"the people of South Africa have spoken\" and the party would respond \"with introspection\"; the DA says coalition talks will be handled nationally.[^8] The two parties already govern together nationally after the ANC lost its majority in 2024.",
-        "My read: the result shows a long decline continuing rather than a sudden break. The next test is whether city coalitions can deliver basic services more reliably than before."
-      ],
-      "differences": null
-    },
-    {
-      "id": "cop31-brazil-fossil-roadmap",
-      "heading": "Brazil presents a road map away from fossil fuels at COP31",
+      "id": "hegseth-impeachment-shelved",
+      "heading": "US House shelves a vote to impeach Defense Secretary Hegseth, 211 to 204",
       "date": "2026-11-10",
       "status": "confirmed",
-      "summary": "On COP31's energy day in Antalya, Brazil presented a voluntary road map for moving away from coal, oil and gas, and the UN chief urged countries to set timelines.[^10][^11]",
+      "summary": "The Republican-led House voted 211-204 to send Rep. Thomas Massie's impeachment resolution against Pete Hegseth to committee, which effectively ends it for now.[^13] Democrats say they may revive it when they take control in January.[^13]",
       "lead": {
-        "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
-        "outlet": "Sentinel Colorado (AP)",
-        "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
-        "date": "2026-11-10"
+        "title": "House Sends Hegseth Impeachment Resolution to Judiciary Committee in 211–204 Vote",
+        "outlet": "The FINANCIAL",
+        "url": "https://finchannel.com/house-sends-hegseth-impeachment-resolution-to-judiciary-committee-in-211-204-vote/141073/americas/white-house-en/2026/11/",
+        "date": "2026-11-11"
       },
       "alsoReported": [
         {
-          "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-          "outlet": "The Manila Times (UN News)",
-          "url": "https://www.manilatimes.net/2026/11/11/world/un-news/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels/2467236"
+          "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
         }
       ],
-      "eventId": null,
+      "eventId": "us-politics-economy",
       "article": [
-        "On Tuesday, the second day of the COP31 climate summit in Antalya, Turkey, Brazil presented a road map for a \"transition away from fossil fuels\".[^10] Brazil hosted last year's summit, COP30, where countries could not agree on such a plan, so it wrote one itself. The document is voluntary and is not a new binding agreement.[^11]",
-        "It lists \"levers\" countries can pull, such as halting new fossil fuel power plants and cutting fossil fuel subsidies.[^10] Ana Toni, who leads Brazil's COP30 team, said the aim is to be \"very pragmatic\" and told countries to \"start now from wherever you are\".[^10][^11] Brazil is itself a major oil exporter, a tension Toni declined to discuss directly.[^10]",
-        "UN Secretary-General António Guterres linked the plan to this year's oil shock. He said the European Union alone has paid more than €100 billion in extra fossil fuel import costs since the Middle East escalation began, and that fuel prices rose in 130 countries. \"Disruption anywhere drives up prices everywhere,\" he said, asking countries for national plans with timelines by 2028.[^11]",
-        "Host Turkey is promoting a pledge to raise electricity's share of world energy use to 35% by 2035, from about 23% today, according to AP.[^10] A UN expert noted that about 2,500 gigawatts of projects worldwide are waiting to be connected to power grids.[^11] The US government is absent for a second year; former envoy John Kerry said \"we don't need more promises, we need plans\".[^10]",
-        "My read: a voluntary road map cannot force anyone to act, but the Iran war has made the economic case for cutting oil dependence easier to argue. The final COP31 text, due next week, will show how many countries sign up to anything concrete."
+        "The US House of Representatives voted 211 to 204 on Tuesday to send a resolution to impeach Defense Secretary Pete Hegseth to the Judiciary Committee, a move that effectively shelves it.[^14][^13] Impeachment is Congress's way of formally charging an official; a House vote would send the case to a Senate trial.",
+        "The resolution was brought by Thomas Massie, a Republican from Kentucky, who was the only Republican to vote against shelving it.[^13] It accuses Hegseth of starting the Iran war without approval from Congress, ignoring laws on civilian casualties, and other actions, including strikes on boats in the Caribbean.[^13] Hegseth called the effort a \"farce\" and said the charges are \"partisan policy disagreements\".[^13] President Trump said it \"miserably FAILED!\"[^13]",
+        "Background: only two cabinet secretaries in US history have been impeached, in 1876 and 2024, and neither was removed.[^13] The vote came a week after Democrats won both houses of Congress in the Nov 3 midterms; the new Congress sits in January.[^13]",
+        "What next: House Democratic leader Hakeem Jeffries said \"this is not the end of it\".[^13] Massie, who retires in January, says he will instead force a vote on a war powers resolution, which would try to limit the president's use of force against Iran.[^13]",
+        "My read: this vote shows how much changes in January. The same question could return under a Democratic House, though removing an official still needs two-thirds of the Senate, which neither party has."
       ],
-      "differences": null
+      "differences": "Supporters say Hegseth broke the law by waging war without Congress.[^13] Hegseth and Trump say it is a partisan attack on the military, and the White House says the president has authority to direct military operations.[^13][^14]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "News4JAX (AP)",
-      "title": "Russia and Ukraine hold a second day of US-brokered talks in Abu Dhabi",
-      "url": "https://www.news4jax.com/news/world/2026/11/11/russia-and-ukraine-hold-a-second-day-of-us-brokered-talks-in-abu-dhabi/",
+      "outlet": "Euronews",
+      "title": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
+      "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
       "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Kyiv Independent",
-      "title": "2nd day of trilateral peace talks begins between Ukraine, Russia, US in Abu Dhabi",
-      "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
+      "outlet": "Meduza",
+      "title": "Russia–Ukraine peace talks conclude in Abu Dhabi with prisoner exchange agreement but no breakthrough on territory",
+      "url": "https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory",
       "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Al Jazeera",
-      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "outlet": "The Moscow Times",
+      "title": "Abu Dhabi Talks End With Prisoner Exchange But No Peace Breakthrough",
+      "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227",
       "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Euronews",
-      "title": "Qatar sees 'progress' in US-Iran talks after White House meeting",
-      "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting",
-      "date": "2026-11-10",
+      "outlet": "The National",
+      "title": "Abu Dhabi peace talks yield agreement on large-scale prisoner exchange between Russia and Ukraine",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/11/uae-optimistic-russia-ukraine-talks-will-achieve-positive-breakthrough/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Lufkin Daily News (Reuters)",
-      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
-      "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
-      "date": "2026-11-10",
+      "outlet": "Al Jazeera",
+      "title": "Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says",
+      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+      "date": "2026-11-11",
       "singleSource": true
     },
     {
       "id": 6,
-      "outlet": "ABC News (AP)",
-      "title": "Indonesia's vice president offers resignation as questions mount over his eligibility",
-      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-offers-resignation-questions-mount-eligibility-138005690",
-      "date": "2026-11-10",
-      "singleSource": false
+      "outlet": "The Times of Israel",
+      "title": "Nov. 11: Trump claims US has already won the Iran war, now wants 'total victory'",
+      "url": "https://www.timesofisrael.com/liveblog-november-11-2026/",
+      "date": "2026-11-11",
+      "singleSource": true
     },
     {
       "id": 7,
-      "outlet": "Jakarta Globe",
-      "title": "Breaking News: Gibran Offers to Resign as Indonesia's Vice President Amid Diploma Dispute",
-      "url": "https://jakartaglobe.id/news/breaking-news-gibran-offers-to-resign-as-indonesias-vice-president-amid-diploma-dispute",
-      "date": "2026-11-10",
+      "outlet": "CNBC Africa (Reuters)",
+      "title": "Congo's Ebola cases surpass 11,000, government data show",
+      "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "BusinessTech",
-      "title": "2026 election final results announced",
-      "url": "https://businesstech.co.za/news/government/883205/final-2026-election-results-announced/",
-      "date": "2026-11-08",
+      "outlet": "AllAfrica (Daba Finance)",
+      "title": "Congo-Kinshasa: Congo Ebola Cases Surpass 11,000 As Death Toll Reaches 5,387",
+      "url": "https://allafrica.com/stories/202611120020.html",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Democracy Now!",
-      "title": "African National Congress Suffers Its Worst Election Result Since South Africa Ended Apartheid",
-      "url": "https://www.democracynow.org/2026/11/10/headlines/african_national_congress_suffers_its_worst_election_result_since_south_africa_ended_apartheid",
-      "date": "2026-11-10",
+      "outlet": "Al Jazeera",
+      "title": "'Climate crisis is outrunning us,' UN chief Guterres says at COP31",
+      "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Sentinel Colorado (AP)",
-      "title": "Brazil presents road map away from fossil fuels and toward renewable energies at UN climate talks",
-      "url": "https://sentinelcolorado.com/uncategorized/brazil-presents-road-map-away-from-fossil-fuels-and-toward-renewable-energies-at-un-climate-talks/",
-      "date": "2026-11-10",
+      "outlet": "Yahoo News (Reuters)",
+      "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
+      "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "The Manila Times (UN News)",
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "url": "https://www.manilatimes.net/2026/11/11/world/un-news/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels/2467236",
+      "outlet": "Turkish Minute",
+      "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
+      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "TechCrunch",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "date": "2026-11-10",
+      "singleSource": true
+    },
+    {
+      "id": 13,
+      "outlet": "CBS News",
+      "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
+      "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "The FINANCIAL",
+      "title": "House Sends Hegseth Impeachment Resolution to Judiciary Committee in 211–204 Vote",
+      "url": "https://finchannel.com/house-sends-hegseth-impeachment-resolution-to-judiciary-committee-in-211-204-vote/141073/americas/white-house-en/2026/11/",
       "date": "2026-11-11",
       "singleSource": false
     }

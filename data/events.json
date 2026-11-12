@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-11",
+  "reviewed": "2026-11-12",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Qatar says it sees \"progress\" after Trump's Nov 9 talks with its prime minister, but Iran's security chief Mohsen Rezaei calls reports of negotiations \"a pure lie\" and says Hormuz stays shut until the US meets Iran's seven conditions.[^222] Monitors count at least 37 attacks on ships near Hormuz in November, the most of the war; the US blockade continues.[^222]",
+      "standing": "Iran's top negotiator Ghalibaf says Hormuz will \"never return\" to its pre-war status, that Iran and Oman will oversee it, and that Iran awaits a US reply to its seven conditions sent via Qatar.[^226] Monitors count at least 37 attacks on ships near Hormuz in November, the most of the war; the US blockade continues.[^222]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -172,7 +172,8 @@
         215,
         216,
         217,
-        222
+        222,
+        226
       ]
     },
     {
@@ -181,7 +182,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "US-brokered talks between Russian and Ukrainian delegations in Abu Dhabi ran into a second day on Nov 11, the first round since February; Zelenskyy called day one \"constructive\" and said prisoner releases are the priority.[^223] Russia still demands the rest of Donbas, and Europeans meet the delegations only separately.[^223] Drone and missile strikes continue on both sides.[^223]",
+      "standing": "The Abu Dhabi talks ended on Nov 11 with Russia and Ukraine agreeing in principle to a large prisoner exchange, possibly 1,000 or more each, but no movement on territory.[^225] US envoys Witkoff and Kushner were due to meet Putin in Moscow on Nov 12, then Zelenskyy in Dublin; Russia still refuses to talk with the Europeans.[^225]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -190,7 +191,7 @@
       "watch": [
         {
           "date": "2026-11-12",
-          "what": "Outcome of the Abu Dhabi round: any prisoner swap or envoy trips to Moscow and Kyiv"
+          "what": "Witkoff and Kushner meet Putin in Moscow, then Zelenskyy in Dublin"
         },
         {
           "date": "2026-11-13",
@@ -203,6 +204,10 @@
         {
           "date": "2026-11-26",
           "what": "Special EU summit on the next long-term budget; Ukraine's 2027 funding gap is still open"
+        },
+        {
+          "date": "2026-11-30",
+          "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
         }
       ],
       "connects": [
@@ -343,7 +348,8 @@
         210,
         211,
         218,
-        223
+        223,
+        225
       ]
     },
     {
@@ -505,7 +511,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats had 253 House seats to 157 with 25 uncalled, and 54 Senate seats with independents (AP count, Nov 6).[^196] Employers added 165,000 jobs in October and unemployment fell to 4.1%, raising odds of a December Fed hike to about 77%.[^194] Stocks steadied on Nov 6 after the Nov 5 sell-off.[^195] Government funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers in the Nov 3 midterms and take over in January.[^196][^227] On Nov 10 the outgoing House voted 211-204 to shelve an impeachment resolution against Defense Secretary Hegseth; Democrats say it may return.[^227] October jobs rose 165,000 and unemployment fell to 4.1%.[^194] Government funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -514,7 +520,7 @@
       "watch": [
         {
           "date": "2026-11-18",
-          "what": "House leadership elections; Alaska's ranked-choice Senate count can begin"
+          "what": "Alaska's ranked-choice Senate count can begin; Mississippi's Senate race still uncalled"
         },
         {
           "date": "2026-12-09",
@@ -655,7 +661,8 @@
         188,
         194,
         195,
-        196
+        196,
+        227
       ]
     },
     {
@@ -664,7 +671,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Treasury Secretary Bessent says a meeting with Xi in Shenzhen next week will launch a US-China dialogue on \"superintelligence\", with a direct line for serious AI incidents.[^224] Nvidia is investigating whether its CEO was targeted by Chinese intelligence, which China calls \"groundless\".[^224] China's chip exports rose 137% in October.[^221]",
+      "standing": "Anthropic set an IPO price range that could value it at about $1.4 trillion, with trading expected around Nov 19; its filing shows a $104 billion nine-month loss.[^228] Bessent says a meeting with Xi in Shenzhen will launch a US-China dialogue on \"superintelligence\".[^224] Nvidia faces questions in Washington over chip sales to China.[^224]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -682,6 +689,10 @@
         {
           "date": "2026-11-18",
           "what": "Bessent meets Xi in Shenzhen; US-China AI dialogue due to launch"
+        },
+        {
+          "date": "2026-11-19",
+          "what": "Anthropic shares expected to start trading on Nasdaq"
         },
         {
           "date": "2026-12-02",
@@ -830,7 +841,8 @@
         214,
         220,
         221,
-        224
+        224,
+        228
       ]
     }
   ],
@@ -2650,6 +2662,38 @@
       "outlet": "Lufkin Daily News (Reuters)",
       "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
       "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
+      "date": "2026-11-10",
+      "singleSource": true
+    },
+    {
+      "id": 225,
+      "outlet": "Euronews",
+      "title": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
+      "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 226,
+      "outlet": "Al Jazeera",
+      "title": "Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says",
+      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+      "date": "2026-11-11",
+      "singleSource": true
+    },
+    {
+      "id": 227,
+      "outlet": "CBS News",
+      "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
+      "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+      "date": "2026-11-10",
+      "singleSource": false
+    },
+    {
+      "id": 228,
+      "outlet": "TechCrunch",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
       "date": "2026-11-10",
       "singleSource": true
     }

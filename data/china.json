@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-11",
-  "summary": "Singles' Day turns into a test of AI shopping assistants, and the US says it will open a dialogue with China on advanced AI at next week's APEC summit.",
+  "date": "2026-11-12",
+  "summary": "Singles' Day ends with sales up 4.8%, about a third of last year's growth, as AI shopping tools spread faster than shoppers' budgets.",
   "body": [
-    "Today is Singles' Day, or Double 11, China's biggest online shopping festival. This year the story is AI. JD.com says nearly 80 million people used its AI shopping assistant during the event, more than three times last year, and on Douyin (China's TikTok) chatbot links drove about 5% of purchases in October, rising above 20% for things people research first, such as supplements, Reuters reports.[^1][^2] Tmall says sales of AI tokens, prepaid units of AI use, rose more than 700% in the run-up, and Alibaba says AI toys passed 100 million yuan (about $15 million US) in sales within a year.[^1][^2]",
-    "The bigger picture is calmer. Data firm Syntun counted festival sales up only 2.4% from Oct 7 to 31, and China's retail sales grew just 1.1% in the year to September.[^1] My read: the platforms are using AI to make shopping feel new, but households are still careful with money. Syntun publishes its full figure on Thursday.[^1]",
-    "On technology diplomacy, US Treasury Secretary Scott Bessent said he will meet Xi Jinping in Shenzhen at the APEC summit (Nov 18-19) to launch a dialogue on \"superintelligence\", including a direct line to warn each other of serious AI incidents.[^3] He also described planned mutual tariff cuts on about $30 billion of non-sensitive goods each way. China's foreign ministry calls US spying accusations involving Nvidia's chief executive \"groundless\".[^3]"
+    "China's Singles' Day shopping season ended on Nov 11. Data firm Syntun estimates sales rose 4.8% from a year earlier to 1.78 trillion yuan (about $267 billion US) over the period from Oct 7 to Nov 11, Reuters reports. Last year's festival grew 14.2%.[^1] Reuters points to low consumer confidence, the long fall in property prices, weak income expectations and worries about jobs.[^1] Alibaba and JD.com no longer publish their total sales, so outside estimates like Syntun's are the main measure.[^1]",
+    "AI was the main new feature. JD.com says it sold more than 50 million AI-related products, sales of AI PCs, glasses and cameras more than doubled, and sales of \"token\" packages, prepaid units for using AI models, rose more than tenfold.[^1] Chatbots that recommend and buy products were widely used, but it is unclear how much extra spending they caused.[^1] A Beijing analyst says the festival is \"not as lively as it used to be\" because discounts now run all year.[^1]",
+    "My read: Chinese shoppers are buying new gadgets, but carefully, and a weak home market is one reason Chinese companies keep pushing exports. Next week, the APEC summit in Shenzhen brings Xi Jinping together with leaders including Canada's Mark Carney, and US officials plan to start a dialogue with China on advanced AI there.[^2][^3]"
   ],
   "differences": null,
   "reads": [],
   "sources": [
     {
       "id": 1,
-      "outlet": "TimesLIVE (Reuters)",
-      "title": "China's Singles' Day shopping festival puts AI selling power to the test",
-      "url": "https://www.timeslive.co.za/news/2026-11-11-chinas-singles-day-shopping-festival-puts-ai-selling-power-to-the-test/",
-      "date": "2026-11-11",
-      "singleSource": false
+      "outlet": "102.7 WBOW (Reuters)",
+      "title": "China's Singles Day sales rise 4.8% to $1.78 trillion; AI takes larger role",
+      "url": "https://1027wbow.com/2026/11/12/chinas-singles-day-sales-rise-4-8-to-1-78-trillion-ai-takes-larger-role/",
+      "date": "2026-11-12",
+      "singleSource": true
     },
     {
       "id": 2,
-      "outlet": "102.7 WBOW (Reuters)",
-      "title": "China's Singles Day shopping festival puts AI selling power to the test",
-      "url": "https://1027wbow.com/2026/11/11/chinas-singles-day-shopping-festival-puts-ai-selling-power-to-the-test/",
+      "outlet": "CKOM (The Canadian Press)",
+      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
+      "url": "https://www.ckom.com/2026/11/11/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/",
       "date": "2026-11-11",
       "singleSource": false
     },
