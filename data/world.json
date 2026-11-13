@@ -1,311 +1,287 @@
 {
-  "date": "2026-11-12",
-  "summary": "Russia and Ukraine agree a prisoner swap but not land, Iran says Hormuz has changed for good, Ebola passes 11,000 cases, and COP31 leaders meet.",
+  "date": "2026-11-13",
+  "summary": "Nvidia's founder resigns amid a spy-linked scandal, Putin calls US talks useful, Iran claims more tanker hits in Hormuz, and COP31 leaders split.",
   "question": {
-    "type": "second-order",
-    "text": "Iran says it and Oman will now oversee the Strait of Hormuz. If shipping companies came to accept that, what might change a few steps later: for other narrow sea lanes, for oil buyers in Asia, and for the treaty rules that govern the sea?"
+    "type": "how-do-we-know",
+    "text": "Iran says mines disabled two tankers; another Iranian statement says four; a security firm reports one ship hit by a projectile. Before deciding what happened in Hormuz, what evidence would you want to see, and from whom?"
   },
   "read": {
-    "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
-    "outlet": "Yahoo News (Reuters)",
-    "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
-    "kind": "news",
-    "minutes": 6,
-    "summary": "A clear guide to what COP31 is trying to agree, why Turkey is betting on electrification, and why critics say that is not the same as leaving fossil fuels."
+    "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
+    "outlet": "Reuters (via Yahoo News)",
+    "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+    "kind": "analysis",
+    "minutes": 8,
+    "summary": "A Reuters investigation into Chinese data-centre projects built around restricted Nvidia chips, which shows why export rules are so hard to enforce."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "abu-dhabi-prisoner-deal",
-      "heading": "Russia-Ukraine talks in Abu Dhabi end with a prisoner swap deal, but no deal on land",
-      "date": "2026-11-11",
-      "status": "developing",
-      "summary": "Two days of US-brokered talks ended with Russia and Ukraine agreeing in principle to a large prisoner exchange, with numbers to be set on Thursday.[^1][^2] Both sides say territory is still unresolved, and US envoys head to Moscow and then to Zelenskyy in Dublin.[^1][^3]",
+      "id": "nvidia-huang-resigns",
+      "heading": "Nvidia's founder Jensen Huang resigns as CEO; finance chief Colette Kress steps in",
+      "date": "2026-11-12",
+      "status": "confirmed",
+      "summary": "Jensen Huang, who built Nvidia into the main maker of AI chips, resigned with immediate effect, and CFO Colette Kress became interim CEO.[^6] He faces questions in Congress over links between a former partner and a company US officials are investigating over chip exports to China.[^7][^9]",
       "lead": {
-        "title": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
-        "date": "2026-11-11"
+        "title": "NVIDIA Announces CEO Transition",
+        "outlet": "Nvidia (press release, SEC filing)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+        "date": "2026-11-12"
       },
       "alsoReported": [
         {
-          "title": "Russia–Ukraine peace talks conclude in Abu Dhabi with prisoner exchange agreement but no breakthrough on territory",
-          "outlet": "Meduza",
-          "url": "https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory"
+          "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
         },
         {
-          "title": "Abu Dhabi Talks End With Prisoner Exchange But No Peace Breakthrough",
-          "outlet": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+          "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "Nvidia's board said on Thursday that Jensen Huang, who co-founded the company in 1993 and led it ever since, had resigned as president, CEO and board member \"effective immediately.\"[^6] Chief financial officer Colette Kress is interim CEO while the board searches inside and outside the company, and former Synopsys chief Harvey Jones becomes Nvidia's first board chair.[^6] Nvidia's chips power most of the world's large AI systems, so its leadership matters far beyond Silicon Valley.",
+        "The resignation followed days of reporting. Huang admitted an affair in a message to staff, and The Wall Street Journal reported the board was preparing to remove him.[^7][^8] The more serious question is about security. CBS, citing two unnamed sources, reports that US agencies believe a woman linked to Huang had been recruited by China's intelligence ministry, and that the Justice Department is investigating her former company, Megaspeed, over possible export-control violations.[^7] China's foreign ministry calls the spy claims \"baseless.\"[^7][^8] No charges have been reported.",
+        "Congress is now involved. Senate Banking chair Tim Scott has asked Huang to testify in public on Dec 3 and wants Commerce Secretary Howard Lutnick to appear on Dec 10 about how export rules are enforced; House Republicans on the China committee also want answers.[^9][^8] Nvidia's shares fell sharply this week.[^9]",
+        "Why it matters: Huang has been the loudest voice for easing US limits on selling advanced chips to China.[^14] A Reuters review published Friday found more than $3 billion of Chinese computing projects planned around Nvidia chips the US restricts.[^14] My read: the scandal makes tighter export rules more likely, not less.",
+        "What next: Nvidia reports quarterly results on Nov 17, its first test without Huang, and the board says the product roadmap continues \"without interruption.\"[^6]"
+      ],
+      "differences": "US officials, as described by unnamed sources to CBS, believe a former Megaspeed executive linked to Huang was recruited by Chinese intelligence.[^7] China's government calls this a \"baseless\" smear, and Nvidia has said the government would have warned it of any real threat.[^7][^8]"
+    },
+    {
+      "id": "putin-us-envoys-moscow",
+      "heading": "Putin meets US envoys in Moscow; Kremlin calls talks useful, and a new round is agreed",
+      "date": "2026-11-12",
+      "status": "developing",
+      "summary": "Putin met US envoys Steve Witkoff and Jared Kushner a day after the Abu Dhabi talks; the Kremlin called it useful and said Europeans could join the next round.[^1][^2] Territory remains the main gap, and the envoys flew to Dublin to meet Zelenskyy.[^1]",
+      "lead": {
+        "title": "Kremlin Says Putin's Talks With U.S. Envoys Were Useful, Ukraine Peace Talks to Continue",
+        "outlet": "The Moscow Times (Reuters)",
+        "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
+        "date": "2026-11-12"
+      },
+      "alsoReported": [
+        {
+          "title": "Putin was alarmed by Zelenskyy and his \"greetings\" to Trump — what the Russian dictator discussed with Witkoff and Kushner",
+          "outlet": "Ukrainian National News (UNN)",
+          "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "The first direct talks between Russia and Ukraine in nine months ended on Wednesday in Abu Dhabi, the capital of the United Arab Emirates. US envoy Jared Kushner said the two sides had agreed to a prisoner exchange and would settle the numbers the next day.[^1] Zelenskyy had said negotiators discussed 1,000 prisoners from each side, possibly rising to 1,500.[^1] A Ukrainian delegate said it could be one of the largest swaps of the war.[^2]",
-        "Both delegations described the swap as the main result. Ukraine's lead negotiator Rustem Umerov said \"significant differences remain\" on other issues.[^4] Kushner said the hardest question is territory, but reported progress on security guarantees for Ukraine and on ways to monitor a future ceasefire.[^2][^4]",
-        "Russia's lead negotiator, Putin aide Vladimir Medinsky, repeated Moscow's demand for land, saying \"every inch of our land will be returned to Russia.\"[^3] Ukraine refuses to give up territory it controls.[^3] Medinsky also said his team did not talk to the European officials who came to Abu Dhabi and questioned why they were there; the US says it wants Europeans in a wider format later.[^1][^4]",
-        "The fighting did not pause. Ukraine's prime minister said Russia struck six large electricity substations in central Ukraine during the talks.[^4]",
-        "What comes next: Kushner and Steve Witkoff planned to meet Putin in Moscow on Thursday and then Zelenskyy in Dublin.[^1][^3] My read: a big prisoner exchange is likely soon, because both sides have agreed to it before, including a 1,000-for-1,000 swap in May 2025.[^1] A wider deal still depends on the land question, where neither side has moved."
+        "On Thursday Vladimir Putin met Steve Witkoff and Jared Kushner, the two US envoys running Trump's push for a Ukraine deal, in the Kremlin. It was Witkoff's tenth face-to-face meeting with Putin.[^1] It came right after two days of talks in Abu Dhabi, where Russia and Ukraine agreed to a large prisoner-of-war exchange that Reuters says is likely in the coming weeks.[^1]",
+        "Kremlin aide Yury Ushakov called the meeting useful and \"candid,\" and said direct talks with Kyiv will continue.[^1][^2] Witkoff said a new three-way round has been agreed and that Europeans would join the next meeting.[^1] Russia also told the envoys that NATO must not expand further and said it wants talks on a new European security system.[^1]",
+        "Putin proposed a joint Russian-Ukrainian humanitarian mission to Kostiantynivka, a front-line town in Ukraine's Donetsk region, to let residents leave; the Kremlin says the US side supported the idea.[^1][^2] Ukraine has not publicly agreed to it in the reports we have seen.",
+        "The core gap has not moved. Russia wants all of the Donbas region, including land Ukraine still holds, and Ukraine refuses.[^1] The EU's foreign policy chief Kaja Kallas says Russia is \"pretending to negotiate,\" while Moscow rejects a temporary ceasefire.[^1] Ukraine's negotiator David Arakhamia spoke of \"good momentum\" toward a deal by New Year.[^2]",
+        "What next: Witkoff and Kushner were due in Dublin to brief Zelenskyy, and Ushakov says Putin and Trump may continue the discussion at the APEC summit in China later this month.[^1][^2] My read: a prisoner exchange is likely soon; a deal on land is not."
       ],
-      "differences": "Medinsky frames the talks as being about Europe's whole security system and calls Europe's role unclear.[^2][^3] Kushner and Ukraine frame them as steps toward a ceasefire, with progress on monitoring and guarantees.[^4] A Ukrainian delegate suggested a deal could come \"by the New Year\"; US negotiators say there is no trust between the sides.[^2]"
+      "differences": "The Kremlin describes the talks as constructive and says Europe should join a new security framework.[^1][^2] EU officials say Russia is only pretending to negotiate and that wider security talks should wait for a ceasefire, which Russia rejects.[^1]"
     },
     {
-      "id": "ghalibaf-hormuz-never-return",
-      "heading": "Iran's top negotiator says Hormuz will 'never return' to how it was before the war",
-      "date": "2026-11-11",
-      "status": "developing",
-      "summary": "Iran's parliament speaker Mohammad Bagher Ghalibaf told Al Jazeera that Iran and Oman have agreed to oversee the Strait of Hormuz, and that Iran awaits a US reply to its seven conditions.[^5] Trump says the US has already won the war.[^6]",
+      "id": "hormuz-tankers-disabled",
+      "heading": "Iran says mines disabled two supertankers in Hormuz; oil jumps 3%",
+      "date": "2026-11-12",
+      "status": "disputed",
+      "summary": "Iran's Revolutionary Guards say two supertankers that used an \"unauthorized\" route were disabled by explosions; this has not been independently confirmed.[^3][^4] Brent crude rose 3.3% to $95.82 as Yemen's Houthis also claimed attacks on Saudi oil sites.[^5]",
       "lead": {
-        "title": "Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
-        "date": "2026-11-11"
+        "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz",
+        "outlet": "NewsNation (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/world/articles/iran-says-explosions-disabled-2-114505184.html",
+        "date": "2026-11-12"
       },
       "alsoReported": [
         {
-          "title": "Nov. 11: Trump claims US has already won the Iran war, now wants 'total victory'",
-          "outlet": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-november-11-2026/"
+          "title": "Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz.",
+          "outlet": "International Business Times (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/world/articles/iran-says-two-supertankers-carrying-105345048.html"
+        },
+        {
+          "title": "Brent rises 3.3% on November 12 amid Saudi attack claims",
+          "outlet": "The Nation (Thailand)",
+          "url": "https://www.nationthailand.com/news/world/40073442"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Mohammad Bagher Ghalibaf, the speaker of Iran's parliament and its top negotiator, said in an interview with Al Jazeera published on Wednesday that the Strait of Hormuz will \"never return\" to its pre-war status.[^5] The strait, between Iran and Oman, normally carries about a fifth of the world's oil and has been largely shut during the eight-month war.",
-        "Ghalibaf said Iran and Oman have reached an understanding to oversee the waterway together, as part of a seven-point Iranian plan to end the war.[^5] He argued there are no \"free waters\" in the strait and that the 1982 UN Convention on the Law of the Sea, the treaty most countries use for shipping rights, does not apply there.[^5] The US is not a party to that treaty, but it has long held that ships have a right to pass through straits like Hormuz.",
-        "According to Ghalibaf, Iran sent its conditions to Washington through a Qatari mediator and is waiting for an official answer. Al Jazeera lists them as including an end to the US naval blockade and sanctions, the release of frozen Iranian money, an end to fighting on all fronts and a formal announcement that the war is over. \"The ball is now in the American court,\" he said.[^5]",
-        "The US message is different. The Times of Israel reports that President Trump claims the US has already won the war and now wants \"total victory\".[^6] Ghalibaf, for his part, predicted Trump would face pressure from the new Democratic-led Congress in January.[^5]",
-        "My read: both sides are describing the same stalemate in the language of winning. The key test is whether the US answers the Qatari message, and whether shipping companies treat an Iran-Oman arrangement as something they can live with or as a new risk."
+        "Iran's Islamic Revolutionary Guard Corps (IRGC) said on Thursday that two oil supertankers were disabled by \"massive explosions\" on Wednesday night after ignoring warnings and using what it called an unauthorized route through the Strait of Hormuz.[^3] Iranian state media later said the ships hit naval mines.[^4] The IRGC did not name the ships, their owners or flags, and its account has not been independently verified.[^3][^4]",
+        "Separately, the British maritime security firm Ambrey reported that a merchant ship leaving the strait was hit in the stern by an unknown projectile about 14 nautical miles off Ras Al-Khaimah in the UAE, starting an engine-room fire with no injuries.[^3] It is not clear whether this is one of the ships Iran described.[^3]",
+        "Background: the Strait of Hormuz, the narrow sea passage out of the Persian Gulf, carried nearly a fifth of the world's crude oil before the war.[^5] Iran now says it decides which routes are allowed, and the IRGC warned that ships cooperating with US forces could face \"similar consequences.\"[^4] The International Maritime Organization has counted 134 confirmed incidents in the region and 25 seafarers killed.[^4]",
+        "Markets reacted. Brent crude, the global oil benchmark, rose 3.3% to $95.82 a barrel on Thursday.[^5] Yemen's Houthis also claimed attacks on Saudi oil sites, while the Saudi-led coalition said it destroyed two Houthi drones.[^5] President Trump posted that the US does not need a deal with Iran.[^5]",
+        "My read: each claimed attack raises the cost of shipping and insurance, and higher oil prices reach drivers and grocery bills worldwide, including in Canada. Watch whether ship owners or flag states confirm what happened."
       ],
-      "differences": "Iran, through Ghalibaf, says the strait's rules are now for Iran and Oman to set and that talks need US concessions first.[^5] Trump says the US has already won and wants total victory.[^6] Neither account has been independently confirmed."
+      "differences": "The IRGC says two tankers were disabled on Wednesday night; Iranian military statements cited by The Nation speak of four tankers on Thursday.[^3][^5] Iran says mines caused the blasts and that the ships had US military guidance; independent bodies have not confirmed either point.[^4]"
     },
     {
-      "id": "congo-ebola-11000",
-      "heading": "Congo's Ebola outbreak passes 11,000 cases, the second largest on record",
-      "date": "2026-11-10",
-      "status": "confirmed",
-      "summary": "Government data show 11,042 confirmed Ebola cases and 5,387 deaths in Congo since May, Reuters reports.[^7] The Bundibugyo strain behind it has no approved vaccine or treatment, and cases have reached East, Central and West Africa.[^7][^8]",
+      "id": "cop31-clashing-priorities",
+      "heading": "COP31 leaders' summit ends with clashing demands as negotiators take over",
+      "date": "2026-11-12",
+      "status": "developing",
+      "summary": "Two days of leaders' speeches at COP31 in Antalya, Turkey, showed sharp splits between small islands, oil producers, Europe and developing countries.[^10] Negotiators now have to turn this into a deal, with a Turkish push to expand electricity at its centre.[^10][^11]",
       "lead": {
-        "title": "Congo's Ebola cases surpass 11,000, government data show",
-        "outlet": "CNBC Africa (Reuters)",
-        "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show",
-        "date": "2026-11-11"
+        "title": "COP31 leaders set out clashing priorities as negotiations begin",
+        "outlet": "The New Arab (Reuters)",
+        "url": "https://www.newarab.com/news/cop31-leaders-set-out-clashing-priorities-negotiations-begin",
+        "date": "2026-11-12"
       },
       "alsoReported": [
         {
-          "title": "Congo-Kinshasa: Congo Ebola Cases Surpass 11,000 As Death Toll Reaches 5,387",
-          "outlet": "AllAfrica (Daba Finance)",
-          "url": "https://allafrica.com/stories/202611120020.html"
+          "title": "STATEMENT: COP31 Leaders' Summit Spotlights Electrification and Transition Away from Fossil Fuels",
+          "outlet": "World Resources Institute",
+          "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
         }
       ],
       "eventId": null,
       "article": [
-        "Congo's government released figures on Tuesday showing 11,042 confirmed Ebola infections and 5,387 deaths since the outbreak was declared in mid-May.[^7] Reuters says that makes it the second-largest Ebola outbreak on record, behind the 2014 to 2016 West African epidemic, which infected more than 28,600 people.[^7]",
-        "Ebola is a virus that causes severe bleeding and organ failure and spreads through contact with the body fluids of sick people. This outbreak is caused by the Bundibugyo species, for which there are no approved vaccines or specific treatments.[^7] Vaccine trials are under way, with first results expected in 2027.[^8]",
-        "Eight of Congo's 26 provinces are affected, mostly in the east, in Ituri and North Kivu.[^8] Reuters links the spread to late detection, armed conflict and overstretched health services, and many people have died outside treatment centres, which makes tracing harder.[^7] Cases have been reported in Uganda, Kenya and Nigeria, and some patients have been flown to Europe.[^8]",
-        "Why it matters: about half of confirmed patients have died.[^8] The World Health Organization's last count, on Nov 3, was 10,668 cases, so the outbreak is still growing by hundreds of cases a week.[^8]",
-        "What next: health agencies are asking for more money and supplies.[^8] My read: without a vaccine, slowing this outbreak depends on safe access to the conflict zones in the east, which is the hardest part to change quickly."
+        "COP31, this year's UN climate conference, is being held in Antalya, Turkey, with Australia leading the negotiations. The leaders' part of the summit ended on Thursday after two days of speeches that, Reuters reports, set out very different priorities.[^10]",
+        "Small island nations such as Tuvalu, the Bahamas and Saint Lucia, which face rising seas, asked for fast emissions cuts; Saint Lucia's prime minister said major emitters must move beyond \"the usual promises.\"[^10] Developing countries asked rich countries for more money for clean energy and for adapting to climate damage.[^10] Oil, gas and coal producers argued their fuels are still needed; Venezuela's acting president claimed a \"sovereign right\" to expand her country's oil industry.[^10]",
+        "The main proposal on the table is Turkey's plan to raise electricity's share of world energy use to 35% by 2035, up from a little over a fifth now. European leaders, including Britain's prime minister, backed it, but Turkey has not said whether the extra power must be clean.[^10] The research group WRI welcomed growing support for moving away from fossil fuels, and noted that a $1.3 trillion yearly climate-finance goal is already set; the fight is over how to reach it.[^11]",
+        "Australia's Chris Bowen, who runs the talks, said his job is to \"steer consensus, not to bang tables.\"[^10] Environmental groups called the speeches underwhelming, and a UN report last month found the world on course to pass the 1.5C warming limit.[^10]",
+        "My read: wars and high energy prices pull attention away from climate, but they also strengthen the argument that home-grown clean power means energy security. Expect a modest deal on electrification and finance rather than a firm date to stop using fossil fuels."
       ],
-      "differences": null
+      "differences": "Oil producers such as Venezuela say they have a right to expand production, while small island states and European leaders call for a faster move away from fossil fuels.[^10] WRI sees growing momentum; WWF called the leaders' speeches underwhelming.[^10][^11]"
     },
     {
-      "id": "cop31-leaders-summit",
-      "heading": "Guterres tells COP31 leaders 'the climate crisis is outrunning us'",
-      "date": "2026-11-11",
-      "status": "confirmed",
-      "summary": "UN chief Antonio Guterres urged leaders at the COP31 climate talks in Antalya, Turkey, to move away from coal, oil and gas.[^9] Many major leaders stayed away, and Turkey is pushing a plan to raise electricity's share of energy use.[^10][^11]",
+      "id": "microsoft-365-outage",
+      "heading": "Microsoft outage knocks out Outlook and Teams for many users across the Americas",
+      "date": "2026-11-12",
+      "status": "developing",
+      "summary": "A Microsoft 365 failure left users unable to reach email in Outlook and disrupted Teams and Copilot, mainly in the Americas.[^12] Microsoft blamed unusually high load on part of its systems and says nothing suggests an attack.[^12][^13]",
       "lead": {
-        "title": "'Climate crisis is outrunning us,' UN chief Guterres says at COP31",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
-        "date": "2026-11-11"
+        "title": "Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
+        "date": "2026-11-12"
       },
       "alsoReported": [
         {
-          "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
-          "outlet": "Yahoo News (Reuters)",
-          "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html"
-        },
-        {
-          "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
-          "outlet": "Turkish Minute",
-          "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/"
+          "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
+          "outlet": "The Canadian Press (via Yahoo News Canada)",
+          "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html"
         }
       ],
       "eventId": null,
       "article": [
-        "World leaders began two days of speeches at the UN climate conference, COP31, in Antalya, Turkey, on Wednesday. Secretary-General Antonio Guterres opened with a warning: \"The brutal truth is that the climate crisis is outrunning us.\"[^9] He said emissions hit an all-time high in 2025 and accused the fossil fuel industry of delaying action.[^9][^11] This is his last COP before his term ends in December.[^11]",
-        "Background: in 2023, countries agreed to \"transition away\" from fossil fuels, but they have struggled to agree how.[^11] A UN report last month found the world on course to pass 1.5°C of warming, the limit set in the 2015 Paris Agreement.[^10]",
-        "The host's main idea is electrification. Turkey proposes a voluntary goal for electricity to supply 35% of the world's energy use by 2035, up from a little over a fifth now.[^10] Critics note the plan does not require that new power be clean.[^10] Brazil, last year's host, has published a road map to cut fossil fuel supply from 2031.[^10]",
-        "The guest list says a lot. The US is skipping the talks for a second year, China sent its vice president, and the leaders of France, Germany, Italy, Japan and Canada are not attending.[^9][^11] The EU's climate commissioner said \"expectations are not necessarily high.\"[^11] Iran's president Masoud Pezeshkian is attending and planned to accuse the US and Israel of damaging the environment.[^9]",
-        "What next: talks run until Nov 20.[^9] My read: high oil prices from the Iran war make the case for cheaper electricity stronger, but they also make governments nervous about cutting supply, so expect small, voluntary steps rather than a big new deal."
+        "On Thursday many Microsoft 365 users could not open their Outlook mailboxes, send mail or receive it on time, and Teams and the Copilot AI assistant were also disrupted.[^12] The tracking site Downdetector logged more than 130,000 Outlook problem reports in the US at the peak; such reports are a rough signal, not a count of people affected.[^12]",
+        "Microsoft said users in the Americas could not connect to Exchange Online, its cloud email service, and that part of its infrastructure was under \"higher than normal load.\"[^12] It said it was moving traffic around to rebalance the load.[^12] The Canadian Press reports that governments and businesses in Canada were affected, that Canadians could face a second day of problems, and that Microsoft says nothing suggests malicious activity.[^13]",
+        "Background: most schools, governments and companies now rent their email, files and chat from a handful of cloud providers. That is usually cheaper and safer than running their own servers, but it means one fault can stop work for millions at once.",
+        "My read: outages like this rarely cause lasting harm, but they feed a growing debate in Canada and Europe about depending on a few US tech firms for basic public services. Watch whether Microsoft publishes a fuller explanation of the cause."
       ],
       "differences": null
-    },
-    {
-      "id": "anthropic-ipo-range",
-      "heading": "Anthropic sets an IPO price that could value it at $1.4 trillion",
-      "date": "2026-11-10",
-      "status": "confirmed",
-      "summary": "AI company Anthropic plans to sell shares at $70 to $78 each, raising up to about $64 billion, with trading expected around Nov 19, TechCrunch reports.[^12] Its filing shows fast-growing revenue and very large losses.[^12]",
-      "lead": {
-        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-        "outlet": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-        "date": "2026-11-10"
-      },
-      "alsoReported": [],
-      "eventId": "ai-race",
-      "article": [
-        "Anthropic, the company behind the Claude AI models, said in an updated filing on Tuesday that it will offer 825 million shares at $70 to $78 each in its initial public offering (IPO), its first sale of shares to the public.[^12] At the top of the range, that would raise about $64 billion and value the company at about $1.4 trillion.[^12] (A note: Zen Garden is written with Claude, an Anthropic product. This summary sticks to what the filing and reporting say.)",
-        "Separately, Anthropic agreed to sell $26 billion of non-voting shares to chip and cloud companies, including Google, Nvidia, Microsoft and TSMC.[^12] Its founders keep a special class of shares with a majority of the votes, so public buyers will have limited say.[^12]",
-        "The numbers show the shape of the AI boom. The filing reports $17 billion in revenue in the third quarter, but a net loss of $104 billion over nine months, and about $900 billion in commitments for computing and infrastructure.[^12] The valuation is below the roughly $2 trillion it was reportedly aiming for a few months ago, as markets have become shakier.[^12]",
-        "Why it matters: if a company this size lists, ordinary investors and pension funds get direct exposure to frontier AI for the first time at this scale. Shares are expected to trade on Nasdaq around Nov 19, with up to 20% offered to individual investors, according to TechCrunch citing CNBC.[^12]",
-        "My read: the IPO will be read as a vote on whether AI's huge spending can turn into profits. A strong debut could encourage more spending; a weak one would add to recent worries about an AI bubble."
-      ],
-      "differences": null
-    },
-    {
-      "id": "hegseth-impeachment-shelved",
-      "heading": "US House shelves a vote to impeach Defense Secretary Hegseth, 211 to 204",
-      "date": "2026-11-10",
-      "status": "confirmed",
-      "summary": "The Republican-led House voted 211-204 to send Rep. Thomas Massie's impeachment resolution against Pete Hegseth to committee, which effectively ends it for now.[^13] Democrats say they may revive it when they take control in January.[^13]",
-      "lead": {
-        "title": "House Sends Hegseth Impeachment Resolution to Judiciary Committee in 211–204 Vote",
-        "outlet": "The FINANCIAL",
-        "url": "https://finchannel.com/house-sends-hegseth-impeachment-resolution-to-judiciary-committee-in-211-204-vote/141073/americas/white-house-en/2026/11/",
-        "date": "2026-11-11"
-      },
-      "alsoReported": [
-        {
-          "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "The US House of Representatives voted 211 to 204 on Tuesday to send a resolution to impeach Defense Secretary Pete Hegseth to the Judiciary Committee, a move that effectively shelves it.[^14][^13] Impeachment is Congress's way of formally charging an official; a House vote would send the case to a Senate trial.",
-        "The resolution was brought by Thomas Massie, a Republican from Kentucky, who was the only Republican to vote against shelving it.[^13] It accuses Hegseth of starting the Iran war without approval from Congress, ignoring laws on civilian casualties, and other actions, including strikes on boats in the Caribbean.[^13] Hegseth called the effort a \"farce\" and said the charges are \"partisan policy disagreements\".[^13] President Trump said it \"miserably FAILED!\"[^13]",
-        "Background: only two cabinet secretaries in US history have been impeached, in 1876 and 2024, and neither was removed.[^13] The vote came a week after Democrats won both houses of Congress in the Nov 3 midterms; the new Congress sits in January.[^13]",
-        "What next: House Democratic leader Hakeem Jeffries said \"this is not the end of it\".[^13] Massie, who retires in January, says he will instead force a vote on a war powers resolution, which would try to limit the president's use of force against Iran.[^13]",
-        "My read: this vote shows how much changes in January. The same question could return under a Democratic House, though removing an official still needs two-thirds of the Senate, which neither party has."
-      ],
-      "differences": "Supporters say Hegseth broke the law by waging war without Congress.[^13] Hegseth and Trump say it is a partisan attack on the military, and the White House says the president has authority to direct military operations.[^13][^14]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Euronews",
-      "title": "Abu Dhabi peace talks end with prisoner exchange agreement as US envoys prepare to meet Putin",
-      "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
-      "date": "2026-11-11",
+      "outlet": "The Moscow Times (Reuters)",
+      "title": "Kremlin Says Putin's Talks With U.S. Envoys Were Useful, Ukraine Peace Talks to Continue",
+      "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Meduza",
-      "title": "Russia–Ukraine peace talks conclude in Abu Dhabi with prisoner exchange agreement but no breakthrough on territory",
-      "url": "https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory",
-      "date": "2026-11-11",
+      "outlet": "Ukrainian National News (UNN)",
+      "title": "Putin was alarmed by Zelenskyy and his \"greetings\" to Trump — what the Russian dictator discussed with Witkoff and Kushner",
+      "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Moscow Times",
-      "title": "Abu Dhabi Talks End With Prisoner Exchange But No Peace Breakthrough",
-      "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227",
-      "date": "2026-11-11",
+      "outlet": "NewsNation (via Yahoo News)",
+      "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-explosions-disabled-2-114505184.html",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The National",
-      "title": "Abu Dhabi peace talks yield agreement on large-scale prisoner exchange between Russia and Ukraine",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/11/uae-optimistic-russia-ukraine-talks-will-achieve-positive-breakthrough/",
-      "date": "2026-11-11",
+      "outlet": "International Business Times (via Yahoo News)",
+      "title": "Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz.",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-two-supertankers-carrying-105345048.html",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Al Jazeera",
-      "title": "Hormuz Strait will 'never return' to pre-war status, Iran's Ghalibaf says",
-      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
-      "date": "2026-11-11",
-      "singleSource": true
+      "outlet": "The Nation (Thailand)",
+      "title": "Brent rises 3.3% on November 12 amid Saudi attack claims",
+      "url": "https://www.nationthailand.com/news/world/40073442",
+      "date": "2026-11-13",
+      "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "The Times of Israel",
-      "title": "Nov. 11: Trump claims US has already won the Iran war, now wants 'total victory'",
-      "url": "https://www.timesofisrael.com/liveblog-november-11-2026/",
-      "date": "2026-11-11",
-      "singleSource": true
+      "outlet": "Nvidia (press release, SEC filing)",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "date": "2026-11-12",
+      "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "CNBC Africa (Reuters)",
-      "title": "Congo's Ebola cases surpass 11,000, government data show",
-      "url": "https://www.cnbcafrica.com/2026/congos-ebola-cases-surpass-11000-government-data-show",
-      "date": "2026-11-11",
+      "outlet": "CBS News",
+      "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+      "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "AllAfrica (Daba Finance)",
-      "title": "Congo-Kinshasa: Congo Ebola Cases Surpass 11,000 As Death Toll Reaches 5,387",
-      "url": "https://allafrica.com/stories/202611120020.html",
+      "outlet": "ABC News",
+      "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
+      "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
       "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Al Jazeera",
-      "title": "'Climate crisis is outrunning us,' UN chief Guterres says at COP31",
-      "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
-      "date": "2026-11-11",
+      "outlet": "Fox News",
+      "title": "Jensen Huang resigns; interim CEO of Nvidia named (live updates)",
+      "url": "https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-super-intelligence-safety-11-12-26",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Yahoo News (Reuters)",
-      "title": "World leaders to address COP31 as Turkey pushes for new climate deal",
-      "url": "https://www.yahoo.com/news/science/articles/world-leaders-address-cop31-turkey-030244709.html",
-      "date": "2026-11-11",
+      "outlet": "The New Arab (Reuters)",
+      "title": "COP31 leaders set out clashing priorities as negotiations begin",
+      "url": "https://www.newarab.com/news/cop31-leaders-set-out-clashing-priorities-negotiations-begin",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Turkish Minute",
-      "title": "UN chief urges world leaders to tackle fossil fuels at COP31",
-      "url": "https://www.turkishminute.com/2026/11/11/un-chief-urges-world-leaders-to-tackle-fossil-fuels-at-cop31/",
-      "date": "2026-11-11",
-      "singleSource": false
-    },
-    {
-      "id": 12,
-      "outlet": "TechCrunch",
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "date": "2026-11-10",
+      "outlet": "World Resources Institute",
+      "title": "STATEMENT: COP31 Leaders' Summit Spotlights Electrification and Transition Away from Fossil Fuels",
+      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels",
+      "date": "2026-11-12",
       "singleSource": true
     },
     {
+      "id": 12,
+      "outlet": "Euronews",
+      "title": "Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands",
+      "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
       "id": 13,
-      "outlet": "CBS News",
-      "title": "House blocks Massie's effort to impeach Hegseth, voting to kill resolution",
-      "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
-      "date": "2026-11-10",
+      "outlet": "The Canadian Press (via Yahoo News Canada)",
+      "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
+      "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "The FINANCIAL",
-      "title": "House Sends Hegseth Impeachment Resolution to Judiciary Committee in 211–204 Vote",
-      "url": "https://finchannel.com/house-sends-hegseth-impeachment-resolution-to-judiciary-committee-in-211-204-vote/141073/americas/white-house-en/2026/11/",
-      "date": "2026-11-11",
-      "singleSource": false
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
+      "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+      "date": "2026-11-13",
+      "singleSource": true
     }
   ]
 }

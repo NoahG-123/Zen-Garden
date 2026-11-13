@@ -1,37 +1,53 @@
 {
-  "date": "2026-11-12",
-  "summary": "Singles' Day ends with sales up 4.8%, about a third of last year's growth, as AI shopping tools spread faster than shoppers' budgets.",
+  "date": "2026-11-13",
+  "summary": "China's car sales fall 27% in October as EVs reach a record two-thirds of purchases, and a Reuters review finds $3 billion of data centres planned around restricted Nvidia chips.",
   "body": [
-    "China's Singles' Day shopping season ended on Nov 11. Data firm Syntun estimates sales rose 4.8% from a year earlier to 1.78 trillion yuan (about $267 billion US) over the period from Oct 7 to Nov 11, Reuters reports. Last year's festival grew 14.2%.[^1] Reuters points to low consumer confidence, the long fall in property prices, weak income expectations and worries about jobs.[^1] Alibaba and JD.com no longer publish their total sales, so outside estimates like Syntun's are the main measure.[^1]",
-    "AI was the main new feature. JD.com says it sold more than 50 million AI-related products, sales of AI PCs, glasses and cameras more than doubled, and sales of \"token\" packages, prepaid units for using AI models, rose more than tenfold.[^1] Chatbots that recommend and buy products were widely used, but it is unclear how much extra spending they caused.[^1] A Beijing analyst says the festival is \"not as lively as it used to be\" because discounts now run all year.[^1]",
-    "My read: Chinese shoppers are buying new gadgets, but carefully, and a weak home market is one reason Chinese companies keep pushing exports. Next week, the APEC summit in Shenzhen brings Xi Jinping together with leaders including Canada's Mark Carney, and US officials plan to start a dialogue with China on advanced AI there.[^2][^3]"
+    "Car buying in China slowed sharply in October. Retail sales of passenger cars fell 27.1% from a year earlier to 1.64 million, according to the China Passenger Car Association (CPCA), an industry group.[^1][^2] Electric and plug-in hybrid cars (\"new energy vehicles\") fell less, by 13.7%, so they made up a record 67.5% of all cars sold; sales of petrol-only cars almost halved.[^1] The CPCA says stricter rules for trade-in subsidies held back first-time buyers, while high fuel prices pushed people toward EVs; Just Auto points to subsidies and tax breaks withdrawn earlier this year and to rising energy costs from the Middle East war.[^1][^2]",
+    "Carmakers are making up for it abroad. Exports of electric cars rose 144.7% from a year earlier to 582,000 in October, and nearly 4.5 million have been exported so far this year.[^1] My read: this fits a pattern also seen on Singles' Day: careful shoppers at home, and companies pushing harder into foreign markets, which is why Canada, Europe and others are arguing about tariffs on Chinese EVs.",
+    "In tech, a Reuters review published Friday found more than $3 billion of Chinese computing centres planned around Nvidia chips the US has restricted, from Fujian to Inner Mongolia; documents do not show whether the chips were delivered.[^3] It comes as Nvidia's CEO Jensen Huang resigned amid reports linking him to a person US officials believe was recruited by Chinese intelligence. China's government calls those claims \"baseless\" smears.[^3][^4]"
   ],
-  "differences": null,
-  "reads": [],
+  "differences": "US officials, as described by unnamed sources, link a former executive of the chip trader Megaspeed to Chinese intelligence; China's foreign ministry rejects this as baseless and slanderous.[^4]",
+  "reads": [
+    {
+      "title": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
+      "outlet": "CnEVPost",
+      "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca/",
+      "kind": "news",
+      "summary": "The full October numbers for China's car market, with charts showing how quickly EVs have replaced petrol cars."
+    }
+  ],
   "sources": [
     {
       "id": 1,
-      "outlet": "102.7 WBOW (Reuters)",
-      "title": "China's Singles Day sales rise 4.8% to $1.78 trillion; AI takes larger role",
-      "url": "https://1027wbow.com/2026/11/12/chinas-singles-day-sales-rise-4-8-to-1-78-trillion-ai-takes-larger-role/",
-      "date": "2026-11-12",
-      "singleSource": true
+      "outlet": "CnEVPost",
+      "title": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
+      "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca/",
+      "date": "2026-11-09",
+      "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CKOM (The Canadian Press)",
-      "title": "Carney takes off Wednesday for summits in Ireland, Philippines, Cambodia and China",
-      "url": "https://www.ckom.com/2026/11/11/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/",
-      "date": "2026-11-11",
+      "outlet": "Just Auto",
+      "title": "China's PV retail sales plunge 27% in October",
+      "url": "https://www.just-auto.com/newsletters/chinas-pv-retail-sales-plunge-27-in-october",
+      "date": "2026-11-10",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Lufkin Daily News (Reuters)",
-      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
-      "url": "https://lufkindailynews.com/news_reuters/top_news/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/article_59455f01-73ac-5555-a99d-fbadf340f091.html",
-      "date": "2026-11-10",
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
+      "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+      "date": "2026-11-13",
       "singleSource": true
+    },
+    {
+      "id": 4,
+      "outlet": "ABC News",
+      "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
+      "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
+      "date": "2026-11-11",
+      "singleSource": false
     }
   ]
 }

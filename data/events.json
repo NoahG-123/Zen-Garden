@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-12",
+  "reviewed": "2026-11-13",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's top negotiator Ghalibaf says Hormuz will \"never return\" to its pre-war status, that Iran and Oman will oversee it, and that Iran awaits a US reply to its seven conditions sent via Qatar.[^226] Monitors count at least 37 attacks on ships near Hormuz in November, the most of the war; the US blockade continues.[^222]",
+      "standing": "Iran's Revolutionary Guards say mines disabled two supertankers using an \"unauthorized\" Hormuz route on Nov 11; this is unverified.[^230] Brent rose 3.3% to $95.82 on Nov 12 as the Houthis claimed attacks on Saudi oil sites.[^231] Iran says Hormuz will \"never return\" to its pre-war status and awaits a US reply to its conditions.[^226]",
       "heading": {
         "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
         "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
@@ -173,7 +173,9 @@
         216,
         217,
         222,
-        226
+        226,
+        230,
+        231
       ]
     },
     {
@@ -182,17 +184,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "The Abu Dhabi talks ended on Nov 11 with Russia and Ukraine agreeing in principle to a large prisoner exchange, possibly 1,000 or more each, but no movement on territory.[^225] US envoys Witkoff and Kushner were due to meet Putin in Moscow on Nov 12, then Zelenskyy in Dublin; Russia still refuses to talk with the Europeans.[^225]",
+      "standing": "After Abu Dhabi talks agreed a large prisoner exchange, Putin met US envoys Witkoff and Kushner on Nov 12; the Kremlin called it useful and a new three-way round, with Europeans joining, was agreed.[^229] Russia still demands all of Donbas, which Kyiv refuses.[^229] Putin and Trump may continue talks at APEC in China.[^229]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
         "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
-        {
-          "date": "2026-11-12",
-          "what": "Witkoff and Kushner meet Putin in Moscow, then Zelenskyy in Dublin"
-        },
         {
           "date": "2026-11-13",
           "what": "EU leaders discuss how Europe is represented in Ukraine peace talks"
@@ -349,7 +347,8 @@
         211,
         218,
         223,
-        225
+        225,
+        229
       ]
     },
     {
@@ -671,7 +670,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Anthropic set an IPO price range that could value it at about $1.4 trillion, with trading expected around Nov 19; its filing shows a $104 billion nine-month loss.[^228] Bessent says a meeting with Xi in Shenzhen will launch a US-China dialogue on \"superintelligence\".[^224] Nvidia faces questions in Washington over chip sales to China.[^224]",
+      "standing": "Nvidia founder Jensen Huang resigned as CEO on Nov 12; CFO Colette Kress is interim CEO.[^232] The Justice Department is reported to be investigating a chip trader linked to him over export rules, and the Senate has asked him to testify on Dec 3.[^233][^234] Anthropic's IPO, at up to about $1.4 trillion, is expected around Nov 19.[^228]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -684,7 +683,7 @@
         },
         {
           "date": "2026-11-17",
-          "what": "Nvidia quarterly results, a key test of AI demand"
+          "what": "Nvidia quarterly results, the first under interim CEO Colette Kress"
         },
         {
           "date": "2026-11-18",
@@ -769,10 +768,18 @@
         },
         {
           "heading": "Record profits, rising warnings",
-          "period": "Oct 2026-now",
+          "period": "Oct-Nov 2026",
           "paragraphs": [
             "The money keeps flowing. TSMC said its July-September net profit rose about 69% from a year earlier to a record NT$763.1 billion, its sixth record quarter in a row, though its shares slipped on the day [^19].",
             "The IMF's October outlook says strong AI investment is helping offset higher oil prices, but warns the world is leaning on a single 'AI leg': a sharp drop in AI spending and asset prices could cut global output by 1.1% by 2028 [^17]. My read: the evidence of real demand (chip sales, profits) is strong, but whether AI will earn enough to justify the spending is still unproven."
+          ]
+        },
+        {
+          "heading": "Nvidia loses its founder",
+          "period": "Nov 2026-now",
+          "paragraphs": [
+            "On Nov 12, Nvidia's board announced that Jensen Huang, who co-founded the company in 1993 and made it the main supplier of AI chips, had resigned with immediate effect. Finance chief Colette Kress became interim CEO and Nvidia named its first board chair [^232].",
+            "The resignation followed reports of personal misconduct and, more seriously, reports from unnamed US sources that a person linked to Huang had been recruited by Chinese intelligence and that the Justice Department is investigating her former company over chip exports; China calls the claims baseless [^233]. The Senate Banking Committee asked Huang to testify on Dec 3 and the commerce secretary on Dec 10 about export enforcement [^234]. A Reuters review the next day found more than $3 billion of Chinese projects planned around restricted Nvidia chips [^235]. My read: the episode makes tighter US export rules more likely."
           ]
         }
       ],
@@ -842,7 +849,11 @@
         220,
         221,
         224,
-        228
+        228,
+        232,
+        233,
+        234,
+        235
       ]
     }
   ],
@@ -2695,6 +2706,62 @@
       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
       "date": "2026-11-10",
+      "singleSource": true
+    },
+    {
+      "id": 229,
+      "outlet": "The Moscow Times (Reuters)",
+      "title": "Kremlin Says Putin's Talks With U.S. Envoys Were Useful, Ukraine Peace Talks to Continue",
+      "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 230,
+      "outlet": "NewsNation (via Yahoo News)",
+      "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-explosions-disabled-2-114505184.html",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 231,
+      "outlet": "The Nation (Thailand)",
+      "title": "Brent rises 3.3% on November 12 amid Saudi attack claims",
+      "url": "https://www.nationthailand.com/news/world/40073442",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 232,
+      "outlet": "Nvidia (press release, SEC filing)",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 233,
+      "outlet": "CBS News",
+      "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+      "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 234,
+      "outlet": "Fox News",
+      "title": "Jensen Huang resigns; interim CEO of Nvidia named (live updates)",
+      "url": "https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-super-intelligence-safety-11-12-26",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 235,
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
+      "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+      "date": "2026-11-13",
       "singleSource": true
     }
   ]

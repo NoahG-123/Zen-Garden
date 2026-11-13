@@ -1,44 +1,44 @@
 {
-  "date": "2026-11-12",
-  "summary": "Ottawa and Stellantis meet in Toronto over the Brampton plant as reports dispute the government's role, and Carney joins European leaders in Dublin.",
+  "date": "2026-11-13",
+  "summary": "Ottawa declares Stellantis in default over the Brampton plant sale and gives it 30 days, as a Microsoft outage disrupts Canadian offices and Carney heads to Manila.",
   "body": [
-    "Industry Minister Mélanie Joly was due to meet Stellantis, the Unifor union and Ontario's economic development minister Vic Fedeli in Toronto on Thursday about the carmaker's plan to sell its idle Brampton plant to armoured-vehicle maker Roshel.[^1][^2] Her office says the government \"has no choice\" but to find Stellantis in default of the conditions attached to up to $529 million in federal support promised in 2022.[^2] Roshel says it may rehire some of the roughly 2,000 laid-off workers, and the sale is expected to close by year-end.[^2]",
-    "The government's own role is now in question. CTV News, citing three unnamed sources, reported that Ottawa was \"actively and intensively part\" of the talks and met the companies more than a dozen times; CBC reported the government knew for months.[^2][^3] Joly's office calls the claim that she was involved in the Roshel deal \"false\" and says she only tried to settle the dispute between Stellantis and Unifor.[^2] Unifor's Lana Payne called the sale a \"worst-case scenario\".[^1]",
-    "Abroad, Prime Minister Mark Carney is in Dublin for the European Political Community summit, where Canada is the only non-European country taking part, before heading on to summits in Asia. He also meets the leaders of Greece and Cyprus, two countries that have not yet ratified Canada's trade deal with the EU.[^1] At home, heavy rain has forced evacuations around Pemberton on B.C.'s south coast.[^1]"
+    "Industry Minister Mélanie Joly wrote to Stellantis Canada on Thursday to end talks with the carmaker and declare it in default of its 2022 federal funding deal, which promised up to $529 million for its Brampton and Windsor plants.[^1] The trigger is Stellantis's plan to sell its idle Brampton plant to armoured-vehicle maker Roshel. The company has 30 days to fix the problem, or Ottawa may cancel the agreement and try to recover the money; Joly says the government intends to sue for \"hundreds of millions of dollars.\"[^1][^2] Stellantis has offered to repay at least $220 million voluntarily.[^1]",
+    "About 1,800 Brampton workers are still on layoff, getting 70% of their pay plus benefits.[^1] After a Toronto meeting with Stellantis, Unifor and the federal government, Premier Doug Ford said the next step is talks with Stellantis's global CEO, and Joly said both governments will meet him.[^2] Unifor president Lana Payne called the sale \"very unfortunate,\" and the union may seek severance in its contract talks; she says a strike would be a last resort.[^2] Prime Minister Carney said Ottawa had been told of \"some aspects\" of the deal before it was announced; Conservative Leader Pierre Poilievre wants Joly removed.[^1]",
+    "Elsewhere: a Microsoft outage disrupted email and Teams for governments and businesses across Canada on Thursday and could run into a second day; Microsoft says there is no sign of an attack.[^3] Carney travels on to the ASEAN summit in Manila; Ottawa says it has not abandoned the Rohingya refugees in Bangladesh, ahead of a world court ruling due this month on whether Myanmar committed genocide.[^3]"
   ],
-  "differences": "Unnamed sources told CTV that Ottawa took an active part in the talks that led to the sale and did not block it.[^3] Joly's office says the government never backed a Roshel deal and that reports of her involvement are false.[^2][^3]",
+  "differences": "Carney says the government knew of some aspects of the sale in advance; Joly's office says she had no part in negotiating it.[^1] Poilievre says this justifies removing her.[^1]",
   "reads": [
     {
-      "title": "Joly didn't meet with Roshel before deal signed with Stellantis: minister's office",
-      "outlet": "CP24 (The Canadian Press)",
-      "url": "https://www.cp24.com/news/canada/2026/11/12/joly-didnt-meet-with-roshel-before-deal-signed-with-stellantis-ministers-office/",
+      "title": "Industry minister terminates resolution talks with Stellantis over Brampton auto plant sale",
+      "outlet": "CBC (via Yahoo News Canada)",
+      "url": "https://ca.news.yahoo.com/industry-minister-terminates-resolution-talks-210000336.html",
       "kind": "news",
-      "summary": "Sets out both sides of the dispute over what Ottawa knew about the Brampton sale, and what the $529 million in federal support was for."
+      "summary": "What the 2022 subsidy deal promised, what default means, and what happens to the laid-off Brampton workers."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "battlefordsNOW (The Canadian Press)",
-      "title": "In the news today: Carney in Dublin, Stellantis talks, B.C. flooding, MAID widow plea",
-      "url": "https://battlefordsnow.com/2026/11/12/in-the-news-today-carney-in-dublin-stellantis-talks-b-c-flooding-maid-widow-plea/",
+      "outlet": "CBC (via Yahoo News Canada)",
+      "title": "Industry minister terminates resolution talks with Stellantis over Brampton auto plant sale",
+      "url": "https://ca.news.yahoo.com/industry-minister-terminates-resolution-talks-210000336.html",
       "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24 (The Canadian Press)",
-      "title": "Joly didn't meet with Roshel before deal signed with Stellantis: minister's office",
-      "url": "https://www.cp24.com/news/canada/2026/11/12/joly-didnt-meet-with-roshel-before-deal-signed-with-stellantis-ministers-office/",
-      "date": "2026-11-11",
+      "outlet": "CP24",
+      "title": "Premier Ford offers few words following Stellantis meeting over Brampton Assembly plant sale",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/13/premier-ford-offers-few-words-following-stellantis-meeting-over-brampton-assembly-plant-sale/",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Yahoo Finance Canada",
-      "title": "Sources say Ottawa met with Stellantis more than a dozen times before Brampton plant sale Carney called a 'betrayal'",
-      "url": "https://ca.finance.yahoo.com/news/sources-ottawa-met-stellantis-more-200000227.html",
-      "date": "2026-11-11",
+      "outlet": "The Canadian Press (via Yahoo News Canada)",
+      "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
+      "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html",
+      "date": "2026-11-13",
       "singleSource": false
     }
   ]
