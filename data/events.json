@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-13",
+  "reviewed": "2026-11-14",
   "events": [
     {
       "id": "iran-war",
@@ -7,16 +7,20 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's Revolutionary Guards say mines disabled two supertankers using an \"unauthorized\" Hormuz route on Nov 11; this is unverified.[^230] Brent rose 3.3% to $95.82 on Nov 12 as the Houthis claimed attacks on Saudi oil sites.[^231] Iran says Hormuz will \"never return\" to its pre-war status and awaits a US reply to its conditions.[^226]",
+      "standing": "Trump said on Nov 12 the US does not \"need a deal with Iran\" and took Vice-President Vance off the talks.[^236] On Nov 13 Iran's Revolutionary Guards claimed a strike on a US radar in Bahrain; US Central Command says it downed two drones with no damage.[^237] An IAEA report says it cannot confirm Iran has not diverted nuclear material, and its board meets next week.[^238]",
       "heading": {
-        "likely": "My read: talks continue through Qatar while the blockade and mines keep shipping slow, and oil stays volatile as each side tests the other after the US vote.",
-        "possible": "A Qatari draft restarts direct US-Iran talks within days and leads to the blockade being eased; or the US resumes major strikes, which officials say it is ready for.",
+        "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
+        "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
         {
-          "date": "2026-11-18",
-          "what": "APEC summit in China, where Trump says he will discuss Iran with Xi and Putin"
+          "date": "2026-11-16",
+          "what": "Week of Nov 16: IAEA board discusses its new report on Iran's nuclear material"
+        },
+        {
+          "date": "2026-11-19",
+          "what": "Trump-Xi-Putin meeting in Shenzhen; US says Iran and nuclear arms are the focus"
         },
         {
           "date": "2026-11-30",
@@ -175,7 +179,10 @@
         222,
         226,
         230,
-        231
+        231,
+        236,
+        237,
+        238
       ]
     },
     {
@@ -184,7 +191,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "After Abu Dhabi talks agreed a large prisoner exchange, Putin met US envoys Witkoff and Kushner on Nov 12; the Kremlin called it useful and a new three-way round, with Europeans joining, was agreed.[^229] Russia still demands all of Donbas, which Kyiv refuses.[^229] Putin and Trump may continue talks at APEC in China.[^229]",
+      "standing": "EU leaders agreed on Nov 13 that the UK, France, Germany, Italy and Poland, with EU institutions, will represent Europe at the next round of US-led talks; the Kremlin says Europe must first show it is ready.[^239] Russia still demands all of Donbas, which Kyiv refuses.[^229] Trump, Xi and Putin plan a three-way meeting in Shenzhen next week; US officials say Ukraine is not the focus.[^240]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -192,12 +199,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-13",
-          "what": "EU leaders discuss how Europe is represented in Ukraine peace talks"
-        },
-        {
-          "date": "2026-11-18",
-          "what": "APEC summit in Shenzhen, where the Kremlin says a Putin-Trump-Xi meeting could happen"
+          "date": "2026-11-19",
+          "what": "Trump-Xi-Putin meeting in Shenzhen, and a Coalition of the Willing summit in Berlin"
         },
         {
           "date": "2026-11-26",
@@ -348,7 +351,9 @@
         218,
         223,
         225,
-        229
+        229,
+        239,
+        240
       ]
     },
     {
@@ -357,7 +362,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel's new Knesset was sworn in on Nov 10. Eisenkot's core bloc has 48 seats; he needs 61 and could rely on Arab parties' votes or the ultra-Orthodox, while ally Lieberman rejects the first option.[^219] Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
+      "standing": "Eisenkot's bloc has 48 of the 61 seats needed; Israel's Channel 12 reports he now prefers talks with the ultra-Orthodox parties over Arab-led parties.[^242] On Nov 13, 53 countries and groups urged Israel to let more winter shelter and fuel into Gaza; Israel says over 93,000 tents have entered.[^241] Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -501,7 +506,9 @@
         206,
         212,
         213,
-        219
+        219,
+        241,
+        242
       ]
     },
     {
@@ -510,7 +517,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers in the Nov 3 midterms and take over in January.[^196][^227] On Nov 10 the outgoing House voted 211-204 to shelve an impeachment resolution against Defense Secretary Hegseth; Democrats say it may return.[^227] October jobs rose 165,000 and unemployment fell to 4.1%.[^194] Government funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3, and AP projected Democrat Scott Colom the winner of Mississippi's Senate race on Nov 11.[^245] October jobs rose 165,000.[^194] Markets put about 89% odds on a Fed rate hike on Dec 9; Treasury Secretary Bessent urged the Fed to treat oil as an energy shock.[^244] Trump threatens to double tariffs on Mexico over a migrant caravan.[^246] Government funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -519,7 +526,7 @@
       "watch": [
         {
           "date": "2026-11-18",
-          "what": "Alaska's ranked-choice Senate count can begin; Mississippi's Senate race still uncalled"
+          "what": "Alaska's ranked-choice Senate count can begin; the race is still uncalled"
         },
         {
           "date": "2026-12-09",
@@ -661,7 +668,10 @@
         194,
         195,
         196,
-        227
+        227,
+        244,
+        245,
+        246
       ]
     },
     {
@@ -670,17 +680,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia founder Jensen Huang resigned as CEO on Nov 12; CFO Colette Kress is interim CEO.[^232] The Justice Department is reported to be investigating a chip trader linked to him over export rules, and the Senate has asked him to testify on Dec 3.[^233][^234] Anthropic's IPO, at up to about $1.4 trillion, is expected around Nov 19.[^228]",
+      "standing": "Jensen Huang resigned as Nvidia CEO on Nov 12; CFO Colette Kress is interim CEO.[^232] The Senate Banking Committee wants Huang to testify on Dec 3 and Commerce Secretary Lutnick on Dec 10 about AI chips reaching China, and Nvidia's value fell below $4 trillion.[^243][^247] Anthropic's IPO, at up to about $1.4 trillion, is expected around Nov 19.[^228]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
         "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
       },
       "watch": [
-        {
-          "date": "2026-11-15",
-          "what": "Comment period closes on China's draft export controls for large AI models and chip designs"
-        },
         {
           "date": "2026-11-17",
           "what": "Nvidia quarterly results, the first under interim CEO Colette Kress"
@@ -696,6 +702,10 @@
         {
           "date": "2026-12-02",
           "what": "EU AI Act: scheduled ban on AI that makes sexual abuse or non-consensual intimate images; labelling rules"
+        },
+        {
+          "date": "2026-12-03",
+          "what": "Senate Banking hearing on chip exports; Huang asked to testify (Lutnick Dec 10)"
         }
       ],
       "connects": [
@@ -853,7 +863,9 @@
         232,
         233,
         234,
-        235
+        235,
+        243,
+        247
       ]
     }
   ],
@@ -2763,6 +2775,102 @@
       "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
       "date": "2026-11-13",
       "singleSource": true
+    },
+    {
+      "id": 236,
+      "outlet": "USA Today (via Yahoo News)",
+      "title": "Trump says deal with Iran not needed, pulls Vance off negotiations",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 237,
+      "outlet": "The New Arab",
+      "title": "Iran says it hit US radar station in Bahrain, diplomats scramble to avert war",
+      "url": "https://www.newarab.com/news/iran-says-it-hit-us-radar-station-bahrain",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 238,
+      "outlet": "Arab News (AFP)",
+      "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+      "url": "https://www.arabnews.com/world/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections-3011602",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 239,
+      "outlet": "Euronews",
+      "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+      "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 240,
+      "outlet": "AP (via KSL)",
+      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+      "url": "https://www.ksl.com/article/news/business/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say/51645777",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 241,
+      "outlet": "Times of Israel",
+      "title": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
+      "url": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 242,
+      "outlet": "Times of Israel",
+      "title": "Eisenkot said to prioritize trying to form coalition with Haredim over Arab parties",
+      "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-to-prioritize-trying-to-form-coalition-with-haredim-over-arab-parties/",
+      "date": "2026-11-13",
+      "singleSource": true
+    },
+    {
+      "id": 243,
+      "outlet": "Fortune",
+      "title": "Senate Banking Committee asks Jensen Huang and Howard Lutnick to testify over 'significant national security concerns' next month, or face subpoenas",
+      "url": "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 244,
+      "outlet": "Al Jazeera",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy 'shock'",
+      "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 245,
+      "outlet": "AP (via WRDW)",
+      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+      "url": "https://www.wrdw.com/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 246,
+      "outlet": "Mexico News Daily",
+      "title": "Trump threatens to double tariffs on Mexico as a new migrant caravan heads north in Chiapas",
+      "url": "https://mexiconewsdaily.com/politics/trump-threatens-double-tariffs-mexico-migrant-caravan/",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 247,
+      "outlet": "Al Jazeera",
+      "title": "US Senate summons Nvidia's Huang, Lutnick to testify",
+      "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate",
+      "date": "2026-11-13",
+      "singleSource": false
     }
   ]
 }

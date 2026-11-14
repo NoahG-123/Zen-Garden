@@ -1,52 +1,61 @@
 {
-  "date": "2026-11-13",
-  "summary": "China's car sales fall 27% in October as EVs reach a record two-thirds of purchases, and a Reuters review finds $3 billion of data centres planned around restricted Nvidia chips.",
+  "date": "2026-11-14",
+  "summary": "Singles' Day sales grow just 4.8% as shoppers buy AI gadgets, chipmaker SMIC posts record revenue, and Shenzhen prepares to host Trump, Xi and Putin.",
   "body": [
-    "Car buying in China slowed sharply in October. Retail sales of passenger cars fell 27.1% from a year earlier to 1.64 million, according to the China Passenger Car Association (CPCA), an industry group.[^1][^2] Electric and plug-in hybrid cars (\"new energy vehicles\") fell less, by 13.7%, so they made up a record 67.5% of all cars sold; sales of petrol-only cars almost halved.[^1] The CPCA says stricter rules for trade-in subsidies held back first-time buyers, while high fuel prices pushed people toward EVs; Just Auto points to subsidies and tax breaks withdrawn earlier this year and to rising energy costs from the Middle East war.[^1][^2]",
-    "Carmakers are making up for it abroad. Exports of electric cars rose 144.7% from a year earlier to 582,000 in October, and nearly 4.5 million have been exported so far this year.[^1] My read: this fits a pattern also seen on Singles' Day: careful shoppers at home, and companies pushing harder into foreign markets, which is why Canada, Europe and others are arguing about tariffs on Chinese EVs.",
-    "In tech, a Reuters review published Friday found more than $3 billion of Chinese computing centres planned around Nvidia chips the US has restricted, from Fujian to Inner Mongolia; documents do not show whether the chips were delivered.[^3] It comes as Nvidia's CEO Jensen Huang resigned amid reports linking him to a person US officials believe was recruited by Chinese intelligence. China's government calls those claims \"baseless\" smears.[^3][^4]"
+    "China's Singles' Day shopping festival, the world's biggest, grew slowly this year. Data firm Syntun estimates sales of 1.78 trillion yuan (about US$267 billion) between Oct 7 and Nov 11, up 4.8%, compared with 14.2% growth last year; the big platforms no longer publish their own totals.[^1] AP notes that retail sales grew only 1.1% in the first nine months of the year, home prices are about 20% below their 2021 peak, and youth unemployment is around 18%.[^2]",
+    "What people bought is telling. JD.com sold more than 50 million AI-related products, sales of AI PCs, cameras and glasses more than doubled, and sales of \"token packages\" (prepaid use of AI models) rose more than tenfold.[^1] My read: AI is becoming an everyday purchase in China even while families stay careful with big spending.",
+    "On the supply side, SMIC, China's largest chipmaker, reported record quarterly revenue of about $3.2 billion, up 34%, with its factories running at about 97% of capacity, and expects 2026 revenue above $12 billion; its co-CEO credits AI demand and China's push to make its own chips.[^3] That push may matter more after Nvidia's CEO resigned this week amid a spy scandal: IDC data cited by Rest of World show Huawei already had 28% of China's AI-chip shipments in the first half of 2026, against Nvidia's 34%.[^4]",
+    "Shenzhen, China's tech hub, will also host Presidents Trump, Xi and Putin for their first three-way meeting next week at the APEC summit; US officials say they do not expect an agreement.[^5]"
   ],
-  "differences": "US officials, as described by unnamed sources, link a former executive of the chip trader Megaspeed to Chinese intelligence; China's foreign ministry rejects this as baseless and slanderous.[^4]",
+  "differences": null,
   "reads": [
     {
-      "title": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
-      "outlet": "CnEVPost",
-      "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca/",
+      "title": "China's Singles' Day shopping festival struggles to shake off weak consumer spending",
+      "outlet": "AP (via CP24)",
+      "url": "https://www.cp24.com/news/world/2026/11/11/chinas-singles-day-shopping-festival-struggles-to-shake-off-weak-consumer-spending/",
       "kind": "news",
-      "summary": "The full October numbers for China's car market, with charts showing how quickly EVs have replaced petrol cars."
+      "summary": "Why Chinese shoppers are holding back, with the numbers on retail sales, home prices and youth jobs behind the slow festival."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "CnEVPost",
-      "title": "China October NEV retail sales fall 13.7% as penetration hits record 67.5%, CPCA data shows",
-      "url": "https://cnevpost.com/2026/11/09/china-oct-2026-nev-retail-sales-cpca/",
-      "date": "2026-11-09",
+      "outlet": "Reuters (via WHBL)",
+      "title": "China's Singles Day sales rise 4.8% to $1.78 trillion; AI takes larger role",
+      "url": "https://whbl.com/2026/11/12/chinas-singles-day-sales-rise-4-8-to-1-78-trillion-ai-takes-larger-role/",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Just Auto",
-      "title": "China's PV retail sales plunge 27% in October",
-      "url": "https://www.just-auto.com/newsletters/chinas-pv-retail-sales-plunge-27-in-october",
-      "date": "2026-11-10",
+      "outlet": "AP (via CP24)",
+      "title": "China's Singles' Day shopping festival struggles to shake off weak consumer spending",
+      "url": "https://www.cp24.com/news/world/2026/11/11/chinas-singles-day-shopping-festival-struggles-to-shake-off-weak-consumer-spending/",
+      "date": "2026-11-11",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
-      "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+      "outlet": "investingLive",
+      "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle",
+      "url": "https://investinglive.com/stocks/smic-co-ceo-sees-2026-revenue-topping-12-billion-as-ai-demand-stretches-chip-upcycle/",
       "date": "2026-11-13",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "ABC News",
-      "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
-      "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
-      "date": "2026-11-11",
+      "outlet": "Rest of World",
+      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Al Jazeera",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+      "date": "2026-11-14",
       "singleSource": false
     }
   ]

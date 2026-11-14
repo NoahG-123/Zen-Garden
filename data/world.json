@@ -1,171 +1,200 @@
 {
-  "date": "2026-11-13",
-  "summary": "Nvidia's founder resigns amid a spy-linked scandal, Putin calls US talks useful, Iran claims more tanker hits in Hormuz, and COP31 leaders split.",
+  "date": "2026-11-14",
+  "summary": "Europe names its Ukraine-talks team as Trump, Xi and Putin plan to meet; Trump says he needs no Iran deal; Congress summons Nvidia's ex-CEO; COP31 splits over fossil fuels.",
   "question": {
-    "type": "how-do-we-know",
-    "text": "Iran says mines disabled two tankers; another Iranian statement says four; a security firm reports one ship hit by a projectile. Before deciding what happened in Hormuz, what evidence would you want to see, and from whom?"
+    "type": "second-order",
+    "text": "Several stories today are about who gets a seat at the table: Europe in Ukraine talks, Congress over chip exports, poorer countries at COP31. When a new party joins a negotiation, what else might change besides its own influence, for better or worse?"
   },
   "read": {
-    "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
-    "outlet": "Reuters (via Yahoo News)",
-    "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+    "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+    "outlet": "Rest of World",
+    "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
     "kind": "analysis",
-    "minutes": 8,
-    "summary": "A Reuters investigation into Chinese data-centre projects built around restricted Nvidia chips, which shows why export rules are so hard to enforce."
+    "minutes": 7,
+    "summary": "How much of China's AI computing still depends on Nvidia, how fast Huawei is catching up, and what the Huang scandal could change."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "nvidia-huang-resigns",
-      "heading": "Nvidia's founder Jensen Huang resigns as CEO; finance chief Colette Kress steps in",
-      "date": "2026-11-12",
-      "status": "confirmed",
-      "summary": "Jensen Huang, who built Nvidia into the main maker of AI chips, resigned with immediate effect, and CFO Colette Kress became interim CEO.[^6] He faces questions in Congress over links between a former partner and a company US officials are investigating over chip exports to China.[^7][^9]",
+      "id": "eu-ukraine-team-shenzhen",
+      "heading": "Europe picks a five-country team for Ukraine talks; Trump, Xi and Putin plan to meet",
+      "date": "2026-11-13",
+      "status": "developing",
+      "summary": "At an informal summit in Dublin, EU leaders agreed that the UK, France, Germany, Italy and Poland, with EU institutions, will speak for Europe at the next round of US-led Ukraine talks.[^1][^2] The White House says Trump, Xi and Putin plan a first three-way meeting at next week's APEC summit in Shenzhen.[^4]",
       "lead": {
-        "title": "NVIDIA Announces CEO Transition",
-        "outlet": "Nvidia (press release, SEC filing)",
-        "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
-        "date": "2026-11-12"
+        "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
+        "date": "2026-11-13"
       },
       "alsoReported": [
         {
-          "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+          "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+          "outlet": "AP (via PBS NewsHour)",
+          "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice"
         },
         {
-          "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "Nvidia's board said on Thursday that Jensen Huang, who co-founded the company in 1993 and led it ever since, had resigned as president, CEO and board member \"effective immediately.\"[^6] Chief financial officer Colette Kress is interim CEO while the board searches inside and outside the company, and former Synopsys chief Harvey Jones becomes Nvidia's first board chair.[^6] Nvidia's chips power most of the world's large AI systems, so its leadership matters far beyond Silicon Valley.",
-        "The resignation followed days of reporting. Huang admitted an affair in a message to staff, and The Wall Street Journal reported the board was preparing to remove him.[^7][^8] The more serious question is about security. CBS, citing two unnamed sources, reports that US agencies believe a woman linked to Huang had been recruited by China's intelligence ministry, and that the Justice Department is investigating her former company, Megaspeed, over possible export-control violations.[^7] China's foreign ministry calls the spy claims \"baseless.\"[^7][^8] No charges have been reported.",
-        "Congress is now involved. Senate Banking chair Tim Scott has asked Huang to testify in public on Dec 3 and wants Commerce Secretary Howard Lutnick to appear on Dec 10 about how export rules are enforced; House Republicans on the China committee also want answers.[^9][^8] Nvidia's shares fell sharply this week.[^9]",
-        "Why it matters: Huang has been the loudest voice for easing US limits on selling advanced chips to China.[^14] A Reuters review published Friday found more than $3 billion of Chinese computing projects planned around Nvidia chips the US restricts.[^14] My read: the scandal makes tighter export rules more likely, not less.",
-        "What next: Nvidia reports quarterly results on Nov 17, its first test without Huang, and the board says the product roadmap continues \"without interruption.\"[^6]"
-      ],
-      "differences": "US officials, as described by unnamed sources to CBS, believe a former Megaspeed executive linked to Huang was recruited by Chinese intelligence.[^7] China's government calls this a \"baseless\" smear, and Nvidia has said the government would have warned it of any real threat.[^7][^8]"
-    },
-    {
-      "id": "putin-us-envoys-moscow",
-      "heading": "Putin meets US envoys in Moscow; Kremlin calls talks useful, and a new round is agreed",
-      "date": "2026-11-12",
-      "status": "developing",
-      "summary": "Putin met US envoys Steve Witkoff and Jared Kushner a day after the Abu Dhabi talks; the Kremlin called it useful and said Europeans could join the next round.[^1][^2] Territory remains the main gap, and the envoys flew to Dublin to meet Zelenskyy.[^1]",
-      "lead": {
-        "title": "Kremlin Says Putin's Talks With U.S. Envoys Were Useful, Ukraine Peace Talks to Continue",
-        "outlet": "The Moscow Times (Reuters)",
-        "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
-        "date": "2026-11-12"
-      },
-      "alsoReported": [
-        {
-          "title": "Putin was alarmed by Zelenskyy and his \"greetings\" to Trump — what the Russian dictator discussed with Witkoff and Kushner",
-          "outlet": "Ukrainian National News (UNN)",
-          "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner"
+          "title": "Trump, Xi and Putin to hold first three-way summit in China",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Thursday Vladimir Putin met Steve Witkoff and Jared Kushner, the two US envoys running Trump's push for a Ukraine deal, in the Kremlin. It was Witkoff's tenth face-to-face meeting with Putin.[^1] It came right after two days of talks in Abu Dhabi, where Russia and Ukraine agreed to a large prisoner-of-war exchange that Reuters says is likely in the coming weeks.[^1]",
-        "Kremlin aide Yury Ushakov called the meeting useful and \"candid,\" and said direct talks with Kyiv will continue.[^1][^2] Witkoff said a new three-way round has been agreed and that Europeans would join the next meeting.[^1] Russia also told the envoys that NATO must not expand further and said it wants talks on a new European security system.[^1]",
-        "Putin proposed a joint Russian-Ukrainian humanitarian mission to Kostiantynivka, a front-line town in Ukraine's Donetsk region, to let residents leave; the Kremlin says the US side supported the idea.[^1][^2] Ukraine has not publicly agreed to it in the reports we have seen.",
-        "The core gap has not moved. Russia wants all of the Donbas region, including land Ukraine still holds, and Ukraine refuses.[^1] The EU's foreign policy chief Kaja Kallas says Russia is \"pretending to negotiate,\" while Moscow rejects a temporary ceasefire.[^1] Ukraine's negotiator David Arakhamia spoke of \"good momentum\" toward a deal by New Year.[^2]",
-        "What next: Witkoff and Kushner were due in Dublin to brief Zelenskyy, and Ushakov says Putin and Trump may continue the discussion at the APEC summit in China later this month.[^1][^2] My read: a prisoner exchange is likely soon; a deal on land is not."
+        "European Union leaders meeting informally in Dublin on Friday agreed on a team for the next round of US-brokered talks on ending Russia's war in Ukraine. Europe will be represented by the UK, France, Germany, Italy and Poland, together with the EU's institutions, rather than by a single envoy.[^1][^2] European Council President António Costa said it was essential \"to speak with only one voice\" and that only Ukraine can decide matters of its own territory.[^2] Ukraine's President Zelensky, who met US envoys Steve Witkoff and Jared Kushner near Dublin after their talks with Putin, said Europeans \"will have a voice\" in the next round.[^6]",
+        "Some background: the latest round of US-led talks, in Abu Dhabi on Nov 10-11, produced agreement in principle on a large prisoner exchange but no breakthrough.[^23] Russia still demands all of the Donbas region in eastern Ukraine, which Kyiv refuses.[^24] Europe pays a large share of Ukraine's costs and fears a deal made over its head; RTÉ reports Ukraine faces a funding gap of about €70 billion in 2027.[^2]",
+        "The choice was not smooth. Italy's Prime Minister Giorgia Meloni wanted one envoy, and EU foreign-policy chief Kaja Kallas sought a role but was not backed.[^1] Kremlin spokesman Dmitry Peskov mocked the Europeans as squabbling \"like spiders in a jar\", while Kushner said Europe must be at the table for any deal to be completed.[^3] No date has been set for the next round.[^3]",
+        "Separately, the White House says Trump, Xi Jinping and Putin plan to meet on the sidelines of the APEC summit in Shenzhen, China, next week, the first such three-way meeting. US officials say the focus is nuclear arms control, since the last US-Russia arms treaty, New START, lapsed in February, and the Iran war; they do not expect an agreement.[^4][^5] Zelensky has voiced concern that Ukraine could be discussed without Kyiv, and the Kremlin rejects comparisons with the 1945 Yalta conference, where great powers divided Europe.[^5] My read: the things to watch are whether Europe's team actually gets into the room, and whether Shenzhen stays on arms control."
       ],
-      "differences": "The Kremlin describes the talks as constructive and says Europe should join a new security framework.[^1][^2] EU officials say Russia is only pretending to negotiate and that wider security talks should wait for a ceasefire, which Russia rejects.[^1]"
+      "differences": "US officials say Ukraine is not the focus of the Shenzhen meeting;[^4] a Kremlin aide said this week that Putin would continue Ukraine talks with Trump at APEC.[^24] The Kremlin says Europe must first show it is \"ready\" to help the peace process.[^1]"
     },
     {
-      "id": "hormuz-tankers-disabled",
-      "heading": "Iran says mines disabled two supertankers in Hormuz; oil jumps 3%",
-      "date": "2026-11-12",
+      "id": "trump-iran-no-deal-bahrain",
+      "heading": "Trump says the US doesn't need an Iran deal; Iran and the US dispute a strike in Bahrain",
+      "date": "2026-11-13",
       "status": "disputed",
-      "summary": "Iran's Revolutionary Guards say two supertankers that used an \"unauthorized\" route were disabled by explosions; this has not been independently confirmed.[^3][^4] Brent crude rose 3.3% to $95.82 as Yemen's Houthis also claimed attacks on Saudi oil sites.[^5]",
+      "summary": "Trump said \"we don't need a deal with Iran\" and took Vice-President Vance off the talks.[^7] On Friday Iran's Revolutionary Guards said they hit a US radar in Bahrain; US Central Command says it shot down two drones and nothing was damaged.[^8]",
       "lead": {
-        "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz",
-        "outlet": "NewsNation (via Yahoo News)",
-        "url": "https://www.yahoo.com/news/world/articles/iran-says-explosions-disabled-2-114505184.html",
+        "title": "Trump says deal with Iran not needed, pulls Vance off negotiations",
+        "outlet": "USA Today (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
         "date": "2026-11-12"
       },
       "alsoReported": [
         {
-          "title": "Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz.",
-          "outlet": "International Business Times (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/iran-says-two-supertankers-carrying-105345048.html"
+          "title": "Iran says it hit US radar station in Bahrain, diplomats scramble to avert war",
+          "outlet": "The New Arab",
+          "url": "https://www.newarab.com/news/iran-says-it-hit-us-radar-station-bahrain"
         },
         {
-          "title": "Brent rises 3.3% on November 12 amid Saudi attack claims",
-          "outlet": "The Nation (Thailand)",
-          "url": "https://www.nationthailand.com/news/world/40073442"
+          "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+          "outlet": "Arab News (AFP)",
+          "url": "https://www.arabnews.com/world/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections-3011602"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Iran's Islamic Revolutionary Guard Corps (IRGC) said on Thursday that two oil supertankers were disabled by \"massive explosions\" on Wednesday night after ignoring warnings and using what it called an unauthorized route through the Strait of Hormuz.[^3] Iranian state media later said the ships hit naval mines.[^4] The IRGC did not name the ships, their owners or flags, and its account has not been independently verified.[^3][^4]",
-        "Separately, the British maritime security firm Ambrey reported that a merchant ship leaving the strait was hit in the stern by an unknown projectile about 14 nautical miles off Ras Al-Khaimah in the UAE, starting an engine-room fire with no injuries.[^3] It is not clear whether this is one of the ships Iran described.[^3]",
-        "Background: the Strait of Hormuz, the narrow sea passage out of the Persian Gulf, carried nearly a fifth of the world's crude oil before the war.[^5] Iran now says it decides which routes are allowed, and the IRGC warned that ships cooperating with US forces could face \"similar consequences.\"[^4] The International Maritime Organization has counted 134 confirmed incidents in the region and 25 seafarers killed.[^4]",
-        "Markets reacted. Brent crude, the global oil benchmark, rose 3.3% to $95.82 a barrel on Thursday.[^5] Yemen's Houthis also claimed attacks on Saudi oil sites, while the Saudi-led coalition said it destroyed two Houthi drones.[^5] President Trump posted that the US does not need a deal with Iran.[^5]",
-        "My read: each claimed attack raises the cost of shipping and insurance, and higher oil prices reach drivers and grocery bills worldwide, including in Canada. Watch whether ship owners or flag states confirm what happened."
+        "President Trump wrote on Thursday that \"we don't need a deal with Iran\" and moved Vice-President JD Vance off the peace effort.[^7] He argues that the US naval blockade of Iranian ports and sanctions are working, saying Iran \"militarily, is effectively over.\"[^7] In a radio interview he said he would strike again if things went \"the other way.\"[^10] Iranian officials, for their part, deny reports of a recent US-Iran meeting in Qatar, the main go-between.[^25]",
+        "Fighting at sea continues. Iran's Revolutionary Guards said on Friday that they targeted a US early-warning radar in Bahrain in retaliation for a US strike on a telecom tower in southern Iran, and that a gas tanker hit a mine in the Strait of Hormuz.[^8][^10] US Central Command says two attack drones launched toward Bahrain were shot down with no damage, and the tanker claim has not been independently confirmed.[^8] Yemen's Houthis, allied with Iran, claim attacks on Saudi oil sites, including the pipeline Saudi Arabia uses to send oil around Hormuz; Saudi statements mention only interceptions.[^11]",
+        "The nuclear question is also open. A confidential report by the International Atomic Energy Agency (IAEA), the UN nuclear watchdog, says it cannot conclude that Iran has not diverted declared nuclear material, and that it does not know the location or status of an enrichment plant at Isfahan. Its board will discuss the report next week, and Iran says monitoring talks cannot go ahead while it faces military threats.[^9]",
+        "Oil prices barely moved: Brent crude settled at $95.84 a barrel on Friday, about 2.5% lower for the week.[^22] My read: with Washington saying it can wait and Tehran in no hurry to reopen the strait on US terms, the likeliest path is a slow, costly standoff, with the risk that a single disputed incident escalates quickly."
       ],
-      "differences": "The IRGC says two tankers were disabled on Wednesday night; Iranian military statements cited by The Nation speak of four tankers on Thursday.[^3][^5] Iran says mines caused the blasts and that the ships had US military guidance; independent bodies have not confirmed either point.[^4]"
+      "differences": "Iran's Revolutionary Guards say their strike hit a US radar in Bahrain; US Central Command says only drones were launched and all were shot down.[^8] The Houthis say they hit Saudi oil facilities; Saudi and coalition statements report only interceptions.[^11]"
     },
     {
-      "id": "cop31-clashing-priorities",
-      "heading": "COP31 leaders' summit ends with clashing demands as negotiators take over",
-      "date": "2026-11-12",
+      "id": "gaza-winter-supplies",
+      "heading": "53 countries and groups urge Israel to let more winter supplies into Gaza",
+      "date": "2026-11-13",
       "status": "developing",
-      "summary": "Two days of leaders' speeches at COP31 in Antalya, Turkey, showed sharp splits between small islands, oil producers, Europe and developing countries.[^10] Negotiators now have to turn this into a deal, with a Turkish push to expand electricity at its centre.[^10][^11]",
+      "summary": "A statement led by the UK, Qatar and Jordan asks Israel to let in shelter, fuel and health supplies before winter.[^12] Israel says more than 93,000 tents have entered and blames Hamas; Gaza's Civil Defence says a baby died of cold in a tent.[^12][^13]",
       "lead": {
-        "title": "COP31 leaders set out clashing priorities as negotiations begin",
-        "outlet": "The New Arab (Reuters)",
-        "url": "https://www.newarab.com/news/cop31-leaders-set-out-clashing-priorities-negotiations-begin",
-        "date": "2026-11-12"
+        "title": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
+        "outlet": "Times of Israel",
+        "url": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
+        "date": "2026-11-13"
       },
       "alsoReported": [
         {
-          "title": "STATEMENT: COP31 Leaders' Summit Spotlights Electrification and Transition Away from Fossil Fuels",
-          "outlet": "World Resources Institute",
-          "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels"
+          "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "On Friday, 53 countries and organisations, led by the UK, Qatar and Jordan, called on Israel to immediately allow shelter materials, fuel, water, sanitation and health supplies into Gaza, warning of hypothermia and lung infections as winter arrives.[^12] UN figures cited in the coverage say about 65% of Gazans live in tents or temporary shelters, and the WHO reports 33,000 more acute respiratory infections than a year earlier.[^12]",
+        "Gaza's Civil Defence said a nine-month-old baby died of the cold in a tent in Khan Younis, and that five people died when an embankment collapsed onto tents after flooding.[^13] Israel's aid agency COGAT says more than 93,000 tents and over 8,600 trucks of winter supplies have entered. Israel says the criticism distracts from Hamas's responsibility, keeps limits on \"dual-use\" items (goods it says could also serve military purposes), and says rebuilding will not start until Hamas disarms.[^12]",
+        "Gaza has been under a US-brokered ceasefire since October 2025, overseen by a US-led Board of Peace. The truce has stopped large-scale fighting but not all violence: the Israeli army says it killed more than ten militants this week for violating the ceasefire.[^10]",
+        "Israeli politics will shape what comes next. After the Oct 27 election, Gadi Eisenkot has the first chance to form a government, but his bloc holds 48 of the 61 seats needed. Israel's Channel 12 reports he now prefers talks with the ultra-Orthodox parties over the Arab-led parties, while caretaker Prime Minister Netanyahu is lobbying the same parties' rabbis.[^26][^27] My read: major decisions on Gaza's next phase are unlikely before a new government is formed."
+      ],
+      "differences": "Israel says it has let in more than 93,000 tents and that Hamas is responsible for the situation; the 53 signatories, UN officials and the US-led Board of Peace say supplies are not enough.[^12]"
+    },
+    {
+      "id": "congress-summons-huang-lutnick",
+      "heading": "Congress summons ex-Nvidia CEO Huang and Commerce Secretary Lutnick over chips to China",
+      "date": "2026-11-13",
+      "status": "developing",
+      "summary": "The Senate Banking Committee asked Jensen Huang to testify on Dec 3 and Commerce Secretary Howard Lutnick on Dec 10, or face subpoenas, over how restricted AI chips reached China.[^15] Nvidia's market value fell below $4 trillion.[^14]",
+      "lead": {
+        "title": "Senate Banking Committee asks Jensen Huang and Howard Lutnick to testify over 'significant national security concerns' next month, or face subpoenas",
+        "outlet": "Fortune",
+        "url": "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/",
+        "date": "2026-11-13"
+      },
+      "alsoReported": [
+        {
+          "title": "US Senate summons Nvidia's Huang, Lutnick to testify",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
+        },
+        {
+          "title": "China warns US over chip curbs as suspected spy's firm got banned chips",
+          "outlet": "Euronews (AFP)",
+          "url": "https://www.euronews.com/2026/11/13/china-warns-us-over-chip-curbs-as-suspected-spys-firm-got-banned-chips"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "A day after Jensen Huang resigned as Nvidia's chief executive, Congress moved to question him. Senate Banking Committee chair Tim Scott asked Huang to testify on Dec 3 and Commerce Secretary Howard Lutnick on Dec 10, or face subpoenas, citing \"significant national security concerns.\"[^15] Three House committees want Huang and Nvidia's top lawyer on Dec 1-2.[^14] President Trump says the FBI is investigating, and Nvidia's board has started an independent review.[^15]",
+        "The issue is export controls: US rules that ban selling the most advanced AI chips to China. Huang resigned after admitting affairs, one reportedly with a former executive of Megaspeed, a Singapore data-centre company and Nvidia partner that US authorities are investigating over alleged chip smuggling. US officials suspect she worked for Chinese intelligence, which China denies.[^14][^16] Bloomberg, cited by Euronews, reports that a Shanghai company she founded obtained servers with Nvidia H800 chips, which have been banned for export to China since 2023.[^16]",
+        "Reactions cross party lines. Trump called Huang \"honourable\"; Republican Senator Jim Banks says Lutnick defied Trump's own line on selling top chips to China, and Democrat Elizabeth Warren wants loopholes closed.[^14][^15] House Speaker Mike Johnson speaks of a \"developing consensus\" for tighter limits, and China's foreign ministry warned the US against \"abuse of export control measures.\"[^16] Nvidia's market value is now below $4 trillion for the first time since July 2025.[^14]",
+        "Why it matters: Nvidia's chips power most large AI systems, and the scandal lands as China builds its own. Rest of World, citing IDC data, says Huawei shipped 28% of the AI chips sold in China in the first half of 2026, against Nvidia's 34%.[^21] My read: stricter export rules now look more likely, which could speed up China's push to rely on its own chips. Nvidia's quarterly results on Nov 17 will be the first under interim CEO Colette Kress.[^28]"
+      ],
+      "differences": "US officials, cited anonymously, link Huang's former partner to Chinese intelligence; China denies it and warns the US against abusing export controls.[^16] Trump defends Huang as honourable, while senators in both parties question how chips reached China.[^14][^15]"
+    },
+    {
+      "id": "cop31-cover-decision-options",
+      "heading": "COP31 hosts publish a menu of options as negotiators split over fossil fuels",
+      "date": "2026-11-13",
+      "status": "developing",
+      "summary": "At COP31 in Antalya, the summit's leaders issued a list of ideas for its final decision, from faster electrification to money for adaptation.[^17] Arab states, India and others resist firm fossil-fuel language; a first draft is due early next week.[^17][^18]",
+      "lead": {
+        "title": "COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33",
+        "outlet": "Climate Home News",
+        "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/",
+        "date": "2026-11-13"
+      },
+      "alsoReported": [
+        {
+          "title": "UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels",
+          "outlet": "Reuters (via WHTC)",
+          "url": "https://whtc.com/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels/"
         }
       ],
       "eventId": null,
       "article": [
-        "COP31, this year's UN climate conference, is being held in Antalya, Turkey, with Australia leading the negotiations. The leaders' part of the summit ended on Thursday after two days of speeches that, Reuters reports, set out very different priorities.[^10]",
-        "Small island nations such as Tuvalu, the Bahamas and Saint Lucia, which face rising seas, asked for fast emissions cuts; Saint Lucia's prime minister said major emitters must move beyond \"the usual promises.\"[^10] Developing countries asked rich countries for more money for clean energy and for adapting to climate damage.[^10] Oil, gas and coal producers argued their fuels are still needed; Venezuela's acting president claimed a \"sovereign right\" to expand her country's oil industry.[^10]",
-        "The main proposal on the table is Turkey's plan to raise electricity's share of world energy use to 35% by 2035, up from a little over a fifth now. European leaders, including Britain's prime minister, backed it, but Turkey has not said whether the extra power must be clean.[^10] The research group WRI welcomed growing support for moving away from fossil fuels, and noted that a $1.3 trillion yearly climate-finance goal is already set; the fight is over how to reach it.[^11]",
-        "Australia's Chris Bowen, who runs the talks, said his job is to \"steer consensus, not to bang tables.\"[^10] Environmental groups called the speeches underwhelming, and a UN report last month found the world on course to pass the 1.5C warming limit.[^10]",
-        "My read: wars and high energy prices pull attention away from climate, but they also strengthen the argument that home-grown clean power means energy security. Expect a modest deal on electrification and finance rather than a firm date to stop using fossil fuels."
+        "COP31, this year's UN climate conference, is being held in Antalya, Turkey, with Turkey and Australia sharing the presidency, and is due to end on Nov 20. On Friday the presidencies published a \"summary of reflections\": a menu of possible items for the summit's main decision text, which they stress is not a draft and has not been agreed.[^17]",
+        "The ideas include welcoming a goal to raise electricity's share of final energy use from about 20% to 35% by 2035, limiting how far warming overshoots 1.5C, more money to help countries adapt to climate change, cutting methane leaks, and phasing out \"unilateral climate trade measures\", widely read as a reference to the EU's carbon border tax.[^17] Countries had until Saturday to send written views, and a first draft is expected early next week.[^18]",
+        "The divisions are familiar. Arab states object to mentioning last year's COP30 roadmap for moving away from fossil fuels, and Saudi Arabia questioned a UN report on overshoot because it was not peer-reviewed.[^17] India and the G77 group of developing countries reject firm targets or language naming specific fuels, while the EU says electrification must run on clean energy and Brazil wants clearer roadmaps.[^17][^18] UN Secretary-General António Guterres called for an \"immediate and drastic reduction\" in emissions; the United States is absent for a second year.[^18]",
+        "Also from the talks: China has ruled itself out of hosting COP33 in 2028, and a Pacific fund for climate resilience is $300 million short of its 2026 target.[^17] My read: the realistic test of COP31 is whether the final text keeps any concrete commitment on fossil fuels, more than how ambitious it sounds."
       ],
-      "differences": "Oil producers such as Venezuela say they have a right to expand production, while small island states and European leaders call for a faster move away from fossil fuels.[^10] WRI sees growing momentum; WWF called the leaders' speeches underwhelming.[^10][^11]"
+      "differences": "Arab states oppose naming the COP30 fossil-fuel roadmap, and India and the G77 reject fuel-specific targets, while the EU and Brazil push for clean-energy and roadmap language.[^17][^18]"
     },
     {
-      "id": "microsoft-365-outage",
-      "heading": "Microsoft outage knocks out Outlook and Teams for many users across the Americas",
-      "date": "2026-11-12",
-      "status": "developing",
-      "summary": "A Microsoft 365 failure left users unable to reach email in Outlook and disrupted Teams and Copilot, mainly in the Americas.[^12] Microsoft blamed unusually high load on part of its systems and says nothing suggests an attack.[^12][^13]",
+      "id": "congo-ebola-11000",
+      "heading": "Congo's Ebola outbreak passes 11,000 cases as armed attacks slow the response",
+      "date": "2026-11-13",
+      "status": "confirmed",
+      "summary": "Congo's government reports 11,042 confirmed Ebola cases and at least 5,387 deaths, the second-largest outbreak on record.[^19] The UN says attacks by armed groups, including one that killed 66 civilians, are holding back the response.[^20]",
       "lead": {
-        "title": "Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
-        "date": "2026-11-12"
+        "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+        "outlet": "UN News",
+        "url": "https://news.un.org/en/story/2026/11/1168797",
+        "date": "2026-11-13"
       },
       "alsoReported": [
         {
-          "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
-          "outlet": "The Canadian Press (via Yahoo News Canada)",
-          "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html"
+          "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+          "outlet": "Al Jazeera (Reuters)",
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
         }
       ],
       "eventId": null,
       "article": [
-        "On Thursday many Microsoft 365 users could not open their Outlook mailboxes, send mail or receive it on time, and Teams and the Copilot AI assistant were also disrupted.[^12] The tracking site Downdetector logged more than 130,000 Outlook problem reports in the US at the peak; such reports are a rough signal, not a count of people affected.[^12]",
-        "Microsoft said users in the Americas could not connect to Exchange Online, its cloud email service, and that part of its infrastructure was under \"higher than normal load.\"[^12] It said it was moving traffic around to rebalance the load.[^12] The Canadian Press reports that governments and businesses in Canada were affected, that Canadians could face a second day of problems, and that Microsoft says nothing suggests malicious activity.[^13]",
-        "Background: most schools, governments and companies now rent their email, files and chat from a handful of cloud providers. That is usually cheaper and safer than running their own servers, but it means one fault can stop work for millions at once.",
-        "My read: outages like this rarely cause lasting harm, but they feed a growing debate in Canada and Europe about depending on a few US tech firms for basic public services. Watch whether Microsoft publishes a fuller explanation of the cause."
+        "The Democratic Republic of Congo's Ebola outbreak has passed 11,000 confirmed cases. Government data show 11,042 cases and at least 5,387 deaths across eight of the country's 26 provinces, with cases also reported elsewhere in East, Central and West Africa.[^19] Only the 2014-16 West Africa epidemic, with more than 28,600 cases, was larger.[^19]",
+        "This outbreak is caused by the Bundibugyo virus, a rarer type of Ebola that kills about half of those infected and has no approved vaccine or treatment.[^19] The World Health Organization approved trials of two new vaccines earlier this month, with results expected in early 2027.[^19]",
+        "The UN says violence is making the work harder. It reports about 400 to 500 new cases a week, with the virus moving from towns in Ituri province into rural areas, and an attack by the ADF armed group in North Kivu that killed 66 civilians, including three health workers, while health facilities were looted.[^20] Many deaths happen outside treatment centres, which makes it harder to trace people who were exposed.[^19]",
+        "Why it matters: Ebola spreads through close contact, so stopping it depends on trust, safe burials and access to communities, all hard in a conflict zone. My read: the outbreak is also a test of how quickly new vaccines can be developed and delivered for a rare strain."
       ],
       "differences": null
     }
@@ -173,115 +202,227 @@
   "sources": [
     {
       "id": 1,
-      "outlet": "The Moscow Times (Reuters)",
-      "title": "Kremlin Says Putin's Talks With U.S. Envoys Were Useful, Ukraine Peace Talks to Continue",
-      "url": "https://www.themoscowtimes.com/2026/11/12/kremlin-says-putins-talks-with-us-envoys-were-useful-ukraine-peace-talks-to-continue-a94236",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "Ukrainian National News (UNN)",
-      "title": "Putin was alarmed by Zelenskyy and his \"greetings\" to Trump — what the Russian dictator discussed with Witkoff and Kushner",
-      "url": "https://unn.ua/en/news/putin-was-concerned-by-zelenskyy-and-his-greetings-to-trump-what-else-the-russian-dictator-discussed-with-witkoff-and-kushner",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "NewsNation (via Yahoo News)",
-      "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-explosions-disabled-2-114505184.html",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "International Business Times (via Yahoo News)",
-      "title": "Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz.",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-two-supertankers-carrying-105345048.html",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "The Nation (Thailand)",
-      "title": "Brent rises 3.3% on November 12 amid Saudi attack claims",
-      "url": "https://www.nationthailand.com/news/world/40073442",
+      "outlet": "Euronews",
+      "title": "EU leaders bring Italy and Poland into Ukraine peace talks team as Kallas fights for spot",
+      "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot",
       "date": "2026-11-13",
       "singleSource": false
     },
     {
+      "id": 2,
+      "outlet": "RTÉ",
+      "title": "Europe selects negotiating team for Ukraine talks",
+      "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "AP (via PBS NewsHour)",
+      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+      "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "AP (via KSL)",
+      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say",
+      "url": "https://www.ksl.com/article/news/business/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say/51645777",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Al Jazeera",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
       "id": 6,
-      "outlet": "Nvidia (press release, SEC filing)",
-      "title": "NVIDIA Announces CEO Transition",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "outlet": "Kyiv Independent",
+      "title": "Zelensky meets with Trump's envoys in Dublin after their summit with Putin",
+      "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
       "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "CBS News",
-      "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
-      "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+      "outlet": "USA Today (via Yahoo News)",
+      "title": "Trump says deal with Iran not needed, pulls Vance off negotiations",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
       "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "ABC News",
-      "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs",
-      "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059",
-      "date": "2026-11-11",
+      "outlet": "The New Arab",
+      "title": "Iran says it hit US radar station in Bahrain, diplomats scramble to avert war",
+      "url": "https://www.newarab.com/news/iran-says-it-hit-us-radar-station-bahrain",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Fox News",
-      "title": "Jensen Huang resigns; interim CEO of Nvidia named (live updates)",
-      "url": "https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-super-intelligence-safety-11-12-26",
-      "date": "2026-11-12",
+      "outlet": "Arab News (AFP)",
+      "title": "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+      "url": "https://www.arabnews.com/world/un-nuclear-watchdog-urges-iran-to-take-steps-towards-inspections-3011602",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "The New Arab (Reuters)",
-      "title": "COP31 leaders set out clashing priorities as negotiations begin",
-      "url": "https://www.newarab.com/news/cop31-leaders-set-out-clashing-priorities-negotiations-begin",
-      "date": "2026-11-12",
+      "outlet": "Times of Israel (live blog)",
+      "title": "Nov. 13: US Treasury's Bessent says he won't be cowed by Iranian death threats",
+      "url": "https://www.timesofisrael.com/liveblog-november-13-2026/",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "World Resources Institute",
-      "title": "STATEMENT: COP31 Leaders' Summit Spotlights Electrification and Transition Away from Fossil Fuels",
-      "url": "https://www.wri.org/news/statement-cop31-leaders-summit-spotlights-electrification-and-transition-away-fossil-fuels",
+      "outlet": "Jerusalem Post (Reuters)",
+      "title": "Houthis say they attacked Saudi oil pipeline pumping station, Aramco building, oil facility",
+      "url": "https://www.jpost.com/middle-east/article-914779",
       "date": "2026-11-12",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Euronews",
-      "title": "Microsoft outage hits Outlook, Teams and Copilot, disrupting thousands",
-      "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands",
-      "date": "2026-11-12",
+      "outlet": "Times of Israel",
+      "title": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
+      "url": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "The Canadian Press (via Yahoo News Canada)",
-      "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
-      "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html",
-      "date": "2026-11-13",
+      "outlet": "Al Jazeera",
+      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+      "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid",
+      "date": "2026-11-12",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
-      "url": "https://malaysia.news.yahoo.com/chinas-3-billion-plus-pipeline-092758838.html",
+      "outlet": "Al Jazeera",
+      "title": "US Senate summons Nvidia's Huang, Lutnick to testify",
+      "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 15,
+      "outlet": "Fortune",
+      "title": "Senate Banking Committee asks Jensen Huang and Howard Lutnick to testify over 'significant national security concerns' next month, or face subpoenas",
+      "url": "https://fortune.com/2026/11/13/senate-banking-committee-nvidia-jensen-huang-howard-lutnick/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "Euronews (AFP)",
+      "title": "China warns US over chip curbs as suspected spy's firm got banned chips",
+      "url": "https://www.euronews.com/2026/11/13/china-warns-us-over-chip-curbs-as-suspected-spys-firm-got-banned-chips",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 17,
+      "outlet": "Climate Home News",
+      "title": "COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33",
+      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 18,
+      "outlet": "Reuters (via WHTC)",
+      "title": "UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels",
+      "url": "https://whtc.com/2026/11/13/cop31-talks-face-early-friction-over-future-of-fossil-fuels/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 19,
+      "outlet": "Al Jazeera (Reuters)",
+      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+      "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 20,
+      "outlet": "UN News",
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "url": "https://news.un.org/en/story/2026/11/1168797",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 21,
+      "outlet": "Rest of World",
+      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 22,
+      "outlet": "Nation Thailand",
+      "title": "Brent and WTI set for losses of about 2.5% in week to Nov 13 as surplus concerns grow",
+      "url": "https://www.nationthailand.com/news/world/40073488",
+      "date": "2026-11-14",
+      "singleSource": true
+    },
+    {
+      "id": 23,
+      "outlet": "AP (via PBS NewsHour)",
+      "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+      "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 24,
+      "outlet": "TIME",
+      "title": "Trump Envoys Witkoff and Kushner Meet With Putin in Moscow for Ukraine Talks",
+      "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 25,
+      "outlet": "OilPrice.com",
+      "title": "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Jumps-3-to-94-as-Iran-Denies-Any-Talks-With-Washington.html",
+      "date": "2026-11-11",
+      "singleSource": false
+    },
+    {
+      "id": 26,
+      "outlet": "Times of Israel",
+      "title": "Eisenkot said to prioritize trying to form coalition with Haredim over Arab parties",
+      "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-said-to-prioritize-trying-to-form-coalition-with-haredim-over-arab-parties/",
       "date": "2026-11-13",
       "singleSource": true
+    },
+    {
+      "id": 27,
+      "outlet": "Jerusalem Post",
+      "title": "'They will use you and throw you away': Netanyahu warns haredi parties away from Eisenkot-led bloc",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914799",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 28,
+      "outlet": "Yahoo Finance",
+      "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html",
+      "date": "2026-11-12",
+      "singleSource": false
     }
   ]
 }

@@ -1,43 +1,74 @@
 {
-  "date": "2026-11-13",
-  "summary": "Ottawa declares Stellantis in default over the Brampton plant sale and gives it 30 days, as a Microsoft outage disrupts Canadian offices and Carney heads to Manila.",
+  "date": "2026-11-14",
+  "summary": "Carney concludes free-trade talks with the Philippines and says a US deal is possible but not there yet, while Ontario moves to tighten OSAP at private colleges.",
   "body": [
-    "Industry Minister Mélanie Joly wrote to Stellantis Canada on Thursday to end talks with the carmaker and declare it in default of its 2022 federal funding deal, which promised up to $529 million for its Brampton and Windsor plants.[^1] The trigger is Stellantis's plan to sell its idle Brampton plant to armoured-vehicle maker Roshel. The company has 30 days to fix the problem, or Ottawa may cancel the agreement and try to recover the money; Joly says the government intends to sue for \"hundreds of millions of dollars.\"[^1][^2] Stellantis has offered to repay at least $220 million voluntarily.[^1]",
-    "About 1,800 Brampton workers are still on layoff, getting 70% of their pay plus benefits.[^1] After a Toronto meeting with Stellantis, Unifor and the federal government, Premier Doug Ford said the next step is talks with Stellantis's global CEO, and Joly said both governments will meet him.[^2] Unifor president Lana Payne called the sale \"very unfortunate,\" and the union may seek severance in its contract talks; she says a strike would be a last resort.[^2] Prime Minister Carney said Ottawa had been told of \"some aspects\" of the deal before it was announced; Conservative Leader Pierre Poilievre wants Joly removed.[^1]",
-    "Elsewhere: a Microsoft outage disrupted email and Teams for governments and businesses across Canada on Thursday and could run into a second day; Microsoft says there is no sign of an attack.[^3] Carney travels on to the ASEAN summit in Manila; Ottawa says it has not abandoned the Rohingya refugees in Bangladesh, ahead of a world court ruling due this month on whether Myanmar committed genocide.[^3]"
+    "In Manila for the ASEAN summit, Prime Minister Mark Carney and Philippine President Ferdinand Marcos Jr. concluded free-trade negotiations; formal signing is expected in 2027.[^1] Ottawa says the deal could triple Canadian exports to the Philippines by 2035, and talks with the ASEAN bloc as a whole are essentially finished too.[^1][^2] On the United States, Carney said after a long call with President Trump: \"We are making progress... But we're not yet there,\" adding that Canada will not accept terms that hurt its auto industry.[^2]",
+    "On Brampton, Industry Minister Mélanie Joly said Ottawa and Ontario have offered Stellantis an \"aggressive package\" to stop the sale of its idle plant to Roshel, and will pitch the carmaker's global CEO together with Unifor.[^3] The two sides still disagree on how much subsidy money Stellantis must return; CBC confirmed Ottawa paid the company $222 million in 2023-25.[^3] CTV reports lobby records showing aides to Joly and to the prime minister met Roshel before the sale was announced, which Conservative Leader Pierre Poilievre says shows the government was involved.[^4]",
+    "Closer to home for students: Ontario will table a bill on Nov 16 to tighten OSAP, the province's student aid, at private career colleges. It would cap OSAP-funded growth, make mostly online programs ineligible and make schools liable for students' loans, after an audit found courses finished in a day and thousands of applications from the same internet addresses.[^5] One GTA college's OSAP users rose from 562 to 17,157 in three years.[^6] The NDP and Liberals say the bill comes too late.[^5][^6]"
   ],
-  "differences": "Carney says the government knew of some aspects of the sale in advance; Joly's office says she had no part in negotiating it.[^1] Poilievre says this justifies removing her.[^1]",
+  "differences": "Joly says Stellantis still owes \"hundreds of millions\" in subsidies; the company has offered to return far less.[^3] Poilievre says lobby records show the government was involved in the Roshel sale.[^4]",
   "reads": [
     {
-      "title": "Industry minister terminates resolution talks with Stellantis over Brampton auto plant sale",
-      "outlet": "CBC (via Yahoo News Canada)",
-      "url": "https://ca.news.yahoo.com/industry-minister-terminates-resolution-talks-210000336.html",
+      "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
+      "outlet": "CP24",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
       "kind": "news",
-      "summary": "What the 2022 subsidy deal promised, what default means, and what happens to the laid-off Brampton workers."
+      "summary": "What the OSAP bill would change at private colleges, what the audit found, and why OSAP payments to private schools are paused."
+    },
+    {
+      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+      "outlet": "The Canadian Press (via The Chronicle-Journal)",
+      "url": "https://www.chroniclejournal.com/news/national/canada-philippines-conclude-negotiations-for-free-trade-agreement-aiming-for-2027/article_44d2d895-14a5-55bf-878e-1d541fd0ee69.html",
+      "kind": "news",
+      "summary": "What the Philippines deal covers, the pork dispute, and how it fits Carney's plan to sell more to countries other than the US."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "CBC (via Yahoo News Canada)",
-      "title": "Industry minister terminates resolution talks with Stellantis over Brampton auto plant sale",
-      "url": "https://ca.news.yahoo.com/industry-minister-terminates-resolution-talks-210000336.html",
-      "date": "2026-11-12",
+      "outlet": "The Canadian Press (via The Chronicle-Journal)",
+      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+      "url": "https://www.chroniclejournal.com/news/national/canada-philippines-conclude-negotiations-for-free-trade-agreement-aiming-for-2027/article_44d2d895-14a5-55bf-878e-1d541fd0ee69.html",
+      "date": "2026-11-13",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CP24",
-      "title": "Premier Ford offers few words following Stellantis meeting over Brampton Assembly plant sale",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/13/premier-ford-offers-few-words-following-stellantis-meeting-over-brampton-assembly-plant-sale/",
-      "date": "2026-11-12",
+      "outlet": "AP (via WSLS)",
+      "title": "Canada's Carney reports progress in trade talks with Trump as he expands ties with Asia",
+      "url": "https://www.wsls.com/business/2026/11/14/canadas-carney-reports-progress-in-trade-talks-with-trump-as-he-expands-ties-with-asia/",
+      "date": "2026-11-14",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Canadian Press (via Yahoo News Canada)",
-      "title": "In the news today: Microsoft outage, plane loses wheel, Carney heads to Manila",
-      "url": "https://ca.news.yahoo.com/news-today-microsoft-outage-plane-093047300.html",
+      "outlet": "CBC (via Yahoo News Canada)",
+      "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
+      "url": "https://ca.news.yahoo.com/feds-ontario-offering-stellantis-aggressive-180427571.html",
+      "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "CTV News",
+      "title": "Lobby records show high-level meetings with government officials and Stellantis, Roshel ahead of sale announcement",
+      "url": "https://ctvnews.ca/politics/article/lobby-records-show-high-level-meetings-with-government-officials-and-stellantis-roshel-ahead-of-sale-announcement",
+      "date": "2026-11-12",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "CP24",
+      "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
+      "date": "2026-11-12",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/13/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/",
       "date": "2026-11-13",
       "singleSource": false
     }
