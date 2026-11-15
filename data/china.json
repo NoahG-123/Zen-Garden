@@ -1,62 +1,77 @@
 {
-  "date": "2026-11-14",
-  "summary": "Singles' Day sales grow just 4.8% as shoppers buy AI gadgets, chipmaker SMIC posts record revenue, and Shenzhen prepares to host Trump, Xi and Putin.",
-  "body": [
-    "China's Singles' Day shopping festival, the world's biggest, grew slowly this year. Data firm Syntun estimates sales of 1.78 trillion yuan (about US$267 billion) between Oct 7 and Nov 11, up 4.8%, compared with 14.2% growth last year; the big platforms no longer publish their own totals.[^1] AP notes that retail sales grew only 1.1% in the first nine months of the year, home prices are about 20% below their 2021 peak, and youth unemployment is around 18%.[^2]",
-    "What people bought is telling. JD.com sold more than 50 million AI-related products, sales of AI PCs, cameras and glasses more than doubled, and sales of \"token packages\" (prepaid use of AI models) rose more than tenfold.[^1] My read: AI is becoming an everyday purchase in China even while families stay careful with big spending.",
-    "On the supply side, SMIC, China's largest chipmaker, reported record quarterly revenue of about $3.2 billion, up 34%, with its factories running at about 97% of capacity, and expects 2026 revenue above $12 billion; its co-CEO credits AI demand and China's push to make its own chips.[^3] That push may matter more after Nvidia's CEO resigned this week amid a spy scandal: IDC data cited by Rest of World show Huawei already had 28% of China's AI-chip shipments in the first half of 2026, against Nvidia's 34%.[^4]",
-    "Shenzhen, China's tech hub, will also host Presidents Trump, Xi and Putin for their first three-way meeting next week at the APEC summit; US officials say they do not expect an agreement.[^5]"
-  ],
-  "differences": null,
-  "reads": [
-    {
-      "title": "China's Singles' Day shopping festival struggles to shake off weak consumer spending",
-      "outlet": "AP (via CP24)",
-      "url": "https://www.cp24.com/news/world/2026/11/11/chinas-singles-day-shopping-festival-struggles-to-shake-off-weak-consumer-spending/",
-      "kind": "news",
-      "summary": "Why Chinese shoppers are holding back, with the numbers on retail sales, home prices and youth jobs behind the slow festival."
-    }
-  ],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "Reuters (via WHBL)",
-      "title": "China's Singles Day sales rise 4.8% to $1.78 trillion; AI takes larger role",
-      "url": "https://whbl.com/2026/11/12/chinas-singles-day-sales-rise-4-8-to-1-78-trillion-ai-takes-larger-role/",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "AP (via CP24)",
-      "title": "China's Singles' Day shopping festival struggles to shake off weak consumer spending",
-      "url": "https://www.cp24.com/news/world/2026/11/11/chinas-singles-day-shopping-festival-struggles-to-shake-off-weak-consumer-spending/",
-      "date": "2026-11-11",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "investingLive",
-      "title": "SMIC co-CEO sees 2026 revenue topping $12 billion as AI demand stretches chip upcycle",
-      "url": "https://investinglive.com/stocks/smic-co-ceo-sees-2026-revenue-topping-12-billion-as-ai-demand-stretches-chip-upcycle/",
-      "date": "2026-11-13",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Rest of World",
-      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
-      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
-      "date": "2026-11-13",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Al Jazeera",
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
-      "date": "2026-11-14",
-      "singleSource": false
-    }
-  ]
+ "date": "2026-11-15",
+ "summary": "Shanghai fires gene-editing researchers after a child's death in a trial, a study suggests banned Nvidia chips trained top Chinese AI models, and Shenzhen locks down for APEC.",
+ "body": [
+  "Shanghai has dismissed two lead researchers at Shanghai Jiao Tong University's medical school and barred them from state science funding for five years, after a 6-year-old girl died in a first-of-its-kind trial that edited genes in the brain.[^1][^2] According to Chinese state media, citing a Shanghai task force, investigators found the team ignored warning signs from an animal safety study, left the death out of a published paper, and used a consent form that did not make the risk of death clear; they found no fabricated data.[^1] Shanghai is now inspecting other experimental gene and cell therapy trials, part of a national tightening that began in May.[^1]",
+  "In AI, a former OpenAI researcher who examined the published model files of DeepSeek, Moonshot and others found traces suggesting that DeepSeek V4 and Moonshot's Kimi K3 were trained on Nvidia Blackwell chips, which the US bans from export to China.[^3] TechCrunch notes this does not prove the law was broken, since training could have happened abroad, for example in Malaysia. Research group Epoch AI estimates about 2 million advanced chips reached China in 2024-25 through schemes that hid where they were going.[^3]",
+  "Daily life in Shenzhen, China's tech hub, is shaped this week by the APEC summit (leaders meet Nov 18-19). Drones are banned citywide until Nov 21, cars from outside the city are restricted in six districts from Nov 17, and police from across Guangdong have been drafted in; some residents told Radio Free Asia the security queues feel wasteful.[^4][^5] China's October data on retail sales, factory output and home prices comes out on Monday; forecasters expect retail sales growth to slow to about 0.8%.[^6][^7]"
+ ],
+ "differences": null,
+ "reads": [
+  {
+   "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "kind": "analysis",
+   "summary": "How researchers read clues in open AI models, what they suggest about banned chips in China, and the limits of that evidence."
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "outlet": "Bloomberg (via The Star)",
+   "title": "China fires researchers after child dies in gene-editing trial",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/china-fires-researchers-after-child-dies-in-gene-editing-trial",
+   "date": "2026-11-14",
+   "singleSource": false
+  },
+  {
+   "id": 2,
+   "outlet": "Caixin Global",
+   "title": "Shanghai Fires Gene-Editing Researcher After Child's Death",
+   "url": "https://www.caixinglobal.com/2026-11-14/shanghai-fires-gene-editing-researcher-after-childs-death-102504707.html",
+   "date": "2026-11-14",
+   "singleSource": false
+  },
+  {
+   "id": 3,
+   "outlet": "TechCrunch",
+   "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "date": "2026-11-13",
+   "singleSource": true
+  },
+  {
+   "id": 4,
+   "outlet": "Latin Times",
+   "title": "China Prepares to Welcome the World: Inside Shenzhen's Final Countdown to APEC of This Year",
+   "url": "https://www.latintimes.com/shenzhen-apec-summit-xi-trump-putin-security-601294",
+   "date": "2026-11-14",
+   "singleSource": false
+  },
+  {
+   "id": 5,
+   "outlet": "Chinascope (summarising Radio Free Asia)",
+   "title": "Shenzhen Tightens Security Ahead of APEC Summit as Residents Voice Frustration",
+   "url": "https://chinascope.org/archives/41563",
+   "date": "2026-11-05",
+   "singleSource": true
+  },
+  {
+   "id": 6,
+   "outlet": "Lundgreen's Investor Insights",
+   "title": "Next Week in China: 16-20 November 2026",
+   "url": "https://www.lundgreensinvestorinsights.com/next-week-in-china-16-20-november-2026/",
+   "date": "2026-11-13",
+   "singleSource": false
+  },
+  {
+   "id": 7,
+   "outlet": "Newsquawk",
+   "title": "Week in Focus – 16-20th November 2026",
+   "url": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs",
+   "date": "2026-11-13",
+   "singleSource": false
+  }
+ ]
 }

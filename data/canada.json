@@ -1,76 +1,69 @@
 {
-  "date": "2026-11-14",
-  "summary": "Carney concludes free-trade talks with the Philippines and says a US deal is possible but not there yet, while Ontario moves to tighten OSAP at private colleges.",
-  "body": [
-    "In Manila for the ASEAN summit, Prime Minister Mark Carney and Philippine President Ferdinand Marcos Jr. concluded free-trade negotiations; formal signing is expected in 2027.[^1] Ottawa says the deal could triple Canadian exports to the Philippines by 2035, and talks with the ASEAN bloc as a whole are essentially finished too.[^1][^2] On the United States, Carney said after a long call with President Trump: \"We are making progress... But we're not yet there,\" adding that Canada will not accept terms that hurt its auto industry.[^2]",
-    "On Brampton, Industry Minister Mélanie Joly said Ottawa and Ontario have offered Stellantis an \"aggressive package\" to stop the sale of its idle plant to Roshel, and will pitch the carmaker's global CEO together with Unifor.[^3] The two sides still disagree on how much subsidy money Stellantis must return; CBC confirmed Ottawa paid the company $222 million in 2023-25.[^3] CTV reports lobby records showing aides to Joly and to the prime minister met Roshel before the sale was announced, which Conservative Leader Pierre Poilievre says shows the government was involved.[^4]",
-    "Closer to home for students: Ontario will table a bill on Nov 16 to tighten OSAP, the province's student aid, at private career colleges. It would cap OSAP-funded growth, make mostly online programs ineligible and make schools liable for students' loans, after an audit found courses finished in a day and thousands of applications from the same internet addresses.[^5] One GTA college's OSAP users rose from 562 to 17,157 in three years.[^6] The NDP and Liberals say the bill comes too late.[^5][^6]"
-  ],
-  "differences": "Joly says Stellantis still owes \"hundreds of millions\" in subsidies; the company has offered to return far less.[^3] Poilievre says lobby records show the government was involved in the Roshel sale.[^4]",
-  "reads": [
-    {
-      "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
-      "outlet": "CP24",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
-      "kind": "news",
-      "summary": "What the OSAP bill would change at private colleges, what the audit found, and why OSAP payments to private schools are paused."
-    },
-    {
-      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
-      "outlet": "The Canadian Press (via The Chronicle-Journal)",
-      "url": "https://www.chroniclejournal.com/news/national/canada-philippines-conclude-negotiations-for-free-trade-agreement-aiming-for-2027/article_44d2d895-14a5-55bf-878e-1d541fd0ee69.html",
-      "kind": "news",
-      "summary": "What the Philippines deal covers, the pork dispute, and how it fits Carney's plan to sell more to countries other than the US."
-    }
-  ],
-  "sources": [
-    {
-      "id": 1,
-      "outlet": "The Canadian Press (via The Chronicle-Journal)",
-      "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
-      "url": "https://www.chroniclejournal.com/news/national/canada-philippines-conclude-negotiations-for-free-trade-agreement-aiming-for-2027/article_44d2d895-14a5-55bf-878e-1d541fd0ee69.html",
-      "date": "2026-11-13",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "AP (via WSLS)",
-      "title": "Canada's Carney reports progress in trade talks with Trump as he expands ties with Asia",
-      "url": "https://www.wsls.com/business/2026/11/14/canadas-carney-reports-progress-in-trade-talks-with-trump-as-he-expands-ties-with-asia/",
-      "date": "2026-11-14",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "CBC (via Yahoo News Canada)",
-      "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
-      "url": "https://ca.news.yahoo.com/feds-ontario-offering-stellantis-aggressive-180427571.html",
-      "date": "2026-11-13",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "CTV News",
-      "title": "Lobby records show high-level meetings with government officials and Stellantis, Roshel ahead of sale announcement",
-      "url": "https://ctvnews.ca/politics/article/lobby-records-show-high-level-meetings-with-government-officials-and-stellantis-roshel-ahead-of-sale-announcement",
-      "date": "2026-11-12",
-      "singleSource": true
-    },
-    {
-      "id": 5,
-      "outlet": "CP24",
-      "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
-      "date": "2026-11-12",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/13/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/",
-      "date": "2026-11-13",
-      "singleSource": false
-    }
-  ]
+ "date": "2026-11-15",
+ "summary": "A quieter weekend: Carney draws a line on autos in US trade talks, Stelco recalls 175 Hamilton steelworkers, and former Liberal ministers say Canada will miss its 2030 climate target.",
+ "body": [
+  "Wrapping up the ASEAN summit in Manila, Prime Minister Mark Carney said trade talks with the US are progressing, but \"this government will not settle for a deal with the United States that is not consistent with a viable Canadian auto sector.\"[^1] He also said Ottawa is \"not satisfied in any way\" with Stellantis's \"partial approach\" after it sold its Brampton plant to Roshel.[^1] Carney announced $540 million for a rainforest protection fund co-led by Brazil and Norway, drawn from Canada's existing climate-finance pledge, and has moved on to the Francophonie summit in Cambodia before APEC in China later this week.[^2]",
+  "In Hamilton, Stelco's US owner Cleveland-Cliffs will recall 175 laid-off steelworkers on Dec. 1 and repay their lost wages.[^3] Industry Minister Mélanie Joly had said the layoffs broke promises the company made when Ottawa approved its 2024 takeover, and had warned she could seek a court-ordered sale; the company denies breaking its commitments. The local union president said government pressure worked, but \"we didn't need to get to this point.\"[^3]",
+  "At COP31, Environment Minister Julie Dabrusin said Canada is \"absolutely committed\" to its target of cutting emissions 40 to 45% below 2005 levels by 2030. Emissions were about 10% below 2005 in 2024, and the federal environment commissioner projects a 28% cut by 2030 after policies such as the consumer carbon price were dropped. Two former Liberal environment ministers, Catherine McKenna and Steven Guilbeault, called her claim untrue; her office calls the government's approach \"pragmatic and durable.\"[^4]",
+  "For students: Ontario's bill to tighten OSAP at private career colleges is due to be tabled on Monday, Nov 16.[^5]"
+ ],
+ "differences": "Former ministers McKenna and Guilbeault say Canada has no chance of meeting its 2030 climate target; Dabrusin says Canada is a leader, pointing to methane cuts and climate finance.[^4] Joly says Cleveland-Cliffs broke its takeover commitments; the company denies it.[^3]",
+ "reads": [
+  {
+   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "url": "https://meadowlakenow.com/2026/11/14/carney-says-canada-will-only-sign-a-u-s-trade-deal-that-includes-viable-auto-sector/",
+   "kind": "news",
+   "summary": "What Carney said about autos, Stellantis and Chinese car investment as Canada-US trade talks continue."
+  },
+  {
+   "title": "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "url": "https://meadowlakenow.com/2026/11/14/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets/",
+   "kind": "news",
+   "summary": "Why former Liberal ministers and the environment commissioner doubt Canada's 2030 climate target, and how the minister responds."
+  }
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
+   "url": "https://meadowlakenow.com/2026/11/14/carney-says-canada-will-only-sign-a-u-s-trade-deal-that-includes-viable-auto-sector/",
+   "date": "2026-11-14",
+   "singleSource": false
+  },
+  {
+   "id": 2,
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "title": "Carney caps off ASEAN summit with focus on trade deals, heads to Francophonie",
+   "url": "https://meadowlakenow.com/2026/11/14/carney-to-cap-off-asean-summit-with-focus-on-trade-deals-ahead-of-francophonie/",
+   "date": "2026-11-14",
+   "singleSource": false
+  },
+  {
+   "id": 3,
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+   "url": "https://meadowlakenow.com/2026/11/13/cp-newsalert-stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1/",
+   "date": "2026-11-13",
+   "singleSource": true
+  },
+  {
+   "id": 4,
+   "outlet": "The Canadian Press (via meadowlakeNOW)",
+   "title": "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
+   "url": "https://meadowlakenow.com/2026/11/14/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets/",
+   "date": "2026-11-14",
+   "singleSource": true
+  },
+  {
+   "id": 5,
+   "outlet": "CP24",
+   "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
+   "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
+   "date": "2026-11-12",
+   "singleSource": false
+  }
+ ]
 }

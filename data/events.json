@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-14",
+  "reviewed": "2026-11-15",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Trump said on Nov 12 the US does not \"need a deal with Iran\" and took Vice-President Vance off the talks.[^236] On Nov 13 Iran's Revolutionary Guards claimed a strike on a US radar in Bahrain; US Central Command says it downed two drones with no damage.[^237] An IAEA report says it cannot confirm Iran has not diverted nuclear material, and its board meets next week.[^238]",
+      "standing": "Iran's Revolutionary Guards claimed a second drone strike on a US radar in Bahrain on Nov 15; Bahrain says it repelled several attacks, and the US denied damage from the Nov 13 claim.[^248][^237] Iran says tankers on unapproved routes hit mines near Hormuz.[^249] Tehran says it sent seven conditions via Qatar and awaits a US reply.[^248]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -16,7 +16,7 @@
       "watch": [
         {
           "date": "2026-11-16",
-          "what": "Week of Nov 16: IAEA board discusses its new report on Iran's nuclear material"
+          "what": "Week of Nov 16: IAEA board discusses its report on Iran's nuclear material and a new enrichment site"
         },
         {
           "date": "2026-11-19",
@@ -182,7 +182,9 @@
         231,
         236,
         237,
-        238
+        238,
+        248,
+        249
       ]
     },
     {
@@ -191,7 +193,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "EU leaders agreed on Nov 13 that the UK, France, Germany, Italy and Poland, with EU institutions, will represent Europe at the next round of US-led talks; the Kremlin says Europe must first show it is ready.[^239] Russia still demands all of Donbas, which Kyiv refuses.[^229] Trump, Xi and Putin plan a three-way meeting in Shenzhen next week; US officials say Ukraine is not the focus.[^240]",
+      "standing": "Zelenskyy says US negotiators floated Ukraine leaving Donbas in exchange for NATO membership; he says Kyiv will not give up land and any deal would go to a referendum.[^250] Europe's five-country team is set for the next round in Abu Dhabi.[^239] Trump, Xi and Putin meet in Shenzhen on Nov 19; US officials say Ukraine is not on the agenda.[^251]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -200,7 +202,7 @@
       "watch": [
         {
           "date": "2026-11-19",
-          "what": "Trump-Xi-Putin meeting in Shenzhen, and a Coalition of the Willing summit in Berlin"
+          "what": "Trump-Xi-Putin meeting in Shenzhen; next US-led round in Abu Dhabi expected the same week"
         },
         {
           "date": "2026-11-26",
@@ -353,7 +355,9 @@
         225,
         229,
         239,
-        240
+        240,
+        250,
+        251
       ]
     },
     {
@@ -362,7 +366,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Eisenkot's bloc has 48 of the 61 seats needed; Israel's Channel 12 reports he now prefers talks with the ultra-Orthodox parties over Arab-led parties.[^242] On Nov 13, 53 countries and groups urged Israel to let more winter shelter and fuel into Gaza; Israel says over 93,000 tents have entered.[^241] Gaza's health ministry says 1,610 people have died since the truce began.[^213]",
+      "standing": "Israel says it killed Hamas's Rafah brigade commander in a Nov 14 strike on a tent camp; Gaza's health ministry says at least 1,643 people have died since the truce began.[^252] Eisenkot's bloc has 48 seats and is courting the ultra-Orthodox UTJ, which would still leave it six short of a majority.[^253]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -508,7 +512,9 @@
         213,
         219,
         241,
-        242
+        242,
+        252,
+        253
       ]
     },
     {
@@ -517,7 +523,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3, and AP projected Democrat Scott Colom the winner of Mississippi's Senate race on Nov 11.[^245] October jobs rose 165,000.[^194] Markets put about 89% odds on a Fed rate hike on Dec 9; Treasury Secretary Bessent urged the Fed to treat oil as an energy shock.[^244] Trump threatens to double tariffs on Mexico over a migrant caravan.[^246] Government funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3. In Alaska, Democrat Peltola leads Senator Sullivan 49.8% to 46.1% with 96% counted.[^254] After hot October inflation data, markets put about 89% odds on a Fed rate hike on Dec 9.[^255] Gasoline fell to $3.84 a gallon, 50 cents below a month ago.[^256] Government funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -526,7 +532,7 @@
       "watch": [
         {
           "date": "2026-11-18",
-          "what": "Alaska's ranked-choice Senate count can begin; the race is still uncalled"
+          "what": "Alaska count deadline; a ranked-choice count follows if no Senate candidate tops 50%"
         },
         {
           "date": "2026-12-09",
@@ -671,7 +677,10 @@
         227,
         244,
         245,
-        246
+        246,
+        254,
+        255,
+        256
       ]
     },
     {
@@ -680,7 +689,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Jensen Huang resigned as Nvidia CEO on Nov 12; CFO Colette Kress is interim CEO.[^232] The Senate Banking Committee wants Huang to testify on Dec 3 and Commerce Secretary Lutnick on Dec 10 about AI chips reaching China, and Nvidia's value fell below $4 trillion.[^243][^247] Anthropic's IPO, at up to about $1.4 trillion, is expected around Nov 19.[^228]",
+      "standing": "Jensen Huang resigned as Nvidia CEO on Nov 12; interim CEO Colette Kress reports results on Nov 17.[^232] Anthropic's IPO was about six times oversubscribed, with pricing due Nov 18.[^257] An analysis of open model files suggests top Chinese AI models were trained on banned Nvidia chips.[^258] The Senate wants Huang and Lutnick to testify in December.[^243]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -692,12 +701,8 @@
           "what": "Nvidia quarterly results, the first under interim CEO Colette Kress"
         },
         {
-          "date": "2026-11-18",
-          "what": "Bessent meets Xi in Shenzhen; US-China AI dialogue due to launch"
-        },
-        {
           "date": "2026-11-19",
-          "what": "Anthropic shares expected to start trading on Nasdaq"
+          "what": "Anthropic shares expected to start trading on Nasdaq after pricing on Nov 18"
         },
         {
           "date": "2026-12-02",
@@ -865,11 +870,17 @@
         234,
         235,
         243,
-        247
+        247,
+        257,
+        258
       ]
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-15",
+      "text": "Weekly review: all five events kept, with no status changes. Congo's Ebola outbreak (over 11,000 cases in 8 provinces and 3 other countries, AP says out of control) was re-tested; it stays in the World brief and will be re-tested next week.[^259]"
+    },
     {
       "date": "2026-11-08",
       "text": "Weekly review: all five events kept, with no status changes. Congo's Ebola outbreak (10,668 cases, 5,198 deaths; new vaccines entering a trial) was re-tested; WHO rates global risk low, so it stays in the World brief and will be re-tested next week.[^207]"
@@ -2870,6 +2881,102 @@
       "title": "US Senate summons Nvidia's Huang, Lutnick to testify",
       "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate",
       "date": "2026-11-13",
+      "singleSource": false
+    },
+    {
+      "id": 248,
+      "outlet": "Al Jazeera",
+      "title": "Iran says it targets US radar in Bahrain. What do we know?",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 249,
+      "outlet": "Türkiye Today",
+      "title": "Iran says 2 oil tankers hit sea mines, catch fire near Strait of Hormuz",
+      "url": "https://www.turkiyetoday.com/region/iran-says-2-oil-tankers-hit-sea-mines-catch-fire-near-strait-of-hormuz-3232412",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 250,
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
+      "url": "https://www.yahoo.com/news/us/articles/us-floated-idea-ukraine-ceding-122531169.html",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 251,
+      "outlet": "AP (via WSVN)",
+      "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
+      "url": "https://wsvn.com/news/us-world/trump-xi-putin-shenzhen-summit/",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 252,
+      "outlet": "Al Jazeera",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 253,
+      "outlet": "The Jerusalem Post",
+      "title": "Coalition talks at a crossroads as Eisenkot, Netanyahu battle for haredi parties",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914903",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 254,
+      "outlet": "Newsmax (via Yahoo News)",
+      "title": "Peltola Nears Alaska Senate Win, Dems Eye 56th Seat",
+      "url": "https://www.yahoo.com/news/politics/articles/peltola-nears-alaska-senate-win-152927271.html",
+      "date": "2026-11-14",
+      "singleSource": true
+    },
+    {
+      "id": 255,
+      "outlet": "Bitcoin.com News",
+      "title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
+      "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 256,
+      "outlet": "MLive (via Yahoo Finance)",
+      "title": "Gas prices for 11/14/26: National average down nearly 50 cents in last month",
+      "url": "https://finance.yahoo.com/energy/articles/gas-prices-11-14-26-151340042.html",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 257,
+      "outlet": "Reuters (via Business Day)",
+      "title": "Investors flock to Anthropic IPO but question durability of AI lead",
+      "url": "https://www.businessday.co.za/companies/2026-11-14-investors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead/",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 258,
+      "outlet": "TechCrunch",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "date": "2026-11-13",
+      "singleSource": true
+    },
+    {
+      "id": 259,
+      "outlet": "AP (via ClickOnDetroit)",
+      "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+      "url": "https://www.clickondetroit.com/health/2026/11/15/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response/",
+      "date": "2026-11-15",
       "singleSource": false
     }
   ]
