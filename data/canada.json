@@ -1,68 +1,67 @@
 {
- "date": "2026-11-15",
- "summary": "A quieter weekend: Carney draws a line on autos in US trade talks, Stelco recalls 175 Hamilton steelworkers, and former Liberal ministers say Canada will miss its 2030 climate target.",
+ "date": "2026-11-16",
+ "summary": "Carney heads to China to meet Xi, saying Canada could turn to Chinese carmakers if US talks fail, as exports to China jump and October inflation data lands today.",
  "body": [
-  "Wrapping up the ASEAN summit in Manila, Prime Minister Mark Carney said trade talks with the US are progressing, but \"this government will not settle for a deal with the United States that is not consistent with a viable Canadian auto sector.\"[^1] He also said Ottawa is \"not satisfied in any way\" with Stellantis's \"partial approach\" after it sold its Brampton plant to Roshel.[^1] Carney announced $540 million for a rainforest protection fund co-led by Brazil and Norway, drawn from Canada's existing climate-finance pledge, and has moved on to the Francophonie summit in Cambodia before APEC in China later this week.[^2]",
-  "In Hamilton, Stelco's US owner Cleveland-Cliffs will recall 175 laid-off steelworkers on Dec. 1 and repay their lost wages.[^3] Industry Minister Mélanie Joly had said the layoffs broke promises the company made when Ottawa approved its 2024 takeover, and had warned she could seek a court-ordered sale; the company denies breaking its commitments. The local union president said government pressure worked, but \"we didn't need to get to this point.\"[^3]",
-  "At COP31, Environment Minister Julie Dabrusin said Canada is \"absolutely committed\" to its target of cutting emissions 40 to 45% below 2005 levels by 2030. Emissions were about 10% below 2005 in 2024, and the federal environment commissioner projects a 28% cut by 2030 after policies such as the consumer carbon price were dropped. Two former Liberal environment ministers, Catherine McKenna and Steven Guilbeault, called her claim untrue; her office calls the government's approach \"pragmatic and durable.\"[^4]",
-  "For students: Ontario's bill to tighten OSAP at private career colleges is due to be tabled on Monday, Nov 16.[^5]"
+  "Speaking in Cambodia, Prime Minister Mark Carney said a trade deal with the US is still his priority, but that its outcome could lead Canada to seek carmakers from Europe, China or Japan: \"It's not leverage. But action, reaction.\"[^1] Any Chinese investment would have to include real manufacturing, he said, \"not just about kit cars.\"[^1] Since January, Canada has let in up to 49,000 Chinese electric vehicles a year at a 6.1% tariff, a deal Ontario Premier Doug Ford has criticised.[^1] Carney meets Xi Jinping in Shenzhen on Tuesday morning China time, which is late Monday evening in Ontario, before the APEC summit.[^2]",
+  "The trade numbers explain the interest. Statistics Canada figures show exports to China reached $33.5 billion in the first nine months of 2026, up almost 40%, led by canola, beef, peas and crude oil, while imports from China were about flat at $68.8 billion.[^3] The trade minister's office aims to raise exports to China 50% by 2030; one analyst warns that depending on China \"opens us up to leverage and potential coercion.\"[^3] At the Francophonie summit, Carney also met Quebec Premier Paul St-Pierre Plamondon for the first time since Quebec elected a sovereigntist government; they agreed to hold regular talks.[^4]",
+  "At home, Statistics Canada releases October inflation at 8:30 a.m. today. Economists polled by Reuters expect 3.2%, up from 3.1%, well above the Bank of Canada's 2% target.[^5] The Bank raised its rate to 2.5% on Oct. 28 and decides again on Dec. 9; economists disagree on whether businesses will pass higher costs on to shoppers.[^5] For students, this affects prices for food, transit and part-time wages' buying power."
  ],
- "differences": "Former ministers McKenna and Guilbeault say Canada has no chance of meeting its 2030 climate target; Dabrusin says Canada is a leader, pointing to methane cuts and climate finance.[^4] Joly says Cleveland-Cliffs broke its takeover commitments; the company denies it.[^3]",
+ "differences": "Ottawa sees more trade with China as a way to rely less on the US; critics, including Doug Ford on the EV deal and analyst Vina Nadjibulla, warn it creates new risks.[^1][^3] Desjardins expects inflation to stay high as costs are passed on, while CIBC says profit margins will absorb much of it.[^5]",
  "reads": [
   {
-   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "url": "https://meadowlakenow.com/2026/11/14/carney-says-canada-will-only-sign-a-u-s-trade-deal-that-includes-viable-auto-sector/",
+   "title": "Canada's exports to China up almost 40 per cent since last year",
+   "outlet": "The Canadian Press (via Penticton Herald)",
+   "url": "https://www.pentictonherald.ca/news/national_news/article_24e8110e-c2e9-583d-8f22-4b1532454646.html",
    "kind": "news",
-   "summary": "What Carney said about autos, Stellantis and Chinese car investment as Canada-US trade talks continue."
+   "summary": "What Canada sells to China, how fast it is growing, and why some experts worry about depending on it."
   },
   {
-   "title": "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "url": "https://meadowlakenow.com/2026/11/14/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets/",
+   "title": "Inflation expected to stay high as economists weigh risk of broadening price hikes",
+   "outlet": "The Canadian Press (via CP24)",
+   "url": "https://www.cp24.com/news/money/2026/11/13/inflation-expected-to-stay-high-as-economists-weigh-risk-of-broadening-price-hikes/",
    "kind": "news",
-   "summary": "Why former Liberal ministers and the environment commissioner doubt Canada's 2030 climate target, and how the minister responds."
+   "summary": "Why economists expect inflation to stay above 3%, and how they disagree about what comes next for prices and interest rates."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
-   "url": "https://meadowlakenow.com/2026/11/14/carney-says-canada-will-only-sign-a-u-s-trade-deal-that-includes-viable-auto-sector/",
-   "date": "2026-11-14",
+   "outlet": "Euronews",
+   "title": "Canada ready to turn to Chinese carmakers if US trade talks fail to protect auto sector, PM Carney says",
+   "url": "https://www.euronews.com/2026/11/16/canada-ready-to-turn-to-chinese-carmakers-if-us-trade-talks-fail-to-protect-auto-sector-pm",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 2,
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "title": "Carney caps off ASEAN summit with focus on trade deals, heads to Francophonie",
-   "url": "https://meadowlakenow.com/2026/11/14/carney-to-cap-off-asean-summit-with-focus-on-trade-deals-ahead-of-francophonie/",
-   "date": "2026-11-14",
+   "outlet": "The Canadian Press (via Yahoo News)",
+   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
+   "url": "https://ca.news.yahoo.com/news-today-carney-meet-xi-092513669.html",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
-   "url": "https://meadowlakenow.com/2026/11/13/cp-newsalert-stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1/",
-   "date": "2026-11-13",
-   "singleSource": true
+   "outlet": "The Canadian Press (via Penticton Herald)",
+   "title": "Canada's exports to China up almost 40 per cent since last year",
+   "url": "https://www.pentictonherald.ca/news/national_news/article_24e8110e-c2e9-583d-8f22-4b1532454646.html",
+   "date": "2026-11-16",
+   "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "The Canadian Press (via meadowlakeNOW)",
-   "title": "Former environment ministers accuse Dabrusin of lying about meeting climate targets",
-   "url": "https://meadowlakenow.com/2026/11/14/former-environment-ministers-accuse-dabrusin-of-lying-about-meeting-climate-targets/",
-   "date": "2026-11-14",
-   "singleSource": true
+   "outlet": "The Canadian Press (via Chronicle-Journal)",
+   "title": "Carney takes his investment pitch to Francophonie summit in Cambodia",
+   "url": "https://www.chroniclejournal.com/news/national/carney-takes-his-investment-pitch-to-francophonie-summit-in-cambodia/article_711000dd-3566-54bd-8c84-0551eb441217.html",
+   "date": "2026-11-15",
+   "singleSource": false
   },
   {
    "id": 5,
-   "outlet": "CP24",
-   "title": "Ontario proposes OSAP changes after 'systematic and widespread' problems at private career colleges",
-   "url": "https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/",
-   "date": "2026-11-12",
+   "outlet": "The Canadian Press (via CP24)",
+   "title": "Inflation expected to stay high as economists weigh risk of broadening price hikes",
+   "url": "https://www.cp24.com/news/money/2026/11/13/inflation-expected-to-stay-high-as-economists-weigh-risk-of-broadening-price-hikes/",
+   "date": "2026-11-13",
    "singleSource": false
   }
  ]

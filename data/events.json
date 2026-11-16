@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-15",
+  "reviewed": "2026-11-16",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's Revolutionary Guards claimed a second drone strike on a US radar in Bahrain on Nov 15; Bahrain says it repelled several attacks, and the US denied damage from the Nov 13 claim.[^248][^237] Iran says tankers on unapproved routes hit mines near Hormuz.[^249] Tehran says it sent seven conditions via Qatar and awaits a US reply.[^248]",
+      "standing": "Gulf states condemned Iran's Nov 15 drone attack on Bahrain, which Bahrain says it fully stopped; the IRGC claims hits and six ships sunk, all unverified.[^260][^261] A third US carrier arrived.[^261] The IAEA says it cannot verify where Iran's highly enriched uranium is.[^262] Araghchi goes to Muscat on Nov 17.[^260]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -15,12 +15,16 @@
       },
       "watch": [
         {
-          "date": "2026-11-16",
-          "what": "Week of Nov 16: IAEA board discusses its report on Iran's nuclear material and a new enrichment site"
+          "date": "2026-11-17",
+          "what": "Iranian Foreign Minister Araghchi in Muscat, Oman, as Iran awaits a US reply to its seven conditions"
         },
         {
           "date": "2026-11-19",
           "what": "Trump-Xi-Putin meeting in Shenzhen; US says Iran and nuclear arms are the focus"
+        },
+        {
+          "date": "2026-11-20",
+          "what": "IAEA board in Vienna discusses its report on Iran's missing enriched uranium"
         },
         {
           "date": "2026-11-30",
@@ -193,7 +197,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Zelenskyy says US negotiators floated Ukraine leaving Donbas in exchange for NATO membership; he says Kyiv will not give up land and any deal would go to a referendum.[^250] Europe's five-country team is set for the next round in Abu Dhabi.[^239] Trump, Xi and Putin meet in Shenzhen on Nov 19; US officials say Ukraine is not on the agenda.[^251]",
+      "standing": "A Russian attack on Nov 15 cut power to about 41,000 households in Odesa Oblast; Ukraine says it hit an airfield and the Nizhnekamsk refinery in Russia.[^263] The Kremlin confirmed the Trump-Xi-Putin meeting in Shenzhen on Nov 19; US officials say Ukraine is not on the agenda.[^264] The Nov 10-11 Abu Dhabi round brought no breakthrough.[^265]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -202,7 +206,7 @@
       "watch": [
         {
           "date": "2026-11-19",
-          "what": "Trump-Xi-Putin meeting in Shenzhen; next US-led round in Abu Dhabi expected the same week"
+          "what": "Trump-Xi-Putin meeting in Shenzhen; no date yet for the next US-led round of talks"
         },
         {
           "date": "2026-11-26",
@@ -366,13 +370,17 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel says it killed Hamas's Rafah brigade commander in a Nov 14 strike on a tent camp; Gaza's health ministry says at least 1,643 people have died since the truce began.[^252] Eisenkot's bloc has 48 seats and is courting the ultra-Orthodox UTJ, which would still leave it six short of a majority.[^253]",
+      "standing": "Israel says it killed Hamas's Rafah brigade commander on Nov 15; Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267] Eisenkot's Yashar and Netanyahu's Likud held unity talks on Nov 15 with no progress; the Knesset votes on a new speaker on Nov 17.[^266]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
         "unlikely": "In the near term, either a full return to large-scale war or a quick political settlement on Palestinian statehood. Both remain conceivable, but neither side appears to be moving that way now."
       },
       "watch": [
+        {
+          "date": "2026-11-17",
+          "what": "Knesset vote on a new speaker, the first test of Eisenkot's camp against Netanyahu's"
+        },
         {
           "date": "2026-12-06",
           "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
@@ -523,7 +531,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3. In Alaska, Democrat Peltola leads Senator Sullivan 49.8% to 46.1% with 96% counted.[^254] After hot October inflation data, markets put about 89% odds on a Fed rate hike on Dec 9.[^255] Gasoline fell to $3.84 a gallon, 50 cents below a month ago.[^256] Government funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3. In Alaska, Peltola leads Sullivan 49.9% to 46% with about 97% counted; ranked-choice counting is Nov 18.[^268] Markets put about 89% odds on a Fed hike on Dec 9.[^255] US and Chinese officials held a first trade council meeting before Trump and Xi meet on Nov 19.[^269] Funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -532,7 +540,7 @@
       "watch": [
         {
           "date": "2026-11-18",
-          "what": "Alaska count deadline; a ranked-choice count follows if no Senate candidate tops 50%"
+          "what": "Alaska ranked-choice count for the Senate race; state certification follows on Nov 25"
         },
         {
           "date": "2026-12-09",
@@ -689,7 +697,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Jensen Huang resigned as Nvidia CEO on Nov 12; interim CEO Colette Kress reports results on Nov 17.[^232] Anthropic's IPO was about six times oversubscribed, with pricing due Nov 18.[^257] An analysis of open model files suggests top Chinese AI models were trained on banned Nvidia chips.[^258] The Senate wants Huang and Lutnick to testify in December.[^243]",
+      "standing": "Nvidia reports on Nov 17 under interim CEO Colette Kress; the FT reports Jensen Huang is discussing a return.[^270] Anthropic plans to price its IPO on Nov 18 at $70-$78 a share, valuing it at up to $1.45 trillion.[^271] Analysts expect possible new US chip limits around the Trump-Xi meeting.[^272] The Senate wants Huang and Lutnick to testify in December.[^243]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
@@ -2977,6 +2985,110 @@
       "title": "Ebola outbreak remains out of control in Congo 6 months into response",
       "url": "https://www.clickondetroit.com/health/2026/11/15/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response/",
       "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 260,
+      "outlet": "The National",
+      "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
+      "id": 261,
+      "outlet": "The National",
+      "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
+      "id": 262,
+      "outlet": "Bloomberg (via News Tribune)",
+      "title": "Iran extends shutout of UN nuclear inspectors",
+      "url": "https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/",
+      "date": "2026-11-15",
+      "singleSource": true
+    },
+    {
+      "id": 263,
+      "outlet": "Kyiv Independent",
+      "title": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
+      "url": "https://kyivindependent.com/ukraine-war-latest-russia-launches-mass-attack-on-odesa-oblast-as-ukraine-strikes-airfield-drone-launch-site-in-russia/",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 264,
+      "outlet": "Hurriyet Daily News",
+      "title": "Moscow confirms Trump, Xi, Putin meeting in China",
+      "url": "https://www.hurriyetdailynews.com/moscow-confirms-trump-xi-putin-meeting-in-china-229413",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 265,
+      "outlet": "RFE/RL",
+      "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-drone-strikes-oil-refinery/33899022.html",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 266,
+      "outlet": "Times of Israel",
+      "title": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
+      "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 267,
+      "outlet": "RTÉ (Reuters)",
+      "title": "Senior Hamas commander killed in Israeli strike in Gaza",
+      "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 268,
+      "outlet": "Alaska Public Media",
+      "title": "Peltola leads in U.S. Senate race, nearing 50% mark with almost all ballots counted",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 269,
+      "outlet": "Investing.com (via Yahoo Finance)",
+      "title": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+      "url": "https://finance.yahoo.com/economy/policy/articles/china-u-discuss-tariff-cuts-092147009.html",
+      "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 270,
+      "outlet": "Fox Business",
+      "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans 'war room': report",
+      "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report",
+      "date": "2026-11-15",
+      "singleSource": true
+    },
+    {
+      "id": 271,
+      "outlet": "Yahoo Finance",
+      "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+      "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+      "date": "2026-11-15",
+      "singleSource": false
+    },
+    {
+      "id": 272,
+      "outlet": "Reuters (via Yahoo Finance)",
+      "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+      "url": "https://ca.finance.yahoo.com/news/chip-tensions-loom-over-trump-090000096.html",
+      "date": "2026-11-16",
       "singleSource": false
     }
   ]

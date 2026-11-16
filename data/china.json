@@ -1,76 +1,67 @@
 {
- "date": "2026-11-15",
- "summary": "Shanghai fires gene-editing researchers after a child's death in a trial, a study suggests banned Nvidia chips trained top Chinese AI models, and Shenzhen locks down for APEC.",
+ "date": "2026-11-16",
+ "summary": "October data show Chinese shoppers still holding back as home prices keep falling, while host city Shenzhen shows off robotaxis and chip tensions hang over the Trump-Xi meeting.",
  "body": [
-  "Shanghai has dismissed two lead researchers at Shanghai Jiao Tong University's medical school and barred them from state science funding for five years, after a 6-year-old girl died in a first-of-its-kind trial that edited genes in the brain.[^1][^2] According to Chinese state media, citing a Shanghai task force, investigators found the team ignored warning signs from an animal safety study, left the death out of a published paper, and used a consent form that did not make the risk of death clear; they found no fabricated data.[^1] Shanghai is now inspecting other experimental gene and cell therapy trials, part of a national tightening that began in May.[^1]",
-  "In AI, a former OpenAI researcher who examined the published model files of DeepSeek, Moonshot and others found traces suggesting that DeepSeek V4 and Moonshot's Kimi K3 were trained on Nvidia Blackwell chips, which the US bans from export to China.[^3] TechCrunch notes this does not prove the law was broken, since training could have happened abroad, for example in Malaysia. Research group Epoch AI estimates about 2 million advanced chips reached China in 2024-25 through schemes that hid where they were going.[^3]",
-  "Daily life in Shenzhen, China's tech hub, is shaped this week by the APEC summit (leaders meet Nov 18-19). Drones are banned citywide until Nov 21, cars from outside the city are restricted in six districts from Nov 17, and police from across Guangdong have been drafted in; some residents told Radio Free Asia the security queues feel wasteful.[^4][^5] China's October data on retail sales, factory output and home prices comes out on Monday; forecasters expect retail sales growth to slow to about 0.8%.[^6][^7]"
+  "China's October figures, released Monday, show an economy losing speed. Retail sales grew just 0.4% from a year earlier, below forecasts and down from 1.1% in September, even with a week-long national holiday; factory output rose 4.8%.[^1][^2] Investment in property fell 21.6% in the first ten months of the year, and the official urban jobless rate was 5.1%.[^1] The statistics bureau itself says \"the imbalance between strong supply and weak demand persists\": factories make more than people are buying.[^2] One ING economist says weak consumer confidence is the main obstacle.[^1]",
+  "Housing is a big reason. New home prices fell 0.1% in October from September and 2.4% from a year earlier, the smallest yearly drop in almost a year; Shanghai was the only major city where prices rose, while smaller cities stay in a long slump.[^3] For many families, an apartment is their main savings, so falling prices make them cautious about spending.",
+  "Shenzhen, the southern tech city hosting this week's APEC summit, shows the other side. The company Pony.ai runs about 2,000 driverless taxis across four cities; AP reporters rode 7.6 km for 12.7 yuan (about US$1.90).[^4] The city of over 18 million is home to Huawei, BYD, Tencent and robot makers.[^4] Chips may shadow the Trump-Xi meeting there on Thursday: analysts expect possible new US limits on advanced AI chips, while both governments say they will discuss a system for reporting serious AI accidents, which is not yet working.[^5]"
  ],
  "differences": null,
  "reads": [
   {
-   "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-   "outlet": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "kind": "analysis",
-   "summary": "How researchers read clues in open AI models, what they suggest about banned chips in China, and the limits of that evidence."
+   "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
+   "outlet": "AP (via KPRC Click2Houston)",
+   "url": "https://www.click2houston.com/business/2026/11/16/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions/",
+   "kind": "news",
+   "summary": "A reporter's ride in a Shenzhen robotaxi and a look at the companies that make the city China's tech showcase."
+  },
+  {
+   "title": "China's economy falters as factory output, retail sales undershoot expectations",
+   "outlet": "Reuters (via Yahoo News)",
+   "url": "https://malaysia.news.yahoo.com/chinas-factory-output-retail-sales-020559490.html",
+   "kind": "news",
+   "summary": "The October numbers on shopping, factories and investment, and why economists expect little new stimulus this year."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "Bloomberg (via The Star)",
-   "title": "China fires researchers after child dies in gene-editing trial",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/china-fires-researchers-after-child-dies-in-gene-editing-trial",
-   "date": "2026-11-14",
+   "outlet": "Reuters (via Yahoo News)",
+   "title": "China's economy falters as factory output, retail sales undershoot expectations",
+   "url": "https://malaysia.news.yahoo.com/chinas-factory-output-retail-sales-020559490.html",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 2,
-   "outlet": "Caixin Global",
-   "title": "Shanghai Fires Gene-Editing Researcher After Child's Death",
-   "url": "https://www.caixinglobal.com/2026-11-14/shanghai-fires-gene-editing-researcher-after-childs-death-102504707.html",
-   "date": "2026-11-14",
+   "outlet": "AFP (via Free Malaysia Today)",
+   "title": "China's retail sales growth slows in October",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/china-retail-sales-growth-slows-in-october",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "TechCrunch",
-   "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "date": "2026-11-13",
-   "singleSource": true
+   "outlet": "Reuters (via The Standard)",
+   "title": "China's new home prices fall again in October; slowest annual decline in almost a year",
+   "url": "https://www.thestandard.com.hk/finance/article/348595/Chinas-new-home-prices-fall-again-in-October-slowest-annual-decline-in-almost-a-year",
+   "date": "2026-11-16",
+   "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "Latin Times",
-   "title": "China Prepares to Welcome the World: Inside Shenzhen's Final Countdown to APEC of This Year",
-   "url": "https://www.latintimes.com/shenzhen-apec-summit-xi-trump-putin-security-601294",
-   "date": "2026-11-14",
+   "outlet": "AP (via KPRC Click2Houston)",
+   "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
+   "url": "https://www.click2houston.com/business/2026/11/16/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions/",
+   "date": "2026-11-15",
    "singleSource": false
   },
   {
    "id": 5,
-   "outlet": "Chinascope (summarising Radio Free Asia)",
-   "title": "Shenzhen Tightens Security Ahead of APEC Summit as Residents Voice Frustration",
-   "url": "https://chinascope.org/archives/41563",
-   "date": "2026-11-05",
-   "singleSource": true
-  },
-  {
-   "id": 6,
-   "outlet": "Lundgreen's Investor Insights",
-   "title": "Next Week in China: 16-20 November 2026",
-   "url": "https://www.lundgreensinvestorinsights.com/next-week-in-china-16-20-november-2026/",
-   "date": "2026-11-13",
-   "singleSource": false
-  },
-  {
-   "id": 7,
-   "outlet": "Newsquawk",
-   "title": "Week in Focus – 16-20th November 2026",
-   "url": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs",
-   "date": "2026-11-13",
+   "outlet": "Reuters (via Yahoo Finance)",
+   "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+   "url": "https://ca.finance.yahoo.com/news/chip-tensions-loom-over-trump-090000096.html",
+   "date": "2026-11-16",
    "singleSource": false
   }
  ]
