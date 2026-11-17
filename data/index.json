@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T05:35:52-05:00",
+  "updated": "2026-11-17T05:29:54-05:00",
   "files": [
     "world.json",
     "events.json",
@@ -8,7 +8,7 @@
     "generation.json"
   ],
   "run": {
-    "finished": "2026-11-16T05:35:52-05:00",
+    "finished": "2026-11-17T05:29:54-05:00",
     "issues": []
   }
 }

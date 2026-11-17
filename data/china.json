@@ -1,39 +1,24 @@
 {
- "date": "2026-11-16",
- "summary": "October data show Chinese shoppers still holding back as home prices keep falling, while host city Shenzhen shows off robotaxis and chip tensions hang over the Trump-Xi meeting.",
+ "date": "2026-11-17",
+ "summary": "October retail sales grew just 0.4% and home prices fell again, as a robot factory shows China's push to mass-produce humanoids and the US closes a route to AI chips.",
  "body": [
-  "China's October figures, released Monday, show an economy losing speed. Retail sales grew just 0.4% from a year earlier, below forecasts and down from 1.1% in September, even with a week-long national holiday; factory output rose 4.8%.[^1][^2] Investment in property fell 21.6% in the first ten months of the year, and the official urban jobless rate was 5.1%.[^1] The statistics bureau itself says \"the imbalance between strong supply and weak demand persists\": factories make more than people are buying.[^2] One ING economist says weak consumer confidence is the main obstacle.[^1]",
-  "Housing is a big reason. New home prices fell 0.1% in October from September and 2.4% from a year earlier, the smallest yearly drop in almost a year; Shanghai was the only major city where prices rose, while smaller cities stay in a long slump.[^3] For many families, an apartment is their main savings, so falling prices make them cautious about spending.",
-  "Shenzhen, the southern tech city hosting this week's APEC summit, shows the other side. The company Pony.ai runs about 2,000 driverless taxis across four cities; AP reporters rode 7.6 km for 12.7 yuan (about US$1.90).[^4] The city of over 18 million is home to Huawei, BYD, Tencent and robot makers.[^4] Chips may shadow the Trump-Xi meeting there on Thursday: analysts expect possible new US limits on advanced AI chips, while both governments say they will discuss a system for reporting serious AI accidents, which is not yet working.[^5]"
+  "China's shoppers are still cautious. Official figures show retail sales rose only 0.4% in October from a year earlier, down from 1.1% in September and below forecasts, even with a week-long national holiday.[^1][^6] Factory output grew 4.8%, and investment in things like buildings and equipment fell 8.1% in the first ten months.[^1][^6] The statistics bureau said \"the imbalance between strong supply and weak demand persists\".[^1] Chinese state media says the consumer market is still expanding, pointing to faster growth in spending on services, and a bureau spokesperson said people's ability and willingness to spend need to be strengthened.[^2]",
+  "Housing, where most Chinese families keep their savings, is still sliding. New home prices fell 0.1% in October and 2.4% from a year earlier, the slowest yearly drop in almost a year.[^3] Shanghai was the only big city where prices rose, and an analyst told Reuters that ready-built homes buyers can \"see and touch\" have become prized after years of unfinished projects.[^3]",
+  "In Foshan, near Shenzhen, CNN got rare access to a Leju Robotics factory that aims to build up to 10,000 humanoid robots a year for factories and other jobs.[^4] Its engineering director said the hard part is not building one robot but building 10,000 to the same standard.[^4] Meanwhile, the US says that from Nov 19, firms in five countries including Singapore and Malaysia will need licences for advanced AI chips, to stop Chinese companies renting computing power from data centres abroad.[^5]"
  ],
- "differences": null,
+ "differences": "The statistics bureau and state media stress stability and growth in services; foreign wire reports and analysts focus on weak spending and a property slump with \"little indication of price recovery\".[^1][^2][^3]",
  "reads": [
   {
-   "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
-   "outlet": "AP (via KPRC Click2Houston)",
-   "url": "https://www.click2houston.com/business/2026/11/16/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions/",
+   "title": "Inside the Chinese factory building humanoid robots for the world",
+   "outlet": "CNN (via WKMG ClickOrlando)",
+   "url": "https://clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world",
    "kind": "news",
-   "summary": "A reporter's ride in a Shenzhen robotaxi and a look at the companies that make the city China's tech showcase."
-  },
-  {
-   "title": "China's economy falters as factory output, retail sales undershoot expectations",
-   "outlet": "Reuters (via Yahoo News)",
-   "url": "https://malaysia.news.yahoo.com/chinas-factory-output-retail-sales-020559490.html",
-   "kind": "news",
-   "summary": "The October numbers on shopping, factories and investment, and why economists expect little new stimulus this year."
+   "summary": "A rare look inside a humanoid robot factory in Foshan: how the machines are built and tested, and why making thousands is harder than making one."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "Reuters (via Yahoo News)",
-   "title": "China's economy falters as factory output, retail sales undershoot expectations",
-   "url": "https://malaysia.news.yahoo.com/chinas-factory-output-retail-sales-020559490.html",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 2,
    "outlet": "AFP (via Free Malaysia Today)",
    "title": "China's retail sales growth slows in October",
    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/china-retail-sales-growth-slows-in-october",
@@ -41,26 +26,42 @@
    "singleSource": false
   },
   {
+   "id": 2,
+   "outlet": "Xinhua (Chinese state media)",
+   "title": "China's consumer market continues expansion, services gain traction",
+   "url": "https://english.news.cn/20261116/8f7ba34c26124b4288230327f7836c7f/c.html",
+   "date": "2026-11-16",
+   "singleSource": false
+  },
+  {
    "id": 3,
-   "outlet": "Reuters (via The Standard)",
+   "outlet": "Reuters (via Investing.com)",
    "title": "China's new home prices fall again in October; slowest annual decline in almost a year",
-   "url": "https://www.thestandard.com.hk/finance/article/348595/Chinas-new-home-prices-fall-again-in-October-slowest-annual-decline-in-almost-a-year",
+   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
    "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "AP (via KPRC Click2Houston)",
-   "title": "The driverless taxis, robots and tech companies in APEC host city Shenzhen show China's ambitions",
-   "url": "https://www.click2houston.com/business/2026/11/16/the-driverless-taxis-robots-and-tech-companies-in-apec-host-city-shenzhen-show-chinas-ambitions/",
+   "outlet": "CNN (via WKMG ClickOrlando)",
+   "title": "Inside the Chinese factory building humanoid robots for the world",
+   "url": "https://clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world",
    "date": "2026-11-15",
-   "singleSource": false
+   "singleSource": true
   },
   {
    "id": 5,
-   "outlet": "Reuters (via Yahoo Finance)",
-   "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
-   "url": "https://ca.finance.yahoo.com/news/chip-tensions-loom-over-trump-090000096.html",
+   "outlet": "Business Standard",
+   "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
+   "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html",
+   "date": "2026-11-17",
+   "singleSource": true
+  },
+  {
+   "id": 6,
+   "outlet": "Swarajya",
+   "title": "October Data Reveals China's Economic Momentum Weakening Across Retail, Industrial Output And Investment",
+   "url": "https://swarajyamag.com/news-brief/october-data-reveals-chinas-economic-momentum-weakening-across-retail-industrial-output-and-investment",
    "date": "2026-11-16",
    "singleSource": false
   }

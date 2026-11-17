@@ -1,336 +1,281 @@
 {
- "date": "2026-11-16",
- "summary": "Gulf states condemn Iran's attack on Bahrain, Russia hits Odesa's grid before a Trump-Xi-Putin meeting, Israel's coalition talks stall, and COP31 enters its last week.",
+ "date": "2026-11-17",
+ "summary": "Iran talks in Oman as tankers burn near Hormuz, Ukraine hits the Crimean Bridge, Israel's Knesset picks a speaker, COP31 drafts a deal, and AI faces a big test week.",
  "question": {
-  "type": "second-order",
-  "text": "Canada, Southeast Asian countries and others are trying to rely less on the US by trading more with China, and vice versa. If a country shifts its dependence from one big partner to another, what new risks might that create, and how would you judge whether the trade was worth it?"
+  "type": "how-do-we-know",
+  "text": "Russia says it shot down 1,336 drones in one night and calls the Crimean Bridge damage minor; the IRGC says it hit a US radar that Bahrain says was never touched. When only one side can count, what would convince you a number is true?"
  },
  "read": {
-  "title": "Strait of Hormuz explained: Why the Iran war threatens global energy flows",
-  "outlet": "Gulf News",
-  "url": "https://gulfnews.com/world/mena/strait-of-hormuz-explained-why-the-iran-war-threatens-global-energy-flows-1.500469914",
+  "title": "Five Features of APEC to Know About With Trump, Putin, and Xi Set to Attend",
+  "outlet": "Reuters (via The China-Global South Project)",
+  "url": "https://chinaglobalsouth.com/analysis/apec-summit-2026-china-shenzhen-trump-xi-putin/",
   "kind": "analysis",
   "minutes": 6,
-  "summary": "A clear explainer on what a shipping chokepoint is, how much oil passes through Hormuz, and how mines and drones can disrupt it. Written in March, so check today's figures against the news."
+  "summary": "A short guide to this week's APEC summit in Shenzhen: who the 21 members are, who is coming, and the issues from Hormuz to Taiwan and trade that could shape it."
  },
  "weeklyRead": null,
  "topics": [
   {
-   "id": "iran-bahrain-gulf-condemn",
-   "heading": "Gulf states condemn Iran's drone attack on Bahrain as a third US carrier arrives",
-   "date": "2026-11-16",
-   "status": "disputed",
-   "summary": "Gulf states condemned Sunday's Iranian drone attack on Bahrain, which Bahrain says it fully stopped, while the IRGC claims hits and more ships sunk near Hormuz.[^1][^2] A third US aircraft carrier entered the region, and the UN nuclear watchdog says it cannot track Iran's enriched uranium.[^2][^4]",
+   "id": "iran-muscat-tanker-hormuz",
+   "heading": "Iran's foreign minister holds talks in Oman as more tankers are hit near Hormuz",
+   "date": "2026-11-17",
+   "status": "developing",
+   "summary": "Abbas Araghchi met Oman's foreign minister in Muscat, who called the talks \"constructive\", while tankers were struck near the Strait of Hormuz and the IRGC claimed a third drone attack on a US radar in Bahrain.[^2][^3][^4] US Vice President JD Vance said Trump will not let the war become a \"forever war\".[^1]",
    "lead": {
-    "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
-    "outlet": "The National",
-    "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
-    "date": "2026-11-16"
+    "title": "Vance says Trump will avoid 'forever war' in Iran",
+    "outlet": "IANS (via The Morung Express)",
+    "url": "https://www.morungexpress.com/vance-says-trump-will-avoid-forever-war-in-iran",
+    "date": "2026-11-17"
    },
    "alsoReported": [
     {
-     "title": "Iran says it targets US radar in Bahrain. What do we know?",
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+     "title": "Middle East conflict: Tanker incident near Hormuz as Vance rules out 'forever war'",
+     "outlet": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
     },
     {
-     "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
-     "outlet": "The National",
-     "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/"
+     "title": "Live Updates: Iran's Revolutionary Guard claims another attack on U.S. radar system in Bahrain",
+     "outlet": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
     }
    ],
    "eventId": "iran-war",
    "article": [
-    "Before dawn on Sunday, Bahrain issued its first nationwide alert in months, telling residents to move to a \"safe location\".[^1] Iran's Revolutionary Guards (IRGC) say six drones struck a US air-defence radar at Riffa Air Base; Bahrain says the drones were destroyed before reaching their targets, and the US had not commented on Sunday's claim.[^1][^3] It was the IRGC's second radar claim in three days. For the first, on Friday, US Central Command said it shot down two drones and nothing was damaged.[^3]",
-    "Neighbours reacted sharply. The head of the Gulf Cooperation Council (GCC, the six-country Gulf bloc) called the attack a \"blatant challenge\" to peace efforts, the UAE called it a \"flagrant violation\", and Qatar, which is carrying messages between Tehran and Washington, called it a \"dangerous escalation\".[^1] Gulf stock markets fell, with Qatar's index down 1.8%.[^1]",
-    "At sea, claims are growing but unconfirmed. The IRGC now says six vessels caught fire and sank in the strait since Sunday; none of this has been independently verified.[^2] Separately, the UK's maritime security agency (UKMTO) reported that a ship leaving the strait on Monday morning was hit by an unknown projectile, causing a fire but no casualties.[^2] The USS Theodore Roosevelt entered the US Central Command area on Sunday, joining two other carriers in what is expected to be a temporary build-up.[^2]",
-    "The nuclear question is getting harder to answer. A restricted report from the International Atomic Energy Agency (IAEA), seen by Bloomberg, says inspectors cannot verify where about 972 pounds of highly enriched uranium are, and IAEA chief Rafael Grossi says the agency cannot conclude that none has been diverted.[^4] Iran has ruled out regular monitoring \"under the present circumstances\", and the IAEA board meets in Vienna next.[^4]",
-    "Diplomacy continues alongside the fighting: Foreign Minister Abbas Araghchi is due in Oman's capital, Muscat, on Tuesday, and Iran says it is still waiting for a US reply to seven conditions sent through Qatar.[^1][^3] My read: each side is testing the other's limits, and the week's mix of carrier moves, unverified sinkings and talks makes a misreading more likely than usual."
+    "Iran's Foreign Minister Abbas Araghchi arrived in Muscat early Tuesday and met Oman's foreign minister, Badr Albusaidi.[^2] Albusaidi wrote on X that it was \"a constructive meeting\" and that the two discussed current diplomatic efforts and the need for \"de-escalation and peaceful solutions\".[^3] Oman has long carried messages between Tehran and Washington. The day before, the Trump administration called Iran's seven conditions for a deal \"unacceptable\", according to CBS News.[^4]",
+    "The fighting around the Strait of Hormuz, the narrow sea lane that carries much of the Gulf's oil, continued. The UK's maritime security agency (UKMTO) said a tanker about 7 nautical miles north of Khasab, Oman, was attacked on Monday evening and set on fire, and that a second strike hit it on Tuesday.[^2] Iran's navy said one tanker had hit a mine, while UKMTO described an \"unknown projectile\".[^4] India's ports minister said all 24 Indian sailors aboard another hit tanker, the Tara Gas, were safe.[^2]",
+    "On Tuesday morning the Revolutionary Guards (IRGC) said their drones attacked a US-run radar at Sheikh Isa Air Base in Bahrain, their third such claim since Friday. Bahrain's state TV said the attack was thwarted.[^2][^4] Iran also says inspectors from the UN nuclear watchdog will not get into its main nuclear sites until \"the war has permanently ended\".[^4]",
+    "In Washington, Vance told Fox News that the US will not let the conflict become \"a 10- or 15-year commitment, or frankly even a two-year commitment\", but he gave no end date.[^1] Oil fell slightly on Monday, with Brent at about $95 a barrel, still well above the roughly $72 it cost before the war began in late February.[^4]",
+    "My read: Tuesday shows two tracks running at once, quiet diplomacy through Oman and steady pressure at sea. Xi Jinping hosts Trump and Putin in Shenzhen on Nov 19, and China's Middle East envoy has just visited Iran, Oman and Saudi Arabia, so the next signal may come from there.[^1]"
    ],
-   "differences": "The IRGC says its drones hit a US radar; Bahrain says all were destroyed and US Central Command denied any damage from Friday's attack.[^1][^3] The IRGC's count of sunk or burning ships has risen from two to six; no independent source has confirmed any of them.[^2][^3]"
+   "differences": "Accounts of the tanker attacks differ: Iran's navy blames sea mines, UKMTO reported an unknown projectile, and Gulf News described a missile attack on the Tara Gas.[^2][^4] The IRGC says its drones hit a US radar in Bahrain; Bahrain says it stopped the attack.[^2][^4]"
   },
   {
-   "id": "odesa-attack-shenzhen",
-   "heading": "Russia hits Odesa's power grid as the Kremlin confirms a Trump-Xi-Putin meeting",
-   "date": "2026-11-15",
-   "status": "developing",
-   "summary": "A large Russian drone attack left about 41,000 households in Odesa Oblast briefly without power, while Ukraine says it hit an airfield and refineries deep in Russia.[^5] Moscow confirmed Putin will meet Trump and Xi in Shenzhen on Nov 19.[^7]",
+   "id": "ukraine-crimean-bridge-record-drones",
+   "heading": "Ukraine hits the Crimean Bridge during what Russia calls the war's biggest drone attack",
+   "date": "2026-11-16",
+   "status": "confirmed",
+   "summary": "Ukrainian drones struck the bridge linking Russia to occupied Crimea on Monday. Russia says it downed 1,336 drones overnight, a record, and calls the bridge damage minor; footage suggests visible damage to one span.[^6][^7] Russian strikes left over 52,000 households in Odesa region without power.[^8]",
    "lead": {
-    "title": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
-    "outlet": "Kyiv Independent",
-    "url": "https://kyivindependent.com/ukraine-war-latest-russia-launches-mass-attack-on-odesa-oblast-as-ukraine-strikes-airfield-drone-launch-site-in-russia/",
-    "date": "2026-11-15"
+    "title": "Ukraine strikes Crimean Bridge in record drone attack",
+    "outlet": "The Irish Times (Financial Times)",
+    "url": "https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/",
+    "date": "2026-11-16"
    },
    "alsoReported": [
     {
-     "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock",
-     "outlet": "RFE/RL",
-     "url": "https://www.rferl.org/a/ukraine-russia-war-drone-strikes-oil-refinery/33899022.html"
+     "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
+     "outlet": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265"
     },
     {
-     "title": "Moscow confirms Trump, Xi, Putin meeting in China",
-     "outlet": "Hurriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/moscow-confirms-trump-xi-putin-meeting-in-china-229413"
+     "title": "Russia's Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
+     "outlet": "The War Zone",
+     "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
     }
    ],
    "eventId": "ukraine-war",
    "article": [
-    "Overnight into Nov 15, Russia launched 132 long-range drones at Ukraine, of which Ukraine's air force says 106 were stopped.[^5] In Odesa Oblast, on the Black Sea, about 41,000 families temporarily lost power and six people were injured; across the country at least four people were killed and 69 injured over the day, according to Ukrainian officials.[^5] President Zelenskyy says Russia used more than 2,300 attack drones and 1,590 glide bombs in the past week.[^5]",
-    "Ukraine struck back at long range. Its General Staff says it hit the Akhtubinsk airfield, a drone base in Oryol and the Nizhnekamsk petrochemical complex and refinery, more than 800 km from the front, where local authorities confirmed damage and three injuries.[^5][^6] Russia's Defence Ministry says it shot down 533 Ukrainian drones overnight, a figure RFE/RL could not verify.[^6] Zelenskyy also blamed limits on SpaceX's Starshield service, saying interceptor drones lose contact above 161 km/h.[^6]",
-    "The diplomacy is moving to Asia. Kremlin spokesman Dmitry Peskov confirmed that Putin, Trump and Xi Jinping will meet in Shenzhen on Nov 19, during the Asia-Pacific Economic Cooperation (APEC) summit; it would be the first meeting of the three.[^7] A senior US official says Trump will focus on Iran and nuclear weapons, not Ukraine, and expects no agreements.[^7] Arms control is a live issue because New START, the last US-Russia nuclear treaty, expired in February.[^7]",
-    "Talks on Ukraine itself are stuck. The Abu Dhabi round on Nov 10-11 brought no breakthrough, and US envoys then met Putin in Moscow.[^6] On the reported idea of trading Donbas for NATO membership, Zelenskyy says Ukrainians would have the final say and that he would need guarantees like NATO's Article 5 \"as an absolute minimum\".[^5]",
-    "My read: with winter coming, both sides are aiming at energy targets to raise the cost of the war for the other, while the big-power meeting in Shenzhen may shape the talks without Ukraine in the room."
+    "Early on Monday, Ukrainian drones hit the Crimean Bridge, also called the Kerch Bridge, which connects Russia to the Crimean peninsula that Russia annexed in 2014.[^5][^7] Crimea's Russian-installed governor, Sergei Aksyonov, restricted road traffic until at least midday, and rail traffic resumed later that morning.[^5][^6] Kremlin spokesman Dmitry Peskov called the damage \"minor\".[^6]",
+    "Not everyone agrees. The War Zone, a US defence site, said Russian state TV footage showed a deformed road span and that satellite images showed damage near one arch, though the full extent was unclear.[^7] It also reported that about 2,000 vehicles were stuck in queues before the bridge reopened in one direction.[^7] The bridge matters because it is a key supply route for Russian forces in southern Ukraine; Ukraine has struck it several times since a truck bomb in October 2022.[^5]",
+    "Russia's defence ministry said it shot down 1,336 drones overnight, the most of the war, and 2,049 over 24 hours, including some cruise missiles. These figures could not be independently checked.[^7] Moscow's mayor said about 600 drones flew toward the capital.[^6] Ukraine says it hit the Ilsky oil refinery in southern Russia, and President Volodymyr Zelenskyy says Ukraine has disabled over 55% of Russia's refining capacity, a claim Bloomberg could not verify.[^8]",
+    "Russia kept hitting Ukraine's power system too. Strikes on energy sites in Dnipro, Zaporizhzhia and Cherkasy killed at least two people, and more than 52,000 households in Odesa region lost power, local officials and the energy company DTEK said.[^8]",
+    "Peace talks in Abu Dhabi last week brought no real progress.[^8] A Kremlin aide says a Putin-Trump meeting is being arranged and that ending the war is among the agreed topics, while US officials say Ukraine is not expected to feature in the three-way meeting with Xi on Nov 19.[^7][^8]"
    ],
-   "differences": "US officials say Ukraine is not on the Shenzhen agenda.[^7] Ukraine and Russia each report the other's losses in ways that cannot be checked: Russia's claim of 533 downed drones is unverified.[^6]"
+   "differences": "Russia calls the bridge damage minor; The War Zone points to footage and satellite images showing a deformed span.[^6][^7] Drone totals come only from Russia's defence ministry and are unverified.[^7] On the Nov 19 summit, the Kremlin says Ukraine is on the agenda for a Putin-Trump meeting; US officials say the war is not expected to come up in the three-way talks.[^7][^8]"
   },
   {
-   "id": "israel-unity-talks",
-   "heading": "Israel's coalition talks stall ahead of a Knesset speaker vote; Hamas commander killed",
-   "date": "2026-11-15",
+   "id": "knesset-speaker-vote-eisenkot",
+   "heading": "Israel's Knesset votes on a new speaker in the first test of Eisenkot's bloc",
+   "date": "2026-11-17",
    "status": "developing",
-   "summary": "Unity talks between Eisenkot's Yashar party and Netanyahu's Likud made no progress on Sunday, with a vote for Knesset speaker set for Tuesday.[^8] In Gaza, Israel killed Hamas's Rafah commander in an overnight strike.[^10][^11]",
+   "summary": "Gadi Eisenkot's bloc, backed by Arab-led parties, wants to replace a Netanyahu ally as Knesset speaker with Matan Kahana in a vote set for Tuesday evening.[^9] Its allies fear Likud may delay the vote with a long speech.[^10]",
    "lead": {
-    "title": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
-    "outlet": "Times of Israel",
-    "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
-    "date": "2026-11-15"
+    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role",
+    "date": "2026-11-17"
    },
    "alsoReported": [
     {
-     "title": "Senior Hamas commander killed in Israeli strike in Gaza",
-     "outlet": "RTÉ (Reuters)",
-     "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/"
-    },
-    {
-     "title": "Israeli air strike kills senior Hamas commander in Gaza",
-     "outlet": "Al Jazeera",
-     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+     "title": "Knesset speaker vote at risk of delays as Eisenkot bloc fears Likud-backed filibuster",
+     "outlet": "The Jerusalem Post",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915135"
     }
    ],
    "eventId": "gaza",
    "article": [
-    "Israel is still without a new government after its election. Gadi Eisenkot, a former army chief whose Yashar party leads the anti-Netanyahu bloc, has the first chance to form a coalition. On Sunday his team and Prime Minister Benjamin Netanyahu's Likud met for about an hour; their joint statement described a \"businesslike atmosphere\", but neither side will give up the prime minister's job.[^8]",
-    "The arithmetic is tight. In the 120-seat Knesset (parliament), Jewish-led parties opposed to Netanyahu hold 48 seats, Netanyahu's bloc 53, and Arab parties 19.[^9] A majority is 61. Eisenkot's camp is courting the ultra-Orthodox parties UTJ (7 seats) and Shas (6); Shas leader Aryeh Deri says his party is \"going with Netanyahu\".[^8][^9] Israel Hayom reports that Likud may drop far-right minister Itamar Ben Gvir's party from a unity deal, though Netanyahu publicly insists on keeping all his allies.[^8] The first test comes Tuesday, when the Knesset votes on replacing its speaker; Yashar refused Likud's request not to nominate Matan Kahana.[^8]",
-    "In Gaza, the Israeli military says it killed Samir Abu Younis, 53, the commander of Hamas's Rafah brigade, overnight into Nov 15; Hamas's armed wing confirmed his death.[^10] Israel says he helped plan the Oct 7, 2023 attack.[^10] Al Jazeera reports the strike hit a tent sheltering displaced people in al-Mawasi and wounded two others.[^11]",
-    "Gaza's health ministry says at least 1,643 people have been killed since the October 2025 ceasefire began, and reports 11 cold-related deaths as winter sets in.[^11] The truce has stopped the full war but not the killing, and it has not achieved Hamas's disarmament.[^10] My read: decisions on Gaza's next phase are likely to wait until Israel knows who will govern it."
+    "Israel's new parliament, the 26th Knesset, was sworn in on Nov 10 after an election that went against Prime Minister Benjamin Netanyahu's camp.[^9] Netanyahu stays on as caretaker prime minister while coalition talks continue. On Tuesday, members vote on a new speaker, and Gadi Eisenkot's bloc has nominated Matan Kahana of his Yashar party.[^9]",
+    "The speaker sounds like a procedural job, but it carries real power: the speaker sets parliament's agenda, runs debates and can call a confidence vote on the government.[^9] Arab-led parties have said they will back Kahana. Joint List leader Ahmad Tibi told Al Jazeera they want to remove \"the Netanyahu coalition as soon as possible\".[^9]",
+    "Procedure could slow things down. The Jerusalem Post, citing Israel's N12 News, reports that Eisenkot's camp fears a Likud minister could speak for hours to push the vote late into the night.[^10] Debate was due to start at 4 p.m. with a vote expected around 8 p.m.; Likud officials called Yashar's plan to limit speeches \"a heavy-handed measure\".[^10]",
+    "If Kahana wins, the opposition plans bills to set up an independent inquiry into the October 7, 2023 attack, restore the attorney general's powers, undo changes that weakened the courts, and limit prime ministers to two terms, which would rule out Netanyahu.[^9] My read: a win would show Eisenkot can command a majority even before he forms a government, which may change how Likud approaches unity talks."
    ],
-   "differences": "Reuters reports Abu Younis was targeted \"on a street\"; Al Jazeera says the strike hit a tent of displaced people.[^10][^11] A UTJ source told Israeli TV there was progress with Eisenkot; UTJ's chair called that \"entirely baseless\".[^8]"
+   "differences": "Eisenkot's camp says the speaker vote is an internal matter of parliament that does not justify unlimited speeches; Likud officials say limiting debate is heavy-handed.[^10]"
   },
   {
-   "id": "cop31-final-week",
-   "heading": "COP31 enters its final week in Antalya with no agreed plan on fossil fuels or finance",
-   "date": "2026-11-15",
+   "id": "cop31-first-draft-fossil-fuels",
+   "heading": "COP31's first draft deal leaves fossil fuels and climate finance wide open",
+   "date": "2026-11-16",
    "status": "developing",
-   "summary": "The UN climate summit in Turkey starts its last week with ministers arriving and limited progress: countries still disagree on the main deal, adaptation money and fossil fuels.[^12][^13]",
+   "summary": "Negotiators in Antalya released an 18-page draft text with two options on fossil fuels, \"transitioning away\" or \"phase out\", and open fights over finance and a 35% electricity target.[^11] Ministers now take over, with talks due to end Friday.[^12]",
    "lead": {
-    "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
-    "outlet": "Climate Home News",
-    "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
-    "date": "2026-11-14"
+    "title": "First draft of COP31 deal signals tough negotiations to come",
+    "outlet": "Reuters (via Yahoo News)",
+    "url": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html",
+    "date": "2026-11-16"
    },
    "alsoReported": [
     {
-     "title": "Türkiye eyes ambitious climate outcome as COP31 enters final week",
+     "title": "COP31 turns to ministers for deal on finance, energy",
      "outlet": "Hurriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"
+     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
     }
    ],
    "eventId": null,
    "article": [
-    "COP31, the yearly UN climate conference, opened in Antalya, Turkey, on Nov 9 and ends Nov 20.[^13] Climate Home News describes the first week as making \"limited progress\".[^12] Negotiators have not yet agreed whether to produce a \"cover decision\", a headline political text, and some large developing countries resisted both that and any targets for particular sectors all week.[^12]",
-    "The host's flagship idea is a voluntary pledge to raise electricity's share of the world's final energy use to 35% by 2035; Climate Home puts today's share at 23%, and Hurriyet at about 20%.[^12][^13] At least 15 countries had backed it publicly.[^12] The European Union has pushed for the word \"clean\" electrification, which matters because electricity can still come from coal or gas, though its negotiator signalled the EU may drop the word to win more signatures.[^12][^13]",
-    "Money remains the sharpest dispute. African countries' top demand is tripling adaptation finance, money to help poorer countries cope with heat, floods and drought, to at least $120 billion a year by 2035; a draft option would only review parts of the existing finance goal.[^12] Campaign groups criticised the EU for no new finance pledges and called a proposed \"just transition\" mechanism weak.[^12] Brazil, last year's host, presented a voluntary roadmap that builds clean energy first and moves to phasing out coal, oil and gas after 2031.[^12]",
-    "This week ministers take over the talks. Australia's Chris Bowen, who leads the negotiations, says they cover 160 agenda items, and Turkey's COP president Murat Kurum says the hosts want an ambitious result.[^13] My read: a deal is likely to be agreed by consensus, which tends to produce cautious wording; the useful thing to watch is whether any numbers, like the 35% target or a finance figure, survive into the final text."
+    "The UN climate summit COP31 in Antalya, Turkey, entered its final week on Monday with a first draft of the final deal.[^11] Talks began on Nov 9 with almost 200 countries. Turkey hosts and Australia leads the negotiations under a shared arrangement agreed after a dispute over hosting.[^12]",
+    "The 18-page draft gives two choices on fossil fuels: repeating the 2023 promise of \"transitioning away\" from them, or a stronger call to \"phase out\" coal, oil and gas. Both could be dropped from the final text.[^11] It also marks disagreement over Turkey's proposal that electricity should provide 35% of the world's energy use by 2035, up from about 20% now, and over how much rich countries should pay to help poorer ones adapt to climate change.[^11][^12]",
+    "The splits are familiar. The Arab Group said it will not accept global targets imposed from above or targets for specific sectors or energy sources, while the EU, Pacific island states and the least developed countries backed the presidency's approach.[^12] Australian minister Chris Bowen, who leads the talks, said the final deal will not look exactly like the draft but that it is right for it to discuss fossil fuels.[^11] An analyst at the think tank E3G said the approach looks like putting everything in and letting countries fight over the trade-offs.[^11]",
+    "Why it matters: a UN report last month said the world is on track to pass 1.5C of warming, the limit set in the Paris Agreement.[^11] COP decisions need consensus, so one bloc can block wording. My read: expect the fossil fuel language to be the last thing settled, and the talks may run past Friday, as UN climate summits often do.[^11]"
    ],
-   "differences": "Developing countries say richer nations must pay more before they accept new targets; the EU says it is being pragmatic and has made no new finance pledge, which campaign groups criticise.[^12] Estimates of electricity's current share differ (23% vs about 20%).[^12][^13]"
+   "differences": "Oil-producing Arab states reject global or sector-specific targets; the EU, Pacific island states and the poorest countries support the presidency's push for stronger outcomes.[^12]"
   },
   {
-   "id": "nvidia-huang-anthropic-week",
-   "heading": "Reports say Huang weighs a return to Nvidia as its first results without him loom",
-   "date": "2026-11-15",
+   "id": "ai-week-nvidia-anthropic-chip-rule",
+   "heading": "Nvidia reports without its founder as Anthropic prices its IPO and US tightens chip rules",
+   "date": "2026-11-17",
    "status": "developing",
-   "summary": "The Financial Times reports that ousted Nvidia CEO Jensen Huang is discussing a comeback, days before Nvidia reports results on Nov 17.[^16] Anthropic plans to price its share sale on Nov 18 at a value of up to $1.45 trillion.[^14]",
+   "summary": "Nvidia reports results on Tuesday under interim CEO Colette Kress after Jensen Huang's resignation, and Anthropic plans to price its IPO on Wednesday at a valuation of up to $1.45 trillion.[^13][^14] The US says new rules from Nov 19 will limit Chinese access to AI chips through foreign data centres.[^15]",
    "lead": {
-    "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
-    "outlet": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-    "date": "2026-11-15"
+    "title": "Nvidia earnings and Anthropic IPO lead crucial week for AI bulls",
+    "outlet": "The National",
+    "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/",
+    "date": "2026-11-16"
    },
    "alsoReported": [
     {
-     "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans 'war room': report",
-     "outlet": "Fox Business",
-     "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report"
+     "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+     "outlet": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
     },
     {
-     "title": "Nvidia earnings — along with the baggage — top next week's markets",
-     "outlet": "TheStreet (via Yahoo Finance)",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html"
+     "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
+     "outlet": "Business Standard",
+     "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html"
     }
    ],
    "eventId": "ai-race",
    "article": [
-    "This week is a test for the companies at the centre of the AI boom. Nvidia, which makes most of the chips used to train AI, reports quarterly results after markets close on Tuesday, Nov 17.[^15] It will be the first report since Jensen Huang, who co-founded the company, resigned on Nov 12 amid reports of affairs, including with a suspected Chinese spy; finance chief Colette Kress is interim CEO.[^15][^16]",
-    "According to the Financial Times, as reported by Fox Business, Huang is discussing with confidants whether to return, and an ally is gathering tech executives to lobby Nvidia's board and seek White House support.[^16] An online petition backing him claims more than 150,000 signatures, though the signers' identities are self-reported.[^16] Nvidia has not confirmed any of this.",
-    "Analysts expect revenue of about $109 billion, up nearly 50% from a year earlier.[^15] A Yahoo Finance editor argues the scandal will not hit sales this quarter or next because orders are placed far in advance.[^14] Investors are less sure: Nvidia shares have fallen 24% since the first New York Times report on Oct 29, and nine firms have downgraded the stock.[^15]",
-    "Meanwhile Anthropic, the AI company that makes Claude, plans to price its initial public offering (IPO, a first sale of shares to the public) on Wednesday and start trading on Nasdaq on Thursday under the ticker \"ANT\".[^14] It is offering 825 million shares at $70 to $78, which would value it at $1.3 to $1.45 trillion, and has reported $33.2 billion in revenue for the nine months to Sept. 30.[^14] Note: Anthropic makes the model that writes this brief.",
-    "My read: these two events will be read as a verdict on whether AI spending is paying off. Strong numbers would ease fears of a bubble for now; weak ones could deepen the recent sell-off."
+    "Nvidia, which makes about 90% of the most advanced AI chips, reports quarterly results on Tuesday.[^13] It is its first report since Jensen Huang resigned as CEO last week amid reports linking him to a person US authorities suspect of ties to Chinese intelligence. Finance chief Colette Kress is interim CEO while the board searches for a replacement.[^13][^14] Analysts expect revenue of about $109 billion, up roughly 90% from a year earlier.[^13]",
+    "On Wednesday, Anthropic, the company that makes the Claude AI models (including the one writing this brief), plans to price its share sale. It is offering 825 million shares at $70 to $78, valuing the company at $1.3 to $1.45 trillion, with trading on the Nasdaq from Thursday.[^13][^14] Anthropic reported $33.2 billion in revenue in the first nine months of 2026, along with a large accounting loss.[^13]",
+    "Washington is also changing the rules. The Commerce Department says companies in Singapore, Malaysia, Thailand, Indonesia and Brazil will need US licences for advanced AI chips from Nov 19, to stop Chinese firms renting computing power from data centres abroad.[^15] Business Standard, citing Nikkei Asia, reports that such remote access could make up a quarter of China's AI computing power by the end of 2026.[^15]",
+    "Why it matters: AI spending now moves stock markets, pension funds and energy use. Some analysts say strong results could reassure investors; others warn the Huang affair \"hasn't hit its bottom yet\".[^13][^14] My read: this week will be read as a test of whether investors still trust the AI boom, but one week of numbers will not settle that."
    ],
-   "differences": "Huang's allies say the tech industry wants him back; analysts who downgraded the stock see the leadership turmoil as a risk.[^16][^15] The comeback report rests on one newspaper's sources and has not been confirmed by Nvidia.[^16]"
-  },
-  {
-   "id": "asean-manila",
-   "heading": "ASEAN leaders meet in Manila, with energy shortages and US tariffs on the agenda",
-   "date": "2026-11-15",
-   "status": "confirmed",
-   "summary": "Southeast Asian leaders opened their summit in Manila, with fuel shortages from the Iran war, US tariffs and the South China Sea on the agenda.[^17] Trump joins on Nov 17 before flying to China for APEC.[^17][^18]",
-   "lead": {
-    "title": "ASEAN summit: Who's attending and what's at stake?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
-    "date": "2026-11-15"
-   },
-   "alsoReported": [
-    {
-     "title": "Trump is headed to China this week. Jensen Huang won't be on the trip, but Elon Musk will.",
-     "outlet": "Yahoo Finance",
-     "url": "https://au.finance.yahoo.com/news/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html"
-    }
-   ],
-   "eventId": null,
-   "article": [
-    "The Association of Southeast Asian Nations (ASEAN), a bloc of 11 countries with nearly 694 million people, opened its summit in Manila, the Philippine capital, on Nov 15; it runs to Nov 17.[^17] Guests include India's Narendra Modi, Brazil's Lula da Silva, Russia's foreign minister Sergey Lavrov and Canada's Mark Carney.[^17]",
-    "Energy is the most pressing issue. The war involving Iran has disrupted oil and gas supplies from the Gulf, and the Philippines declared a national energy emergency in March.[^17] Trade is next: ASEAN countries have faced US tariff increases of 10 to 12.5% since Trump's second term began.[^17] Trump holds a special US-ASEAN summit on Nov 17 and is expected to sign a trade deal with Thailand before flying to APEC in Shenzhen on Nov 18-19.[^17][^18]",
-    "Older disputes are still open. A code of conduct for the South China Sea, where China's claims overlap with those of several ASEAN members, has been under negotiation since 2005.[^17] Al Jazeera also notes border clashes between Thailand and Cambodia that killed at least 150 people and displaced nearly a million, and smoke from Indonesian wildfires linked to at least 3,500 deaths.[^17]",
-    "Why it matters: Southeast Asia sits between the US and China and trades heavily with both. One analyst described Trump's APEC visit as \"essentially being a courtesy call\", suggesting low expectations for big deals.[^18] My read: this week's two summits will show whether countries in the region can win tariff relief from Washington without damaging ties with Beijing."
-   ],
-   "differences": null
-  },
-  {
-   "id": "sudan-abu-qalb",
-   "heading": "A rights group says a Sudanese army drone strike killed 15 in West Kordofan",
-   "date": "2026-11-15",
-   "status": "developing",
-   "summary": "A Sudanese monitoring group says an army drone strike on Abu Qalb in West Kordofan killed 15 people on Sunday, including four children.[^19] The army had not commented in the report.",
-   "lead": {
-    "title": "Sudan army strike kills 15, including children: rights group, survivor",
-    "outlet": "AFP (via Business Recorder)",
-    "url": "https://www.brecorder.com/news/40449159/sudan-army-strike-kills-15-including-children-rights-group-survivor",
-    "date": "2026-11-16"
-   },
-   "alsoReported": [],
-   "eventId": null,
-   "article": [
-    "Sudan's civil war, fought since April 2023 between the national army and the paramilitary Rapid Support Forces (RSF), is now centred on the Kordofan region in the middle of the country. On Sunday, Nov 15, a drone strike hit Abu Qalb in West Kordofan.[^19]",
-    "The Kordofan Observatory, a local monitoring group, says the army carried out the strike, that 15 people were killed, including four children who were playing football, and that it injured others and burned homes.[^19] AFP describes it as a \"double-tap\" strike, meaning a second hit on the same place shortly after the first.[^19] A survivor told AFP that nine of the dead were his relatives.[^19] The report does not include a response from the army, and the figures have not been independently confirmed.",
-    "My read: Kordofan has become a main front of the war, and both sides use drones near towns where civilians live. This report comes from a single news agency quoting a local group, so treat the details as provisional until others confirm them."
-   ],
-   "differences": null
+   "differences": "Some strategists see Nvidia's results and Anthropic's listing as possible boosts for AI stocks; a Baird analyst warns of more fallout from the leadership crisis, including possible fines and write-downs.[^13][^14]"
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "The National",
-   "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
-   "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
-   "date": "2026-11-16",
+   "outlet": "IANS (via The Morung Express)",
+   "title": "Vance says Trump will avoid 'forever war' in Iran",
+   "url": "https://www.morungexpress.com/vance-says-trump-will-avoid-forever-war-in-iran",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 2,
-   "outlet": "The National",
-   "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
-   "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
-   "date": "2026-11-16",
+   "outlet": "Gulf News",
+   "title": "Middle East conflict: Tanker incident near Hormuz as Vance rules out 'forever war'",
+   "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "Al Jazeera",
-   "title": "Iran says it targets US radar in Bahrain. What do we know?",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know",
-   "date": "2026-11-15",
+   "outlet": "Middle East Eye",
+   "title": "Iran's Araghchi meets Omani counterpart in Muscat",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-meets-omani-counterpart-muscat",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "Bloomberg (via News Tribune)",
-   "title": "Iran extends shutout of UN nuclear inspectors",
-   "url": "https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/",
-   "date": "2026-11-15",
-   "singleSource": true
+   "outlet": "CBS News",
+   "title": "Live Updates: Iran's Revolutionary Guard claims another attack on U.S. radar system in Bahrain",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "date": "2026-11-17",
+   "singleSource": false
   },
   {
    "id": 5,
-   "outlet": "Kyiv Independent",
-   "title": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
-   "url": "https://kyivindependent.com/ukraine-war-latest-russia-launches-mass-attack-on-odesa-oblast-as-ukraine-strikes-airfield-drone-launch-site-in-russia/",
-   "date": "2026-11-15",
+   "outlet": "The Irish Times (Financial Times)",
+   "title": "Ukraine strikes Crimean Bridge in record drone attack",
+   "url": "https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 6,
-   "outlet": "RFE/RL",
-   "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock",
-   "url": "https://www.rferl.org/a/ukraine-russia-war-drone-strikes-oil-refinery/33899022.html",
-   "date": "2026-11-15",
+   "outlet": "The Moscow Times",
+   "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
+   "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 7,
-   "outlet": "Hurriyet Daily News",
-   "title": "Moscow confirms Trump, Xi, Putin meeting in China",
-   "url": "https://www.hurriyetdailynews.com/moscow-confirms-trump-xi-putin-meeting-in-china-229413",
-   "date": "2026-11-15",
+   "outlet": "The War Zone",
+   "title": "Russia's Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
+   "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 8,
-   "outlet": "Times of Israel",
-   "title": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
-   "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
-   "date": "2026-11-15",
+   "outlet": "Bloomberg (via The Spokesman-Review)",
+   "title": "Ukraine hits Crimean Bridge in record drone strike on Russia",
+   "url": "https://www.spokesman.com/stories/2026/nov/16/ukraine-hits-crimean-bridge-in-record-drone-strike/",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 9,
-   "outlet": "Times of Israel",
-   "title": "Eisenkot said prioritizing efforts to form coalition with ultra-Orthodox",
-   "url": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/",
-   "date": "2026-11-14",
+   "outlet": "Al Jazeera",
+   "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+   "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 10,
-   "outlet": "RTÉ (Reuters)",
-   "title": "Senior Hamas commander killed in Israeli strike in Gaza",
-   "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/",
-   "date": "2026-11-15",
+   "outlet": "The Jerusalem Post",
+   "title": "Knesset speaker vote at risk of delays as Eisenkot bloc fears Likud-backed filibuster",
+   "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915135",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 11,
-   "outlet": "Al Jazeera",
-   "title": "Israeli air strike kills senior Hamas commander in Gaza",
-   "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
-   "date": "2026-11-15",
+   "outlet": "Reuters (via Yahoo News)",
+   "title": "First draft of COP31 deal signals tough negotiations to come",
+   "url": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 12,
-   "outlet": "Climate Home News",
-   "title": "COP31 Bulletin Day 6: Climate marchers call for justice as talks make limited progress",
-   "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
-   "date": "2026-11-14",
+   "outlet": "Hurriyet Daily News",
+   "title": "COP31 turns to ministers for deal on finance, energy",
+   "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 13,
-   "outlet": "Hurriyet Daily News",
-   "title": "Türkiye eyes ambitious climate outcome as COP31 enters final week",
-   "url": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417",
-   "date": "2026-11-15",
+   "outlet": "The National",
+   "title": "Nvidia earnings and Anthropic IPO lead crucial week for AI bulls",
+   "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/",
+   "date": "2026-11-16",
    "singleSource": false
   },
   {
@@ -343,42 +288,10 @@
   },
   {
    "id": 15,
-   "outlet": "TheStreet (via Yahoo Finance)",
-   "title": "Nvidia earnings — along with the baggage — top next week's markets",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html",
-   "date": "2026-11-15",
-   "singleSource": false
-  },
-  {
-   "id": 16,
-   "outlet": "Fox Business",
-   "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans 'war room': report",
-   "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report",
-   "date": "2026-11-15",
-   "singleSource": true
-  },
-  {
-   "id": 17,
-   "outlet": "Al Jazeera",
-   "title": "ASEAN summit: Who's attending and what's at stake?",
-   "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
-   "date": "2026-11-15",
-   "singleSource": false
-  },
-  {
-   "id": 18,
-   "outlet": "Yahoo Finance",
-   "title": "Trump is headed to China this week. Jensen Huang won't be on the trip, but Elon Musk will.",
-   "url": "https://au.finance.yahoo.com/news/trump-is-headed-to-china-this-week-jensen-huang-wont-be-on-the-trip-but-elon-musk-will-100000732.html",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 19,
-   "outlet": "AFP (via Business Recorder)",
-   "title": "Sudan army strike kills 15, including children: rights group, survivor",
-   "url": "https://www.brecorder.com/news/40449159/sudan-army-strike-kills-15-including-children-rights-group-survivor",
-   "date": "2026-11-16",
+   "outlet": "Business Standard",
+   "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
+   "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html",
+   "date": "2026-11-17",
    "singleSource": true
   }
  ]

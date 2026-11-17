@@ -1,59 +1,59 @@
 {
- "date": "2026-11-16",
- "summary": "Carney heads to China to meet Xi, saying Canada could turn to Chinese carmakers if US talks fail, as exports to China jump and October inflation data lands today.",
+ "date": "2026-11-17",
+ "summary": "Carney and Xi widen their trade deal in Shenzhen, with China dropping tariffs on Canadian pork and shrimp, while inflation held at 3.1% in October as gas and groceries rose.",
  "body": [
-  "Speaking in Cambodia, Prime Minister Mark Carney said a trade deal with the US is still his priority, but that its outcome could lead Canada to seek carmakers from Europe, China or Japan: \"It's not leverage. But action, reaction.\"[^1] Any Chinese investment would have to include real manufacturing, he said, \"not just about kit cars.\"[^1] Since January, Canada has let in up to 49,000 Chinese electric vehicles a year at a 6.1% tariff, a deal Ontario Premier Doug Ford has criticised.[^1] Carney meets Xi Jinping in Shenzhen on Tuesday morning China time, which is late Monday evening in Ontario, before the APEC summit.[^2]",
-  "The trade numbers explain the interest. Statistics Canada figures show exports to China reached $33.5 billion in the first nine months of 2026, up almost 40%, led by canola, beef, peas and crude oil, while imports from China were about flat at $68.8 billion.[^3] The trade minister's office aims to raise exports to China 50% by 2030; one analyst warns that depending on China \"opens us up to leverage and potential coercion.\"[^3] At the Francophonie summit, Carney also met Quebec Premier Paul St-Pierre Plamondon for the first time since Quebec elected a sovereigntist government; they agreed to hold regular talks.[^4]",
-  "At home, Statistics Canada releases October inflation at 8:30 a.m. today. Economists polled by Reuters expect 3.2%, up from 3.1%, well above the Bank of Canada's 2% target.[^5] The Bank raised its rate to 2.5% on Oct. 28 and decides again on Dec. 9; economists disagree on whether businesses will pass higher costs on to shoppers.[^5] For students, this affects prices for food, transit and part-time wages' buying power."
+  "Prime Minister Mark Carney met Chinese President Xi Jinping in Shenzhen on Tuesday, their second meeting this year.[^1] China will remove its 25% tariff on Canadian frozen pork and cold-water shrimp, plus some other seafood, worth about $400 million a year in exports, Carney's office says. China will also open its market to Canadian fava beans, chickpeas and lentils.[^1] In return, Canada will let 32 more kinds of Chinese steel and aluminum in without extra duties where Canadian supply falls short. Canola oil still faces a Chinese duty.[^1] Carney told Xi the two countries can \"work together more broadly, pragmatically\", while saying sensitive areas like critical minerals and AI stay off limits.[^1]",
+  "Not everyone likes the direction. Trump trade adviser Peter Navarro accused Carney on X of trying to play China off against the US.[^2] Carney says any Chinese car plant would have to bring real jobs; about 16,200 Chinese EVs have entered Canada since March under this year's quota.[^1] Carney also said he would raise foreign interference; China denies it interferes.[^2]",
+  "At home, Statistics Canada said inflation held at 3.1% in October, slightly below the 3.2% economists expected.[^3][^4] Gas was up 30.9% from a year ago, partly because prices were low last October, and grocery prices rose 2.0%, while phone plans got cheaper.[^3] Clothing jumped 3.4% in one month, the biggest rise since 2019, which StatCan links to higher shipping costs.[^3] Without energy, inflation was 2.0%. The Bank of Canada decides on rates again on Dec. 9.[^3][^5]"
  ],
- "differences": "Ottawa sees more trade with China as a way to rely less on the US; critics, including Doug Ford on the EV deal and analyst Vina Nadjibulla, warn it creates new risks.[^1][^3] Desjardins expects inflation to stay high as costs are passed on, while CIBC says profit margins will absorb much of it.[^5]",
+ "differences": "Ottawa presents the deal as practical trade with \"clear guardrails\"; Trump adviser Peter Navarro calls it an attempt to play China off the US, and rights activists were alarmed by Xi's call to set differences aside.[^1][^2]",
  "reads": [
   {
-   "title": "Canada's exports to China up almost 40 per cent since last year",
-   "outlet": "The Canadian Press (via Penticton Herald)",
-   "url": "https://www.pentictonherald.ca/news/national_news/article_24e8110e-c2e9-583d-8f22-4b1532454646.html",
+   "title": "Xi opens more pork access as Carney loosens steel restrictions during China visit",
+   "outlet": "The Canadian Press (via Chronicle-Journal)",
+   "url": "https://www.chroniclejournal.com/news/national/carney-meets-with-chinese-president-xi-in-shenzhen-china/article_62029b3f-fde0-5112-819d-124c0a27bdb4.html",
    "kind": "news",
-   "summary": "What Canada sells to China, how fast it is growing, and why some experts worry about depending on it."
+   "summary": "The full list of what Canada and China agreed in Shenzhen, from pork and lentils to steel, and what was left out, like canola oil."
   },
   {
-   "title": "Inflation expected to stay high as economists weigh risk of broadening price hikes",
-   "outlet": "The Canadian Press (via CP24)",
-   "url": "https://www.cp24.com/news/money/2026/11/13/inflation-expected-to-stay-high-as-economists-weigh-risk-of-broadening-price-hikes/",
+   "title": "The Daily — Consumer Price Index, October 2026",
+   "outlet": "Statistics Canada",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm",
    "kind": "news",
-   "summary": "Why economists expect inflation to stay above 3%, and how they disagree about what comes next for prices and interest rates."
+   "summary": "The official numbers behind October's 3.1% inflation, item by item, including what happened to prices in Ontario."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "Euronews",
-   "title": "Canada ready to turn to Chinese carmakers if US trade talks fail to protect auto sector, PM Carney says",
-   "url": "https://www.euronews.com/2026/11/16/canada-ready-to-turn-to-chinese-carmakers-if-us-trade-talks-fail-to-protect-auto-sector-pm",
-   "date": "2026-11-16",
+   "outlet": "The Canadian Press (via Chronicle-Journal)",
+   "title": "Xi opens more pork access as Carney loosens steel restrictions during China visit",
+   "url": "https://www.chroniclejournal.com/news/national/carney-meets-with-chinese-president-xi-in-shenzhen-china/article_62029b3f-fde0-5112-819d-124c0a27bdb4.html",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 2,
    "outlet": "The Canadian Press (via Yahoo News)",
-   "title": "In the news today: Carney to meet Xi, Chinese exports surge, GTA VI arrives",
-   "url": "https://ca.news.yahoo.com/news-today-carney-meet-xi-092513669.html",
-   "date": "2026-11-16",
+   "title": "Carney meets with President Xi in Shenzhen, China ahead of APEC summit",
+   "url": "https://ca.news.yahoo.com/carney-meets-president-xi-shenzhen-023952777.html",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "The Canadian Press (via Penticton Herald)",
-   "title": "Canada's exports to China up almost 40 per cent since last year",
-   "url": "https://www.pentictonherald.ca/news/national_news/article_24e8110e-c2e9-583d-8f22-4b1532454646.html",
+   "outlet": "Statistics Canada",
+   "title": "The Daily — Consumer Price Index, October 2026",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm",
    "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "The Canadian Press (via Chronicle-Journal)",
-   "title": "Carney takes his investment pitch to Francophonie summit in Cambodia",
-   "url": "https://www.chroniclejournal.com/news/national/carney-takes-his-investment-pitch-to-francophonie-summit-in-cambodia/article_711000dd-3566-54bd-8c84-0551eb441217.html",
-   "date": "2026-11-15",
+   "outlet": "Philippine Canadian Inquirer",
+   "title": "Canada's inflation holds at 3.1% in October as gas and grocery prices rise",
+   "url": "https://canadianinquirer.net/2026/11/17/canadas-inflation-holds-at-3-1-in-october-as-gas-and-grocery-prices-rise/",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
