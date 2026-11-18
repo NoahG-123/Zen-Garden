@@ -1,68 +1,60 @@
 {
- "date": "2026-11-17",
- "summary": "October retail sales grew just 0.4% and home prices fell again, as a robot factory shows China's push to mass-produce humanoids and the US closes a route to AI chips.",
+ "date": "2026-11-18",
+ "summary": "Shenzhen shows off robots and robotaxis to APEC visitors and China pushes AI safety talks, while weak spending and falling gig wages shape life outside the showrooms.",
  "body": [
-  "China's shoppers are still cautious. Official figures show retail sales rose only 0.4% in October from a year earlier, down from 1.1% in September and below forecasts, even with a week-long national holiday.[^1][^6] Factory output grew 4.8%, and investment in things like buildings and equipment fell 8.1% in the first ten months.[^1][^6] The statistics bureau said \"the imbalance between strong supply and weak demand persists\".[^1] Chinese state media says the consumer market is still expanding, pointing to faster growth in spending on services, and a bureau spokesperson said people's ability and willingness to spend need to be strengthened.[^2]",
-  "Housing, where most Chinese families keep their savings, is still sliding. New home prices fell 0.1% in October and 2.4% from a year earlier, the slowest yearly drop in almost a year.[^3] Shanghai was the only big city where prices rose, and an analyst told Reuters that ready-built homes buyers can \"see and touch\" have become prized after years of unfinished projects.[^3]",
-  "In Foshan, near Shenzhen, CNN got rare access to a Leju Robotics factory that aims to build up to 10,000 humanoid robots a year for factories and other jobs.[^4] Its engineering director said the hard part is not building one robot but building 10,000 to the same standard.[^4] Meanwhile, the US says that from Nov 19, firms in five countries including Singapore and Malaysia will need licences for advanced AI chips, to stop Chinese companies renting computing power from data centres abroad.[^5]"
+  "With world leaders in Shenzhen for APEC, the city is showing off its robots. In what locals call \"Robotics Valley\", more than 200 robot companies sit within a 30-minute drive, and showrooms display over 200 machines; one store manager says about 70% of visitors now come from abroad.[^1] At the APEC CEO Summit, which drew more than 2,000 delegates, Baidu's Robin Li said its Apollo Go robotaxis run or are being tested in Dubai, London and Hong Kong, and Xiaomi's Lei Jun said humanoid robots can now work an eight-hour factory shift.[^2] These claims come from company leaders and have not been independently tested.",
+  "Officials want to shape the rules too. The chair of this year's APEC senior officials, Chen Xu, said members reached \"an important consensus\" on the safe use of AI and discussed the role of data for the first time.[^3] This comes as the US tightens limits on Chinese access to advanced chips, and as Chinese AI shares fell after Nvidia's leadership crisis.[^3][^5]",
+  "Away from the showrooms, daily life is harder. October data showed retail sales up just 0.4% and urban unemployment at 5.1%, and the statistics bureau said \"domestic demand is still insufficient\".[^4] A Shenzhen delivery driver told the BBC, as cited by Streamline, that the city is \"not a magic place\" anymore, and a Reuters analysis cited there found ride-hailing drivers' wages fell 1.8% in 2025.[^4]"
  ],
- "differences": "The statistics bureau and state media stress stability and growth in services; foreign wire reports and analysts focus on weak spending and a property slump with \"little indication of price recovery\".[^1][^2][^3]",
+ "differences": "Company leaders and summit organisers present Shenzhen as a model of fast-moving technology; official data and workers quoted in foreign reports point to weak demand and squeezed incomes.[^1][^2][^4]",
  "reads": [
   {
-   "title": "Inside the Chinese factory building humanoid robots for the world",
-   "outlet": "CNN (via WKMG ClickOrlando)",
-   "url": "https://clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world",
+   "title": "China Hosts World Leaders in Shenzhen's AI Wonderland: What They Won't See",
+   "outlet": "Time News",
+   "url": "https://time.news/china-hosts-world-leaders-in-shenzhens-ai-wonderland-what-they-wont-see/",
    "kind": "news",
-   "summary": "A rare look inside a humanoid robot factory in Foshan: how the machines are built and tested, and why making thousands is harder than making one."
+   "summary": "A quick tour of Shenzhen's \"Robotics Valley\" during APEC week: underwater arms, humanoid robots and who is coming to look."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "AFP (via Free Malaysia Today)",
-   "title": "China's retail sales growth slows in October",
-   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/16/china-retail-sales-growth-slows-in-october",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 2,
-   "outlet": "Xinhua (Chinese state media)",
-   "title": "China's consumer market continues expansion, services gain traction",
-   "url": "https://english.news.cn/20261116/8f7ba34c26124b4288230327f7836c7f/c.html",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 3,
-   "outlet": "Reuters (via Investing.com)",
-   "title": "China's new home prices fall again in October; slowest annual decline in almost a year",
-   "url": "https://www.investing.com/news/economic-indicators/drop-in-chinas-new-home-prices-narrows-to-11month-low-5028306",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 4,
-   "outlet": "CNN (via WKMG ClickOrlando)",
-   "title": "Inside the Chinese factory building humanoid robots for the world",
-   "url": "https://clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world",
-   "date": "2026-11-15",
-   "singleSource": true
-  },
-  {
-   "id": 5,
-   "outlet": "Business Standard",
-   "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
-   "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html",
+   "outlet": "Time News",
+   "title": "China Hosts World Leaders in Shenzhen's AI Wonderland: What They Won't See",
+   "url": "https://time.news/china-hosts-world-leaders-in-shenzhens-ai-wonderland-what-they-wont-see/",
    "date": "2026-11-17",
    "singleSource": true
   },
   {
-   "id": 6,
-   "outlet": "Swarajya",
-   "title": "October Data Reveals China's Economic Momentum Weakening Across Retail, Industrial Output And Investment",
-   "url": "https://swarajyamag.com/news-brief/october-data-reveals-chinas-economic-momentum-weakening-across-retail-industrial-output-and-investment",
-   "date": "2026-11-16",
+   "id": 2,
+   "outlet": "BigGo Finance",
+   "title": "APEC CEO Summit Opens in Shenzhen: Baidu's Robin Li and CATL's Robin Zeng Share Stage as AI Computing Power Meets Electrification",
+   "url": "https://finance.biggo.com/news/3be924c5-23a7-4dd0-9f33-34cd741e1c09",
+   "date": "2026-11-17",
+   "singleSource": true
+  },
+  {
+   "id": 3,
+   "outlet": "Reuters (via Yahoo News)",
+   "title": "APEC focuses on safe, responsible AI use, China's ex-UN envoy says",
+   "url": "https://www.yahoo.com/news/articles/apec-focuses-safe-responsible-ai-035615854.html",
+   "date": "2026-11-17",
+   "singleSource": false
+  },
+  {
+   "id": 4,
+   "outlet": "Streamline",
+   "title": "China Showcases Shenzhen Robotics as New Data Signal Slowdown",
+   "url": "https://streamlinefeed.co.ke/news/china-showcases-shenzhen-robotics-as-new-data-signal-slowdown",
+   "date": "2026-11-17",
+   "singleSource": true
+  },
+  {
+   "id": 5,
+   "outlet": "Reuters (via Daily Maverick)",
+   "title": "China's access to some Nvidia chips in doubt as curbs gain traction in US",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-13-chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us.md",
+   "date": "2026-11-13",
    "singleSource": false
   }
  ]

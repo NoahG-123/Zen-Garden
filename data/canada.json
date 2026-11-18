@@ -1,67 +1,67 @@
 {
- "date": "2026-11-17",
- "summary": "Carney and Xi widen their trade deal in Shenzhen, with China dropping tariffs on Canadian pork and shrimp, while inflation held at 3.1% in October as gas and groceries rose.",
+ "date": "2026-11-18",
+ "summary": "At APEC, Carney courts Asian investment and says China ties are not Trump's top worry before meeting him; Ford pitches an Ontario-Quebec front against tariffs.",
  "body": [
-  "Prime Minister Mark Carney met Chinese President Xi Jinping in Shenzhen on Tuesday, their second meeting this year.[^1] China will remove its 25% tariff on Canadian frozen pork and cold-water shrimp, plus some other seafood, worth about $400 million a year in exports, Carney's office says. China will also open its market to Canadian fava beans, chickpeas and lentils.[^1] In return, Canada will let 32 more kinds of Chinese steel and aluminum in without extra duties where Canadian supply falls short. Canola oil still faces a Chinese duty.[^1] Carney told Xi the two countries can \"work together more broadly, pragmatically\", while saying sensitive areas like critical minerals and AI stay off limits.[^1]",
-  "Not everyone likes the direction. Trump trade adviser Peter Navarro accused Carney on X of trying to play China off against the US.[^2] Carney says any Chinese car plant would have to bring real jobs; about 16,200 Chinese EVs have entered Canada since March under this year's quota.[^1] Carney also said he would raise foreign interference; China denies it interferes.[^2]",
-  "At home, Statistics Canada said inflation held at 3.1% in October, slightly below the 3.2% economists expected.[^3][^4] Gas was up 30.9% from a year ago, partly because prices were low last October, and grocery prices rose 2.0%, while phone plans got cheaper.[^3] Clothing jumped 3.4% in one month, the biggest rise since 2019, which StatCan links to higher shipping costs.[^3] Without energy, inflation was 2.0%. The Bank of Canada decides on rates again on Dec. 9.[^3][^5]"
+  "At the APEC summit in Shenzhen, Prime Minister Mark Carney told business leaders that Canada is \"also a Pacific nation\" and pointed to Shenzhen's growth from a fishing village into a tech city as an example of what building fast can do.[^3] He asked Asian countries, including China, to invest in Canadian projects such as ports and pipelines, saying \"every port and corridor we build needs a partner\".[^1] Carney was due to meet Donald Trump later on Wednesday. He said China is \"not the top issue at all\" for Trump, because Canada mostly sells China canola, pork, seafood, gas and oil, \"not cutting-edge semiconductors\".[^1][^2] Since US talks broke down in August, the US has put 50% tariffs on about $20 billion of Canadian goods, and Canada has hit back with its own.[^2]",
+  "Carney also disputed Vladimir Putin, who arrived in Shenzhen saying Western sanctions on Russia were a thing of the past; Carney called them \"very real\".[^1] He said any trade deal with the US must be one \"in the interest of Canadians\".[^2]",
+  "Closer to home, Ontario Premier Doug Ford told a Montreal business audience of nearly 1,000 that Ontario and Quebec should work together against US tariffs. He said the two provinces make up 61% of Canada's population and 58% of its economy, and he called for lowering trade barriers between provinces.[^4] In Ottawa, the House of Commons continued debating the federal budget; the Conservatives argue the government is \"spending more, borrowing more\", but with a majority the government is expected to pass it.[^5]"
  ],
- "differences": "Ottawa presents the deal as practical trade with \"clear guardrails\"; Trump adviser Peter Navarro calls it an attempt to play China off the US, and rights activists were alarmed by Xi's call to set differences aside.[^1][^2]",
+ "differences": "Carney presents trade with China as low-risk commodities that need not trouble Washington; Trump trade adviser Peter Navarro has accused him of trying to \"play China off the U.S.\"[^2] On the budget, the government says it will bring growth, while the Conservatives say it means more borrowing.[^5]",
  "reads": [
   {
-   "title": "Xi opens more pork access as Carney loosens steel restrictions during China visit",
-   "outlet": "The Canadian Press (via Chronicle-Journal)",
-   "url": "https://www.chroniclejournal.com/news/national/carney-meets-with-chinese-president-xi-in-shenzhen-china/article_62029b3f-fde0-5112-819d-124c0a27bdb4.html",
+   "title": "CTV NEWS IN CHINA: Carney says China ties not top concern for Trump ahead of meeting",
+   "outlet": "CTV News (via CP24)",
+   "url": "https://www.cp24.com/news/canada/2026/11/18/ctv-news-in-china-carney-says-china-ties-not-top-concern-for-trump-ahead-of-meeting/",
    "kind": "news",
-   "summary": "The full list of what Canada and China agreed in Shenzhen, from pork and lentils to steel, and what was left out, like canola oil."
+   "summary": "Carney's pitch at APEC for Asian investment in Canadian ports and pipelines, and why he thinks China is not Trump's main worry."
   },
   {
-   "title": "The Daily — Consumer Price Index, October 2026",
-   "outlet": "Statistics Canada",
-   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm",
+   "title": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
+   "outlet": "Global News",
+   "url": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
    "kind": "news",
-   "summary": "The official numbers behind October's 3.1% inflation, item by item, including what happened to prices in Ontario."
+   "summary": "Ontario's premier makes a rare speech in Montreal on why the two biggest provinces should team up against US tariffs."
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "The Canadian Press (via Chronicle-Journal)",
-   "title": "Xi opens more pork access as Carney loosens steel restrictions during China visit",
-   "url": "https://www.chroniclejournal.com/news/national/carney-meets-with-chinese-president-xi-in-shenzhen-china/article_62029b3f-fde0-5112-819d-124c0a27bdb4.html",
-   "date": "2026-11-17",
+   "outlet": "CTV News (via CP24)",
+   "title": "CTV NEWS IN CHINA: Carney says China ties not top concern for Trump ahead of meeting",
+   "url": "https://www.cp24.com/news/canada/2026/11/18/ctv-news-in-china-carney-says-china-ties-not-top-concern-for-trump-ahead-of-meeting/",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 2,
-   "outlet": "The Canadian Press (via Yahoo News)",
-   "title": "Carney meets with President Xi in Shenzhen, China ahead of APEC summit",
-   "url": "https://ca.news.yahoo.com/carney-meets-president-xi-shenzhen-023952777.html",
-   "date": "2026-11-17",
+   "outlet": "AP (via News4JAX)",
+   "title": "Carney says Canada's growing trade ties with China are not a top concern for Trump",
+   "url": "https://www.news4jax.com/business/2026/11/18/carney-says-canadas-growing-trade-ties-with-china-are-not-a-top-concern-for-trump/",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "Statistics Canada",
-   "title": "The Daily — Consumer Price Index, October 2026",
-   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm",
-   "date": "2026-11-16",
-   "singleSource": false
-  },
-  {
-   "id": 4,
-   "outlet": "Philippine Canadian Inquirer",
-   "title": "Canada's inflation holds at 3.1% in October as gas and grocery prices rise",
-   "url": "https://canadianinquirer.net/2026/11/17/canadas-inflation-holds-at-3-1-in-october-as-gas-and-grocery-prices-rise/",
+   "outlet": "The Canadian Press (via Yahoo Finance)",
+   "title": "Carney tells Pacific Rim businesses that China's growth a model for Canada",
+   "url": "https://ca.finance.yahoo.com/news/carney-addressing-pacific-rim-business-152045243.html",
    "date": "2026-11-17",
    "singleSource": false
   },
   {
+   "id": 4,
+   "outlet": "Global News",
+   "title": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
+   "url": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
+   "date": "2026-11-17",
+   "singleSource": true
+  },
+  {
    "id": 5,
-   "outlet": "The Canadian Press (via CP24)",
-   "title": "Inflation expected to stay high as economists weigh risk of broadening price hikes",
-   "url": "https://www.cp24.com/news/money/2026/11/13/inflation-expected-to-stay-high-as-economists-weigh-risk-of-broadening-price-hikes/",
-   "date": "2026-11-13",
+   "outlet": "The Hub",
+   "title": "Parliament Today: Budget tax motions and the budget debate before the House",
+   "url": "https://thehub.ca/2026/11/17/parliament-today-budget-tax-motions-and-the-budget-debate-before-the-house/",
+   "date": "2026-11-17",
    "singleSource": false
   }
  ]

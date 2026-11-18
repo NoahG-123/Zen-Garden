@@ -1,277 +1,321 @@
 {
- "date": "2026-11-17",
- "summary": "Iran talks in Oman as tankers burn near Hormuz, Ukraine hits the Crimean Bridge, Israel's Knesset picks a speaker, COP31 drafts a deal, and AI faces a big test week.",
+ "date": "2026-11-18",
+ "summary": "Xi greets Trump in Shenzhen before a three-way summit with Putin, the US strikes Iran's Qeshm Island, Israel gets a new speaker, Nvidia doubles sales and COP31 splits.",
  "question": {
-  "type": "how-do-we-know",
-  "text": "Russia says it shot down 1,336 drones in one night and calls the Crimean Bridge damage minor; the IRGC says it hit a US radar that Bahrain says was never touched. When only one side can count, what would convince you a number is true?"
+  "type": "who-benefits",
+  "text": "Xi met Trump on the tarmac, and Putin gets a seat at the same table as the US president. Leaving aside any deal they sign, who gains most just from the photo of these three leaders together, and who might feel left out of the room?"
  },
  "read": {
-  "title": "Five Features of APEC to Know About With Trump, Putin, and Xi Set to Attend",
-  "outlet": "Reuters (via The China-Global South Project)",
-  "url": "https://chinaglobalsouth.com/analysis/apec-summit-2026-china-shenzhen-trump-xi-putin/",
+  "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+  "outlet": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
   "kind": "analysis",
-  "minutes": 6,
-  "summary": "A short guide to this week's APEC summit in Shenzhen: who the 21 members are, who is coming, and the issues from Hormuz to Taiwan and trade that could shape it."
+  "minutes": 8,
+  "summary": "A clear explainer on Thursday's first three-way meeting: why nuclear arms are on the agenda after New START lapsed, how Iran and Ukraine fit in, and what experts expect."
  },
  "weeklyRead": null,
  "topics": [
   {
-   "id": "iran-muscat-tanker-hormuz",
-   "heading": "Iran's foreign minister holds talks in Oman as more tankers are hit near Hormuz",
-   "date": "2026-11-17",
+   "id": "xi-greets-trump-shenzhen-trilateral",
+   "heading": "Xi meets Trump at Shenzhen's airport before a first three-way summit with Putin",
+   "date": "2026-11-18",
    "status": "developing",
-   "summary": "Abbas Araghchi met Oman's foreign minister in Muscat, who called the talks \"constructive\", while tankers were struck near the Strait of Hormuz and the IRGC claimed a third drone attack on a US radar in Bahrain.[^2][^3][^4] US Vice President JD Vance said Trump will not let the war become a \"forever war\".[^1]",
+   "summary": "Xi Jinping personally greeted Donald Trump on the tarmac in Shenzhen on Wednesday, a rare gesture, as Vladimir Putin also arrived for APEC.[^1][^2] The three leaders are due to hold their first joint meeting on Thursday, with nuclear arms on the agenda.[^3][^4]",
    "lead": {
-    "title": "Vance says Trump will avoid 'forever war' in Iran",
-    "outlet": "IANS (via The Morung Express)",
-    "url": "https://www.morungexpress.com/vance-says-trump-will-avoid-forever-war-in-iran",
-    "date": "2026-11-17"
+    "title": "China's Xi greets Trump on arrival at Shenzhen airport",
+    "outlet": "AFP (via Business Recorder)",
+    "url": "https://www.brecorder.com/news/40449541/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport",
+    "date": "2026-11-18"
    },
    "alsoReported": [
     {
-     "title": "Middle East conflict: Tanker incident near Hormuz as Vance rules out 'forever war'",
-     "outlet": "Gulf News",
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
+     "title": "Xi greets Trump at Shenzhen airport ahead of historic trilateral summit",
+     "outlet": "The Standard (Hong Kong)",
+     "url": "https://www.thestandard.com.hk/china/article/348894/Xi-greets-Trump-at-Shenzhen-airport-ahead-of-historic-trilateral-summit"
     },
     {
-     "title": "Live Updates: Iran's Revolutionary Guard claims another attack on U.S. radar system in Bahrain",
-     "outlet": "CBS News",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+     "title": "Xi Jinping Greets Trump at Airport in Unusual Gesture, Accompanied by Military Flypast",
+     "outlet": "SBS News",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852573"
+    }
+   ],
+   "eventId": "us-politics-economy",
+   "article": [
+    "Donald Trump landed in Shenzhen on Wednesday for the Asia-Pacific Economic Cooperation (APEC) summit, a yearly meeting of 21 Pacific Rim economies. Chinese President Xi Jinping greeted him at the foot of the Air Force One stairs, AFP reported, on a red carpet lined with people waving Chinese and American flags.[^1] South Korea's SBS called it \"an exceptional display of courtesy\": Chinese leaders do not usually meet visitors at the airport.[^3] Hong Kong's The Standard noted that Trump had done the same for Xi in Washington in September.[^2]",
+    "Russian President Vladimir Putin also arrived on Wednesday and was met by Cai Qi, one of China's top leaders.[^2] On Thursday, Trump and Xi hold a two-way meeting on trade and technology export controls, and then the three leaders meet together for the first time.[^3]",
+    "The White House says the three-way talks will focus on nuclear weapons. The last US-Russia arms control treaty, New START, lapsed in February, and Trump wants a new deal that includes China.[^4] Beijing has called three-way nuclear talks \"neither fair, reasonable, nor realistic\" for China, TIME reports.[^5] A senior US official told Reuters, as cited by Al Jazeera, that they \"do not expect to get any kind of agreement\".[^4] US officials say Ukraine is unlikely to come up, though some analysts expect it will.[^4][^5]",
+    "Why it matters: the US, China and Russia hold most of the world's nuclear weapons, and all three are tied to the wars in Ukraine and Iran. Some Russian officials have compared the meeting to Yalta, the 1945 conference where great powers shaped post-war Europe; TIME argues it will not be that, but that the picture of three leaders together still sends a signal.[^4][^5]",
+    "My read: expect warm images and few signed commitments. The more useful things to watch are smaller steps, such as whether the US-China trade truce is extended or whether any talks on nuclear risk are set up.[^4]"
+   ],
+   "differences": "China's foreign ministry has hailed the meeting's \"groundbreaking significance\" but rejects being pulled into nuclear limits on the same terms as the US and Russia.[^5] US officials say Ukraine is not expected to be discussed; a Russian lawmaker spoke of a possible \"new Yalta\", and analysts quoted by TIME say Ukraine will come up anyway.[^4][^5]"
+  },
+  {
+   "id": "us-strikes-qeshm-hormuz-mines",
+   "heading": "US strikes an Iranian missile site on Qeshm Island after ships hit mines near Hormuz",
+   "date": "2026-11-17",
+   "status": "developing",
+   "summary": "US jets struck Iranian missile launch sites on Qeshm Island on Tuesday, which US officials called self-defence after IRGC drone attacks.[^6][^7] Iran says at least five ships hit mines on routes it calls \"unauthorised\", and an Adnoc ship crewman is missing.[^7][^8]",
+   "lead": {
+    "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won't Become 'Forever War'",
+    "outlet": "TIME",
+    "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/",
+    "date": "2026-11-18"
+   },
+   "alsoReported": [
+    {
+     "title": "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
+     "outlet": "Euronews",
+     "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz"
+    },
+    {
+     "title": "Adnoc L&S ship attacked at Strait of Hormuz with one crew member missing",
+     "outlet": "The National",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/"
     }
    ],
    "eventId": "iran-war",
    "article": [
-    "Iran's Foreign Minister Abbas Araghchi arrived in Muscat early Tuesday and met Oman's foreign minister, Badr Albusaidi.[^2] Albusaidi wrote on X that it was \"a constructive meeting\" and that the two discussed current diplomatic efforts and the need for \"de-escalation and peaceful solutions\".[^3] Oman has long carried messages between Tehran and Washington. The day before, the Trump administration called Iran's seven conditions for a deal \"unacceptable\", according to CBS News.[^4]",
-    "The fighting around the Strait of Hormuz, the narrow sea lane that carries much of the Gulf's oil, continued. The UK's maritime security agency (UKMTO) said a tanker about 7 nautical miles north of Khasab, Oman, was attacked on Monday evening and set on fire, and that a second strike hit it on Tuesday.[^2] Iran's navy said one tanker had hit a mine, while UKMTO described an \"unknown projectile\".[^4] India's ports minister said all 24 Indian sailors aboard another hit tanker, the Tara Gas, were safe.[^2]",
-    "On Tuesday morning the Revolutionary Guards (IRGC) said their drones attacked a US-run radar at Sheikh Isa Air Base in Bahrain, their third such claim since Friday. Bahrain's state TV said the attack was thwarted.[^2][^4] Iran also says inspectors from the UN nuclear watchdog will not get into its main nuclear sites until \"the war has permanently ended\".[^4]",
-    "In Washington, Vance told Fox News that the US will not let the conflict become \"a 10- or 15-year commitment, or frankly even a two-year commitment\", but he gave no end date.[^1] Oil fell slightly on Monday, with Brent at about $95 a barrel, still well above the roughly $72 it cost before the war began in late February.[^4]",
-    "My read: Tuesday shows two tracks running at once, quiet diplomacy through Oman and steady pressure at sea. Xi Jinping hosts Trump and Putin in Shenzhen on Nov 19, and China's Middle East envoy has just visited Iran, Oman and Saudi Arabia, so the next signal may come from there.[^1]"
+    "On Tuesday evening, US warplanes struck an Iranian missile launch site on Qeshm Island, which sits in the Strait of Hormuz, the narrow sea lane for much of the Gulf's oil.[^6] An unnamed US official described the strikes as \"self-defense\" against attacks by Iran's Revolutionary Guards (IRGC) on American personnel and assets.[^6] Iranian state media reported five to six explosions; a provincial official said there was no damage to homes, shops or infrastructure.[^7]",
+    "Earlier that day the IRGC said its drones attacked a US radar at a base in Bahrain. US Central Command said the drones were intercepted with no damage or injuries.[^6][^7] The IRGC also claimed it shot down a US Predator drone near Qeshm, a claim Euronews could not verify.[^7] Early on Wednesday, Kuwait's armed forces reported drone attacks, and Iran claimed it targeted a base there.[^6]",
+    "At sea, Euronews reports that at least five ships hit naval mines while using routes Iran calls \"unauthorised\"; Iran's army says safe passage \"requires coordination\" with its forces.[^7] The UAE shipping company Adnoc L&S said one of its vessels was attacked in the strait on Tuesday evening: 11 crew were injured and one is missing.[^8]",
+    "The background: the war began in late February, and Iran has restricted traffic through Hormuz since then, while the US blockades Iran's ports.[^6][^7] Vice President JD Vance said on Monday that Trump \"is not going to let this become a forever war\", but talks through Oman and Qatar have not produced a deal.[^6]",
+    "My read: each side describes its own strikes as a response to the other, which makes a slow cycle of tit-for-tat likely. Watch whether Iran comes up at Thursday's meeting in Shenzhen; China buys much of the oil that used to pass through the strait.[^6]"
    ],
-   "differences": "Accounts of the tanker attacks differ: Iran's navy blames sea mines, UKMTO reported an unknown projectile, and Gulf News described a missile attack on the Tara Gas.[^2][^4] The IRGC says its drones hit a US radar in Bahrain; Bahrain says it stopped the attack.[^2][^4]"
+   "differences": "US officials call the Qeshm strikes self-defence; the IRGC says its attacks answer US drone flights over Iranian airspace.[^6][^7] The IRGC says it hit a US radar and downed a US drone; US Central Command says the Bahrain drones were stopped without damage, and the drone claim is unverified.[^6][^7]"
   },
   {
-   "id": "ukraine-crimean-bridge-record-drones",
-   "heading": "Ukraine hits the Crimean Bridge during what Russia calls the war's biggest drone attack",
-   "date": "2026-11-16",
-   "status": "confirmed",
-   "summary": "Ukrainian drones struck the bridge linking Russia to occupied Crimea on Monday. Russia says it downed 1,336 drones overnight, a record, and calls the bridge damage minor; footage suggests visible damage to one span.[^6][^7] Russian strikes left over 52,000 households in Odesa region without power.[^8]",
-   "lead": {
-    "title": "Ukraine strikes Crimean Bridge in record drone attack",
-    "outlet": "The Irish Times (Financial Times)",
-    "url": "https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/",
-    "date": "2026-11-16"
-   },
-   "alsoReported": [
-    {
-     "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
-     "outlet": "The Moscow Times",
-     "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265"
-    },
-    {
-     "title": "Russia's Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
-     "outlet": "The War Zone",
-     "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
-    }
-   ],
-   "eventId": "ukraine-war",
-   "article": [
-    "Early on Monday, Ukrainian drones hit the Crimean Bridge, also called the Kerch Bridge, which connects Russia to the Crimean peninsula that Russia annexed in 2014.[^5][^7] Crimea's Russian-installed governor, Sergei Aksyonov, restricted road traffic until at least midday, and rail traffic resumed later that morning.[^5][^6] Kremlin spokesman Dmitry Peskov called the damage \"minor\".[^6]",
-    "Not everyone agrees. The War Zone, a US defence site, said Russian state TV footage showed a deformed road span and that satellite images showed damage near one arch, though the full extent was unclear.[^7] It also reported that about 2,000 vehicles were stuck in queues before the bridge reopened in one direction.[^7] The bridge matters because it is a key supply route for Russian forces in southern Ukraine; Ukraine has struck it several times since a truck bomb in October 2022.[^5]",
-    "Russia's defence ministry said it shot down 1,336 drones overnight, the most of the war, and 2,049 over 24 hours, including some cruise missiles. These figures could not be independently checked.[^7] Moscow's mayor said about 600 drones flew toward the capital.[^6] Ukraine says it hit the Ilsky oil refinery in southern Russia, and President Volodymyr Zelenskyy says Ukraine has disabled over 55% of Russia's refining capacity, a claim Bloomberg could not verify.[^8]",
-    "Russia kept hitting Ukraine's power system too. Strikes on energy sites in Dnipro, Zaporizhzhia and Cherkasy killed at least two people, and more than 52,000 households in Odesa region lost power, local officials and the energy company DTEK said.[^8]",
-    "Peace talks in Abu Dhabi last week brought no real progress.[^8] A Kremlin aide says a Putin-Trump meeting is being arranged and that ending the war is among the agreed topics, while US officials say Ukraine is not expected to feature in the three-way meeting with Xi on Nov 19.[^7][^8]"
-   ],
-   "differences": "Russia calls the bridge damage minor; The War Zone points to footage and satellite images showing a deformed span.[^6][^7] Drone totals come only from Russia's defence ministry and are unverified.[^7] On the Nov 19 summit, the Kremlin says Ukraine is on the agenda for a Putin-Trump meeting; US officials say the war is not expected to come up in the three-way talks.[^7][^8]"
-  },
-  {
-   "id": "knesset-speaker-vote-eisenkot",
-   "heading": "Israel's Knesset votes on a new speaker in the first test of Eisenkot's bloc",
+   "id": "knesset-elects-kahana-speaker",
+   "heading": "Israel's Knesset elects Eisenkot ally Matan Kahana as speaker, 66 to 52",
    "date": "2026-11-17",
-   "status": "developing",
-   "summary": "Gadi Eisenkot's bloc, backed by Arab-led parties, wants to replace a Netanyahu ally as Knesset speaker with Matan Kahana in a vote set for Tuesday evening.[^9] Its allies fear Likud may delay the vote with a long speech.[^10]",
+   "status": "confirmed",
+   "summary": "After hours of delaying speeches by Netanyahu's bloc, the Knesset elected Yashar's Matan Kahana over Likud's Ofir Katz, with the support of Arab-led parties.[^9][^10] It is the first big parliamentary win for the bloc led by Gadi Eisenkot.[^9]",
    "lead": {
-    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role",
+    "title": "Knesset votes 66-52 to elect Yashar's Matan Kahana as speaker, in boost to Eisenkot bloc",
+    "outlet": "The Times of Israel",
+    "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/",
     "date": "2026-11-17"
    },
    "alsoReported": [
     {
-     "title": "Knesset speaker vote at risk of delays as Eisenkot bloc fears Likud-backed filibuster",
+     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+     "outlet": "Al Jazeera (AFP and AP)",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+    },
+    {
+     "title": "Shas to back Likud's Ofir Katz in Knesset speaker vote as counter to Yashar's Kahana",
      "outlet": "The Jerusalem Post",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915135"
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171"
     }
    ],
    "eventId": "gaza",
    "article": [
-    "Israel's new parliament, the 26th Knesset, was sworn in on Nov 10 after an election that went against Prime Minister Benjamin Netanyahu's camp.[^9] Netanyahu stays on as caretaker prime minister while coalition talks continue. On Tuesday, members vote on a new speaker, and Gadi Eisenkot's bloc has nominated Matan Kahana of his Yashar party.[^9]",
-    "The speaker sounds like a procedural job, but it carries real power: the speaker sets parliament's agenda, runs debates and can call a confidence vote on the government.[^9] Arab-led parties have said they will back Kahana. Joint List leader Ahmad Tibi told Al Jazeera they want to remove \"the Netanyahu coalition as soon as possible\".[^9]",
-    "Procedure could slow things down. The Jerusalem Post, citing Israel's N12 News, reports that Eisenkot's camp fears a Likud minister could speak for hours to push the vote late into the night.[^10] Debate was due to start at 4 p.m. with a vote expected around 8 p.m.; Likud officials called Yashar's plan to limit speeches \"a heavy-handed measure\".[^10]",
-    "If Kahana wins, the opposition plans bills to set up an independent inquiry into the October 7, 2023 attack, restore the attorney general's powers, undo changes that weakened the courts, and limit prime ministers to two terms, which would rule out Netanyahu.[^9] My read: a win would show Eisenkot can command a majority even before he forms a government, which may change how Likud approaches unity talks."
+    "Late on Tuesday, Israel's parliament voted 66 to 52 to make Matan Kahana, of Gadi Eisenkot's Yashar party, its speaker. He replaces Amir Ohana of Benjamin Netanyahu's Likud party.[^9] The vote came after six to seven hours of debate, much of it filibustering, meaning long speeches meant to delay a decision, by Netanyahu's camp.[^9][^10]",
+    "Kahana won with the four parties in Eisenkot's bloc plus the Arab-majority Ra'am and Joint List; together they hold 67 of the 120 seats, and one member was absent.[^9] Earlier on Tuesday, Kahana had rejected an offer from Finance Minister Bezalel Smotrich to back him if he kept Arab parties out of the deputy speaker posts, calling it \"anti-statesmanlike\".[^11] In the end, two Arab members were among nine deputy speakers.[^9]",
+    "In his first speech, Kahana said that until a new government reforms the system \"with broad consensus\", the Knesset will obey the courts' rulings, and he promised to be speaker \"for all of them\".[^9] Likud called the vote \"an eternal disgrace\", saying he was elected with \"the votes of terror supporters\".[^9]",
+    "Why it matters: the speaker controls Parliament's agenda. Eisenkot's bloc wants to undo Netanyahu's changes to the courts and set up a state inquiry into the October 7, 2023 attack; Netanyahu has refused an independent inquiry.[^10] Neither bloc won a majority in the October 27 election, and talks on a unity government look, in Al Jazeera's words, \"largely a formality\".[^10]",
+    "My read: the vote shows Eisenkot can gather a majority with Arab-led parties' support, but forming a government with them is a harder step. Times of Israel, citing Ynet, reports the bloc agreed not to move on the court laws until Monday.[^9]"
    ],
-   "differences": "Eisenkot's camp says the speaker vote is an internal matter of parliament that does not justify unlimited speeches; Likud officials say limiting debate is heavy-handed.[^10]"
+   "differences": "Eisenkot says the Knesset will return to being \"the house of the people, of all the people\"; Likud, Smotrich and Ben Gvir condemned the result, objecting to the role of Arab-led parties.[^9]"
   },
   {
-   "id": "cop31-first-draft-fossil-fuels",
-   "heading": "COP31's first draft deal leaves fossil fuels and climate finance wide open",
-   "date": "2026-11-16",
-   "status": "developing",
-   "summary": "Negotiators in Antalya released an 18-page draft text with two options on fossil fuels, \"transitioning away\" or \"phase out\", and open fights over finance and a 35% electricity target.[^11] Ministers now take over, with talks due to end Friday.[^12]",
-   "lead": {
-    "title": "First draft of COP31 deal signals tough negotiations to come",
-    "outlet": "Reuters (via Yahoo News)",
-    "url": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html",
-    "date": "2026-11-16"
-   },
-   "alsoReported": [
-    {
-     "title": "COP31 turns to ministers for deal on finance, energy",
-     "outlet": "Hurriyet Daily News",
-     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
-    }
-   ],
-   "eventId": null,
-   "article": [
-    "The UN climate summit COP31 in Antalya, Turkey, entered its final week on Monday with a first draft of the final deal.[^11] Talks began on Nov 9 with almost 200 countries. Turkey hosts and Australia leads the negotiations under a shared arrangement agreed after a dispute over hosting.[^12]",
-    "The 18-page draft gives two choices on fossil fuels: repeating the 2023 promise of \"transitioning away\" from them, or a stronger call to \"phase out\" coal, oil and gas. Both could be dropped from the final text.[^11] It also marks disagreement over Turkey's proposal that electricity should provide 35% of the world's energy use by 2035, up from about 20% now, and over how much rich countries should pay to help poorer ones adapt to climate change.[^11][^12]",
-    "The splits are familiar. The Arab Group said it will not accept global targets imposed from above or targets for specific sectors or energy sources, while the EU, Pacific island states and the least developed countries backed the presidency's approach.[^12] Australian minister Chris Bowen, who leads the talks, said the final deal will not look exactly like the draft but that it is right for it to discuss fossil fuels.[^11] An analyst at the think tank E3G said the approach looks like putting everything in and letting countries fight over the trade-offs.[^11]",
-    "Why it matters: a UN report last month said the world is on track to pass 1.5C of warming, the limit set in the Paris Agreement.[^11] COP decisions need consensus, so one bloc can block wording. My read: expect the fossil fuel language to be the last thing settled, and the talks may run past Friday, as UN climate summits often do.[^11]"
-   ],
-   "differences": "Oil-producing Arab states reject global or sector-specific targets; the EU, Pacific island states and the poorest countries support the presidency's push for stronger outcomes.[^12]"
-  },
-  {
-   "id": "ai-week-nvidia-anthropic-chip-rule",
-   "heading": "Nvidia reports without its founder as Anthropic prices its IPO and US tightens chip rules",
+   "id": "nvidia-results-interim-ceo",
+   "heading": "Nvidia's revenue doubles in its first report since Jensen Huang's exit",
    "date": "2026-11-17",
-   "status": "developing",
-   "summary": "Nvidia reports results on Tuesday under interim CEO Colette Kress after Jensen Huang's resignation, and Anthropic plans to price its IPO on Wednesday at a valuation of up to $1.45 trillion.[^13][^14] The US says new rules from Nov 19 will limit Chinese access to AI chips through foreign data centres.[^15]",
+   "status": "confirmed",
+   "summary": "Nvidia reported $115.8 billion in quarterly revenue, up 103% from a year earlier, and forecast $130 billion next quarter.[^12] Its chairman said the board will not bring back Jensen Huang, who says he would return if asked.[^13]",
    "lead": {
-    "title": "Nvidia earnings and Anthropic IPO lead crucial week for AI bulls",
-    "outlet": "The National",
-    "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/",
-    "date": "2026-11-16"
+    "title": "Nvidia posts strong Q3, ups Q4, fiscal 2028 outlook amid Huang resignation",
+    "outlet": "Constellation Research",
+    "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation",
+    "date": "2026-11-17"
    },
    "alsoReported": [
     {
-     "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
-     "outlet": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
-    },
-    {
-     "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
-     "outlet": "Business Standard",
-     "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html"
+     "title": "Nvidia Signals Business as Usual Under Interim CEO",
+     "outlet": "PYMNTS",
+     "url": "https://www.pymnts.com/earnings/2026/nvidia-signals-business-as-usual-under-interim-ceo/"
     }
    ],
    "eventId": "ai-race",
    "article": [
-    "Nvidia, which makes about 90% of the most advanced AI chips, reports quarterly results on Tuesday.[^13] It is its first report since Jensen Huang resigned as CEO last week amid reports linking him to a person US authorities suspect of ties to Chinese intelligence. Finance chief Colette Kress is interim CEO while the board searches for a replacement.[^13][^14] Analysts expect revenue of about $109 billion, up roughly 90% from a year earlier.[^13]",
-    "On Wednesday, Anthropic, the company that makes the Claude AI models (including the one writing this brief), plans to price its share sale. It is offering 825 million shares at $70 to $78, valuing the company at $1.3 to $1.45 trillion, with trading on the Nasdaq from Thursday.[^13][^14] Anthropic reported $33.2 billion in revenue in the first nine months of 2026, along with a large accounting loss.[^13]",
-    "Washington is also changing the rules. The Commerce Department says companies in Singapore, Malaysia, Thailand, Indonesia and Brazil will need US licences for advanced AI chips from Nov 19, to stop Chinese firms renting computing power from data centres abroad.[^15] Business Standard, citing Nikkei Asia, reports that such remote access could make up a quarter of China's AI computing power by the end of 2026.[^15]",
-    "Why it matters: AI spending now moves stock markets, pension funds and energy use. Some analysts say strong results could reassure investors; others warn the Huang affair \"hasn't hit its bottom yet\".[^13][^14] My read: this week will be read as a test of whether investors still trust the AI boom, but one week of numbers will not settle that."
+    "Nvidia, whose chips power most advanced AI systems, reported results on Tuesday for the quarter ending October 25. Revenue was $115.8 billion, up 103% from a year earlier, and $107.6 billion of that came from data centres.[^12] Constellation Research said Wall Street had expected about $108.7 billion.[^13] The company forecast about $130 billion for the next quarter, not counting any data-centre sales to China.[^12]",
+    "This was the first report since Jensen Huang, who co-founded Nvidia, resigned as CEO last week. Reuters has reported that he had a relationship with a businesswoman whom US authorities suspect of spying for Beijing; Beijing denies she is a spy.[^20] Finance chief Colette Kress is interim CEO and told investors \"Our momentum is real.\"[^12] Chairman Harvey Jones said the board does not intend to reinstate Huang; Huang wrote on X that he would be honoured to return if the board asked.[^13]",
+    "Kress said the company's new Vera Rubin chips brought in nearly $20 billion in their first quarter of shipping and that AI \"agents\", software that carries out tasks on its own, now use most of the computing it tracks.[^14] Nvidia also added $150 billion to its share buyback plan.[^12] Even so, its shares had fallen 28% in the month before the report.[^13]",
+    "Why it matters: AI spending is now a large part of the stock market and of electricity demand, so Nvidia's numbers are read as a test of the whole AI boom. On Wednesday, Anthropic, the company that makes the Claude models (including the one writing this brief), is due to price its stock market listing.[^15] My read: strong sales answer the question of demand, but not the open questions about Huang's exit, which Constellation expects to bring investigations and lawsuits.[^13]"
    ],
-   "differences": "Some strategists see Nvidia's results and Anthropic's listing as possible boosts for AI stocks; a Baird analyst warns of more fallout from the leadership crisis, including possible fines and write-downs.[^13][^14]"
+   "differences": "Nvidia's leadership says the business is unaffected by the change at the top; Constellation's analyst expects investigations and shareholder lawsuits over the Huang affair.[^12][^13]"
+  },
+  {
+   "id": "cop31-draft-deal-tensions",
+   "heading": "COP31's first draft deal draws criticism from the EU and oil producers",
+   "date": "2026-11-17",
+   "status": "developing",
+   "summary": "The EU's climate envoy said the 18-page draft \"needs significant change\", while small island states push for a fossil fuel phase-out and Saudi Arabia denies trying to delay climate science.[^16][^17] Talks in Antalya are due to end Friday.[^16]",
+   "lead": {
+    "title": "Tensions rise over draft climate deal at COP31",
+    "outlet": "Al Jazeera (AFP)",
+    "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31",
+    "date": "2026-11-17"
+   },
+   "alsoReported": [
+    {
+     "title": "COP31 draft deal draws criticism as deadline nears",
+     "outlet": "Turkish Minute (AFP)",
+     "url": "https://turkishminute.com/2026/11/17/cop31-draft-deal-draws-criticism-as-deadline-nears/"
+    },
+    {
+     "title": "COP31 draft deal calls for 'accelerated action' to exit fossil fuels",
+     "outlet": "AFP (via Business Recorder)",
+     "url": "https://www.brecorder.com/news/40449298/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels"
+    }
+   ],
+   "eventId": null,
+   "article": [
+    "At the UN climate summit COP31 in Antalya, Turkey, the first draft of the main political deal, called the \"cover decision\", met criticism on Tuesday.[^16] Australia, which chairs the negotiations, published the 18-page text on Monday. It calls for \"accelerated action to phase out fossil fuels\", asks countries to raise electricity's share of energy use to 35% by 2035, and calls on rich countries to reach net zero emissions by 2030, a target few could meet.[^18]",
+    "The EU's envoy, Wopke Hoekstra, said the draft \"does not go in the right direction and needs significant change\" and later compared it to a shopping list.[^16][^17] Antigua and Barbuda's environment minister said he wants a firm commitment to phase out fossil fuels but expects consensus to be hard.[^16] Brazil's environment minister said it is \"very easy to draw red lines at the start\" and that rewording can break deadlocks.[^16]",
+    "A second fight is about science. Dozens of European, African and Pacific states want the next big report from the IPCC, the UN's panel of climate scientists, published before a global review in 2028. Saudi Arabia and India are accused of pushing to delay it to 2029; Saudi Arabia says it is not trying to delay climate science.[^16][^17] The chair of the small island states' group called the delay \"unjustifiable\".[^17]",
+    "Why it matters: COP decisions need consensus, so a single country can block the final text.[^16] Developing countries also want rich nations to triple money for adapting to climate change to at least $120 billion.[^18] Chris Bowen, the Australian minister running the talks, says at least one more draft is coming.[^16] My read: the final deal is likely to be shorter and vaguer than this draft, and the talks could run past Friday."
+   ],
+   "differences": "The EU says the draft is too broad to work; Brazil says early red lines can be negotiated away; small island states want stronger fossil fuel language; Saudi Arabia rejects claims it is delaying the next IPCC report.[^16][^17]"
+  },
+  {
+   "id": "ebola-congo-six-months",
+   "heading": "Six months on, Congo's Ebola outbreak passes 11,000 cases and is still not contained",
+   "date": "2026-11-16",
+   "status": "developing",
+   "summary": "Congo's worst Ebola outbreak has more than 11,000 cases, and nearly half of those infected have died, AP reports.[^19] Africa's health agency says most new cases are found outside the health system's tracking.[^19]",
+   "lead": {
+    "title": "Ebola outbreak remains out of control six months into response",
+    "outlet": "AP (via Jamaica Gleaner)",
+    "url": "https://www.jamaica-gleaner.com/article/world-news/20261116/ebola-outbreak-remains-out-control-six-months-response",
+    "date": "2026-11-16"
+   },
+   "alsoReported": [],
+   "eventId": null,
+   "article": [
+    "Six months after it was declared in mid-May, the Ebola outbreak in the Democratic Republic of the Congo \"remains out of control\", AP reports. Government data show more than 11,000 cases, and nearly half of the people infected have died.[^19] It is the deadliest of Congo's 17 Ebola outbreaks and has spread to eight of its 26 provinces, with cases also confirmed in Nigeria, Kenya and Uganda.[^19]",
+    "Ebola is a virus that spreads through contact with the body fluids of a sick person. The Africa Centres for Disease Control and Prevention (Africa CDC) says 80% of new cases are found outside the health surveillance system, and a third of deaths happen at home or in the community, which makes the chains of infection hard to trace.[^19] The main hotspots, Ituri and North Kivu, are also areas of armed conflict, and health workers have been attacked and have gone on strike over unpaid wages.[^19]",
+    "Children are badly affected: UNICEF says they made up 35% of deaths through November 4.[^19] Africa CDC has also raised concern about more than $700 million in aid that is unaccounted for, and the charity Doctors Without Borders points to a gap between the money raised and what reaches patients.[^19]",
+    "Why it matters: experts quoted by AP see little chance of controlling the outbreak within the next year, and it is on track to pass the roughly 11,000 deaths of the 2014-2016 West African epidemic.[^19] My read: this is a slow emergency that rarely leads the news, but its course will depend on money, security and trust as much as on vaccines."
+   ],
+   "differences": null
   }
  ],
  "sources": [
   {
    "id": 1,
-   "outlet": "IANS (via The Morung Express)",
-   "title": "Vance says Trump will avoid 'forever war' in Iran",
-   "url": "https://www.morungexpress.com/vance-says-trump-will-avoid-forever-war-in-iran",
-   "date": "2026-11-17",
+   "outlet": "AFP (via Business Recorder)",
+   "title": "China's Xi greets Trump on arrival at Shenzhen airport",
+   "url": "https://www.brecorder.com/news/40449541/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 2,
-   "outlet": "Gulf News",
-   "title": "Middle East conflict: Tanker incident near Hormuz as Vance rules out 'forever war'",
-   "url": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924",
-   "date": "2026-11-17",
+   "outlet": "The Standard (Hong Kong)",
+   "title": "Xi greets Trump at Shenzhen airport ahead of historic trilateral summit",
+   "url": "https://www.thestandard.com.hk/china/article/348894/Xi-greets-Trump-at-Shenzhen-airport-ahead-of-historic-trilateral-summit",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 3,
-   "outlet": "Middle East Eye",
-   "title": "Iran's Araghchi meets Omani counterpart in Muscat",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-meets-omani-counterpart-muscat",
-   "date": "2026-11-17",
+   "outlet": "SBS News",
+   "title": "Xi Jinping Greets Trump at Airport in Unusual Gesture, Accompanied by Military Flypast",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852573",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 4,
-   "outlet": "CBS News",
-   "title": "Live Updates: Iran's Revolutionary Guard claims another attack on U.S. radar system in Bahrain",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "date": "2026-11-17",
+   "outlet": "Al Jazeera",
+   "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+   "date": "2026-11-14",
    "singleSource": false
   },
   {
    "id": 5,
-   "outlet": "The Irish Times (Financial Times)",
-   "title": "Ukraine strikes Crimean Bridge in record drone attack",
-   "url": "https://www.irishtimes.com/world/europe/2026/11/16/ukraine-strikes-crimean-bridge-in-record-drone-attack/",
+   "outlet": "TIME",
+   "title": "A Trump, Putin, and Xi Meeting Won't Be Yalta 2.0. But It Still Matters",
+   "url": "https://time.com/article/2026/11/16/trump-putin-xi-meeting-summit-china-ai/",
    "date": "2026-11-16",
    "singleSource": false
   },
   {
    "id": 6,
-   "outlet": "The Moscow Times",
-   "title": "Ukraine Hits Crimean Bridge Amid Record Overnight Drone Attack",
-   "url": "https://www.themoscowtimes.com/2026/11/16/ukraine-hits-crimean-bridge-amid-record-overnight-drone-attack-a94265",
-   "date": "2026-11-16",
+   "outlet": "TIME",
+   "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won't Become 'Forever War'",
+   "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/",
+   "date": "2026-11-18",
    "singleSource": false
   },
   {
    "id": 7,
-   "outlet": "The War Zone",
-   "title": "Russia's Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
-   "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
-   "date": "2026-11-16",
+   "outlet": "Euronews",
+   "title": "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
+   "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 8,
-   "outlet": "Bloomberg (via The Spokesman-Review)",
-   "title": "Ukraine hits Crimean Bridge in record drone strike on Russia",
-   "url": "https://www.spokesman.com/stories/2026/nov/16/ukraine-hits-crimean-bridge-in-record-drone-strike/",
-   "date": "2026-11-16",
-   "singleSource": false
+   "outlet": "The National",
+   "title": "Adnoc L&S ship attacked at Strait of Hormuz with one crew member missing",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/18/adnoc-ls-ship-attacked-at-strait-of-hormuz-with-one-crew-member-missing/",
+   "date": "2026-11-18",
+   "singleSource": true
   },
   {
    "id": 9,
-   "outlet": "Al Jazeera",
-   "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-   "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role",
+   "outlet": "The Times of Israel",
+   "title": "Knesset votes 66-52 to elect Yashar's Matan Kahana as speaker, in boost to Eisenkot bloc",
+   "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/",
    "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 10,
-   "outlet": "The Jerusalem Post",
-   "title": "Knesset speaker vote at risk of delays as Eisenkot bloc fears Likud-backed filibuster",
-   "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915135",
+   "outlet": "Al Jazeera (AFP and AP)",
+   "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker",
    "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 11,
-   "outlet": "Reuters (via Yahoo News)",
-   "title": "First draft of COP31 deal signals tough negotiations to come",
-   "url": "https://www.yahoo.com/news/articles/first-draft-cop31-deal-signals-140910867.html",
-   "date": "2026-11-16",
+   "outlet": "The Jerusalem Post",
+   "title": "Shas to back Likud's Ofir Katz in Knesset speaker vote as counter to Yashar's Kahana",
+   "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 12,
-   "outlet": "Hurriyet Daily News",
-   "title": "COP31 turns to ministers for deal on finance, energy",
-   "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443",
-   "date": "2026-11-16",
+   "outlet": "NVIDIA (SEC filing)",
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
    "id": 13,
+   "outlet": "Constellation Research",
+   "title": "Nvidia posts strong Q3, ups Q4, fiscal 2028 outlook amid Huang resignation",
+   "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation",
+   "date": "2026-11-17",
+   "singleSource": false
+  },
+  {
+   "id": 14,
+   "outlet": "PYMNTS",
+   "title": "Nvidia Signals Business as Usual Under Interim CEO",
+   "url": "https://www.pymnts.com/earnings/2026/nvidia-signals-business-as-usual-under-interim-ceo/",
+   "date": "2026-11-17",
+   "singleSource": false
+  },
+  {
+   "id": 15,
    "outlet": "The National",
    "title": "Nvidia earnings and Anthropic IPO lead crucial week for AI bulls",
    "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/",
@@ -279,20 +323,44 @@
    "singleSource": false
   },
   {
-   "id": 14,
-   "outlet": "Yahoo Finance",
-   "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
-   "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-   "date": "2026-11-15",
+   "id": 16,
+   "outlet": "Al Jazeera (AFP)",
+   "title": "Tensions rise over draft climate deal at COP31",
+   "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31",
+   "date": "2026-11-17",
    "singleSource": false
   },
   {
-   "id": 15,
-   "outlet": "Business Standard",
-   "title": "US moves to restrict China's remote access to AI chips after Nvidia row",
-   "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html",
+   "id": 17,
+   "outlet": "Turkish Minute (AFP)",
+   "title": "COP31 draft deal draws criticism as deadline nears",
+   "url": "https://turkishminute.com/2026/11/17/cop31-draft-deal-draws-criticism-as-deadline-nears/",
    "date": "2026-11-17",
+   "singleSource": false
+  },
+  {
+   "id": 18,
+   "outlet": "AFP (via Business Recorder)",
+   "title": "COP31 draft deal calls for 'accelerated action' to exit fossil fuels",
+   "url": "https://www.brecorder.com/news/40449298/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels",
+   "date": "2026-11-17",
+   "singleSource": false
+  },
+  {
+   "id": 19,
+   "outlet": "AP (via Jamaica Gleaner)",
+   "title": "Ebola outbreak remains out of control six months into response",
+   "url": "https://www.jamaica-gleaner.com/article/world-news/20261116/ebola-outbreak-remains-out-control-six-months-response",
+   "date": "2026-11-16",
    "singleSource": true
+  },
+  {
+   "id": 20,
+   "outlet": "Reuters (via Daily Maverick)",
+   "title": "China's access to some Nvidia chips in doubt as curbs gain traction in US",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-13-chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us.md",
+   "date": "2026-11-13",
+   "singleSource": false
   }
  ]
 }

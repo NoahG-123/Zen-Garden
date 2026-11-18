@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-17",
+  "reviewed": "2026-11-18",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Araghchi met Oman's foreign minister in Muscat on Nov 17, who called it \"constructive\"; the US calls Iran's seven conditions \"unacceptable\".[^274] Tankers were hit near Hormuz and the IRGC claimed a third drone attack on a US radar in Bahrain, which Bahrain says it stopped.[^274] Vance says the US will not allow a \"forever war\".[^273]",
+      "standing": "US jets struck Iranian missile launch sites on Qeshm Island on Nov 17, calling it self-defence after IRGC drone attacks that CENTCOM says caused no damage.[^281][^282] Iran says at least five ships hit mines on routes it calls \"unauthorised\"; an Adnoc ship's crewman is missing.[^282] Talks via Oman have not produced a deal, and Vance rules out a \"forever war\".[^281][^274]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -186,7 +186,9 @@
         248,
         249,
         273,
-        274
+        274,
+        281,
+        282
       ]
     },
     {
@@ -370,7 +372,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Eisenkot's bloc, backed by Arab-led parties, put up Matan Kahana to replace a Netanyahu ally as Knesset speaker in a Nov 17 vote; Likud may try to delay it.[^277][^278] The opposition plans an Oct 7 inquiry and a two-term limit for prime ministers.[^277] Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267]",
+      "standing": "The Knesset elected Eisenkot ally Matan Kahana as speaker 66-52 on Nov 17, with Arab-led parties' votes; Likud called it \"an eternal disgrace\".[^283] His bloc plans to undo Netanyahu's court changes and set up an Oct 7 inquiry, and has agreed not to move on the court laws before Nov 23.[^283][^284] Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -378,8 +380,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-17",
-          "what": "Knesset speaker vote (Kahana vs. Netanyahu's ally), expected around 8 p.m. Israel time"
+          "date": "2026-11-23",
+          "what": "Earliest day Eisenkot's bloc says it will start moving bills to undo the court changes"
         },
         {
           "date": "2026-12-06",
@@ -524,7 +526,9 @@
         252,
         253,
         277,
-        278
+        278,
+        283,
+        284
       ]
     },
     {
@@ -533,7 +537,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3. In Alaska, Peltola leads Sullivan 49.9% to 46% with about 97% counted; ranked-choice counting is Nov 18.[^268] Markets put about 89% odds on a Fed hike on Dec 9.[^255] US and Chinese officials held a first trade council meeting before Trump and Xi meet on Nov 19.[^269] Funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3; Alaska's ranked-choice Senate count is Nov 18.[^268] Xi greeted Trump at Shenzhen's airport on Nov 18 before a first three-way meeting with Putin on Nov 19, focused on nuclear arms; US officials expect no agreement.[^287][^288] Markets put high odds on a Fed hike on Dec 9.[^255] Funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -690,7 +694,9 @@
         246,
         254,
         255,
-        256
+        256,
+        287,
+        288
       ]
     },
     {
@@ -699,17 +705,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reports on Nov 17 under interim CEO Colette Kress after Jensen Huang's resignation.[^279] Anthropic prices its IPO on Nov 18 at $70-$78 a share, valuing it at up to $1.45 trillion.[^279] New US rules from Nov 19 require licences for advanced chips in five countries to block Chinese remote access.[^280] Huang and Lutnick are to testify in Congress.[^279]",
+      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%, and forecast $130 billion; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic prices its IPO on Nov 18 at up to $1.45 trillion.[^279] New US licence rules for advanced chips in five countries take effect Nov 19.[^280]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
-        "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or the fall proves short-lived if Nvidia's Nov 17 results show demand holding up.",
+        "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
         "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
       },
       "watch": [
-        {
-          "date": "2026-11-17",
-          "what": "Nvidia quarterly results, the first under interim CEO Colette Kress"
-        },
         {
           "date": "2026-11-19",
           "what": "Anthropic starts trading on Nasdaq; new US chip licence rules for five countries take effect"
@@ -884,7 +886,9 @@
         257,
         258,
         279,
-        280
+        280,
+        285,
+        286
       ]
     }
   ],
@@ -3158,6 +3162,70 @@
       "url": "https://www.business-standard.com/world-news/us-china-ai-chips-exports-restrictions-jensen-huang-nvidia-row-access-126111700312_1.html",
       "date": "2026-11-17",
       "singleSource": true
+    },
+    {
+      "id": 281,
+      "outlet": "TIME",
+      "title": "U.S. Strikes Qeshm Island as Vance Says Iran Won't Become 'Forever War'",
+      "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 282,
+      "outlet": "Euronews",
+      "title": "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
+      "url": "https://www.euronews.com/2026/11/17/us-strikes-targets-in-qeshm-island-after-iranian-mines-hit-five-ships-in-hormuz",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 283,
+      "outlet": "The Times of Israel",
+      "title": "Knesset votes 66-52 to elect Yashar's Matan Kahana as speaker, in boost to Eisenkot bloc",
+      "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 284,
+      "outlet": "Al Jazeera (AFP and AP)",
+      "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+      "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 285,
+      "outlet": "NVIDIA (SEC filing)",
+      "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 286,
+      "outlet": "Constellation Research",
+      "title": "Nvidia posts strong Q3, ups Q4, fiscal 2028 outlook amid Huang resignation",
+      "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 287,
+      "outlet": "AFP (via Business Recorder)",
+      "title": "China's Xi greets Trump on arrival at Shenzhen airport",
+      "url": "https://www.brecorder.com/news/40449541/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 288,
+      "outlet": "Al Jazeera",
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+      "date": "2026-11-14",
+      "singleSource": false
     }
   ]
 }
