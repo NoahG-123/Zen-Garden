@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-18",
+  "reviewed": "2026-11-19",
   "events": [
     {
       "id": "iran-war",
@@ -7,17 +7,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "US jets struck Iranian missile launch sites on Qeshm Island on Nov 17, calling it self-defence after IRGC drone attacks that CENTCOM says caused no damage.[^281][^282] Iran says at least five ships hit mines on routes it calls \"unauthorised\"; an Adnoc ship's crewman is missing.[^282] Talks via Oman have not produced a deal, and Vance rules out a \"forever war\".[^281][^274]",
+      "standing": "After US strikes on Qeshm Island on Nov 17, Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18; both say they intercepted the attacks without damage.[^291] Iran's navy says three more tankers hit mines east of Hormuz, a claim not independently confirmed.[^292] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
         "unlikely": "A quick, complete peace that fully restores pre-war shipping and settles Iran's nuclear programme within weeks. Every deal so far has broken down over the strait and the details."
       },
       "watch": [
-        {
-          "date": "2026-11-19",
-          "what": "Trump-Xi-Putin meeting in Shenzhen; US says Iran and nuclear arms are the focus"
-        },
         {
           "date": "2026-11-20",
           "what": "IAEA board in Vienna discusses its report on Iran's missing enriched uranium"
@@ -188,7 +184,9 @@
         273,
         274,
         281,
-        282
+        282,
+        291,
+        292
       ]
     },
     {
@@ -197,17 +195,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Ukrainian drones hit the Crimean Bridge on Nov 16; Russia calls the damage minor and says it downed a record 1,336 drones overnight, figures that cannot be checked.[^275] Russian strikes cut power to over 52,000 Odesa-region households.[^276] A Kremlin aide says a Putin-Trump meeting is being arranged; the Nov 10-11 Abu Dhabi talks brought no breakthrough.[^276][^265]",
+      "standing": "Ukraine collapsed a road span of the Kerch Bridge to Crimea on Nov 17; the rail line is damaged but open, and the Kremlin says it will be restored.[^293] Trump and Putin met for about 40 minutes in Shenzhen on Nov 19; the Kremlin says Ukraine dominated, but no date is set for the next US-led round.[^294] Russian strikes continue to cut power in the Odesa region.[^276]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
         "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
-        {
-          "date": "2026-11-19",
-          "what": "Trump-Xi-Putin meeting in Shenzhen; no date yet for the next US-led round of talks"
-        },
         {
           "date": "2026-11-26",
           "what": "Special EU summit on the next long-term budget; Ukraine's 2027 funding gap is still open"
@@ -363,7 +357,9 @@
         250,
         251,
         275,
-        276
+        276,
+        293,
+        294
       ]
     },
     {
@@ -372,17 +368,13 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Knesset elected Eisenkot ally Matan Kahana as speaker 66-52 on Nov 17, with Arab-led parties' votes; Likud called it \"an eternal disgrace\".[^283] His bloc plans to undo Netanyahu's court changes and set up an Oct 7 inquiry, and has agreed not to move on the court laws before Nov 23.[^283][^284] Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267]",
+      "standing": "With Eisenkot ally Matan Kahana elected speaker on Nov 17, the new majority passed early votes on Nov 18 to repeal three of Netanyahu's court laws; each still needs three more readings.[^283][^295] Bennett met Netanyahu privately the same day, worrying some in his own bloc.[^296] Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
         "unlikely": "In the near term, either a full return to large-scale war or a quick political settlement on Palestinian statehood. Both remain conceivable, but neither side appears to be moving that way now."
       },
       "watch": [
-        {
-          "date": "2026-11-23",
-          "what": "Earliest day Eisenkot's bloc says it will start moving bills to undo the court changes"
-        },
         {
           "date": "2026-12-06",
           "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
@@ -528,7 +520,9 @@
         277,
         278,
         283,
-        284
+        284,
+        295,
+        296
       ]
     },
     {
@@ -537,7 +531,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3; Alaska's ranked-choice Senate count is Nov 18.[^268] Xi greeted Trump at Shenzhen's airport on Nov 18 before a first three-way meeting with Putin on Nov 19, focused on nuclear arms; US officials expect no agreement.[^287][^288] Markets put high odds on a Fed hike on Dec 9.[^255] Funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3.[^268] On Nov 19 in Shenzhen, Trump, Xi and Putin held their first three-way talks, about 90 minutes, with no joint deal on nuclear arms, Ukraine or Iran; China says Trump and Xi agreed to draft an action plan for steadier ties.[^289][^290] Markets put high odds on a Fed hike on Dec 9.[^255] Funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -545,8 +539,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-18",
-          "what": "Alaska ranked-choice count for the Senate race; state certification follows on Nov 25"
+          "date": "2026-11-25",
+          "what": "Alaska certifies its ranked-choice Senate result"
         },
         {
           "date": "2026-12-09",
@@ -696,7 +690,9 @@
         255,
         256,
         287,
-        288
+        288,
+        289,
+        290
       ]
     },
     {
@@ -705,7 +701,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%, and forecast $130 billion; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic prices its IPO on Nov 18 at up to $1.45 trillion.[^279] New US licence rules for advanced chips in five countries take effect Nov 19.[^280]",
+      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic priced its IPO at $83 a share on Nov 18, raising about $81 billion, the largest on record, at a value near $1.5 trillion; trading starts Nov 19.[^297] New US licence rules for advanced chips in five countries take effect Nov 19.[^280]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
@@ -714,7 +710,7 @@
       "watch": [
         {
           "date": "2026-11-19",
-          "what": "Anthropic starts trading on Nasdaq; new US chip licence rules for five countries take effect"
+          "what": "Anthropic's first day of trading on Nasdaq (ticker ANT); new US chip licence rules take effect"
         },
         {
           "date": "2026-12-02",
@@ -888,7 +884,8 @@
         279,
         280,
         285,
-        286
+        286,
+        297
       ]
     }
   ],
@@ -3225,6 +3222,78 @@
       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
       "date": "2026-11-14",
+      "singleSource": false
+    },
+    {
+      "id": 289,
+      "outlet": "AP (via KIRO 7)",
+      "title": "The Latest: Trump meets with Putin and Xi in China",
+      "url": "https://www.kiro7.com/news/world/latest-trump-meets/FFDH5FN63QYJTIJRRTQX2KT53Q/",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 290,
+      "outlet": "Reuters (via ThePrint)",
+      "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
+      "url": "https://theprint.in/world/chinas-xi-says-us-should-do-right-thing-on-taiwan-to-avoid-setbacks-in-relations/3103085/",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 291,
+      "outlet": "AP (via Spectrum News)",
+      "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait, sites in Bahrain",
+      "url": "https://spectrumlocalnews.com/tx/austin/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain",
+      "date": "2026-11-18",
+      "singleSource": true
+    },
+    {
+      "id": 292,
+      "outlet": "Xinhua",
+      "title": "Iran says 3 tankers caught fire after hitting mines east of Hormuz Strait",
+      "url": "https://english.news.cn/20261119/1e486e6c7d604f2a8c861850e65f9c21/c.html",
+      "date": "2026-11-19",
+      "singleSource": true
+    },
+    {
+      "id": 293,
+      "outlet": "AP (via PBS NewsHour)",
+      "title": "'The symbol of the occupation': Ukraine destroys span of Kerch Bridge linking Russia with Crimea",
+      "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea",
+      "date": "2026-11-17",
+      "singleSource": false
+    },
+    {
+      "id": 294,
+      "outlet": "The Irish Times (agencies)",
+      "title": "Trump discusses Ukraine during meeting with 'my friend' Putin in China",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/19/trump-discusses-ukraine-during-meeting-with-my-friend-putin-in-china/",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 295,
+      "outlet": "The Jerusalem Post",
+      "title": "Israel's Knesset advances bills repealing Netanyahu's judicial overhaul laws",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 296,
+      "outlet": "Ynet News",
+      "title": "'Strategic disaster': Bennett-Netanyahu meeting sparks backlash within Eisenkot bloc amid unity talks",
+      "url": "https://www.ynetnews.com/article/bj9l1morgg",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 297,
+      "outlet": "AP (via PBS NewsHour)",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+      "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+      "date": "2026-11-18",
       "singleSource": false
     }
   ]

@@ -1,61 +1,86 @@
 {
- "date": "2026-11-18",
- "summary": "Shenzhen shows off robots and robotaxis to APEC visitors and China pushes AI safety talks, while weak spending and falling gig wages shape life outside the showrooms.",
- "body": [
-  "With world leaders in Shenzhen for APEC, the city is showing off its robots. In what locals call \"Robotics Valley\", more than 200 robot companies sit within a 30-minute drive, and showrooms display over 200 machines; one store manager says about 70% of visitors now come from abroad.[^1] At the APEC CEO Summit, which drew more than 2,000 delegates, Baidu's Robin Li said its Apollo Go robotaxis run or are being tested in Dubai, London and Hong Kong, and Xiaomi's Lei Jun said humanoid robots can now work an eight-hour factory shift.[^2] These claims come from company leaders and have not been independently tested.",
-  "Officials want to shape the rules too. The chair of this year's APEC senior officials, Chen Xu, said members reached \"an important consensus\" on the safe use of AI and discussed the role of data for the first time.[^3] This comes as the US tightens limits on Chinese access to advanced chips, and as Chinese AI shares fell after Nvidia's leadership crisis.[^3][^5]",
-  "Away from the showrooms, daily life is harder. October data showed retail sales up just 0.4% and urban unemployment at 5.1%, and the statistics bureau said \"domestic demand is still insufficient\".[^4] A Shenzhen delivery driver told the BBC, as cited by Streamline, that the city is \"not a magic place\" anymore, and a Reuters analysis cited there found ride-hailing drivers' wages fell 1.8% in 2025.[^4]"
- ],
- "differences": "Company leaders and summit organisers present Shenzhen as a model of fast-moving technology; official data and workers quoted in foreign reports point to weak demand and squeezed incomes.[^1][^2][^4]",
- "reads": [
-  {
-   "title": "China Hosts World Leaders in Shenzhen's AI Wonderland: What They Won't See",
-   "outlet": "Time News",
-   "url": "https://time.news/china-hosts-world-leaders-in-shenzhens-ai-wonderland-what-they-wont-see/",
-   "kind": "news",
-   "summary": "A quick tour of Shenzhen's \"Robotics Valley\" during APEC week: underwater arms, humanoid robots and who is coming to look."
-  }
- ],
- "sources": [
-  {
-   "id": 1,
-   "outlet": "Time News",
-   "title": "China Hosts World Leaders in Shenzhen's AI Wonderland: What They Won't See",
-   "url": "https://time.news/china-hosts-world-leaders-in-shenzhens-ai-wonderland-what-they-wont-see/",
-   "date": "2026-11-17",
-   "singleSource": true
-  },
-  {
-   "id": 2,
-   "outlet": "BigGo Finance",
-   "title": "APEC CEO Summit Opens in Shenzhen: Baidu's Robin Li and CATL's Robin Zeng Share Stage as AI Computing Power Meets Electrification",
-   "url": "https://finance.biggo.com/news/3be924c5-23a7-4dd0-9f33-34cd741e1c09",
-   "date": "2026-11-17",
-   "singleSource": true
-  },
-  {
-   "id": 3,
-   "outlet": "Reuters (via Yahoo News)",
-   "title": "APEC focuses on safe, responsible AI use, China's ex-UN envoy says",
-   "url": "https://www.yahoo.com/news/articles/apec-focuses-safe-responsible-ai-035615854.html",
-   "date": "2026-11-17",
-   "singleSource": false
-  },
-  {
-   "id": 4,
-   "outlet": "Streamline",
-   "title": "China Showcases Shenzhen Robotics as New Data Signal Slowdown",
-   "url": "https://streamlinefeed.co.ke/news/china-showcases-shenzhen-robotics-as-new-data-signal-slowdown",
-   "date": "2026-11-17",
-   "singleSource": true
-  },
-  {
-   "id": 5,
-   "outlet": "Reuters (via Daily Maverick)",
-   "title": "China's access to some Nvidia chips in doubt as curbs gain traction in US",
-   "url": "https://www.dailymaverick.co.za/article/2026-11-13-chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us.md",
-   "date": "2026-11-13",
-   "singleSource": false
-  }
- ]
+  "date": "2026-11-19",
+  "summary": "Xi and Trump met in Shenzhen and spoke of steadier ties as chip limits loom; Chinese carmakers scale back factory humanoid robots, and youth unemployment eased to 17.2%.",
+  "body": [
+    "Xi Jinping and Donald Trump held formal talks in Shenzhen on Thursday, after sitting together for two hours at Wednesday's APEC welcome banquet.[^1] Trump said the US-China \"Board of Trade\", a body the two leaders set up in May to manage trade disputes, has brought \"greater balance\" to the relationship; its first official meeting was held last Friday.[^2] In a live report credited to Reuters, Xi called ties \"stable and improving\", asked for closer work on AI safety risks, and warned Washington to handle Taiwan carefully.[^3] A first three-way meeting with Vladimir Putin began later on Thursday; no results had been reported at the time of writing.[^3][^4]",
+    "Computer chips hang over the talks. Reuters reported before the summit that US lawmakers are pushing for tighter limits on China's access to advanced AI chips after Nvidia co-founder Jensen Huang resigned, and that a planned US-China channel for reporting serious AI incidents is not working yet.[^5]",
+    "On robots, Caixin reports that Chinese carmakers are pulling humanoid robots off assembly lines because of high costs and weak performance, and giving them simpler jobs.[^6] In Wuhan, CBS News visited a centre where more than 100 graduates wear sensor suits so their everyday movements can train robots; the centre's head guesses a robot could work in homes in three to five years, or up to 10.[^7] My read: the robot push is real, but slower than the showroom demos suggest.",
+    "For young people, official data reported this week show unemployment among urban 16- to 24-year-olds who are not in school fell to 17.2% in October from 18% in September; for ages 25 to 29 it was 7.3%.[^8]"
+  ],
+  "differences": "Trump says the Board of Trade has made US-China trade fairer; economists cited by Reuters warn his tariff approach could raise prices and widen a trade war.[^2] On robots, Elon Musk has predicted over a billion humanoids within 10 years, as CBS notes, while the Wuhan centre's head expects homes to wait 3 to 10 years and Caixin reports carmakers scaling back.[^6][^7]",
+  "reads": [
+    {
+      "title": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
+      "outlet": "CBS News",
+      "url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
+      "kind": "news",
+      "summary": "A look inside a Wuhan centre where young graduates act out chores so robots can learn them, and why home robots are still years away."
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "outlet": "Anadolu Agency (via A News)",
+      "title": "Trump touts outstanding personal relationship with Xi at meeting in Shenzhen, China",
+      "url": "https://www.anews.com.tr/world/2026/11/19/trump-touts-outstanding-personal-relationship-with-xi-at-meeting-in-shenzhen-china",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 2,
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties",
+      "url": "https://www.yahoo.com/news/articles/trump-says-board-trade-brought-062445158.html",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "AnewZ (with Reuters)",
+      "title": "Trump, Putin and Xi begin trilateral talks at APEC summit",
+      "url": "https://anewz.tv/world/world-news/26925/trump-putin-and-xi-begin-trilateral-talks-at-apec-summit/news",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Al Jazeera",
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+      "url": "https://www.yahoo.com/news/politics/articles/chip-tensions-loom-over-trump-085418424.html",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Caixin Global",
+      "title": "CX Daily: China's Automakers Scale Back Humanoid Robot Ambitions as Reality Bites",
+      "url": "https://www.caixinglobal.com/2026-11-18/cx-daily-chinas-automakers-scale-back-humanoid-robot-ambitions-as-reality-bites-102505943.html",
+      "date": "2026-11-18",
+      "singleSource": true
+    },
+    {
+      "id": 7,
+      "outlet": "CBS News",
+      "title": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
+      "url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
+      "date": "2026-11-18",
+      "singleSource": true
+    },
+    {
+      "id": 8,
+      "outlet": "Reuters (via Devdiscourse)",
+      "title": "China's October youth jobless rate falls to 17.2%",
+      "url": "https://www.devdiscourse.com/article/international/4008820-chinas-october-youth-jobless-rate-falls-to-172",
+      "date": "2026-11-18",
+      "singleSource": false
+    }
+  ]
 }
