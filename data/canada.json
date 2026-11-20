@@ -1,76 +1,85 @@
 {
-  "date": "2026-11-19",
-  "summary": "Carney and Trump met for about 20 minutes at APEC and agreed to keep talking, with no deal yet; Canada and China cut more tariffs, and inflation held at 3.1%.",
+  "date": "2026-11-20",
+  "summary": "The federal budget passed, Ontario's school unions all hold strike mandates, Stellantis meets Ottawa and Ford today on Brampton, and negotiators say Canada can't wait out Trump.",
   "body": [
-    "Prime Minister Mark Carney and Donald Trump met for about 20 minutes on Wednesday in Shenzhen, just before the APEC leaders' dinner, with Foreign Affairs Minister Anita Anand and senior US trade officials in the room.[^1] Carney's office said they discussed a \"mutually beneficial trade agreement\", and Carney wrote that they \"agreed to continue the work and to stay in close contact\".[^1][^2] No deal or tariff change was announced. The Canadian Press reports that the issues on the table included protections for French and a viable Canadian auto sector, the same points that stalled talks in August. Anand said Canada will keep spreading its trade to other countries whatever happens in the US midterm elections.[^3]",
-    "A day earlier, Carney and Chinese President Xi Jinping agreed to more tariff cuts. China will ease tariffs on about $400 million of Canadian exports such as frozen pork, fish and seafood, and Canada will extend exemptions on some Chinese steel and aluminum for two more years.[^1][^4] The federal government says the trip also finished free-trade talks with the Philippines and \"substantially concluded\" talks with ASEAN, a group of 10 Southeast Asian countries, with both deals to be signed in 2027. It estimates the ASEAN deal could add about 14,000 Canadian jobs; that is the government's own estimate.[^5]",
-    "At home, Statistics Canada said on Monday that inflation held at 3.1% in October. Gasoline cost 30.9% more than a year earlier, which Global News links to high oil prices during the war in Iran; without gasoline, prices rose 2%.[^6] In Ontario, Transportation Minister Prabmeet Sarkaria said the government is tabling a bill to raise the minimum fine for noisy vehicles from $60 to $200, saying loud vehicles can drown out emergency sirens.[^7] My read: apart from the summit, it was a fairly quiet day in Canadian and Ontario politics."
+    "The federal budget passed the House of Commons on Thursday, 162 to 151. It adds billions in new borrowing and tax measures, mostly for infrastructure and building projects, and the Liberals now hold a majority of seats after byelections and floor-crossings.[^1] Measures include a large tax deduction for business investment and a top-up to a benefit for lower-income families. Conservative Leader Pierre Poilievre says the borrowing pushes costs onto Canadians, and the NDP says the budget caters to big business.[^2]",
+    "In Ontario, all five major education unions now have strike mandates. Results released Thursday show 94.2% of more than 57,000 school support workers voted yes, after teachers' unions voted 96% to 98% in favour.[^3][^4] A mandate is not a strike: the unions say they want negotiated deals, and support staff start bargaining on Nov 30. Education Minister Paul Calandra said the results were not surprising.[^3]",
+    "Today, federal Industry Minister Mélanie Joly, Premier Doug Ford and Unifor's Lana Payne meet Stellantis about its plan to sell its Brampton plant to defence firm Roshel, which puts about 2,200 auto jobs at risk. CTV's sources say Stellantis expects the sale to go ahead.[^5] Ford says it is Ottawa's job to stop the sale; Joly says Stellantis must do its part.[^5][^6]",
+    "On US trade, top negotiators told Carney's advisory committee on Thursday that Canada cannot simply wait out Trump's last two years, and hope for an interim deal on autos, steel and lumber tariffs before Jan 1.[^7] Trump trade adviser Peter Navarro attacked Ottawa online, saying \"Canada cheats us\".[^8]"
   ],
-  "differences": null,
+  "differences": "On Brampton, Ford blames federal costs and says Ottawa must stop the sale, while Joly says Stellantis must do its part.[^5][^6] On the budget, the government says it invests for growth; the Conservatives and NDP say it borrows too much or favours business.[^2]",
   "reads": [
     {
-      "title": "From pork to online French usage: six take-aways from Carney's tour of Asia, Ireland",
-      "outlet": "The Canadian Press (via Yahoo News Canada)",
-      "url": "https://ca.news.yahoo.com/pork-online-french-usage-six-090512973.html",
+      "title": "Canadian negotiators dispel idea Canada can just play for time in trade talks with Trump",
+      "outlet": "CTV News (via CP24)",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/canadian-negotiators-dispel-idea-canada-can-just-play-for-time-in-trade-talks-with-trump/",
       "kind": "news",
-      "summary": "A clear wrap-up of Carney's trip: the Trump meeting, the China tariff deal, new trade talks in Southeast Asia, and meeting Quebec's new premier."
+      "summary": "Why Canada's negotiators think tariff-hit industries cannot wait for a new US president, and what an interim deal might cover."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "CBC News (via Yahoo News Canada)",
-      "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern",
-      "url": "https://ca.news.yahoo.com/carney-meets-trump-apec-says-095430949.html",
-      "date": "2026-11-18",
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Liberals' 2026 budget passes in House of Commons",
+      "url": "https://www.cp24.com/news/canada/2026/11/19/liberals-2026-budget-passes-in-house-of-commons/",
+      "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "ANI (via The Tribune)",
-      "title": "\"We agreed to continue the work\": Canadian PM Carney meets Trump in Shenzhen over trade deal",
-      "url": "https://www.tribuneindia.com/news/apec-summit/we-agreed-to-continue-the-work-canadian-pm-carney-meets-trump-in-shenzhen-over-trade-deal",
-      "date": "2026-11-18",
-      "singleSource": false
+      "outlet": "The Canadian Press (via rdnewsnow)",
+      "title": "Liberals' 2026 budget passes in House of Commons",
+      "url": "https://rdnewsnow.com/2026/11/19/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/",
+      "date": "2026-11-19",
+      "singleSource": true
     },
     {
       "id": 3,
-      "outlet": "The Canadian Press (via Yahoo News Canada)",
-      "title": "From pork to online French usage: six take-aways from Carney's tour of Asia, Ireland",
-      "url": "https://ca.news.yahoo.com/pork-online-french-usage-six-090512973.html",
+      "outlet": "CP24",
+      "title": "CUPE Ontario education workers vote in favour of strike action ahead of bargaining",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/20/cupe-ontario-education-workers-vote-in-favour-of-strike-action-ahead-of-bargaining/",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "AP (via ITV News)",
-      "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained",
-      "url": "https://www.itv.com/news/2026-11-17/china-and-canada-look-for-better-joint-trade",
-      "date": "2026-11-17",
+      "outlet": "CP24",
+      "title": "Ontario elementary school teachers overwhelmingly vote in favour of strike mandate",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/18/ontario-elementary-school-teachers-overwhelmingly-vote-in-favour-of-strike-mandate/",
+      "date": "2026-11-18",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Prime Minister of Canada",
-      "title": "Prime Minister Carney strengthens economic partnerships at APEC, capping an ambitious week that delivered major gains for Canadian workers and businesses",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/19/prime-minister-carney-strengthens-economic-partnerships-apec-capping",
-      "date": "2026-11-19",
-      "singleSource": true
+      "outlet": "CTV News (via CP24)",
+      "title": "Little hope of averting Stellantis' sale ahead of Friday meeting with Joly",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/little-hope-of-averting-stellantis-sale-ahead-of-friday-meeting-with-joly/",
+      "date": "2026-11-20",
+      "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Global News (via Yahoo News Canada)",
-      "title": "Canada's inflation was steady at 3.1 per cent in October, StatCan says",
-      "url": "https://ca.news.yahoo.com/canada-inflation-steady-3-1-133930976.html",
-      "date": "2026-11-16",
-      "singleSource": true
+      "outlet": "CP24",
+      "title": "'We haven't given them any money yet': Ontario officials hoping for good meeting with Stellantis",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/18/we-havent-given-them-any-money-yet-ontario-officials-hoping-for-good-meeting-with-stellantis/",
+      "date": "2026-11-18",
+      "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "CP24",
-      "title": "Ontario targets noisy vehicles with new steeper fines. These are the penalties drivers could face",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/18/doug-ford-government-proposes-steeper-fines-for-noisy-vehicles/",
-      "date": "2026-11-18",
+      "outlet": "CTV News (via CP24)",
+      "title": "Canadian negotiators dispel idea Canada can just play for time in trade talks with Trump",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/canadian-negotiators-dispel-idea-canada-can-just-play-for-time-in-trade-talks-with-trump/",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "CTV News (via CP24)",
+      "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
+      "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
+      "date": "2026-11-19",
       "singleSource": true
     }
   ]

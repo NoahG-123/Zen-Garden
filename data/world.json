@@ -1,387 +1,334 @@
 {
-  "date": "2026-11-19",
-  "summary": "Trump, Xi and Putin meet as a trio without a deal, Iran fires at Gulf bases again, Ukraine breaks a span of the Kerch Bridge, Israel's new majority moves on court laws, and Anthropic sets an IPO record.",
+  "date": "2026-11-20",
+  "summary": "Russia hits Kyiv's bridges in revenge for Kerch, Anthropic's shares jump then fade on day one, COP31's draft drops fossil fuels, and warnings grow on Gaza, Ethiopia and Ebola.",
   "question": {
-    "type": "second-order",
-    "text": "Israel's new majority is voting to undo court laws the last government passed. If each new government can quickly reverse the last one's biggest changes, what happens over time to how people and businesses plan, and to how much they trust any single law?"
+    "type": "how-do-we-know",
+    "text": "Today, death tolls in Ukraine changed through the day, and Reuters could not confirm the border clashes that monitors reported between Ethiopia and Eritrea. When early reports from a crisis disagree, what would make you trust one account more than another?"
   },
   "read": {
-    "title": "What investors should know about Anthropic's unusual IPO",
-    "outlet": "AP (via ABC News)",
-    "url": "https://abcnews.com/US/wireStory/investors-anthropics-unusual-ipo-138254440",
+    "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
+    "outlet": "The Kyiv Independent",
+    "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
     "kind": "analysis",
-    "minutes": 6,
-    "summary": "A plain explainer of how this IPO differs from most: a public benefit company, a trust that can pick most of the board, and founders who keep a majority of votes, which shows that owning shares is not the same as controlling a company."
+    "minutes": 8,
+    "summary": "Explains why one bridge matters so much: a symbol of Russia's 2014 annexation, a supply line for its army in the south, and the background to today's Russian strikes on Kyiv's bridges."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "trump-xi-putin-shenzhen-trilateral",
-      "heading": "Trump, Xi and Putin hold first three-way talks in Shenzhen; no nuclear or Ukraine deal",
-      "date": "2026-11-19",
+      "id": "russia-strikes-kyiv-bridges",
+      "heading": "Russia strikes three Kyiv bridges and cities across Ukraine after vowing revenge for Kerch",
+      "date": "2026-11-20",
       "status": "developing",
-      "summary": "The US, Chinese and Russian leaders met for about 90 minutes at APEC in Shenzhen, and no joint agreement on nuclear arms, Ukraine or Iran was announced.[^1][^5] Xi proposed crisis communication channels between the three, while China says Trump and Xi agreed to draft an action plan for steadier US-China ties.[^1][^3]",
+      "summary": "Overnight, Russian missiles and drones damaged three bridges over the Dnipro in Kyiv and hit Lviv, Kharkiv and other cities; Ukraine's prime minister says at least 8 people were killed nationwide.[^1][^3] Poland is checking whether something crossed into its airspace.[^2]",
       "lead": {
-        "title": "The Latest: Trump meets with Putin and Xi in China",
-        "outlet": "AP (via KIRO 7)",
-        "url": "https://www.kiro7.com/news/world/latest-trump-meets/FFDH5FN63QYJTIJRRTQX2KT53Q/",
-        "date": "2026-11-19"
+        "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine",
+        "outlet": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+        "date": "2026-11-20"
       },
       "alsoReported": [
         {
-          "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
-          "outlet": "Reuters (via Business Recorder)",
-          "url": "https://www.brecorder.com/news/40449724/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda?v=HxqchiUCfZmAyXEsA6oMkgis"
+          "title": "Explosion in Poland Sparks Airspace Breach Probe as Russian Attacks Kill Civilians in Ukraine",
+          "outlet": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90676"
         },
         {
-          "title": "Putin, Trump, Xi conclude trilateral meeting after about 90 minutes",
-          "outlet": "TASS",
-          "url": "https://tass.com/politics/2221317"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "On Thursday, Donald Trump, Xi Jinping and Vladimir Putin held the first ever three-way meeting of US, Chinese and Russian leaders, on the sidelines of the APEC summit in Shenzhen. Russia's TASS news agency said it lasted about 90 minutes.[^5] AP reported no specific agreements on nuclear arms, Ukraine or Iran.[^1]",
-        "Trump opened by saying \"We are really making history\" and that the three countries are \"uniquely positioned\" to discuss cutting the number of nuclear weapons, while admitting that giving them up is \"not an easy thing to do\".[^1][^2] China has repeatedly refused to join arms talks with the US and Russia, whose arsenals are far larger.[^2] According to Chinese state TV, Xi proposed that the three set up crisis communication and prevention channels to reduce misjudgments, and argued against \"decoupling\", meaning cutting economic ties.[^1]",
-        "Before that, Trump and Xi met one to one, their third meeting this year. China's Xinhua agency called the talks \"positive and constructive\" and said both sides agreed to draft an action plan for a stable relationship. Xi also told Trump the US should do \"the right thing\" on Taiwan.[^3] Trump said he and Xi both feel strongly that oil must keep flowing through the Strait of Hormuz.[^2]",
-        "Trump also met Putin for about 40 minutes, their first in-person meeting in over a year. Kremlin aide Yuri Ushakov said the war in Ukraine dominated.[^4] Trump told Xi he wanted help ending that war: \"I'd like to see it ended.\"[^4] Putin spoke of \"numerous shared interests\" in settling regional conflicts, including Ukraine, and criticised Western sanctions.[^2]",
-        "Why it matters: these three countries hold most of the world's nuclear weapons. Ukraine and European leaders were not in the room, which adds to European worries about deals made over their heads.[^4] My read: the day produced words and a possible process, not commitments. The crisis-channel idea and the US-China action plan are the pieces to watch; China's stance on nuclear talks did not visibly move.[^1][^2][^3]"
-      ],
-      "differences": "Trump says the three powers are well placed to reduce nuclear arsenals; China has repeatedly objected to joining such talks, and Xi focused on crisis communication, trade and Taiwan.[^1][^2][^3] The Kremlin says Ukraine was the main topic of the Trump-Putin meeting; Putin used the summit to criticise Western sanctions.[^2][^4]"
-    },
-    {
-      "id": "iran-hits-kuwait-bahrain-tanker-mines",
-      "heading": "Iran fires at US bases in Kuwait and Bahrain and says three tankers hit mines near Hormuz",
-      "date": "2026-11-18",
-      "status": "developing",
-      "summary": "A day after the US struck Qeshm Island, Iran targeted a US air base in Kuwait and sites in Bahrain; both countries say they intercepted the attacks without damage.[^6] Iran's navy says three tankers hit mines east of the Strait of Hormuz, as Tehran and Oman discuss a shipping corridor.[^7][^8]",
-      "lead": {
-        "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait, sites in Bahrain",
-        "outlet": "AP (via Spectrum News)",
-        "url": "https://spectrumlocalnews.com/tx/austin/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain",
-        "date": "2026-11-18"
-      },
-      "alsoReported": [
-        {
-          "title": "Iran says 3 tankers caught fire after hitting mines east of Hormuz Strait",
-          "outlet": "Xinhua",
-          "url": "https://english.news.cn/20261119/1e486e6c7d604f2a8c861850e65f9c21/c.html"
-        },
-        {
-          "title": "Iran, Oman move closer to Hormuz shipping 'deal': What it means for global oil trade",
-          "outlet": "Gulf News",
-          "url": "https://gulfnews.com/world/gulf/oman/iran-oman-move-closer-to-hormuz-shipping-deal-what-it-means-for-global-oil-trade-1.500753065"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "Early on Wednesday, Iran fired at Ali Al Salem, a US air base in Kuwait, and launched several attacks on Bahrain, home of the US Navy's 5th Fleet, AP reports. It was the first wave of this kind in about two months.[^6] Kuwait's military said it intercepted drones with no immediate damage, and Bahrain reported no damage or casualties. Kuwait's foreign ministry called the attacks \"criminal\".[^6]",
-        "The attacks followed Tuesday's US strike on a Revolutionary Guard missile site on Qeshm Island. Iran says its strikes on Bahrain answer US drone surveillance and an attack on Iranian communications towers.[^6]",
-        "At sea, Iran's navy said on Thursday that three oil tankers caught fire and stopped after hitting naval mines east of the strait. It said the ships had switched off their tracking systems and entered a \"forbidden\" area, and that all ships must use corridors \"authorized\" by Iran's forces.[^7] These are Iran's claims; the ships were not named.[^7]",
-        "On the diplomatic side, Foreign Minister Abbas Araghchi met Oman's Sultan Haitham bin Tarik in Muscat on Wednesday. Iranian officials say they have a \"mutual understanding\" with Oman on a shipping corridor through the strait, which the two countries border, but no final deal was announced and it still needs formal approval.[^8] Wider talks have stalled despite mediation by Qatar, AP reports.[^6] In Shenzhen, Trump said he and Xi both want oil to keep flowing through Hormuz.[^2]",
-        "Why it matters: a US naval blockade is squeezing Iran's economy, and an analyst at Israel's INSS think tank calls Iran's moves \"deliberate, calibrated escalation\" to raise the blockade's cost. An International Crisis Group analyst warns that the build-up of incidents raises the risk of miscalculation.[^6] My read: the Iran-Oman corridor is the one track that could lower the danger to shipping; without it, expect more tit-for-tat."
-      ],
-      "differences": "Iran says its strikes respond to US drone flights and attacks; the US called its Qeshm strike a response to an Iranian attack on a US radar in Bahrain.[^6] Iran's navy says the mined tankers were in a \"forbidden\" zone with tracking switched off; there is no independent account of the tanker incidents yet.[^7]"
-    },
-    {
-      "id": "ukraine-strikes-kerch-bridge",
-      "heading": "Ukraine knocks out a road span of the Kerch Bridge linking Russia to occupied Crimea",
-      "date": "2026-11-17",
-      "status": "developing",
-      "summary": "Ukraine hit the bridge with drones and missiles, and its military says a road arch and span collapsed while the rail line stayed up but was damaged.[^9] The Kremlin says the bridge will be restored; a Ukrainian expert says that could take a year or more.[^9][^11]",
-      "lead": {
-        "title": "'The symbol of the occupation': Ukraine destroys span of Kerch Bridge linking Russia with Crimea",
-        "outlet": "AP (via PBS NewsHour)",
-        "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea",
-        "date": "2026-11-17"
-      },
-      "alsoReported": [
-        {
-          "title": "'Crimea is turning into an island': How Ukraine hit Putin's prized bridge",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge"
-        },
-        {
-          "title": "Russia says the Crimean bridge will come back 'even better.' That may take a while",
-          "outlet": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-says-the-crimean-bridge-will-come-back-even-better-that-may-take-a-while/"
+          "title": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
+          "outlet": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Overnight into Tuesday, Ukraine struck the Kerch Bridge, also called the Crimean Bridge, with drones and missiles. It is the only direct road and rail link between Russia and Crimea, which Russia annexed in 2014.[^9] Ukraine's General Staff said an arch and a span of the road section collapsed, cutting road traffic, while the railway stayed standing with one arch damaged. AP could not verify videos Ukraine released.[^9]",
-        "President Volodymyr Zelenskyy called it an \"unprecedented\" operation, the last stage of a weeks-long campaign that first wore down Russian air defences. He said Ukrainian-made drones, Neptune missiles and Flamingo cruise missiles were used.[^9][^10] Russia's Investigative Committee said only that the bridge was damaged. Kremlin spokesman Dmitry Peskov said it would be restored, and Crimea's Russian-installed governor said rail traffic resumed on Tuesday afternoon.[^9] Russian media called the damage \"insignificant\".[^10]",
-        "The same day, Russian ballistic missiles hit two of Kyiv's bridges over the Dnipro River, killing at least two people, and Russian strikes on Zaporizhzhia killed two more, AP reports.[^9]",
-        "Why it matters: the 19-kilometre bridge, opened in 2018, is a symbol of Russia's hold on Crimea, and Kyiv considers it illegal.[^10] A Ukrainian aviation expert estimates restoring the span could take \"a year or even longer\".[^11] Al Jazeera notes the fallen arch lies in the deepest part of the strait and could block freighters carrying grain, though a Bremen University researcher argues the strike matters little militarily because the bridge has carried almost no military traffic for a year.[^10]",
-        "My read: the strike came just before Putin left for Shenzhen, and it strengthens Ukraine's hand symbolically more than on the battlefield. No date has been set for the next US-mediated round of peace talks.[^9][^10]"
+        "Overnight into Friday, Russia launched ballistic and cruise missiles and drones at Ukraine. In Kyiv, three bridges over the Dnipro River were damaged, and Mayor Vitali Klitschko told residents not to drive.[^1] Power, heating and water went out in parts of the city, and Ukraine says nine regions were hit.[^1][^2]",
+        "Casualty counts were still changing. Klitschko first said at least 3 people were killed in Kyiv, likely workers at the city water utility.[^17] Prime Minister Serhii Koretskyi later said 6 were killed in Kyiv and 8 across Ukraine, with dozens hurt.[^3] Two people were killed at a railway station in Lviv, and a drone struck a hospital in Kharkiv, injuring four, local officials say.[^3]",
+        "The attack came a day after Vladimir Putin promised \"retaliation\" for Ukraine's strikes on the Kerch Bridge, the only road and rail link between Russia and occupied Crimea, and said he would not negotiate truces on energy or at sea.[^1] Ukraine hit that bridge three times between Nov 16 and 19.[^4] One expert quoted by the Kyiv Independent thinks repairs could take a year or more.[^5]",
+        "In Poland, officials are investigating whether unidentified objects entered its airspace early Friday after people near the village of Chmielek reported a loud explosion. Poland has not named a cause, but it raised air-defence readiness and briefly halted flights at Rzeszów airport.[^2]",
+        "Why it matters: bridges, power and water are what keep a city running in winter, and both sides are now targeting the other's transport links. My read: this round of strikes makes the energy and sea truces discussed in recent talks less likely soon. Watch Poland's findings, because any confirmed incursion into a NATO country raises the stakes.[^2][^4]"
       ],
-      "differences": "Ukraine says the road section is out of action; Russian officials acknowledged damage without detail, and Russian media called it \"insignificant\".[^9][^10] AP describes the bridge as a route for both military and civilian supplies; the Kremlin accuses Kyiv of striking civilian targets, while a Bremen University researcher says it has carried almost no military traffic for a year.[^9][^10]"
+      "differences": "Death and injury counts differ between Kyiv's mayor, the city administration and the prime minister, and were still rising.[^3][^17] Putin calls the Kerch Bridge a purely civilian site; the US-based Institute for the Study of War disputes that, pointing to its military use.[^4] No Russian statement on the overnight attack had been found at the time of writing."
     },
     {
-      "id": "knesset-advances-repeal-court-laws",
-      "heading": "Israel's new Knesset majority takes a first vote to repeal Netanyahu's court laws",
-      "date": "2026-11-18",
-      "status": "developing",
-      "summary": "A day after electing its own speaker, the Eisenkot-led bloc passed early votes to repeal three laws from Netanyahu's judicial overhaul.[^45][^47] The same day, Naftali Bennett met Netanyahu privately, which some in his own bloc called a \"strategic disaster\".[^48]",
+      "id": "anthropic-first-trading-day",
+      "heading": "Anthropic shares open 34% above IPO price, then close up 17% on first day",
+      "date": "2026-11-19",
+      "status": "confirmed",
+      "summary": "Anthropic's shares first traded at $111.50 on Nasdaq, well above the $83 IPO price, then slid to close at $97.17.[^6] The company raised about $81 billion, the largest IPO ever, on a day when the wider market fell.[^7][^8]",
       "lead": {
-        "title": "Israel's Knesset advances bills repealing Netanyahu's judicial overhaul laws",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
-        "date": "2026-11-18"
+        "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
+        "outlet": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
+        "date": "2026-11-19"
       },
       "alsoReported": [
         {
-          "title": "Eisenkot bloc begins push to reverse Netanyahu's laws with judicial overhaul repeal",
-          "outlet": "Ynet News",
-          "url": "https://www.ynetnews.com/article/hjmw6xirgx"
+          "title": "Anthropic stock soars over 20% in Nasdaq debut",
+          "outlet": "CBC News (via Yahoo News Canada)",
+          "url": "https://ca.news.yahoo.com/anthropic-stock-soars-over-20-173714449.html"
         },
         {
-          "title": "'Strategic disaster': Bennett-Netanyahu meeting sparks backlash within Eisenkot bloc amid unity talks",
-          "outlet": "Ynet News",
-          "url": "https://www.ynetnews.com/article/bj9l1morgg"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "On Wednesday, Israel's parliament, the Knesset, voted in a \"preliminary reading\", the first of four votes a bill needs, to repeal three laws passed by Benjamin Netanyahu's outgoing government.[^45] One gave politicians more say in choosing judges, one would let ministers ignore the attorney general's legal advice, and one changed how broadcasters are regulated.[^45][^47] Each passed with between 63 and 67 votes against about 47 to 49.[^45][^46]",
-        "The votes came a day after the bloc led by Gadi Eisenkot, with Arab-led parties' support, elected Matan Kahana as speaker.[^45] A committee waived the usual waiting period; the Knesset's legal adviser said that is allowed when there are strong grounds for urgency.[^46] The bills now go back to committee.[^45][^47]",
-        "Justice Minister Yariv Levin, who designed the overhaul, called the repeal \"corruption\" and warned that \"everything you are trying to repeal will return\".[^45][^47] Democrats lawmaker Efrat Rayten said the changes are meant \"not to destroy, but to repair.\"[^45]",
-        "Meanwhile, Naftali Bennett, a leader in Eisenkot's bloc, met Netanyahu for about two and a half hours without telling Eisenkot first.[^48] Bennett's allies say he would back a unity government only if Eisenkot serves first as prime minister.[^49] After a bloc meeting, its leaders said replacing Netanyahu is a \"top priority\".[^49]",
-        "Why it matters: no government has formed since the October 27 election, and Netanyahu leads a caretaker government.[^45] My read: the votes show the bloc can pass laws, but the Bennett meeting shows its unity is not guaranteed."
-      ],
-      "differences": "Outlets give slightly different tallies: the Jerusalem Post reports 67-47 on judicial selection and 63-47 on the attorney general law, while Ynet reports 63-47 on judicial selection.[^45][^46] Eisenkot's bloc says Likud demanded Netanyahu stay prime minister with no state inquiry into October 7; a Likud source disputed parts of that.[^48]"
-    },
-    {
-      "id": "anthropic-ipo-priced-record",
-      "heading": "Anthropic prices the biggest IPO on record at $83 a share; Nasdaq trading starts today",
-      "date": "2026-11-18",
-      "status": "developing",
-      "summary": "Anthropic sold shares at $83 each on Wednesday, above its planned range, raising about $81 billion and valuing the AI company at about $1.5 trillion.[^40][^41] Its stock is due to start trading on the Nasdaq on Thursday under the ticker ANT.[^40]",
-      "lead": {
-        "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-        "outlet": "AP (via PBS NewsHour)",
-        "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
-        "date": "2026-11-18"
-      },
-      "alsoReported": [
-        {
-          "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
-          "outlet": "Reuters (via Investing.com)",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110"
+          "title": "Anthropic set to start trading after completing largest-ever IPO",
+          "outlet": "CBS News (via Yahoo Finance)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "An IPO, or initial public offering, is when a private company first sells shares to the public. On Wednesday Anthropic set its price at $83 a share, above the $70 to $78 range it had planned, AP reports.[^40] It also sold more shares than first planned, about 980 million, and raised about $81 billion. That beats SpaceX's roughly $75 billion in June as the largest IPO on record.[^40][^41] Trading is due to begin on the Nasdaq some time after the market opens at 9:30 a.m. on Thursday.[^40]",
-        "Reuters says the price gives Anthropic a value of about $1.5 trillion, counting all shares that could exist in future, and about $1.1 trillion counting only current shares.[^41] Its filings show third-quarter revenue of $16.96 billion and an operating loss of $567 million.[^41] The company has also signed deals to spend nearly $900 billion on computing in coming years, $70 billion of it in the next 12 months, and has $6.2 billion in debt.[^40]",
-        "Anthropic is a \"public benefit corporation\", which means it must weigh the public good alongside profits, and a long-term benefit trust can elect or remove most of its board.[^40] A note on bias: Anthropic makes Claude, the AI that writes this brief.",
-        "Why it matters: investors are treating the sale as a test of whether the AI boom is a bubble. Analyst Dan Ives saw \"strong appetite\" for the shares.[^40] AP points to risks, including possible new rules from a Democratic-led Congress next year, local opposition to data centres, and several tech companies that recently dropped plans to go public.[^40] One fund manager told Reuters that \"one listing won't settle the debate.\"[^41]",
-        "My read: first-day price moves are mostly noise. The steadier signals are the next few quarterly reports, and whether the money raised keeps up with the computing bills."
+        "Anthropic, the AI company behind the Claude models, began trading on Nasdaq on Thursday under the ticker ANT. It sold 980 million shares at $83 each, above its earlier target range, raising about $81 billion, more than SpaceX's roughly $75 billion listing in June.[^8] (Note: Claude, which writes this brief, is made by Anthropic, so read this item with that in mind.)",
+        "The first trade, just before noon in New York, was $111.50, about 34% above the IPO price. Shares touched $115.10, then fell below $100 within about 20 minutes. They closed at $97.17, up 17%.[^6][^7] Valuations depend on how shares are counted, but all estimates put the company well over $1 trillion.[^6]",
+        "The wider market fell that day: the Dow was down about 1.7% and the Nasdaq about 1% during trading, and other AI stocks such as Nvidia slipped.[^6][^7] CEO Dario Amodei called machine intelligence \"one of the seminal moments in human history\" and said the company has been honest that the technology has real risks.[^8]",
+        "Why it matters: this is the first large AI lab owned partly by ordinary investors, so its share price will now act as a daily public vote on the AI boom. Analysts urge caution: a Truist study found more than half of 32 mega-IPOs fell at least 50% at some point in their first year, and one Truist strategist said the listing should not be seen as a verdict on AI.[^8] My read: one day of trading says little; the next few earnings reports will say more."
       ],
-      "differences": "Some investors, like Baillie Gifford, argue most of AI's value will go to companies \"at the frontier\"; Anthropic's own filing warns that computing capacity it has contracted \"may be delayed, repriced, reduced, or not delivered.\"[^41]"
+      "differences": null
     },
     {
-      "id": "homo-erectus-china-rainforest",
-      "heading": "Fossil teeth suggest Homo erectus lived in southern China far later than thought",
-      "date": "2026-11-18",
-      "status": "confirmed",
-      "summary": "Two studies in Nature identify eight teeth from caves in southern China as Homo erectus, dated to between about 324,000 and 184,000 years ago.[^42][^43] Chemical clues suggest these early humans lived in rainforest, a habitat once linked only to our own species.[^42][^43]",
+      "id": "cop31-draft-drops-fossil-fuels",
+      "heading": "COP31's revised draft deal drops all mention of fossil fuels as talks near deadline",
+      "date": "2026-11-19",
+      "status": "developing",
+      "summary": "A new draft at the UN climate talks in Antalya, Turkey, removed every reference to moving away from fossil fuels and accepts warming may pass 1.5°C.[^9] Talks were due to end Friday, with climate finance still the main sticking point.[^10]",
       "lead": {
-        "title": "Archaic human species Homo erectus mastered the rainforest in China",
+        "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
         "outlet": "Reuters (via Yahoo News)",
-        "url": "https://www.yahoo.com/news/science/articles/archaic-human-species-homo-erectus-160226003.html",
-        "date": "2026-11-18"
+        "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html",
+        "date": "2026-11-19"
       },
       "alsoReported": [
         {
-          "title": "Homo Erectus May Have Survived in China 200,000 Years Longer Than We Thought",
-          "outlet": "National Geographic",
-          "url": "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest"
+          "title": "What's left to do as Cop31 enters its frantic final days",
+          "outlet": "The Guardian (via AOL)",
+          "url": "https://www.aol.co.uk/articles/left-cop31-enters-frantic-final-070024000.html"
         },
         {
-          "title": "Homo erectus Thrived in Chinese Rainforest Far Later than Thought",
-          "outlet": "Sci.News",
-          "url": "https://www.sci.news/othersciences/anthropology/homo-erectus-china-15208.html"
+          "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
+          "outlet": "Reuters (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/science/articles/cop31-delivers-deals-host-turkey-100624879.html"
         }
       ],
       "eventId": null,
       "article": [
-        "Homo erectus was an early human species that appeared in Africa about two million years ago. It was the first known human species to leave Africa and is thought to have been the first to use fire.[^42] Scientists had believed it disappeared from mainland Asia around 400,000 years ago.[^42][^43]",
-        "On Wednesday, two research teams published studies in the journal Nature on nine teeth from the Baxian and Naxian caves in Guangxi, southern China.[^44] Based on tooth shape and, in some cases, ancient proteins preserved in the enamel, they say eight belong to Homo erectus.[^42][^43] The teeth were dated to between about 324,000 and 184,000 years ago, which would mean the species survived there roughly 200,000 years longer than many researchers assumed.[^43]",
-        "Chemical signals in the teeth, called isotopes, record what an animal ate and drank. They suggest this group lived in rainforest, alongside orangutans and an extinct forest elephant.[^43] Other chemical traces suggest they travelled widely, possibly towards what is now northern Vietnam.[^42] Lead researcher Kira Westaway called the group \"flexible, adaptable and mobile\".[^42] The ninth tooth is a puzzle: co-author Frido Welker said it \"could be Denisovan, but also something unknown.\"[^42]",
-        "Why it matters: rainforests were seen as a frontier that only modern humans could cross, said Marwick, a University of Washington archaeologist not involved in the work.[^43] Potts, a Smithsonian scientist also not involved, said \"the identification looks really solid.\"[^43] The research team says the dates suggest these populations probably never met Homo sapiens.[^42]",
-        "My read: this is careful work, but it rests on a handful of teeth. Expect more digging and dating in the region before the picture is settled."
+        "Nearly 200 countries are meeting in Antalya, Turkey, for COP31, the yearly UN climate summit. On Thursday, negotiators published a revised draft deal that removed both references to moving away from fossil fuels that were in Monday's first draft.[^9] Australia, which runs the negotiations in a shared arrangement with host Turkey, said the first draft was always meant to start broad and then narrow.[^9]",
+        "The new text accepts that warming could pass 1.5°C, the goal set in the 2015 Paris Agreement, and calls for \"deep, rapid and sustained\" emission cuts. It also encourages more technology to remove carbon dioxide from the air.[^9] Separately, many countries back a pledge to get 35% of final energy use from electricity by 2035, though most have not formally signed it.[^11]",
+        "Leaders of vulnerable countries pushed back. Panama's environment minister said the world is \"held hostage by the petroleum mafia\", and Barbados Prime Minister Mia Mottley called overshooting 1.5°C a \"debt of heat\".[^11] Money for the poorest countries is the main dispute, and Reuters reported on Friday that an ambitious outcome looked unlikely. Turkey says it secured over $26 billion in deals while hosting.[^10]",
+        "Why it matters: every country must agree by consensus, so the final text shows what the world can agree on, not what scientists recommend. The phrase \"fossil fuels\" first appeared in a COP outcome only in 2021.[^11] What's next: talks often run more than a day late, so watch whether fossil-fuel wording returns in the final deal.[^9]"
       ],
-      "differences": null
+      "differences": "Vulnerable states such as Panama, Barbados and the Marshall Islands want stronger action and more money.[^11] The presidency says narrowing the draft is normal.[^9] The articles read do not name which governments pushed to remove the fossil-fuel wording."
+    },
+    {
+      "id": "board-of-peace-gaza-report",
+      "heading": "Trump's Board of Peace tells the UN that both Israel and Hamas are falling short in Gaza",
+      "date": "2026-11-18",
+      "status": "confirmed",
+      "summary": "The US-backed body overseeing Gaza's ceasefire says both sides have \"fallen far short\" of their commitments, and warns that a truce that delivers nothing visible cannot last.[^12][^13]",
+      "lead": {
+        "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+        "outlet": "Reuters (via Cyprus Mail)",
+        "url": "https://cyprus-mail.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+        "date": "2026-11-18"
+      },
+      "alsoReported": [
+        {
+          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+          "outlet": "Al Jazeera (with AP)",
+          "url": "https://www.aljazeera.com/amp/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "The Board of Peace, set up under Donald Trump's plan to oversee the Gaza ceasefire that began on Oct 10, 2025, sent its second report to the UN Security Council this week. In 12 pages, it says both Israel and Hamas have \"fallen far short\", and that the gap between the deal and reality is the biggest risk to the process.[^12][^13]",
+        "The report faults Israel for blocking a planned interim administration of Palestinian experts and for not deciding on training and deploying Palestinian police. It says Israeli limits on supplies, together with funding gaps, have hurt preparations for winter floods.[^12][^13] It faults Hamas for taxing goods that enter Gaza. Hamas agreed in July to a plan for giving up its weapons, which Israel rejected.[^12]",
+        "More than 2 million people in Gaza live on about a third of the territory, mostly in tents, while Israel controls the rest.[^12] Reuters reports that more than 1,600 Palestinians and 5 Israeli soldiers have been killed since the truce began.[^12] Defence Minister Israel Katz said Israel will not withdraw until Hamas is dismantled and Gaza is demilitarised.[^12]",
+        "Why it matters: the report puts on record that the ceasefire's next phase, rebuilding and new governance, has barely started. \"A ceasefire that delivers nothing visible cannot be sustained indefinitely,\" it says.[^12] Israel is also between governments after last month's election.[^12] What's next: the report is due to be presented to the Security Council at the end of November.[^12]"
+      ],
+      "differences": "Reuters gives weight to Hamas's taxes and the rejected disarmament plan, while Al Jazeera's report stresses Israeli aid limits and calls the war genocidal, a term Israel rejects.[^12][^13] Israel's government and Hamas did not immediately comment.[^12]"
+    },
+    {
+      "id": "ethiopia-eritrea-border-buildup",
+      "heading": "Ethiopia and Eritrea mass troops along their border, conflict monitors say",
+      "date": "2026-11-18",
+      "status": "disputed",
+      "summary": "Conflict monitors report both armies gathering near the border and possible clashes near Badme; Reuters could not confirm the clashes, and Eritrea calls the reports propaganda.[^14]",
+      "lead": {
+        "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+        "outlet": "Reuters (via The Korea Times)",
+        "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+        "date": "2026-11-18"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "Ethiopia and Eritrea have moved large numbers of troops to their shared border, according to the conflict monitors ACLED and International Crisis Group and two people linked to militias in Ethiopia's Tigray region, Reuters reports.[^14] ACLED reported shelling and clashes near the town of Badme, and drone strikes on Nov 12 on what were likely Eritrean positions.[^14]",
+        "Reuters could not independently confirm the clashes, and a pro-government militia source in Tigray said there had been none.[^14] Eritrea's information minister called the reports \"propaganda\", denied sending troops into Ethiopia and accused Ethiopia of looking for an excuse to invade. Ethiopia did not comment.[^14]",
+        "Background: Eritrea split from Ethiopia in 1993, and the two fought a border war over Badme in 1998 to 2000 that killed tens of thousands. They made peace in 2018. Relations soured as Ethiopia's Prime Minister Abiy Ahmed called for access to the sea for his landlocked country, which he says he wants by peaceful means. Since September, Ethiopia's army has been fighting Tigrayan rebels, and Ethiopia says Eritrean troops crossed in to help them.[^14]",
+        "Why it matters: a war between these two countries would draw in a region already strained by Sudan's war, near the Red Sea shipping lanes. A Crisis Group analyst called it \"a dangerous scenario that could trigger a direct conflict\".[^14] My read: this is a warning sign, not yet a confirmed war; the key test is whether independent reporters can confirm fighting."
+      ],
+      "differences": "Monitors ACLED and Crisis Group report a troop build-up and clashes; Eritrea calls this propaganda and denies its troops are in Ethiopia; Ethiopia has not commented.[^14] Ethiopia accuses Sudan and Egypt of backing the rebels, which both deny.[^14]"
+    },
+    {
+      "id": "congo-ebola-cases-double",
+      "heading": "WHO says Congo's Ebola cases have doubled in three months to more than 11,000",
+      "date": "2026-11-17",
+      "status": "developing",
+      "summary": "WHO chief Tedros says the outbreak has passed 11,000 cases and 5,400 deaths in eight provinces, with 400 to 500 new cases a week.[^15] Africa CDC says it is \"still not under control\".[^16]",
+      "lead": {
+        "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth",
+        "outlet": "UN News",
+        "url": "https://news.un.org/en/story/2026/11/1168827",
+        "date": "2026-11-17"
+      },
+      "alsoReported": [
+        {
+          "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
+          "outlet": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "At a meeting of the World Health Organization's emergency committee on Nov 17, Director-General Tedros Adhanom Ghebreyesus said the Ebola outbreak in the Democratic Republic of the Congo now counts more than 11,000 cases and 5,400 deaths in 67 health zones across eight provinces. Cases have more than doubled in three months, with 400 to 500 new ones each week.[^15]",
+        "Children make up more than a quarter of confirmed cases and a third of deaths. Two-thirds of confirmed deaths happen outside treatment centres, a sign that many infections are found late.[^15] Kenya has 9 linked cases and 2 deaths, and Nigeria has one imported case.[^15]",
+        "This is the Bundibugyo type of Ebola, which kills about half of those infected and has no approved vaccine or treatment. It is now the second-largest Ebola outbreak on record, after West Africa in 2014 to 2016.[^16] Two candidate vaccines are due to join a trial in the coming weeks, and the number of labs able to test has grown from 2 to more than two dozen.[^15]",
+        "Why it matters: Ebola spreads through close contact, so finding cases early is what stops it. Africa CDC's chief says more than 80% of new cases are outside known contact lists, and called donor coordination \"a collective failure\".[^16] Tedros criticised blanket travel bans, saying they hamper the response.[^15] My read: some early hotspots have slowed, but the overall trend is still up."
+      ],
+      "differences": "Africa CDC stresses that the outbreak is not under control; WHO's chief points to slowing in most of the early hotspots while warning of the overall rise.[^15][^16]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "AP (via KIRO 7)",
-      "title": "The Latest: Trump meets with Putin and Xi in China",
-      "url": "https://www.kiro7.com/news/world/latest-trump-meets/FFDH5FN63QYJTIJRRTQX2KT53Q/",
-      "date": "2026-11-19",
+      "outlet": "The Kyiv Independent",
+      "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine",
+      "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Reuters (via Business Recorder)",
-      "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
-      "url": "https://www.brecorder.com/news/40449724/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda?v=HxqchiUCfZmAyXEsA6oMkgis",
-      "date": "2026-11-19",
-      "singleSource": false
+      "outlet": "Kyiv Post",
+      "title": "Explosion in Poland Sparks Airspace Breach Probe as Russian Attacks Kill Civilians in Ukraine",
+      "url": "https://www.kyivpost.com/post/90676",
+      "date": "2026-11-20",
+      "singleSource": true
     },
     {
       "id": 3,
-      "outlet": "Reuters (via ThePrint)",
-      "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
-      "url": "https://theprint.in/world/chinas-xi-says-us-should-do-right-thing-on-taiwan-to-avoid-setbacks-in-relations/3103085/",
-      "date": "2026-11-19",
+      "outlet": "Euromaidan Press",
+      "title": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
+      "url": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Irish Times (agencies)",
-      "title": "Trump discusses Ukraine during meeting with 'my friend' Putin in China",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/19/trump-discusses-ukraine-during-meeting-with-my-friend-putin-in-china/",
+      "outlet": "Institute for the Study of War (Critical Threats)",
+      "title": "Russian Offensive Campaign Assessment, November 19, 2026",
+      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-19-2026",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "TASS",
-      "title": "Putin, Trump, Xi conclude trilateral meeting after about 90 minutes",
-      "url": "https://tass.com/politics/2221317",
+      "outlet": "The Kyiv Independent",
+      "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
+      "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
+      "date": "2026-11-17",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Yahoo Finance",
+      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
-      "id": 6,
-      "outlet": "AP (via Spectrum News)",
-      "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait, sites in Bahrain",
-      "url": "https://spectrumlocalnews.com/tx/austin/international/2026/11/18/u-s--iran-war-gulf-attacks-kuwait-bahrain",
-      "date": "2026-11-18",
-      "singleSource": true
-    },
-    {
       "id": 7,
-      "outlet": "Xinhua",
-      "title": "Iran says 3 tankers caught fire after hitting mines east of Hormuz Strait",
-      "url": "https://english.news.cn/20261119/1e486e6c7d604f2a8c861850e65f9c21/c.html",
+      "outlet": "CBC News (via Yahoo News Canada)",
+      "title": "Anthropic stock soars over 20% in Nasdaq debut",
+      "url": "https://ca.news.yahoo.com/anthropic-stock-soars-over-20-173714449.html",
       "date": "2026-11-19",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Gulf News",
-      "title": "Iran, Oman move closer to Hormuz shipping 'deal': What it means for global oil trade",
-      "url": "https://gulfnews.com/world/gulf/oman/iran-oman-move-closer-to-hormuz-shipping-deal-what-it-means-for-global-oil-trade-1.500753065",
+      "outlet": "CBS News (via Yahoo Finance)",
+      "title": "Anthropic set to start trading after completing largest-ever IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html",
       "date": "2026-11-19",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "AP (via PBS NewsHour)",
-      "title": "'The symbol of the occupation': Ukraine destroys span of Kerch Bridge linking Russia with Crimea",
-      "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea",
-      "date": "2026-11-17",
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html",
+      "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Al Jazeera",
-      "title": "'Crimea is turning into an island': How Ukraine hit Putin's prized bridge",
-      "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge",
-      "date": "2026-11-18",
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-delivers-deals-host-turkey-100624879.html",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "The Kyiv Independent",
-      "title": "Russia says the Crimean bridge will come back 'even better.' That may take a while",
-      "url": "https://kyivindependent.com/russia-says-the-crimean-bridge-will-come-back-even-better-that-may-take-a-while/",
-      "date": "2026-11-17",
+      "outlet": "The Guardian (via AOL)",
+      "title": "What's left to do as Cop31 enters its frantic final days",
+      "url": "https://www.aol.co.uk/articles/left-cop31-enters-frantic-final-070024000.html",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "Reuters (via Cyprus Mail)",
+      "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+      "url": "https://cyprus-mail.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "Al Jazeera (with AP)",
+      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "url": "https://www.aljazeera.com/amp/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "Reuters (via The Korea Times)",
+      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+      "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+      "date": "2026-11-18",
       "singleSource": true
     },
     {
-      "id": 40,
-      "outlet": "AP (via PBS NewsHour)",
-      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-      "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
-      "date": "2026-11-18",
+      "id": 15,
+      "outlet": "UN News",
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth",
+      "url": "https://news.un.org/en/story/2026/11/1168827",
+      "date": "2026-11-17",
       "singleSource": false
     },
     {
-      "id": 41,
-      "outlet": "Reuters (via Investing.com)",
-      "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110",
-      "date": "2026-11-18",
+      "id": 16,
+      "outlet": "Al Jazeera",
+      "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
+      "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
+      "date": "2026-11-15",
       "singleSource": false
     },
     {
-      "id": 42,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "Archaic human species Homo erectus mastered the rainforest in China",
-      "url": "https://www.yahoo.com/news/science/articles/archaic-human-species-homo-erectus-160226003.html",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 43,
-      "outlet": "National Geographic",
-      "title": "Homo Erectus May Have Survived in China 200,000 Years Longer Than We Thought",
-      "url": "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 44,
-      "outlet": "Sci.News",
-      "title": "Homo erectus Thrived in Chinese Rainforest Far Later than Thought",
-      "url": "https://www.sci.news/othersciences/anthropology/homo-erectus-china-15208.html",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 45,
-      "outlet": "The Jerusalem Post",
-      "title": "Israel's Knesset advances bills repealing Netanyahu's judicial overhaul laws",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 46,
-      "outlet": "Ynet News",
-      "title": "Eisenkot bloc begins push to reverse Netanyahu's laws with judicial overhaul repeal",
-      "url": "https://www.ynetnews.com/article/hjmw6xirgx",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 47,
-      "outlet": "The Times of Israel",
-      "title": "Knesset votes 63-47 to repeal law weakening AG's powers in preliminary vote",
-      "url": "https://www.timesofisrael.com/liveblog_entry/knesset-votes-63-47-to-repeal-law-weakening-ags-powers-in-preliminary-vote",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 48,
-      "outlet": "Ynet News",
-      "title": "'Strategic disaster': Bennett-Netanyahu meeting sparks backlash within Eisenkot bloc amid unity talks",
-      "url": "https://www.ynetnews.com/article/bj9l1morgg",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 49,
-      "outlet": "The Jerusalem Post",
-      "title": "Replacing Netanyahu is 'top priority,' Eisenkot-led bloc declares after leaders' meeting in Knesset",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915329",
-      "date": "2026-11-18",
+      "id": 17,
+      "outlet": "Interfax-Ukraine",
+      "title": "Three killed in attack on Kyiv: victims appear to be Kyivvodokanal employees",
+      "url": "https://en.interfax.com.ua/news/general/1239628.html",
+      "date": "2026-11-20",
       "singleSource": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-19",
+  "reviewed": "2026-11-20",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "After US strikes on Qeshm Island on Nov 17, Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18; both say they intercepted the attacks without damage.[^291] Iran's navy says three more tankers hit mines east of Hormuz, a claim not independently confirmed.[^292] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
+      "standing": "After US strikes on Qeshm Island on Nov 17, Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18; both say they intercepted the attacks.[^291] NPR reports Iran hit a tanker and a gas carrier within 24 hours, and that October set a record for attacks on ships, with November on pace to be higher.[^302] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -15,8 +15,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-20",
-          "what": "IAEA board in Vienna discusses its report on Iran's missing enriched uranium"
+          "date": "2026-11-30",
+          "what": "Whether Iran and Oman formally approve a Hormuz shipping corridor"
         },
         {
           "date": "2026-11-30",
@@ -186,7 +186,8 @@
         281,
         282,
         291,
-        292
+        292,
+        302
       ]
     },
     {
@@ -195,7 +196,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Ukraine collapsed a road span of the Kerch Bridge to Crimea on Nov 17; the rail line is damaged but open, and the Kremlin says it will be restored.[^293] Trump and Putin met for about 40 minutes in Shenzhen on Nov 19; the Kremlin says Ukraine dominated, but no date is set for the next US-led round.[^294] Russian strikes continue to cut power in the Odesa region.[^276]",
+      "standing": "Ukraine collapsed a road span of the Kerch Bridge on Nov 17.[^293] Putin vowed revenge, and overnight on Nov 19-20 Russian missiles and drones damaged three Kyiv bridges over the Dnipro and hit Lviv and Kharkiv; Ukraine's prime minister says at least 8 were killed.[^298][^299] Trump and Putin met in Shenzhen on Nov 19, but no date is set for the next US-led round.[^294]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -359,7 +360,9 @@
         275,
         276,
         293,
-        294
+        294,
+        298,
+        299
       ]
     },
     {
@@ -368,13 +371,17 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "With Eisenkot ally Matan Kahana elected speaker on Nov 17, the new majority passed early votes on Nov 18 to repeal three of Netanyahu's court laws; each still needs three more readings.[^283][^295] Bennett met Netanyahu privately the same day, worrying some in his own bloc.[^296] Gaza's health ministry counts at least 1,600 deaths since the truce began.[^267]",
+      "standing": "Israel's new majority passed early votes on Nov 18 to repeal three of Netanyahu's court laws; each needs three more readings.[^295] The US-backed Board of Peace told the UN that Israel and Hamas have both \"fallen far short\" of the truce, warning that a ceasefire delivering nothing visible cannot last.[^301] Reuters counts more than 1,600 Palestinians and 5 Israeli soldiers killed since the truce began.[^301]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
         "unlikely": "In the near term, either a full return to large-scale war or a quick political settlement on Palestinian statehood. Both remain conceivable, but neither side appears to be moving that way now."
       },
       "watch": [
+        {
+          "date": "2026-11-30",
+          "what": "Board of Peace presents its Gaza report to the UN Security Council (end of November)"
+        },
         {
           "date": "2026-12-06",
           "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
@@ -522,7 +529,8 @@
         283,
         284,
         295,
-        296
+        296,
+        301
       ]
     },
     {
@@ -701,17 +709,13 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic priced its IPO at $83 a share on Nov 18, raising about $81 billion, the largest on record, at a value near $1.5 trillion; trading starts Nov 19.[^297] New US licence rules for advanced chips in five countries take effect Nov 19.[^280]",
+      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic raised about $81 billion in the largest IPO on record; on its first trading day, Nov 19, shares opened 34% above the $83 price and closed up 17%, while the wider market fell.[^297][^300] New US licence rules for advanced chips in five countries took effect Nov 19.[^280]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
         "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
       },
       "watch": [
-        {
-          "date": "2026-11-19",
-          "what": "Anthropic's first day of trading on Nasdaq (ticker ANT); new US chip licence rules take effect"
-        },
         {
           "date": "2026-12-02",
           "what": "EU AI Act: scheduled ban on AI that makes sexual abuse or non-consensual intimate images; labelling rules"
@@ -885,7 +889,8 @@
         280,
         285,
         286,
-        297
+        297,
+        300
       ]
     }
   ],
@@ -1333,62 +1338,6 @@
       "outlet": "Reuters (via Investing.com)",
       "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
       "url": "https://www.investing.com/news/stock-market-news/chinas-deepseekminimax-win-approval-for-ai-global-use-state-mediaaffiliated-entity-says-4968133",
-      "date": "2026-10-23",
-      "singleSource": true
-    },
-    {
-      "id": 53,
-      "outlet": "Salon",
-      "title": "Iran war could last another year, Trump ambassador says",
-      "url": "https://www.salon.com/2026/10/23/iran-war-could-last-another-year-trump-ambassador-says/",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 54,
-      "outlet": "CBS News",
-      "title": "Iran War Updates: Trump's U.N. ambassador says war could last another year as oil prices continue rising",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 55,
-      "outlet": "The Kyiv Independent",
-      "title": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
-      "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 56,
-      "outlet": "Reuters (via The Moscow Times)",
-      "title": "Putin Says Renewed Peace Talks Must Focus on Security for Russia, Ukraine and Europe Overall",
-      "url": "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 57,
-      "outlet": "Al Jazeera and AP",
-      "title": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
-      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 58,
-      "outlet": "The Decoder",
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
-      "date": "2026-10-23",
-      "singleSource": false
-    },
-    {
-      "id": 59,
-      "outlet": "TheStreet",
-      "title": "Stock Market Today (Oct. 23, 2026): Dow tumbles following tech sell-off",
-      "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026",
       "date": "2026-10-23",
       "singleSource": true
     },
@@ -2993,107 +2942,11 @@
       "singleSource": false
     },
     {
-      "id": 260,
-      "outlet": "The National",
-      "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
-      "date": "2026-11-16",
-      "singleSource": false
-    },
-    {
-      "id": 261,
-      "outlet": "The National",
-      "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
-      "date": "2026-11-16",
-      "singleSource": false
-    },
-    {
-      "id": 262,
-      "outlet": "Bloomberg (via News Tribune)",
-      "title": "Iran extends shutout of UN nuclear inspectors",
-      "url": "https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/",
-      "date": "2026-11-15",
-      "singleSource": true
-    },
-    {
-      "id": 263,
-      "outlet": "Kyiv Independent",
-      "title": "Ukraine war latest: Russia launches mass attack on Odesa Oblast as Ukraine strikes airfield, drone launch site in Russia",
-      "url": "https://kyivindependent.com/ukraine-war-latest-russia-launches-mass-attack-on-odesa-oblast-as-ukraine-strikes-airfield-drone-launch-site-in-russia/",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 264,
-      "outlet": "Hurriyet Daily News",
-      "title": "Moscow confirms Trump, Xi, Putin meeting in China",
-      "url": "https://www.hurriyetdailynews.com/moscow-confirms-trump-xi-putin-meeting-in-china-229413",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 265,
-      "outlet": "RFE/RL",
-      "title": "Russia, Ukraine Trade Air Attacks As US-Mediated Talks Fail To Break Diplomatic Deadlock",
-      "url": "https://www.rferl.org/a/ukraine-russia-war-drone-strikes-oil-refinery/33899022.html",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 266,
-      "outlet": "Times of Israel",
-      "title": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
-      "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 267,
-      "outlet": "RTÉ (Reuters)",
-      "title": "Senior Hamas commander killed in Israeli strike in Gaza",
-      "url": "https://www.rte.ie/news/middle-east/2026/1115/1599265-hamas-commander-killed/",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
       "id": 268,
       "outlet": "Alaska Public Media",
       "title": "Peltola leads in U.S. Senate race, nearing 50% mark with almost all ballots counted",
       "url": "https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted",
       "date": "2026-11-14",
-      "singleSource": false
-    },
-    {
-      "id": 269,
-      "outlet": "Investing.com (via Yahoo Finance)",
-      "title": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
-      "url": "https://finance.yahoo.com/economy/policy/articles/china-u-discuss-tariff-cuts-092147009.html",
-      "date": "2026-11-14",
-      "singleSource": false
-    },
-    {
-      "id": 270,
-      "outlet": "Fox Business",
-      "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans 'war room': report",
-      "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report",
-      "date": "2026-11-15",
-      "singleSource": true
-    },
-    {
-      "id": 271,
-      "outlet": "Yahoo Finance",
-      "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
-      "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 272,
-      "outlet": "Reuters (via Yahoo Finance)",
-      "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
-      "url": "https://ca.finance.yahoo.com/news/chip-tensions-loom-over-trump-090000096.html",
-      "date": "2026-11-16",
       "singleSource": false
     },
     {
@@ -3294,6 +3147,46 @@
       "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
       "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
       "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 298,
+      "outlet": "The Kyiv Independent",
+      "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine",
+      "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 299,
+      "outlet": "Euromaidan Press",
+      "title": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
+      "url": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 300,
+      "outlet": "Yahoo Finance",
+      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 301,
+      "outlet": "Reuters (via Cyprus Mail)",
+      "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+      "url": "https://cyprus-mail.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 302,
+      "outlet": "NPR (via WGCU)",
+      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "url": "https://www.wgcu.org/2026-11-19/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "date": "2026-11-19",
       "singleSource": false
     }
   ]

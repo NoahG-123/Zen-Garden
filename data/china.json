@@ -1,85 +1,93 @@
 {
-  "date": "2026-11-19",
-  "summary": "Xi and Trump met in Shenzhen and spoke of steadier ties as chip limits loom; Chinese carmakers scale back factory humanoid robots, and youth unemployment eased to 17.2%.",
+  "date": "2026-11-20",
+  "summary": "Alibaba launches a closed flagship AI model, China readies its first mission with a foreign astronaut, Canada reviews Chinese EVs, and Chinese shoppers keep holding back.",
   "body": [
-    "Xi Jinping and Donald Trump held formal talks in Shenzhen on Thursday, after sitting together for two hours at Wednesday's APEC welcome banquet.[^1] Trump said the US-China \"Board of Trade\", a body the two leaders set up in May to manage trade disputes, has brought \"greater balance\" to the relationship; its first official meeting was held last Friday.[^2] In a live report credited to Reuters, Xi called ties \"stable and improving\", asked for closer work on AI safety risks, and warned Washington to handle Taiwan carefully.[^3] A first three-way meeting with Vladimir Putin began later on Thursday; no results had been reported at the time of writing.[^3][^4]",
-    "Computer chips hang over the talks. Reuters reported before the summit that US lawmakers are pushing for tighter limits on China's access to advanced AI chips after Nvidia co-founder Jensen Huang resigned, and that a planned US-China channel for reporting serious AI incidents is not working yet.[^5]",
-    "On robots, Caixin reports that Chinese carmakers are pulling humanoid robots off assembly lines because of high costs and weak performance, and giving them simpler jobs.[^6] In Wuhan, CBS News visited a centre where more than 100 graduates wear sensor suits so their everyday movements can train robots; the centre's head guesses a robot could work in homes in three to five years, or up to 10.[^7] My read: the robot push is real, but slower than the showroom demos suggest.",
-    "For young people, official data reported this week show unemployment among urban 16- to 24-year-olds who are not in school fell to 17.2% in October from 18% in September; for ages 25 to 29 it was 7.3%.[^8]"
+    "Alibaba released Qwen4-Max this week, its most powerful AI model so far. It can read text, images and video, and Alibaba says it cuts the average cost of a task by about 60% compared with its previous top model; its benchmark scores are the company's own claims.[^1][^2] Unlike many earlier Qwen models, it is not open-weight, meaning outside developers cannot download and run it themselves. Alibaba says it filtered training data to remove material that could help cyberattacks.[^1][^2]",
+    "In space, the Shenzhou-24 spacecraft was moved to its launch pad at Jiuquan in the Gobi Desert. It will carry the first foreign astronaut to China's Tiangong space station, a Pakistani payload specialist who will stay a few days.[^3][^4] Pakistan's planning minister has named Nov 25 as the launch date; China's space agency says only \"at an appropriate time\".[^3]",
+    "For Canadians, Transport Minister Steve MacKinnon says Ottawa will review where Chinese-made EVs may drive, possibly keeping them away from military and government sites, after Canada cut its tariff on them to 6.1% in January.[^5] Xiaomi opened its first car sales outside China, in the UAE, at prices well above those at home.[^6]",
+    "Shoppers in China stayed cautious: retail sales rose only 0.4% in October from a year earlier, with car sales down 21.4%.[^7][^9] New home prices fell 2.4% from a year earlier, the slowest drop in almost a year by Reuters' count.[^8] My read: the property slump is easing, but people are still holding back on big purchases."
   ],
-  "differences": "Trump says the Board of Trade has made US-China trade fairer; economists cited by Reuters warn his tariff approach could raise prices and widen a trade war.[^2] On robots, Elon Musk has predicted over a billion humanoids within 10 years, as CBS notes, while the Wuhan centre's head expects homes to wait 3 to 10 years and Caixin reports carmakers scaling back.[^6][^7]",
+  "differences": "Alibaba says Qwen4-Max beats some rival models on its own tests, but The Next Web notes those results have not been independently checked and the model trails on others.[^2] Pakistan names Nov 25 for the launch; China has not given a date.[^3]",
   "reads": [
     {
-      "title": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
-      "outlet": "CBS News",
-      "url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
-      "kind": "news",
-      "summary": "A look inside a Wuhan centre where young graduates act out chores so robots can learn them, and why home robots are still years away."
+      "title": "Shenzhen is the message: China's unwritten APEC communiqué",
+      "outlet": "UTS Australia-China Relations Institute",
+      "url": "https://www.uts.edu.au/news/2026/11/shenzhen-is-the-message-chinas-unwritten-apec-communique",
+      "kind": "analysis",
+      "summary": "How Shenzhen grew from fishing villages into a tech hub of drones and delivery robots, and why China chose it to host this week's APEC summit."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Anadolu Agency (via A News)",
-      "title": "Trump touts outstanding personal relationship with Xi at meeting in Shenzhen, China",
-      "url": "https://www.anews.com.tr/world/2026/11/19/trump-touts-outstanding-personal-relationship-with-xi-at-meeting-in-shenzhen-china",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "Trump says Board of Trade has brought 'greater balance' to US-China ties",
-      "url": "https://www.yahoo.com/news/articles/trump-says-board-trade-brought-062445158.html",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "AnewZ (with Reuters)",
-      "title": "Trump, Putin and Xi begin trilateral talks at APEC summit",
-      "url": "https://anewz.tv/world/world-news/26925/trump-putin-and-xi-begin-trilateral-talks-at-apec-summit/news",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
-      "url": "https://www.yahoo.com/news/politics/articles/chip-tensions-loom-over-trump-085418424.html",
+      "outlet": "Business Standard",
+      "title": "Alibaba says Qwen4-Max cuts task costs by 60%, boosts cyber safeguards",
+      "url": "https://www.business-standard.com/world-news/alibaba-says-qwen4-max-cuts-task-costs-by-60-boosts-cyber-safeguards-126111600895_1.html",
       "date": "2026-11-16",
       "singleSource": false
     },
     {
-      "id": 6,
-      "outlet": "Caixin Global",
-      "title": "CX Daily: China's Automakers Scale Back Humanoid Robot Ambitions as Reality Bites",
-      "url": "https://www.caixinglobal.com/2026-11-18/cx-daily-chinas-automakers-scale-back-humanoid-robot-ambitions-as-reality-bites-102505943.html",
+      "id": 2,
+      "outlet": "The Next Web",
+      "title": "Alibaba launches Qwen4-Max flagship AI model without open weights",
+      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "The Express Tribune",
+      "title": "Pakistan to send its first astronaut to China's Tiangong Space Station through Shenzhou-24 mission: SUPARCO",
+      "url": "https://tribune.com.pk/story/2641029/pakistan-set-to-send-first-astronaut-to-chinas-tiangong-space-station-through-shenzhou-24-mission",
       "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "China Daily HK (Chinese state media)",
+      "title": "Shenzhou XXIV launch soon with first Chinese-foreign astronaut team",
+      "url": "https://www.chinadailyhk.com/article/642836",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "iPhone in Canada",
+      "title": "Canada Eyes Chinese EV Restrictions",
+      "url": "https://www.iphoneincanada.ca/2026/11/19/canada-chinese-ev-security-review/",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "CarNewsChina",
+      "title": "Xiaomi hits global market as SU7, YU7 and Skynomad open UAE presales",
+      "url": "https://carnewschina.com/2026/11/19/xiaomi-hits-global-market-as-su7-yu7-and-skynomad-open-uae-presales/",
+      "date": "2026-11-19",
       "singleSource": true
     },
     {
       "id": 7,
-      "outlet": "CBS News",
-      "title": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
-      "url": "https://www.cbsnews.com/news/china-humanoid-robot-development-global-edge/",
-      "date": "2026-11-18",
-      "singleSource": true
+      "outlet": "Trading Economics",
+      "title": "China Retail Sales Growth Slows in October",
+      "url": "https://tradingeconomics.com/china/retail-sales-annual/news/601330",
+      "date": "2026-11-16",
+      "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Reuters (via Devdiscourse)",
-      "title": "China's October youth jobless rate falls to 17.2%",
-      "url": "https://www.devdiscourse.com/article/international/4008820-chinas-october-youth-jobless-rate-falls-to-172",
-      "date": "2026-11-18",
+      "outlet": "Reuters (via The Standard HK)",
+      "title": "China's new home prices fall again in October, slowest annual decline in almost a year",
+      "url": "https://www.thestandard.com.hk/finance/article/348595/Chinas-new-home-prices-fall-again-in-October-slowest-annual-decline-in-almost-a-year",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "South China Morning Post",
+      "title": "China's economic activity falters in October amid sluggish retail sales",
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+      "date": "2026-11-16",
       "singleSource": false
     }
   ]
