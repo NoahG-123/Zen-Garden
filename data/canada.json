@@ -1,85 +1,52 @@
 {
-  "date": "2026-11-20",
-  "summary": "The federal budget passed, Ontario's school unions all hold strike mandates, Stellantis meets Ottawa and Ford today on Brampton, and negotiators say Canada can't wait out Trump.",
+  "date": "2026-11-21",
+  "summary": "Stellantis talks on Brampton end with no deal but more talks, Trump calls Canada \"emboldened\", and Halifax hosts a big security forum this weekend.",
   "body": [
-    "The federal budget passed the House of Commons on Thursday, 162 to 151. It adds billions in new borrowing and tax measures, mostly for infrastructure and building projects, and the Liberals now hold a majority of seats after byelections and floor-crossings.[^1] Measures include a large tax deduction for business investment and a top-up to a benefit for lower-income families. Conservative Leader Pierre Poilievre says the borrowing pushes costs onto Canadians, and the NDP says the budget caters to big business.[^2]",
-    "In Ontario, all five major education unions now have strike mandates. Results released Thursday show 94.2% of more than 57,000 school support workers voted yes, after teachers' unions voted 96% to 98% in favour.[^3][^4] A mandate is not a strike: the unions say they want negotiated deals, and support staff start bargaining on Nov 30. Education Minister Paul Calandra said the results were not surprising.[^3]",
-    "Today, federal Industry Minister Mélanie Joly, Premier Doug Ford and Unifor's Lana Payne meet Stellantis about its plan to sell its Brampton plant to defence firm Roshel, which puts about 2,200 auto jobs at risk. CTV's sources say Stellantis expects the sale to go ahead.[^5] Ford says it is Ottawa's job to stop the sale; Joly says Stellantis must do its part.[^5][^6]",
-    "On US trade, top negotiators told Carney's advisory committee on Thursday that Canada cannot simply wait out Trump's last two years, and hope for an interim deal on autos, steel and lumber tariffs before Jan 1.[^7] Trump trade adviser Peter Navarro attacked Ottawa online, saying \"Canada cheats us\".[^8]"
+    "Friday's meeting between Stellantis, federal Industry Minister Mélanie Joly, Premier Doug Ford and Unifor ended without a decision on the Brampton plant, which Stellantis plans to sell to defence firm Roshel. Ford called it \"challenging\" but \"productive\" and said Ottawa should ease the roughly $1 billion a year Stellantis pays in emissions costs.[^1] Joly said Stellantis can keep the plant and work with Ottawa, or face legal action for \"hundreds of millions of dollars\" under its 2022 funding deal; the company has 30 days to respond to a default notice.[^1]",
+    "On trade, Trump said on Friday that Canada is feeling \"emboldened\" but that he wants a \"fair\" deal, and that he will be ready to talk when Canada's trade deficit with the US reaches zero.[^2] Carney said this week that a good deal is possible, but \"if the U.S. doesn't want to do a deal, we're busy.\"[^2] The government says his Asia trip concluded free-trade talks with ASEAN and the Philippines and extended a tariff-relief arrangement with China to December 2028.[^3]",
+    "This weekend the Halifax International Security Forum brings defence leaders from more than 70 countries to Nova Scotia, with Ukraine and shipping routes such as the Strait of Hormuz high on the agenda. No members of the Trump administration are attending, CTV reports.[^4]"
   ],
-  "differences": "On Brampton, Ford blames federal costs and says Ottawa must stop the sale, while Joly says Stellantis must do its part.[^5][^6] On the budget, the government says it invests for growth; the Conservatives and NDP say it borrows too much or favours business.[^2]",
+  "differences": "On Brampton, Ford says Ottawa should cut emissions costs to keep the plant viable, while Joly says Stellantis must keep its promises or repay public money.[^1] On trade, Trump says Canada must close its deficit with the US first; Carney says Canada is building other partnerships.[^2]",
   "reads": [
     {
-      "title": "Canadian negotiators dispel idea Canada can just play for time in trade talks with Trump",
-      "outlet": "CTV News (via CP24)",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/canadian-negotiators-dispel-idea-canada-can-just-play-for-time-in-trade-talks-with-trump/",
+      "title": "Stellantis meeting 'challenging' but 'productive', Premier Ford says",
+      "outlet": "Global News",
+      "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
       "kind": "news",
-      "summary": "Why Canada's negotiators think tariff-hit industries cannot wait for a new US president, and what an interim deal might cover."
+      "summary": "What each side said after Friday's Brampton meeting, the $529 million funding deal at stake, and how the plant ended up idle."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "Liberals' 2026 budget passes in House of Commons",
-      "url": "https://www.cp24.com/news/canada/2026/11/19/liberals-2026-budget-passes-in-house-of-commons/",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "The Canadian Press (via rdnewsnow)",
-      "title": "Liberals' 2026 budget passes in House of Commons",
-      "url": "https://rdnewsnow.com/2026/11/19/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/",
-      "date": "2026-11-19",
-      "singleSource": true
-    },
-    {
-      "id": 3,
-      "outlet": "CP24",
-      "title": "CUPE Ontario education workers vote in favour of strike action ahead of bargaining",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/20/cupe-ontario-education-workers-vote-in-favour-of-strike-action-ahead-of-bargaining/",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "CP24",
-      "title": "Ontario elementary school teachers overwhelmingly vote in favour of strike mandate",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/18/ontario-elementary-school-teachers-overwhelmingly-vote-in-favour-of-strike-mandate/",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "CTV News (via CP24)",
-      "title": "Little hope of averting Stellantis' sale ahead of Friday meeting with Joly",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/little-hope-of-averting-stellantis-sale-ahead-of-friday-meeting-with-joly/",
+      "outlet": "Global News",
+      "title": "Stellantis meeting 'challenging' but 'productive', Premier Ford says",
+      "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
       "date": "2026-11-20",
       "singleSource": false
     },
     {
-      "id": 6,
-      "outlet": "CP24",
-      "title": "'We haven't given them any money yet': Ontario officials hoping for good meeting with Stellantis",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/18/we-havent-given-them-any-money-yet-ontario-officials-hoping-for-good-meeting-with-stellantis/",
-      "date": "2026-11-18",
+      "id": 2,
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Trump says Canada feeling 'emboldened' but he's seeking a 'fair' trade deal",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
-      "id": 7,
-      "outlet": "CTV News (via CP24)",
-      "title": "Canadian negotiators dispel idea Canada can just play for time in trade talks with Trump",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/canadian-negotiators-dispel-idea-canada-can-just-play-for-time-in-trade-talks-with-trump/",
+      "id": 3,
+      "outlet": "Prime Minister of Canada (news release)",
+      "title": "Prime Minister Carney strengthens economic partnerships at APEC, capping an ambitious week",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/19/prime-minister-carney-strengthens-economic-partnerships-apec-capping",
       "date": "2026-11-19",
-      "singleSource": false
+      "singleSource": true
     },
     {
-      "id": 8,
+      "id": 4,
       "outlet": "CTV News (via CP24)",
-      "title": "Trump trade adviser hurls insults at federal government as Canada-U.S. trade talks heat up",
-      "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
-      "date": "2026-11-19",
+      "title": "World leaders gather in Halifax for international security forum",
+      "url": "https://www.cp24.com/news/canada/2026/11/21/world-leaders-gather-in-halifax-for-international-security-forum/",
+      "date": "2026-11-20",
       "singleSource": true
     }
   ]

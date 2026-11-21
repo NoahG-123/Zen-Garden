@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-20",
+  "reviewed": "2026-11-21",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "After US strikes on Qeshm Island on Nov 17, Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18; both say they intercepted the attacks.[^291] NPR reports Iran hit a tanker and a gas carrier within 24 hours, and that October set a record for attacks on ships, with November on pace to be higher.[^302] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
+      "standing": "Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18 after US strikes on Qeshm Island; both say they intercepted the attacks.[^291] NPR reports attacks on ships hit a record in October.[^302] On Nov 19 the Senate rejected a measure to end the war without Congress's approval, 51 to 48.[^303] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -187,7 +187,8 @@
         282,
         291,
         292,
-        302
+        302,
+        303
       ]
     },
     {
@@ -196,7 +197,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Ukraine collapsed a road span of the Kerch Bridge on Nov 17.[^293] Putin vowed revenge, and overnight on Nov 19-20 Russian missiles and drones damaged three Kyiv bridges over the Dnipro and hit Lviv and Kharkiv; Ukraine's prime minister says at least 8 were killed.[^298][^299] Trump and Putin met in Shenzhen on Nov 19, but no date is set for the next US-led round.[^294]",
+      "standing": "Ukraine collapsed a road span of the Kerch Bridge on Nov 17, and Russia struck three Kyiv bridges overnight on Nov 19-20; Ukraine says at least 8 were killed.[^293][^299] In Berlin on Nov 19, US envoy Kushner said Russia is \"comfortable\" with Article 5-style guarantees for Ukraine; Russian officials publicly reject them, and Zelenskyy refuses to trade land.[^304] No date is set for the next US-led round.[^294]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -362,7 +363,8 @@
         293,
         294,
         298,
-        299
+        299,
+        304
       ]
     },
     {
@@ -709,7 +711,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%; its chairman says the board will not reinstate Jensen Huang.[^285][^286] Anthropic raised about $81 billion in the largest IPO on record; on its first trading day, Nov 19, shares opened 34% above the $83 price and closed up 17%, while the wider market fell.[^297][^300] New US licence rules for advanced chips in five countries took effect Nov 19.[^280]",
+      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%.[^285] Anthropic's record IPO closed its first day, Nov 19, up 17%.[^300] A House committee says the US approved about 879,000 advanced AI chips for Chinese firms from Dec 2025 to May 2026.[^305] On Nov 20 an Anthropic mathematician said he and Claude proved the Riemann hypothesis; experts are checking it.[^306]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
@@ -890,7 +892,9 @@
         285,
         286,
         297,
-        300
+        300,
+        305,
+        306
       ]
     }
   ],
@@ -3187,6 +3191,38 @@
       "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
       "url": "https://www.wgcu.org/2026-11-19/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
       "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 303,
+      "outlet": "Reuters (via Cyprus Mail)",
+      "title": "US Senate rejects resolution curbing Trump's Iran war powers",
+      "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 304,
+      "outlet": "IntelliNews (via Yahoo News)",
+      "title": "Ukraine's allies hold the line in Berlin as Kushner pushes for compromise",
+      "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 305,
+      "outlet": "Reuters (via Hawaii Tribune-Herald)",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+      "url": "https://www.hawaiitribune-herald.com/2026/11/20/nation-world-news/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months-committee-says/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 306,
+      "outlet": "The Boston Globe (AP)",
+      "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
+      "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
+      "date": "2026-11-21",
       "singleSource": false
     }
   ]

@@ -1,93 +1,44 @@
 {
-  "date": "2026-11-20",
-  "summary": "Alibaba launches a closed flagship AI model, China readies its first mission with a foreign astronaut, Canada reviews Chinese EVs, and Chinese shoppers keep holding back.",
+  "date": "2026-11-21",
+  "summary": "New US data shows nearly 880,000 AI chips were approved for Chinese firms, while Tencent and Alibaba say home-grown chips will soften tighter US rules.",
   "body": [
-    "Alibaba released Qwen4-Max this week, its most powerful AI model so far. It can read text, images and video, and Alibaba says it cuts the average cost of a task by about 60% compared with its previous top model; its benchmark scores are the company's own claims.[^1][^2] Unlike many earlier Qwen models, it is not open-weight, meaning outside developers cannot download and run it themselves. Alibaba says it filtered training data to remove material that could help cyberattacks.[^1][^2]",
-    "In space, the Shenzhou-24 spacecraft was moved to its launch pad at Jiuquan in the Gobi Desert. It will carry the first foreign astronaut to China's Tiangong space station, a Pakistani payload specialist who will stay a few days.[^3][^4] Pakistan's planning minister has named Nov 25 as the launch date; China's space agency says only \"at an appropriate time\".[^3]",
-    "For Canadians, Transport Minister Steve MacKinnon says Ottawa will review where Chinese-made EVs may drive, possibly keeping them away from military and government sites, after Canada cut its tariff on them to 6.1% in January.[^5] Xiaomi opened its first car sales outside China, in the UAE, at prices well above those at home.[^6]",
-    "Shoppers in China stayed cautious: retail sales rose only 0.4% in October from a year earlier, with car sales down 21.4%.[^7][^9] New home prices fell 2.4% from a year earlier, the slowest drop in almost a year by Reuters' count.[^8] My read: the property slump is easing, but people are still holding back on big purchases."
+    "A US House committee released records on Thursday showing the Commerce Department approved about 879,000 advanced Nvidia and AMD AI chips for Chinese companies between December 2025 and May 2026, out of 3.4 million requested. Tencent was approved for 150,000, Alibaba 75,000 and Baidu 43,000.[^1][^3] It is unclear how many were actually shipped.[^1] A former US official said more than 30% went to firms the Pentagon lists as linked to China's military; Nvidia says the sales had strict conditions and it has since stopped shipping its H200 chip to China.[^1]",
+    "This week US rules also tightened: licences are now needed for advanced chips sent to data centres in Malaysia, Singapore, Thailand, Indonesia and Brazil, a route Chinese firms used to rent computing power.[^2][^3] On their earnings calls, Tencent and Alibaba said Chinese-made chips can carry much of their cloud work. Tencent president Martin Lau said training its next AI model will take longer and that the rules set \"everyone back in China\", but will speed up the country's own chip industry.[^2]",
+    "The two companies are still growing. Alibaba's AI and cloud revenue rose 53% in the latest quarter, and Tencent's spending on equipment rose more than sixfold.[^2] Alibaba also faces a shareholder lawsuit alleging it hid ties to a Singapore cloud firm suspected of moving restricted chips into China, which that firm denies.[^2] My read: each new US limit pushes China's tech giants further toward their own chips, even at the cost of slower AI progress for now."
   ],
-  "differences": "Alibaba says Qwen4-Max beats some rival models on its own tests, but The Next Web notes those results have not been independently checked and the model trails on others.[^2] Pakistan names Nov 25 for the launch; China has not given a date.[^3]",
+  "differences": "Nvidia says its approved China sales were limited and conditional; critics in Washington question whether there was a serious security review.[^1] Tencent says the new rules will slow its AI work; Alibaba says its own chip progress is ahead of plan.[^2]",
   "reads": [
     {
-      "title": "Shenzhen is the message: China's unwritten APEC communiqué",
-      "outlet": "UTS Australia-China Relations Institute",
-      "url": "https://www.uts.edu.au/news/2026/11/shenzhen-is-the-message-chinas-unwritten-apec-communique",
-      "kind": "analysis",
-      "summary": "How Shenzhen grew from fishing villages into a tech hub of drones and delivery robots, and why China chose it to host this week's APEC summit."
+      "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to slow down their AI development",
+      "outlet": "Fortune",
+      "url": "https://fortune.com/2026/11/20/tencent-alibaba-us-chip-curbs-cloud-ai/",
+      "kind": "news",
+      "summary": "How China's two biggest tech firms plan to keep their AI and cloud businesses growing under new US chip rules, and what they admit it will cost."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Business Standard",
-      "title": "Alibaba says Qwen4-Max cuts task costs by 60%, boosts cyber safeguards",
-      "url": "https://www.business-standard.com/world-news/alibaba-says-qwen4-max-cuts-task-costs-by-60-boosts-cyber-safeguards-126111600895_1.html",
-      "date": "2026-11-16",
+      "outlet": "Reuters (via Hawaii Tribune-Herald)",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+      "url": "https://www.hawaiitribune-herald.com/2026/11/20/nation-world-news/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months-committee-says/",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Next Web",
-      "title": "Alibaba launches Qwen4-Max flagship AI model without open weights",
-      "url": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
-      "date": "2026-11-16",
+      "outlet": "Fortune",
+      "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to slow down their AI development",
+      "url": "https://fortune.com/2026/11/20/tencent-alibaba-us-chip-curbs-cloud-ai/",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Express Tribune",
-      "title": "Pakistan to send its first astronaut to China's Tiangong Space Station through Shenzhou-24 mission: SUPARCO",
-      "url": "https://tribune.com.pk/story/2641029/pakistan-set-to-send-first-astronaut-to-chinas-tiangong-space-station-through-shenzhou-24-mission",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "China Daily HK (Chinese state media)",
-      "title": "Shenzhou XXIV launch soon with first Chinese-foreign astronaut team",
-      "url": "https://www.chinadailyhk.com/article/642836",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "iPhone in Canada",
-      "title": "Canada Eyes Chinese EV Restrictions",
-      "url": "https://www.iphoneincanada.ca/2026/11/19/canada-chinese-ev-security-review/",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "CarNewsChina",
-      "title": "Xiaomi hits global market as SU7, YU7 and Skynomad open UAE presales",
-      "url": "https://carnewschina.com/2026/11/19/xiaomi-hits-global-market-as-su7-yu7-and-skynomad-open-uae-presales/",
-      "date": "2026-11-19",
-      "singleSource": true
-    },
-    {
-      "id": 7,
-      "outlet": "Trading Economics",
-      "title": "China Retail Sales Growth Slows in October",
-      "url": "https://tradingeconomics.com/china/retail-sales-annual/news/601330",
-      "date": "2026-11-16",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "Reuters (via The Standard HK)",
-      "title": "China's new home prices fall again in October, slowest annual decline in almost a year",
-      "url": "https://www.thestandard.com.hk/finance/article/348595/Chinas-new-home-prices-fall-again-in-October-slowest-annual-decline-in-almost-a-year",
-      "date": "2026-11-16",
-      "singleSource": false
-    },
-    {
-      "id": 9,
-      "outlet": "South China Morning Post",
-      "title": "China's economic activity falters in October amid sluggish retail sales",
-      "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
-      "date": "2026-11-16",
+      "outlet": "24/7 Wall St.",
+      "title": "The U.S. Approved 879,000 Nvidia and AMD Chips for China in 6 Months",
+      "url": "https://247wallst.com/investing/2026/11/20/the-u-s-approved-879000-nvidia-and-amd-chips-for-china-in-6-months/",
+      "date": "2026-11-20",
       "singleSource": false
     }
   ]

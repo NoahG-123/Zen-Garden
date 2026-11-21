@@ -1,334 +1,266 @@
 {
-  "date": "2026-11-20",
-  "summary": "Russia hits Kyiv's bridges in revenge for Kerch, Anthropic's shares jump then fade on day one, COP31's draft drops fossil fuels, and warnings grow on Gaza, Ethiopia and Ebola.",
+  "date": "2026-11-21",
+  "summary": "COP31 runs late over fossil fuels, a claimed AI-assisted proof of the Riemann hypothesis, a landmark genocide ruling on Myanmar, and new talk of guarantees for Ukraine.",
   "question": {
-    "type": "how-do-we-know",
-    "text": "Today, death tolls in Ukraine changed through the day, and Reuters could not confirm the border clashes that monitors reported between Ethiopia and Eritrea. When early reports from a crisis disagree, what would make you trust one account more than another?"
+    "type": "second-order",
+    "text": "If a proof is checked by a computer but no human fully understands it yet, what might change about how science and maths decide something is true, and who gets trusted to say so?"
   },
   "read": {
-    "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
-    "outlet": "The Kyiv Independent",
-    "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
+    "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
     "kind": "analysis",
     "minutes": 8,
-    "summary": "Explains why one bridge matters so much: a symbol of Russia's 2014 annexation, a supply line for its army in the south, and the background to today's Russian strikes on Kyiv's bridges."
+    "summary": "An explainer on what NATO's Article 5 does and does not promise, why Russia's public line differs from what the US says, and what experts think a guarantee for Ukraine could mean."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "russia-strikes-kyiv-bridges",
-      "heading": "Russia strikes three Kyiv bridges and cities across Ukraine after vowing revenge for Kerch",
-      "date": "2026-11-20",
+      "id": "cop31-overtime-fossil-fuels",
+      "heading": "COP31 climate talks run past their deadline in a fight over fossil fuels",
+      "date": "2026-11-21",
       "status": "developing",
-      "summary": "Overnight, Russian missiles and drones damaged three bridges over the Dnipro in Kyiv and hit Lviv, Kharkiv and other cities; Ukraine's prime minister says at least 8 people were killed nationwide.[^1][^3] Poland is checking whether something crossed into its airspace.[^2]",
+      "summary": "The UN climate summit in Antalya, Türkiye, ran into Saturday after a revised draft deal dropped every mention of fossil fuels.[^1][^3] The summit's Turkish president says a new text is expected today, but oil producers and countries pushing for a phase-out remain far apart.[^1][^2]",
       "lead": {
-        "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine",
-        "outlet": "The Kyiv Independent",
-        "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-        "date": "2026-11-20"
+        "title": "Fossil fuel row sees COP31 talks spill into overtime",
+        "outlet": "Euronews",
+        "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
+        "date": "2026-11-21"
       },
       "alsoReported": [
         {
-          "title": "Explosion in Poland Sparks Airspace Breach Probe as Russian Attacks Kill Civilians in Ukraine",
-          "outlet": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/90676"
+          "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+          "outlet": "Reuters (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html"
         },
         {
-          "title": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
-          "outlet": "Euromaidan Press",
-          "url": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/"
+          "title": "COP31 runs into overtime over fossil fuel dispute",
+          "outlet": "Dawn (AFP)",
+          "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute"
         }
       ],
-      "eventId": "ukraine-war",
+      "eventId": null,
       "article": [
-        "Overnight into Friday, Russia launched ballistic and cruise missiles and drones at Ukraine. In Kyiv, three bridges over the Dnipro River were damaged, and Mayor Vitali Klitschko told residents not to drive.[^1] Power, heating and water went out in parts of the city, and Ukraine says nine regions were hit.[^1][^2]",
-        "Casualty counts were still changing. Klitschko first said at least 3 people were killed in Kyiv, likely workers at the city water utility.[^17] Prime Minister Serhii Koretskyi later said 6 were killed in Kyiv and 8 across Ukraine, with dozens hurt.[^3] Two people were killed at a railway station in Lviv, and a drone struck a hospital in Kharkiv, injuring four, local officials say.[^3]",
-        "The attack came a day after Vladimir Putin promised \"retaliation\" for Ukraine's strikes on the Kerch Bridge, the only road and rail link between Russia and occupied Crimea, and said he would not negotiate truces on energy or at sea.[^1] Ukraine hit that bridge three times between Nov 16 and 19.[^4] One expert quoted by the Kyiv Independent thinks repairs could take a year or more.[^5]",
-        "In Poland, officials are investigating whether unidentified objects entered its airspace early Friday after people near the village of Chmielek reported a loud explosion. Poland has not named a cause, but it raised air-defence readiness and briefly halted flights at Rzeszów airport.[^2]",
-        "Why it matters: bridges, power and water are what keep a city running in winter, and both sides are now targeting the other's transport links. My read: this round of strikes makes the energy and sea truces discussed in recent talks less likely soon. Watch Poland's findings, because any confirmed incursion into a NATO country raises the stakes.[^2][^4]"
+        "COP31, the yearly UN climate conference, was due to end on Friday in Antalya, Türkiye. Instead, negotiators from nearly 200 countries kept talking into Saturday.[^1][^3] The main fight is over fossil fuels. An early draft called for speeding up the phase-out of coal, oil and gas; a shorter version released on Thursday by co-host Australia left them out entirely.[^2] Reuters reports that change came after objections from Saudi Arabia and other big oil and gas producers, and that the draft also dropped a $120 billion target for helping poorer countries adapt.[^3]",
+        "Countries on the other side pushed back hard. The EU said the text risked turning the meeting into a \"fossil summit\", and a dozen countries, including France, Panama and the Solomon Islands, signed a letter calling for \"a clear transition away from fossil fuels\".[^1][^2] Panama's environment minister has threatened to block any deal without a cap on oil production.[^2] Uganda's negotiator objected to language encouraging carbon removal, saying it lets rich countries keep producing oil and gas.[^3]",
+        "Background: at COP28 in 2023, countries agreed for the first time to \"transition away\" from fossil fuels. Every COP decision needs consensus, so a single bloc can water a text down. The United States is absent for a second year after President Trump ended its climate cooperation.[^3] The latest draft focuses on electrification, backed by Türkiye's goal of electricity meeting 35% of final energy demand by 2035.[^2]",
+        "Why it matters: burning fossil fuels is the main cause of warming, and the draft itself accepts that the world is projected to overshoot the 1.5C goal.[^3] COP31 president Murat Kurum said late Friday that talks were \"close to the finish line\".[^1] My read: a deal is likely this weekend, but whether it mentions fossil fuels at all is the test most observers will use to judge it."
       ],
-      "differences": "Death and injury counts differ between Kyiv's mayor, the city administration and the prime minister, and were still rising.[^3][^17] Putin calls the Kerch Bridge a purely civilian site; the US-based Institute for the Study of War disputes that, pointing to its military use.[^4] No Russian statement on the overnight attack had been found at the time of writing."
+      "differences": "Saudi Arabia and Venezuela argued in their speeches for a continued role for fossil fuels.[^3] The EU, Panama, France and small island states say a deal without fossil fuels is unacceptable.[^1][^2] Australia's Chris Bowen, who leads the talks, says electrification is itself the way to move away from fossil fuels.[^2]"
     },
     {
-      "id": "anthropic-first-trading-day",
-      "heading": "Anthropic shares open 34% above IPO price, then close up 17% on first day",
-      "date": "2026-11-19",
-      "status": "confirmed",
-      "summary": "Anthropic's shares first traded at $111.50 on Nasdaq, well above the $83 IPO price, then slid to close at $97.17.[^6] The company raised about $81 billion, the largest IPO ever, on a day when the wider market fell.[^7][^8]",
+      "id": "riemann-hypothesis-ai-claim",
+      "heading": "A mathematician says he and an AI have proved the Riemann hypothesis, unsolved since 1859",
+      "date": "2026-11-20",
+      "status": "developing",
+      "summary": "Levent Alpöge, a mathematician at Anthropic, says he and its AI model Claude found a proof of the Riemann hypothesis, one of maths' most famous open problems.[^4] The proof exists only as computer-checked Lean code; early expert checks are encouraging, but human understanding is still far off.[^4][^5]",
       "lead": {
-        "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
-        "outlet": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
-        "date": "2026-11-19"
+        "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
+        "outlet": "The Boston Globe (AP)",
+        "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
+        "date": "2026-11-21"
       },
       "alsoReported": [
         {
-          "title": "Anthropic stock soars over 20% in Nasdaq debut",
-          "outlet": "CBC News (via Yahoo News Canada)",
-          "url": "https://ca.news.yahoo.com/anthropic-stock-soars-over-20-173714449.html"
-        },
-        {
-          "title": "Anthropic set to start trading after completing largest-ever IPO",
-          "outlet": "CBS News (via Yahoo Finance)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html"
+          "title": "Riemann hypothesis proof claimed by Anthropic mathematician",
+          "outlet": "Swisher Post (AFP)",
+          "url": "https://www.swisherpost.com/technology/riemann-hypothesis-proof-claimed-anthropic-mathematician-claude/"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Anthropic, the AI company behind the Claude models, began trading on Nasdaq on Thursday under the ticker ANT. It sold 980 million shares at $83 each, above its earlier target range, raising about $81 billion, more than SpaceX's roughly $75 billion listing in June.[^8] (Note: Claude, which writes this brief, is made by Anthropic, so read this item with that in mind.)",
-        "The first trade, just before noon in New York, was $111.50, about 34% above the IPO price. Shares touched $115.10, then fell below $100 within about 20 minutes. They closed at $97.17, up 17%.[^6][^7] Valuations depend on how shares are counted, but all estimates put the company well over $1 trillion.[^6]",
-        "The wider market fell that day: the Dow was down about 1.7% and the Nasdaq about 1% during trading, and other AI stocks such as Nvidia slipped.[^6][^7] CEO Dario Amodei called machine intelligence \"one of the seminal moments in human history\" and said the company has been honest that the technology has real risks.[^8]",
-        "Why it matters: this is the first large AI lab owned partly by ordinary investors, so its share price will now act as a daily public vote on the AI boom. Analysts urge caution: a Truist study found more than half of 32 mega-IPOs fell at least 50% at some point in their first year, and one Truist strategist said the listing should not be seen as a verdict on AI.[^8] My read: one day of trading says little; the next few earnings reports will say more."
+        "On Friday, Levent Alpöge, a mathematician on Anthropic's technical staff, posted a four-page note on his personal website saying he believes he has a proof of the Riemann hypothesis, made together with Claude, Anthropic's AI model.[^4] The hypothesis, posed by Bernhard Riemann in 1859, is about how prime numbers are spread out. It is one of seven Millennium Prize Problems, each with a $1 million reward.[^4]",
+        "The proof is not a normal paper. It is written in Lean, a programming language for checking proofs step by step by computer. AP reports about 17 million lines of code and more than 250,000 pages of AI-generated working, and Alpöge says it is too long and unfinished for a readable write-up.[^4][^5] AFP reports that MIT's Andrew Sutherland found all 175,187 Lean files compiled using only standard assumptions.[^5] A clean compile shows the proof is internally consistent; experts are now checking that it proves the right statement.[^5]",
+        "Early reactions are careful but striking. Rutgers mathematician Alex Kontorovich told AP the proof appears true, but added: \"Does that mean I understand it? Not yet.\"[^4] Martin Bridson, president of the Clay Mathematics Institute, called it an announcement \"of historic significance\" but said reaching real understanding will be \"long and difficult\".[^4] Clay's rules require publication, then two years and general acceptance, so no prize could come before late 2028.[^5]",
+        "Why it matters: if it holds, a machine will have done most of the work on a problem the best human mathematicians could not crack for 167 years. That raises new questions about what counts as understanding in maths. It came a day after Anthropic's record stock market debut, and Anthropic had not commented as of AP's report.[^4] A note on this brief: it is prepared with Claude, the AI in this story, so weigh my framing with that in mind."
       ],
       "differences": null
     },
     {
-      "id": "cop31-draft-drops-fossil-fuels",
-      "heading": "COP31's revised draft deal drops all mention of fossil fuels as talks near deadline",
+      "id": "icj-myanmar-rohingya-genocide",
+      "heading": "UN top court rules that Myanmar committed genocide against the Rohingya",
       "date": "2026-11-19",
-      "status": "developing",
-      "summary": "A new draft at the UN climate talks in Antalya, Turkey, removed every reference to moving away from fossil fuels and accepts warming may pass 1.5°C.[^9] Talks were due to end Friday, with climate finance still the main sticking point.[^10]",
+      "status": "confirmed",
+      "summary": "The International Court of Justice voted 9 to 6 that Myanmar's 2017 military campaign against the Rohingya was genocide, the first time it has held a state responsible for the crime.[^6][^7] The ruling is final, but the court cannot enforce it.[^6]",
       "lead": {
-        "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
-        "outlet": "Reuters (via Yahoo News)",
-        "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html",
+        "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+        "outlet": "NPR (via OPB)",
+        "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/",
         "date": "2026-11-19"
       },
       "alsoReported": [
         {
-          "title": "What's left to do as Cop31 enters its frantic final days",
-          "outlet": "The Guardian (via AOL)",
-          "url": "https://www.aol.co.uk/articles/left-cop31-enters-frantic-final-070024000.html"
+          "title": "World Court Finds Myanmar Committed Rohingya Genocide",
+          "outlet": "Human Rights Watch",
+          "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "On Thursday the International Court of Justice (ICJ), the UN's top court for disputes between countries, ruled that Myanmar committed genocide against the Rohingya, a mostly Muslim minority. Judges voted 9 to 6. It is the first time in the court's 80-year history that it has found a state responsible for genocide.[^6][^7] The case was brought by Gambia under the 1948 Genocide Convention, which lets any member country take another to court.[^6]",
+        "The case is about a 2017 military crackdown in Rakhine state. The court estimated about 10,000 Rohingya were killed and found the violence was systematic, including the burning of all or part of 392 villages. About 700,000 people fled to Bangladesh.[^6] Myanmar's military had said it was fighting insurgents; the judges rejected that explanation, and HRW notes the court found intent to destroy the group was \"the only reasonable inference\".[^6][^7]",
+        "The court ordered Myanmar to stop ongoing violations, investigate and punish those responsible, and pay reparations, with amounts set later. The ruling cannot be appealed.[^7] But the ICJ has no police of its own; enforcement falls to the UN Security Council, which HRW says has never used that power.[^7] Myanmar's military-backed government had not responded when NPR reported.[^6]",
+        "Why it matters: the reasoning will shape other genocide cases, including South Africa's case against Israel, lawyers and HRW say.[^6][^7] Return home is still hard: the Arakan Army, an armed group, now controls most of Rakhine. UN Secretary-General António Guterres called the ruling \"a powerful recognition\" of the victims, while the US State Department said it is studying it and raised doubts about the court.[^6]"
+      ],
+      "differences": "Six of fifteen judges disagreed with the genocide finding.[^6] Myanmar's military has long described the 2017 operation as counter-insurgency; the court majority rejected that.[^7] The US says it is still assessing the ruling.[^6]"
+    },
+    {
+      "id": "ukraine-security-guarantees-berlin",
+      "heading": "US envoy says Russia could accept NATO-style guarantees for Ukraine; Moscow says no",
+      "date": "2026-11-19",
+      "status": "disputed",
+      "summary": "After a meeting of Ukraine's backers in Berlin, US envoy Jared Kushner said Russia is \"comfortable\" with security guarantees for Ukraine modelled on NATO's Article 5.[^8][^10] Russian officials publicly call any such arrangement unacceptable, and Zelenskyy says the allies do not yet agree on what it would mean.[^10]",
+      "lead": {
+        "title": "Ukraine's allies hold the line in Berlin as Kushner pushes for compromise",
+        "outlet": "IntelliNews (via Yahoo News)",
+        "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html",
+        "date": "2026-11-20"
+      },
+      "alsoReported": [
+        {
+          "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"
         },
         {
-          "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
-          "outlet": "Reuters (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/science/articles/cop31-delivers-deals-host-turkey-100624879.html"
+          "title": "Zelenskyy identifies best security guarantee for Ukraine as proposals presented to partners",
+          "outlet": "Ukrayinska Pravda (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/world/articles/zelenskyy-identifies-best-security-guarantee-224500870.html"
         }
       ],
-      "eventId": null,
+      "eventId": "ukraine-war",
       "article": [
-        "Nearly 200 countries are meeting in Antalya, Turkey, for COP31, the yearly UN climate summit. On Thursday, negotiators published a revised draft deal that removed both references to moving away from fossil fuels that were in Monday's first draft.[^9] Australia, which runs the negotiations in a shared arrangement with host Turkey, said the first draft was always meant to start broad and then narrow.[^9]",
-        "The new text accepts that warming could pass 1.5°C, the goal set in the 2015 Paris Agreement, and calls for \"deep, rapid and sustained\" emission cuts. It also encourages more technology to remove carbon dioxide from the air.[^9] Separately, many countries back a pledge to get 35% of final energy use from electricity by 2035, though most have not formally signed it.[^11]",
-        "Leaders of vulnerable countries pushed back. Panama's environment minister said the world is \"held hostage by the petroleum mafia\", and Barbados Prime Minister Mia Mottley called overshooting 1.5°C a \"debt of heat\".[^11] Money for the poorest countries is the main dispute, and Reuters reported on Friday that an ambitious outcome looked unlikely. Turkey says it secured over $26 billion in deals while hosting.[^10]",
-        "Why it matters: every country must agree by consensus, so the final text shows what the world can agree on, not what scientists recommend. The phrase \"fossil fuels\" first appeared in a COP outcome only in 2021.[^11] What's next: talks often run more than a day late, so watch whether fossil-fuel wording returns in the final deal.[^9]"
+        "On Thursday about 40 countries in the \"coalition of the willing\", the group backing Ukraine's future security, met at the German Chancellery in Berlin with US envoys Jared Kushner and Steve Witkoff.[^8][^10] Afterwards Kushner told reporters that Russia has become \"comfortable\" with a guarantee for Ukraine based on Article 5, NATO's promise that an attack on one member is an attack on all. He said it would have to serve US interests and go through Congress.[^8]",
+        "Moscow's public line is different. Russian Deputy Foreign Minister Sergei Ryabkov called any \"quasi membership\" for Kyiv totally unacceptable, and Putin has said NATO membership and guarantees for Ukraine are unacceptable.[^10] Zelenskyy said NATO membership would be the best guarantee, but that there is no shared understanding yet of what Article 5-style guarantees would involve.[^9][^10] He says Ukraine is \"not exchanging anything for anything\" on territory, after US negotiators reportedly floated NATO entry in return for leaving Donbas.[^8]",
+        "European leaders took different lines. Macron said the question of Ukraine joining NATO should be reopened, while Germany's Merz called the same day's Trump-Putin-Xi meeting in Shenzhen a \"photo op\".[^8] The joint statement of Germany, France, the UK and Ukraine calls for \"robust and legally binding\" guarantees after a ceasefire, possibly including a European-led force, without mentioning Article 5.[^8] Poland's Donald Tusk said Poland will not send troops.[^8]",
+        "Why it matters: guarantees are the core question of any peace deal, because Ukraine fears Russia would attack again. Experts quoted by Al Jazeera note that Article 5 is a political decision, not automatic, and one called a full guarantee hard to believe.[^10] My read: talk of guarantees is moving, but the gap on territory is as wide as ever, and the same night Russia hit Kyiv's bridges."
       ],
-      "differences": "Vulnerable states such as Panama, Barbados and the Marshall Islands want stronger action and more money.[^11] The presidency says narrowing the draft is normal.[^9] The articles read do not name which governments pushed to remove the fossil-fuel wording."
+      "differences": "Kushner (US) says Russia is comfortable with Article 5-style guarantees.[^8] Russia's deputy foreign minister and Putin say such guarantees are unacceptable.[^10] Ukraine wants NATO membership and refuses to trade land; Europe's joint statement asks for binding guarantees but does not mention Article 5.[^8][^9]"
     },
     {
-      "id": "board-of-peace-gaza-report",
-      "heading": "Trump's Board of Peace tells the UN that both Israel and Hamas are falling short in Gaza",
-      "date": "2026-11-18",
+      "id": "senate-rejects-iran-war-powers",
+      "heading": "US Senate votes 51-48 against a measure to end the Iran war without Congress's approval",
+      "date": "2026-11-19",
       "status": "confirmed",
-      "summary": "The US-backed body overseeing Gaza's ceasefire says both sides have \"fallen far short\" of their commitments, and warns that a truce that delivers nothing visible cannot last.[^12][^13]",
+      "summary": "In the first Iran war vote since the midterms, the Senate rejected a war powers resolution 51 to 48, with three Republicans voting yes.[^11][^12] Democrats who take control in January say they will keep pushing, including through next month's funding fight.[^11]",
       "lead": {
-        "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+        "title": "US Senate rejects resolution curbing Trump's Iran war powers",
         "outlet": "Reuters (via Cyprus Mail)",
-        "url": "https://cyprus-mail.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
-        "date": "2026-11-18"
+        "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers",
+        "date": "2026-11-19"
       },
       "alsoReported": [
         {
-          "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-          "outlet": "Al Jazeera (with AP)",
-          "url": "https://www.aljazeera.com/amp/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action"
+          "title": "Senate rejects resolution to block Trump from striking Iran",
+          "outlet": "Anchorage Daily News (AP)",
+          "url": "https://www.adn.com/nation-world/2026/11/19/senate-rejects-resolution-to-block-trump-from-striking-iran/"
         }
       ],
-      "eventId": "gaza",
+      "eventId": "iran-war",
       "article": [
-        "The Board of Peace, set up under Donald Trump's plan to oversee the Gaza ceasefire that began on Oct 10, 2025, sent its second report to the UN Security Council this week. In 12 pages, it says both Israel and Hamas have \"fallen far short\", and that the gap between the deal and reality is the biggest risk to the process.[^12][^13]",
-        "The report faults Israel for blocking a planned interim administration of Palestinian experts and for not deciding on training and deploying Palestinian police. It says Israeli limits on supplies, together with funding gaps, have hurt preparations for winter floods.[^12][^13] It faults Hamas for taxing goods that enter Gaza. Hamas agreed in July to a plan for giving up its weapons, which Israel rejected.[^12]",
-        "More than 2 million people in Gaza live on about a third of the territory, mostly in tents, while Israel controls the rest.[^12] Reuters reports that more than 1,600 Palestinians and 5 Israeli soldiers have been killed since the truce began.[^12] Defence Minister Israel Katz said Israel will not withdraw until Hamas is dismantled and Gaza is demilitarised.[^12]",
-        "Why it matters: the report puts on record that the ceasefire's next phase, rebuilding and new governance, has barely started. \"A ceasefire that delivers nothing visible cannot be sustained indefinitely,\" it says.[^12] Israel is also between governments after last month's election.[^12] What's next: the report is due to be presented to the Security Council at the end of November.[^12]"
+        "On Thursday the US Senate rejected, 51 to 48, a resolution directing President Trump to end the war with Iran or get Congress's approval to continue it.[^12] The House had already passed it in September. Three Republicans, Susan Collins, Lisa Murkowski and Rand Paul, voted yes; Democrat John Fetterman voted no.[^11][^12] It was the first major test of the war in the Senate since Democrats won both chambers on November 3.[^12]",
+        "Background: the US-Israeli war on Iran began on February 28.[^12] The 1973 War Powers Resolution is a law meant to let Congress stop a president's use of force. The White House ignored a similar resolution Congress passed in June, and it argues, citing a 1983 Supreme Court case, that such resolutions are unconstitutional.[^11]",
+        "The two sides framed the war very differently. Republican Senator Tim Sheehy called it \"a war of necessity\".[^11] Democrat Tim Kaine said the war's unpopularity was made clear in the election, and linked it to higher prices for food and fuel.[^12] AP notes that Vice President JD Vance is among Republicans who blamed the midterm losses on the war.[^11]",
+        "What could happen next: government funding runs out on December 12, and some Senate Democrats want to refuse a spending bill that includes money for the war.[^11] Democrats take control of Congress in January. My read: the vote shows Republicans still largely back the president for now, so pressure will shift to budgets rather than war powers votes."
       ],
-      "differences": "Reuters gives weight to Hamas's taxes and the rejected disarmament plan, while Al Jazeera's report stresses Israeli aid limits and calls the war genocidal, a term Israel rejects.[^12][^13] Israel's government and Hamas did not immediately comment.[^12]"
-    },
-    {
-      "id": "ethiopia-eritrea-border-buildup",
-      "heading": "Ethiopia and Eritrea mass troops along their border, conflict monitors say",
-      "date": "2026-11-18",
-      "status": "disputed",
-      "summary": "Conflict monitors report both armies gathering near the border and possible clashes near Badme; Reuters could not confirm the clashes, and Eritrea calls the reports propaganda.[^14]",
-      "lead": {
-        "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
-        "outlet": "Reuters (via The Korea Times)",
-        "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
-        "date": "2026-11-18"
-      },
-      "alsoReported": [],
-      "eventId": null,
-      "article": [
-        "Ethiopia and Eritrea have moved large numbers of troops to their shared border, according to the conflict monitors ACLED and International Crisis Group and two people linked to militias in Ethiopia's Tigray region, Reuters reports.[^14] ACLED reported shelling and clashes near the town of Badme, and drone strikes on Nov 12 on what were likely Eritrean positions.[^14]",
-        "Reuters could not independently confirm the clashes, and a pro-government militia source in Tigray said there had been none.[^14] Eritrea's information minister called the reports \"propaganda\", denied sending troops into Ethiopia and accused Ethiopia of looking for an excuse to invade. Ethiopia did not comment.[^14]",
-        "Background: Eritrea split from Ethiopia in 1993, and the two fought a border war over Badme in 1998 to 2000 that killed tens of thousands. They made peace in 2018. Relations soured as Ethiopia's Prime Minister Abiy Ahmed called for access to the sea for his landlocked country, which he says he wants by peaceful means. Since September, Ethiopia's army has been fighting Tigrayan rebels, and Ethiopia says Eritrean troops crossed in to help them.[^14]",
-        "Why it matters: a war between these two countries would draw in a region already strained by Sudan's war, near the Red Sea shipping lanes. A Crisis Group analyst called it \"a dangerous scenario that could trigger a direct conflict\".[^14] My read: this is a warning sign, not yet a confirmed war; the key test is whether independent reporters can confirm fighting."
-      ],
-      "differences": "Monitors ACLED and Crisis Group report a troop build-up and clashes; Eritrea calls this propaganda and denies its troops are in Ethiopia; Ethiopia has not commented.[^14] Ethiopia accuses Sudan and Egypt of backing the rebels, which both deny.[^14]"
-    },
-    {
-      "id": "congo-ebola-cases-double",
-      "heading": "WHO says Congo's Ebola cases have doubled in three months to more than 11,000",
-      "date": "2026-11-17",
-      "status": "developing",
-      "summary": "WHO chief Tedros says the outbreak has passed 11,000 cases and 5,400 deaths in eight provinces, with 400 to 500 new cases a week.[^15] Africa CDC says it is \"still not under control\".[^16]",
-      "lead": {
-        "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth",
-        "outlet": "UN News",
-        "url": "https://news.un.org/en/story/2026/11/1168827",
-        "date": "2026-11-17"
-      },
-      "alsoReported": [
-        {
-          "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
-          "outlet": "Al Jazeera",
-          "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "At a meeting of the World Health Organization's emergency committee on Nov 17, Director-General Tedros Adhanom Ghebreyesus said the Ebola outbreak in the Democratic Republic of the Congo now counts more than 11,000 cases and 5,400 deaths in 67 health zones across eight provinces. Cases have more than doubled in three months, with 400 to 500 new ones each week.[^15]",
-        "Children make up more than a quarter of confirmed cases and a third of deaths. Two-thirds of confirmed deaths happen outside treatment centres, a sign that many infections are found late.[^15] Kenya has 9 linked cases and 2 deaths, and Nigeria has one imported case.[^15]",
-        "This is the Bundibugyo type of Ebola, which kills about half of those infected and has no approved vaccine or treatment. It is now the second-largest Ebola outbreak on record, after West Africa in 2014 to 2016.[^16] Two candidate vaccines are due to join a trial in the coming weeks, and the number of labs able to test has grown from 2 to more than two dozen.[^15]",
-        "Why it matters: Ebola spreads through close contact, so finding cases early is what stops it. Africa CDC's chief says more than 80% of new cases are outside known contact lists, and called donor coordination \"a collective failure\".[^16] Tedros criticised blanket travel bans, saying they hamper the response.[^15] My read: some early hotspots have slowed, but the overall trend is still up."
-      ],
-      "differences": "Africa CDC stresses that the outbreak is not under control; WHO's chief points to slowing in most of the early hotspots while warning of the overall rise.[^15][^16]"
+      "differences": "Republicans like Sen. Sheehy say the war is necessary for US security; Democrats like Sen. Kaine say voters rejected it and it is driving up prices.[^11][^12] The White House says war powers resolutions are unconstitutional; supporters say the 1973 law requires withdrawal.[^11]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "The Kyiv Independent",
-      "title": "3 Kyiv bridges struck in massive Russian aerial assault on Ukraine",
-      "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/",
-      "date": "2026-11-20",
+      "outlet": "Euronews",
+      "title": "Fossil fuel row sees COP31 talks spill into overtime",
+      "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
+      "date": "2026-11-21",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Kyiv Post",
-      "title": "Explosion in Poland Sparks Airspace Breach Probe as Russian Attacks Kill Civilians in Ukraine",
-      "url": "https://www.kyivpost.com/post/90676",
-      "date": "2026-11-20",
-      "singleSource": true
+      "outlet": "Dawn (AFP)",
+      "title": "COP31 runs into overtime over fossil fuel dispute",
+      "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute",
+      "date": "2026-11-21",
+      "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Euromaidan Press",
-      "title": "Russian attack kills six in Kyiv, three reportedly water utility workers, as ballistic strikes hit three Dnipro bridges",
-      "url": "https://euromaidanpress.com/2026/11/20/russian-attack-kills-six-in-kyiv-three-reportedly-water-utility-workers-as-ballistic-strikes-hit-three-dnipro-bridges/",
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html",
       "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Institute for the Study of War (Critical Threats)",
-      "title": "Russian Offensive Campaign Assessment, November 19, 2026",
-      "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-19-2026",
-      "date": "2026-11-19",
+      "outlet": "The Boston Globe (AP)",
+      "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
+      "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
+      "date": "2026-11-21",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "The Kyiv Independent",
-      "title": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
-      "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
-      "date": "2026-11-17",
+      "outlet": "Swisher Post (AFP)",
+      "title": "Riemann hypothesis proof claimed by Anthropic mathematician",
+      "url": "https://www.swisherpost.com/technology/riemann-hypothesis-proof-claimed-anthropic-mathematician-claude/",
+      "date": "2026-11-21",
       "singleSource": true
     },
     {
       "id": 6,
-      "outlet": "Yahoo Finance",
-      "title": "Anthropic IPO live: Anthropic stock closes up 17% from initial price for $1.27T valuation in first day of trading",
-      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-begins-trading-in-record-81b-raise-with-15t-valuation-192410598.html",
+      "outlet": "NPR (via OPB)",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "CBC News (via Yahoo News Canada)",
-      "title": "Anthropic stock soars over 20% in Nasdaq debut",
-      "url": "https://ca.news.yahoo.com/anthropic-stock-soars-over-20-173714449.html",
+      "outlet": "Human Rights Watch",
+      "title": "World Court Finds Myanmar Committed Rohingya Genocide",
+      "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "CBS News (via Yahoo Finance)",
-      "title": "Anthropic set to start trading after completing largest-ever IPO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html",
-      "date": "2026-11-19",
+      "outlet": "IntelliNews (via Yahoo News)",
+      "title": "Ukraine's allies hold the line in Berlin as Kushner pushes for compromise",
+      "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "COP31 negotiators publish revised deal text with no mention of fossil fuels",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-negotiators-publish-revised-deal-121302138.html",
+      "outlet": "Ukrayinska Pravda (via Yahoo News)",
+      "title": "Zelenskyy identifies best security guarantee for Ukraine as proposals presented to partners",
+      "url": "https://www.yahoo.com/news/world/articles/zelenskyy-identifies-best-security-guarantee-224500870.html",
       "date": "2026-11-19",
-      "singleSource": false
+      "singleSource": true
     },
     {
       "id": 10,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-delivers-deals-host-turkey-100624879.html",
+      "outlet": "Al Jazeera",
+      "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
+      "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
       "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "The Guardian (via AOL)",
-      "title": "What's left to do as Cop31 enters its frantic final days",
-      "url": "https://www.aol.co.uk/articles/left-cop31-enters-frantic-final-070024000.html",
+      "outlet": "Anchorage Daily News (AP)",
+      "title": "Senate rejects resolution to block Trump from striking Iran",
+      "url": "https://www.adn.com/nation-world/2026/11/19/senate-rejects-resolution-to-block-trump-from-striking-iran/",
       "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 12,
       "outlet": "Reuters (via Cyprus Mail)",
-      "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
-      "url": "https://cyprus-mail.com/2026/11/18/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 13,
-      "outlet": "Al Jazeera (with AP)",
-      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-      "url": "https://www.aljazeera.com/amp/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 14,
-      "outlet": "Reuters (via The Korea Times)",
-      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
-      "url": "https://www.koreatimes.co.kr/world/20261118/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
-      "date": "2026-11-18",
-      "singleSource": true
-    },
-    {
-      "id": 15,
-      "outlet": "UN News",
-      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth",
-      "url": "https://news.un.org/en/story/2026/11/1168827",
-      "date": "2026-11-17",
-      "singleSource": false
-    },
-    {
-      "id": 16,
-      "outlet": "Al Jazeera",
-      "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
-      "url": "https://aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
-      "date": "2026-11-15",
-      "singleSource": false
-    },
-    {
-      "id": 17,
-      "outlet": "Interfax-Ukraine",
-      "title": "Three killed in attack on Kyiv: victims appear to be Kyivvodokanal employees",
-      "url": "https://en.interfax.com.ua/news/general/1239628.html",
-      "date": "2026-11-20",
+      "title": "US Senate rejects resolution curbing Trump's Iran war powers",
+      "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers",
+      "date": "2026-11-19",
       "singleSource": false
     }
   ]
