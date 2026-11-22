@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-21",
+  "reviewed": "2026-11-22",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran fired at a US base in Kuwait and sites in Bahrain on Nov 18 after US strikes on Qeshm Island; both say they intercepted the attacks.[^291] NPR reports attacks on ships hit a record in October.[^302] On Nov 19 the Senate rejected a measure to end the war without Congress's approval, 51 to 48.[^303] Iran and Oman are discussing a shipping corridor, but no deal is final.[^291]",
+      "standing": "Shipping attacks keep rising: two tankers were hit near Khasab on Nov 21, Al Jazeera reports, and Iran says another struck a mine.[^309] Iran's foreign minister set seven conditions for reopening Hormuz and ruled out sending enriched uranium abroad; Iran's IRGC says it downed US drones.[^310] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303] Iran and Oman are discussing a corridor, with no deal yet.[^291]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -21,6 +21,10 @@
         {
           "date": "2026-11-30",
           "what": "November count of attacks on ships near Hormuz, already a record for the war"
+        },
+        {
+          "date": "2026-12-11",
+          "what": "US funding deadline; some Democrats want to block money for the Iran war in the spending bill"
         }
       ],
       "connects": [
@@ -197,7 +201,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Ukraine collapsed a road span of the Kerch Bridge on Nov 17, and Russia struck three Kyiv bridges overnight on Nov 19-20; Ukraine says at least 8 were killed.[^293][^299] In Berlin on Nov 19, US envoy Kushner said Russia is \"comfortable\" with Article 5-style guarantees for Ukraine; Russian officials publicly reject them, and Zelenskyy refuses to trade land.[^304] No date is set for the next US-led round.[^294]",
+      "standing": "On Nov 20, during one of Russia's largest strikes on Ukraine, two Russian missiles and a drone came down in southeastern Poland; NATO's Rutte called it a \"grave violation\", and Poland has not asked for formal NATO consultations.[^307] A strike on Kryvyi Rih on Nov 21 killed 2 and injured 60, Ukraine says.[^308] In Berlin the US said Russia could accept Article 5-style guarantees; Russia publicly rejects them.[^304] No date is set for the next round.[^294]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -211,6 +215,10 @@
         {
           "date": "2026-11-30",
           "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
+        },
+        {
+          "date": "2026-12-15",
+          "what": "Whether NATO or Poland takes formal steps after the missiles that landed in Poland"
         }
       ],
       "connects": [
@@ -373,7 +381,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel's new majority passed early votes on Nov 18 to repeal three of Netanyahu's court laws; each needs three more readings.[^295] The US-backed Board of Peace told the UN that Israel and Hamas have both \"fallen far short\" of the truce, warning that a ceasefire delivering nothing visible cannot last.[^301] Reuters counts more than 1,600 Palestinians and 5 Israeli soldiers killed since the truce began.[^301]",
+      "standing": "The US-backed Board of Peace told the UN that Israel and Hamas have both \"fallen far short\" of the truce.[^301] On Nov 21 a board adviser warned it may \"hand the keys\" of Gaza to the UN if Israel keeps blocking the stabilisation force and Palestinian police.[^311] Gaza's Health Ministry says more than 1,600 people have been killed since the truce began.[^312] Israel's new majority is moving to repeal Netanyahu's court laws.[^295]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -541,7 +549,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3.[^268] On Nov 19 in Shenzhen, Trump, Xi and Putin held their first three-way talks, about 90 minutes, with no joint deal on nuclear arms, Ukraine or Iran; China says Trump and Xi agreed to draft an action plan for steadier ties.[^289][^290] Markets put high odds on a Fed hike on Dec 9.[^255] Funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3.[^268] On Nov 20 the S&P 500 fell 3.7% into a correction (10% below its peak) and the Nasdaq fell 5.3%, led by AI stocks.[^313] Trump, Xi and Putin met in Shenzhen on Nov 19 with no joint deal.[^289] Markets have put high odds on a Fed rate hike on Dec 9.[^255] Government funding runs out Dec 11.[^188]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -711,7 +719,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reported $115.8 billion in quarterly revenue on Nov 17, up 103%.[^285] Anthropic's record IPO closed its first day, Nov 19, up 17%.[^300] A House committee says the US approved about 879,000 advanced AI chips for Chinese firms from Dec 2025 to May 2026.[^305] On Nov 20 an Anthropic mathematician said he and Claude proved the Riemann hypothesis; experts are checking it.[^306]",
+      "standing": "Nvidia reported revenue up 103% on Nov 17, but Reuters reported on Nov 20 that the SEC is examining its accounting, and its shares fell about 13%.[^285][^314] AI stocks led a broad market sell-off that day.[^313] Anthropic's record IPO began trading on Nov 19.[^300] On Nov 21, 128 countries at UN talks agreed to work on rules for AI-run weapons by 2028, without a binding treaty.[^315]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
@@ -725,6 +733,10 @@
         {
           "date": "2026-12-03",
           "what": "Senate Banking hearing on chip exports; Huang asked to testify (Lutnick Dec 10)"
+        },
+        {
+          "date": "2026-12-31",
+          "what": "Whether the SEC review of Nvidia leads to any formal action or restated results"
         }
       ],
       "connects": [
@@ -899,6 +911,10 @@
     }
   ],
   "changes": [
+    {
+      "date": "2026-11-22",
+      "text": "Weekly review: all five events kept, with no status changes. Russian missiles landing in Poland and an AI-led market sell-off were folded into existing events. Congo's Ebola outbreak was re-tested; no new data this week, so it stays out."
+    },
     {
       "date": "2026-11-15",
       "text": "Weekly review: all five events kept, with no status changes. Congo's Ebola outbreak (over 11,000 cases in 8 provinces and 3 other countries, AP says out of control) was re-tested; it stays in the World brief and will be re-tested next week.[^259]"
@@ -3222,6 +3238,78 @@
       "outlet": "The Boston Globe (AP)",
       "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
       "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 307,
+      "outlet": "PBS NewsHour",
+      "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+      "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 308,
+      "outlet": "Al Jazeera",
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 309,
+      "outlet": "Al Jazeera",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 310,
+      "outlet": "Al Jazeera",
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 311,
+      "outlet": "The Times of Israel",
+      "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
+      "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
+      "date": "2026-11-21",
+      "singleSource": true
+    },
+    {
+      "id": 312,
+      "outlet": "Al Jazeera",
+      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 313,
+      "outlet": "AP (via La Nación)",
+      "title": "How major US stock indexes fared Friday 11/20/2026",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 314,
+      "outlet": "Reuters (via Euronext)",
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say",
+      "date": "2026-11-20",
+      "singleSource": true
+    },
+    {
+      "id": 315,
+      "outlet": "Al Jazeera",
+      "title": "Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
+      "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
       "date": "2026-11-21",
       "singleSource": false
     }

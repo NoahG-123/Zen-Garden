@@ -1,53 +1,62 @@
 {
-  "date": "2026-11-21",
-  "summary": "Stellantis talks on Brampton end with no deal but more talks, Trump calls Canada \"emboldened\", and Halifax hosts a big security forum this weekend.",
+  "date": "2026-11-22",
+  "summary": "Navdeep Bains is the new Ontario Liberal leader, S&P warns it may cut Ontario's credit rating, and Canada's defence minister says he sees no change in military ties despite a reported Pentagon memo.",
   "body": [
-    "Friday's meeting between Stellantis, federal Industry Minister Mélanie Joly, Premier Doug Ford and Unifor ended without a decision on the Brampton plant, which Stellantis plans to sell to defence firm Roshel. Ford called it \"challenging\" but \"productive\" and said Ottawa should ease the roughly $1 billion a year Stellantis pays in emissions costs.[^1] Joly said Stellantis can keep the plant and work with Ottawa, or face legal action for \"hundreds of millions of dollars\" under its 2022 funding deal; the company has 30 days to respond to a default notice.[^1]",
-    "On trade, Trump said on Friday that Canada is feeling \"emboldened\" but that he wants a \"fair\" deal, and that he will be ready to talk when Canada's trade deficit with the US reaches zero.[^2] Carney said this week that a good deal is possible, but \"if the U.S. doesn't want to do a deal, we're busy.\"[^2] The government says his Asia trip concluded free-trade talks with ASEAN and the Philippines and extended a tariff-relief arrangement with China to December 2028.[^3]",
-    "This weekend the Halifax International Security Forum brings defence leaders from more than 70 countries to Nova Scotia, with Ukraine and shipping routes such as the Strait of Hormuz high on the agenda. No members of the Trump administration are attending, CTV reports.[^4]"
+    "Ontario Liberals chose Navdeep Bains as their leader on Saturday. The party says he won on the third ballot with 50.29 per cent of the vote, out of about 20,500 votes cast.[^2] Bains was a federal Liberal MP from Mississauga for 13 years and Canada's industry minister, then worked as a bank and telecom executive. He does not have a seat in the provincial legislature, and he replaces Bonnie Crombie, who stepped down earlier this year.[^1] He says he wants to bring well-paying jobs to Ontario and will take on Premier Doug Ford's government.[^2]",
+    "Ontario's finances got a warning. Credit rating agency S&P Global put the province on a \"negative outlook\", meaning it sees at least a one-in-three chance of lowering Ontario's AA rating within two years. A lower rating can make borrowing more expensive. Ontario now expects a $16.9 billion deficit this year, and interest on its debt costs $17.3 billion a year. Finance Minister Peter Bethlenfalvy says he is confident Ontario will keep its rating and blames US tariffs and high interest rates; he says he will look for savings without raising taxes.[^3]",
+    "At the Halifax International Security Forum on Saturday, Defence Minister David McGuinty said he had not seen a classified memo from US Secretary of War Pete Hegseth that, according to the Washington Post, limits US defence co-operation with Canada. He said military co-operation is \"business as usual\".[^4] A Pentagon spokesperson said engagement with Canada must advance US defence goals, but that intelligence sharing, NORAD and NATO work are not affected. McGuinty also said Canada will put an initial $100 million into the NATO Innovation Fund, which invests in new defence technology.[^5]",
+    "Otherwise it was a quiet weekend, with no public update on the Stellantis Brampton plant talks."
   ],
-  "differences": "On Brampton, Ford says Ottawa should cut emissions costs to keep the plant viable, while Joly says Stellantis must keep its promises or repay public money.[^1] On trade, Trump says Canada must close its deficit with the US first; Carney says Canada is building other partnerships.[^2]",
+  "differences": "On Ontario's finances, Bethlenfalvy calls the S&P warning routine and \"not a hinge moment\", while Liberal MPP Stephanie Bowman says the government is in a \"downward spiral\" and a downgrade would cost taxpayers more.[^3] On the memo, the Pentagon says ties with Canada must serve US goals, while McGuinty says he has seen no change so far.[^4][^5]",
   "reads": [
     {
-      "title": "Stellantis meeting 'challenging' but 'productive', Premier Ford says",
-      "outlet": "Global News",
-      "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
+      "title": "What role can Canada play in global security as world leaders gather in Halifax?",
+      "outlet": "CTV News (via CP24)",
+      "url": "https://www.cp24.com/news/canada/2026/11/21/what-role-can-canada-play-in-global-security-as-world-leaders-gather-in-halifax/",
       "kind": "news",
-      "summary": "What each side said after Friday's Brampton meeting, the $529 million funding deal at stake, and how the plant ended up idle."
+      "summary": "What is on the Halifax forum's agenda this year, from Ukraine to food shipping routes, and what McGuinty said about defence spending and cadet programs."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News",
-      "title": "Stellantis meeting 'challenging' but 'productive', Premier Ford says",
-      "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
-      "date": "2026-11-20",
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Ontario Liberal leadership: Navdeep Bains wins",
+      "url": "https://www.cp24.com/politics/queens-park/2026/11/21/navdeep-bains-named-new-ontario-liberal-leader/",
+      "date": "2026-11-21",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "Trump says Canada feeling 'emboldened' but he's seeking a 'fair' trade deal",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-      "date": "2026-11-20",
-      "singleSource": false
+      "outlet": "Ontario Liberal Party (news release)",
+      "title": "Navdeep Bains Named Ontario Liberal Leader",
+      "url": "https://ontarioliberal.ca/the-latest/navdeep-bains-named-ontario-liberal-leader",
+      "date": "2026-11-21",
+      "singleSource": true
     },
     {
       "id": 3,
-      "outlet": "Prime Minister of Canada (news release)",
-      "title": "Prime Minister Carney strengthens economic partnerships at APEC, capping an ambitious week",
-      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/19/prime-minister-carney-strengthens-economic-partnerships-apec-capping",
-      "date": "2026-11-19",
+      "outlet": "Global News",
+      "title": "Warning of credit rating downgrade 'not a hinge moment': Ontario finance minister",
+      "url": "https://globalnews.ca/news/12159424/credit-rating-downgrade-warning-not-a-hinge-moment-ontario-finance-minister/",
+      "date": "2026-11-20",
       "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "CTV News (via CP24)",
-      "title": "World leaders gather in Halifax for international security forum",
-      "url": "https://www.cp24.com/news/canada/2026/11/21/world-leaders-gather-in-halifax-for-international-security-forum/",
-      "date": "2026-11-20",
-      "singleSource": true
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
+      "url": "https://www.cp24.com/news/canada/2026/11/21/mcguinty-not-aware-us-has-changed-military-co-operation-policy-with-canada/",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Breaking Defense",
+      "title": "Despite Hegseth memo, Canada hasn't seen changes to defense relationship with US, says DefMin",
+      "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
+      "date": "2026-11-21",
+      "singleSource": false
     }
   ]
 }

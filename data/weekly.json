@@ -1,6 +1,15 @@
 {
   "reads": [
     {
+      "date": "2026-11-22",
+      "title": "The Gaza Plan: Delivered, Stalled, Reversed",
+      "outlet": "Middle East Institute",
+      "url": "https://mei.edu/wp-content/uploads/2026/11/AbuMousa-Katulis-Gaza-Plan-One-Year-Later-webpage.pdf",
+      "kind": "analysis",
+      "minutes": 35,
+      "summary": "A year after the Trump plan for Gaza, this report checks all 20 points: what got done, what stalled and why, and three possible paths to 2027. It's a think-tank view, so read it as one side's argument."
+    },
+    {
       "date": "2026-11-15",
       "title": "A New Dawn For Mathematical Progress",
       "outlet": "Noema Magazine",
@@ -35,15 +44,6 @@
       "kind": "paper",
       "minutes": 40,
       "summary": "A US think tank's detailed estimate of China's AI computing power, how much depends on US chips, and its policy proposals. Read it as one side's argument."
-    },
-    {
-      "date": "2026-10-18",
-      "title": "The 2026 state of the climate report: challenges and opportunities",
-      "outlet": "BioScience",
-      "url": "https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag125/8836482",
-      "kind": "paper",
-      "minutes": 30,
-      "summary": "Scientists track 16 of Earth's \"vital signs\": seven are at record extremes, yet renewables passed coal in 2025. A clear, data-heavy look at where climate change stands."
     }
   ]
 }

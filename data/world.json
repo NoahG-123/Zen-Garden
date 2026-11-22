@@ -1,266 +1,382 @@
 {
-  "date": "2026-11-21",
-  "summary": "COP31 runs late over fossil fuels, a claimed AI-assisted proof of the Riemann hypothesis, a landmark genocide ruling on Myanmar, and new talk of guarantees for Ukraine.",
+  "date": "2026-11-22",
+  "summary": "COP31 runs into a second overtime day, Russian missiles land in Poland, Hormuz attacks climb, Gaza's peace plan stalls, AI stocks slide, and talks on 'killer robots' inch ahead.",
   "question": {
-    "type": "second-order",
-    "text": "If a proof is checked by a computer but no human fully understands it yet, what might change about how science and maths decide something is true, and who gets trusted to say so?"
+    "type": "how-do-we-know",
+    "text": "Iran says a tanker hit a mine while shipping monitors report projectile strikes; Israel and a witness describe the people in a Gaza van differently. When the only witnesses are the sides involved, what kinds of evidence would make you trust one account more than another?"
   },
   "read": {
-    "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
+    "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
     "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
+    "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
     "kind": "analysis",
-    "minutes": 8,
-    "summary": "An explainer on what NATO's Article 5 does and does not promise, why Russia's public line differs from what the US says, and what experts think a guarantee for Ukraine could mean."
+    "minutes": 12,
+    "summary": "An explainer on where the missiles fell, what NATO's Article 4 and Article 5 actually require, and why experts think Russia may be testing how far it can push the alliance."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "cop31-overtime-fossil-fuels",
-      "heading": "COP31 climate talks run past their deadline in a fight over fossil fuels",
-      "date": "2026-11-21",
+      "id": "cop31-second-overtime-day",
+      "heading": "COP31 enters a second day of overtime as new text skips any direct fossil-fuel wording",
+      "date": "2026-11-22",
       "status": "developing",
-      "summary": "The UN climate summit in Antalya, Türkiye, ran into Saturday after a revised draft deal dropped every mention of fossil fuels.[^1][^3] The summit's Turkish president says a new text is expected today, but oil producers and countries pushing for a phase-out remain far apart.[^1][^2]",
+      "summary": "The UN climate summit in Antalya, Türkiye, was still unfinished on Sunday, more than 40 hours past its deadline.[^2][^3] A revised text refers back to the 2023 pledge to move away from fossil fuels without naming coal, oil or gas, and France called it unacceptable.[^1][^2]",
       "lead": {
-        "title": "Fossil fuel row sees COP31 talks spill into overtime",
-        "outlet": "Euronews",
-        "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
-        "date": "2026-11-21"
+        "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+        "outlet": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+        "date": "2026-11-22"
       },
       "alsoReported": [
         {
-          "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
-          "outlet": "Reuters (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html"
+          "title": "France slams new draft as COP31 could be longest climate summit ever",
+          "outlet": "DPA (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/science/articles/france-slams-draft-cop31-could-093328075.html"
         },
         {
-          "title": "COP31 runs into overtime over fossil fuel dispute",
-          "outlet": "Dawn (AFP)",
-          "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute"
+          "title": "COP31 climate deal in the balance after fractious talks",
+          "outlet": "Reuters (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/science/articles/cop31-climate-deal-balance-fractious-101508341.html"
         }
       ],
       "eventId": null,
       "article": [
-        "COP31, the yearly UN climate conference, was due to end on Friday in Antalya, Türkiye. Instead, negotiators from nearly 200 countries kept talking into Saturday.[^1][^3] The main fight is over fossil fuels. An early draft called for speeding up the phase-out of coal, oil and gas; a shorter version released on Thursday by co-host Australia left them out entirely.[^2] Reuters reports that change came after objections from Saudi Arabia and other big oil and gas producers, and that the draft also dropped a $120 billion target for helping poorer countries adapt.[^3]",
-        "Countries on the other side pushed back hard. The EU said the text risked turning the meeting into a \"fossil summit\", and a dozen countries, including France, Panama and the Solomon Islands, signed a letter calling for \"a clear transition away from fossil fuels\".[^1][^2] Panama's environment minister has threatened to block any deal without a cap on oil production.[^2] Uganda's negotiator objected to language encouraging carbon removal, saying it lets rich countries keep producing oil and gas.[^3]",
-        "Background: at COP28 in 2023, countries agreed for the first time to \"transition away\" from fossil fuels. Every COP decision needs consensus, so a single bloc can water a text down. The United States is absent for a second year after President Trump ended its climate cooperation.[^3] The latest draft focuses on electrification, backed by Türkiye's goal of electricity meeting 35% of final energy demand by 2035.[^2]",
-        "Why it matters: burning fossil fuels is the main cause of warming, and the draft itself accepts that the world is projected to overshoot the 1.5C goal.[^3] COP31 president Murat Kurum said late Friday that talks were \"close to the finish line\".[^1] My read: a deal is likely this weekend, but whether it mentions fossil fuels at all is the test most observers will use to judge it."
+        "Yesterday's brief left COP31 in overtime. By Sunday it was still going. The summit's Turkish president, Murat Kurum, released a revised final text early Sunday and gave countries until 03:00 GMT to object, with a session to approve it set for 06:00 GMT.[^1][^4] As of Sunday morning, Reuters reported that a deal was \"far from certain\".[^3]",
+        "The new text does not name coal, oil or gas. Instead it points back to the 2023 Dubai pledge to transition away from fossil fuels.[^1][^2] It keeps a goal of raising electricity's share of final energy use to 35% by 2035, calls for faster carbon capture and storage (trapping CO2 before it reaches the air), and repeats a promise to triple adaptation funding by 2035 without an interim target.[^1][^2] It also accepts that warming will pass 1.5C and asks that any overshoot be small and short.[^2]",
+        "Kurum said he believed the text was one \"all the parties can agree upon\" and that concerns on fossil fuels and adaptation money had been addressed.[^4] France's environment minister, Monique Barbut, disagreed, calling it \"even weaker than the previous one\" and saying an overnight EU compromise had been rejected.[^2] More than 100 civil society groups warned it could be one of the most disappointing COPs ever.[^4]",
+        "Background: every COP decision needs consensus, which lets a single bloc slow things down. DPA notes that formal decisions also need enough countries in the room, and many ministers had already gone home.[^2] Reuters says the main splits are the pace of the clean-energy shift, carbon capture, and money for developing countries.[^3]",
+        "My read: a deal is still the most likely outcome, since only one COP has ever ended without one.[^1] But whether a text that does not name fossil fuels counts as progress will depend on who you ask."
       ],
-      "differences": "Saudi Arabia and Venezuela argued in their speeches for a continued role for fossil fuels.[^3] The EU, Panama, France and small island states say a deal without fossil fuels is unacceptable.[^1][^2] Australia's Chris Bowen, who leads the talks, says electrification is itself the way to move away from fossil fuels.[^2]"
+      "differences": "COP31 president Murat Kurum says no one got everything they wanted but everyone can find a place in the text.[^3] France calls it unacceptable and weaker than before.[^2] Earlier drafts dropped fossil-fuel wording after objections from Saudi Arabia and other producers.[^4] Critics also say electrification should run on renewables, not gas or coal.[^1]"
     },
     {
-      "id": "riemann-hypothesis-ai-claim",
-      "heading": "A mathematician says he and an AI have proved the Riemann hypothesis, unsolved since 1859",
+      "id": "russian-missiles-land-in-poland",
+      "heading": "Russian missiles and a drone land in Poland during a huge overnight attack on Ukraine",
       "date": "2026-11-20",
-      "status": "developing",
-      "summary": "Levent Alpöge, a mathematician at Anthropic, says he and its AI model Claude found a proof of the Riemann hypothesis, one of maths' most famous open problems.[^4] The proof exists only as computer-checked Lean code; early expert checks are encouraging, but human understanding is still far off.[^4][^5]",
-      "lead": {
-        "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
-        "outlet": "The Boston Globe (AP)",
-        "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
-        "date": "2026-11-21"
-      },
-      "alsoReported": [
-        {
-          "title": "Riemann hypothesis proof claimed by Anthropic mathematician",
-          "outlet": "Swisher Post (AFP)",
-          "url": "https://www.swisherpost.com/technology/riemann-hypothesis-proof-claimed-anthropic-mathematician-claude/"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "On Friday, Levent Alpöge, a mathematician on Anthropic's technical staff, posted a four-page note on his personal website saying he believes he has a proof of the Riemann hypothesis, made together with Claude, Anthropic's AI model.[^4] The hypothesis, posed by Bernhard Riemann in 1859, is about how prime numbers are spread out. It is one of seven Millennium Prize Problems, each with a $1 million reward.[^4]",
-        "The proof is not a normal paper. It is written in Lean, a programming language for checking proofs step by step by computer. AP reports about 17 million lines of code and more than 250,000 pages of AI-generated working, and Alpöge says it is too long and unfinished for a readable write-up.[^4][^5] AFP reports that MIT's Andrew Sutherland found all 175,187 Lean files compiled using only standard assumptions.[^5] A clean compile shows the proof is internally consistent; experts are now checking that it proves the right statement.[^5]",
-        "Early reactions are careful but striking. Rutgers mathematician Alex Kontorovich told AP the proof appears true, but added: \"Does that mean I understand it? Not yet.\"[^4] Martin Bridson, president of the Clay Mathematics Institute, called it an announcement \"of historic significance\" but said reaching real understanding will be \"long and difficult\".[^4] Clay's rules require publication, then two years and general acceptance, so no prize could come before late 2028.[^5]",
-        "Why it matters: if it holds, a machine will have done most of the work on a problem the best human mathematicians could not crack for 167 years. That raises new questions about what counts as understanding in maths. It came a day after Anthropic's record stock market debut, and Anthropic had not commented as of AP's report.[^4] A note on this brief: it is prepared with Claude, the AI in this story, so weigh my framing with that in mind."
-      ],
-      "differences": null
-    },
-    {
-      "id": "icj-myanmar-rohingya-genocide",
-      "heading": "UN top court rules that Myanmar committed genocide against the Rohingya",
-      "date": "2026-11-19",
       "status": "confirmed",
-      "summary": "The International Court of Justice voted 9 to 6 that Myanmar's 2017 military campaign against the Rohingya was genocide, the first time it has held a state responsible for the crime.[^6][^7] The ruling is final, but the court cannot enforce it.[^6]",
+      "summary": "Two Russian missiles and a suspected drone came down in southeastern Poland, a NATO member, during a massive Russian strike on Ukraine; no one in Poland was hurt.[^5][^6] Poland's prime minister called it an \"intentional provocation\", and NATO called it a \"grave violation\" of Polish airspace.[^5][^7]",
       "lead": {
-        "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-        "outlet": "NPR (via OPB)",
-        "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/",
-        "date": "2026-11-19"
-      },
-      "alsoReported": [
-        {
-          "title": "World Court Finds Myanmar Committed Rohingya Genocide",
-          "outlet": "Human Rights Watch",
-          "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "On Thursday the International Court of Justice (ICJ), the UN's top court for disputes between countries, ruled that Myanmar committed genocide against the Rohingya, a mostly Muslim minority. Judges voted 9 to 6. It is the first time in the court's 80-year history that it has found a state responsible for genocide.[^6][^7] The case was brought by Gambia under the 1948 Genocide Convention, which lets any member country take another to court.[^6]",
-        "The case is about a 2017 military crackdown in Rakhine state. The court estimated about 10,000 Rohingya were killed and found the violence was systematic, including the burning of all or part of 392 villages. About 700,000 people fled to Bangladesh.[^6] Myanmar's military had said it was fighting insurgents; the judges rejected that explanation, and HRW notes the court found intent to destroy the group was \"the only reasonable inference\".[^6][^7]",
-        "The court ordered Myanmar to stop ongoing violations, investigate and punish those responsible, and pay reparations, with amounts set later. The ruling cannot be appealed.[^7] But the ICJ has no police of its own; enforcement falls to the UN Security Council, which HRW says has never used that power.[^7] Myanmar's military-backed government had not responded when NPR reported.[^6]",
-        "Why it matters: the reasoning will shape other genocide cases, including South Africa's case against Israel, lawyers and HRW say.[^6][^7] Return home is still hard: the Arakan Army, an armed group, now controls most of Rakhine. UN Secretary-General António Guterres called the ruling \"a powerful recognition\" of the victims, while the US State Department said it is studying it and raised doubts about the court.[^6]"
-      ],
-      "differences": "Six of fifteen judges disagreed with the genocide finding.[^6] Myanmar's military has long described the 2017 operation as counter-insurgency; the court majority rejected that.[^7] The US says it is still assessing the ruling.[^6]"
-    },
-    {
-      "id": "ukraine-security-guarantees-berlin",
-      "heading": "US envoy says Russia could accept NATO-style guarantees for Ukraine; Moscow says no",
-      "date": "2026-11-19",
-      "status": "disputed",
-      "summary": "After a meeting of Ukraine's backers in Berlin, US envoy Jared Kushner said Russia is \"comfortable\" with security guarantees for Ukraine modelled on NATO's Article 5.[^8][^10] Russian officials publicly call any such arrangement unacceptable, and Zelenskyy says the allies do not yet agree on what it would mean.[^10]",
-      "lead": {
-        "title": "Ukraine's allies hold the line in Berlin as Kushner pushes for compromise",
-        "outlet": "IntelliNews (via Yahoo News)",
-        "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html",
+        "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+        "outlet": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
         "date": "2026-11-20"
       },
       "alsoReported": [
         {
-          "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it"
+          "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
         },
         {
-          "title": "Zelenskyy identifies best security guarantee for Ukraine as proposals presented to partners",
-          "outlet": "Ukrayinska Pravda (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/zelenskyy-identifies-best-security-guarantee-224500870.html"
+          "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "On Thursday about 40 countries in the \"coalition of the willing\", the group backing Ukraine's future security, met at the German Chancellery in Berlin with US envoys Jared Kushner and Steve Witkoff.[^8][^10] Afterwards Kushner told reporters that Russia has become \"comfortable\" with a guarantee for Ukraine based on Article 5, NATO's promise that an attack on one member is an attack on all. He said it would have to serve US interests and go through Congress.[^8]",
-        "Moscow's public line is different. Russian Deputy Foreign Minister Sergei Ryabkov called any \"quasi membership\" for Kyiv totally unacceptable, and Putin has said NATO membership and guarantees for Ukraine are unacceptable.[^10] Zelenskyy said NATO membership would be the best guarantee, but that there is no shared understanding yet of what Article 5-style guarantees would involve.[^9][^10] He says Ukraine is \"not exchanging anything for anything\" on territory, after US negotiators reportedly floated NATO entry in return for leaving Donbas.[^8]",
-        "European leaders took different lines. Macron said the question of Ukraine joining NATO should be reopened, while Germany's Merz called the same day's Trump-Putin-Xi meeting in Shenzhen a \"photo op\".[^8] The joint statement of Germany, France, the UK and Ukraine calls for \"robust and legally binding\" guarantees after a ceasefire, possibly including a European-led force, without mentioning Article 5.[^8] Poland's Donald Tusk said Poland will not send troops.[^8]",
-        "Why it matters: guarantees are the core question of any peace deal, because Ukraine fears Russia would attack again. Experts quoted by Al Jazeera note that Article 5 is a political decision, not automatic, and one called a full guarantee hard to believe.[^10] My read: talk of guarantees is moving, but the gap on territory is as wide as ever, and the same night Russia hit Kyiv's bridges."
+        "Overnight into Friday, Russia launched one of its largest attacks of the war. Ukraine's president, Volodymyr Zelenskyy, said it involved more than 400 drones and about 110 missiles, and Ukrainian officials said at least eight civilians were killed.[^6][^7] Russia's Defence Ministry said it hit targets linked to Ukraine's military.[^5] President Vladimir Putin had promised retaliation for a Ukrainian strike on the Kerch Bridge to Crimea.[^6]",
+        "During the attack, Poland says two missiles, believed to be Kh-101 cruise missiles, and a jet-powered drone landed on its territory, about 30 to 50 km from the Ukrainian border. No injuries or damage were reported.[^5][^7] The landings came during a two-week European military exercise in Poland that prepares for a possible post-war mission in Ukraine.[^5]",
+        "Prime Minister Donald Tusk said it looked like \"an intentional provocation\", and Poland's defence minister said the timing was hard to see as a coincidence.[^6] NATO Secretary-General Mark Rutte called it a \"grave violation\" and \"clearly dangerous\".[^5] Moscow had not commented on the landings.[^5]",
+        "Background a student needs: NATO's Article 5 says an attack on one member is an attack on all, but using it needs political agreement and is not automatic. Article 4 only means emergency talks; Poland has not invoked it this time.[^7] Separately, a Russian strike on Kryvyi Rih, Zelenskyy's hometown, killed two people and injured 60, according to local officials.[^8]",
+        "All this happens while the US pushes peace talks. Zelenskyy said he is less sure than Washington that Putin is ready to compromise, and Moscow still demands that Ukraine leave the whole Donbas region.[^8] Experts quoted by Al Jazeera expect a defensive NATO response, such as more air patrols, rather than escalation.[^7]"
       ],
-      "differences": "Kushner (US) says Russia is comfortable with Article 5-style guarantees.[^8] Russia's deputy foreign minister and Putin say such guarantees are unacceptable.[^10] Ukraine wants NATO membership and refuses to trade land; Europe's joint statement asks for binding guarantees but does not mention Article 5.[^8][^9]"
+      "differences": "Poland's leaders say the landings were deliberate.[^6] NATO calls them dangerous and a result of Russia's war.[^5] One analyst quoted by Al Jazeera describes them as spillover from strikes on Ukraine, while another sees Russia testing NATO's limits.[^7] Russia had not commented.[^5]"
     },
     {
-      "id": "senate-rejects-iran-war-powers",
-      "heading": "US Senate votes 51-48 against a measure to end the Iran war without Congress's approval",
-      "date": "2026-11-19",
-      "status": "confirmed",
-      "summary": "In the first Iran war vote since the midterms, the Senate rejected a war powers resolution 51 to 48, with three Republicans voting yes.[^11][^12] Democrats who take control in January say they will keep pushing, including through next month's funding fight.[^11]",
+      "id": "hormuz-tankers-hit-iran-grip",
+      "heading": "More tankers hit near Hormuz as Iran tightens its grip on Gulf shipping",
+      "date": "2026-11-21",
+      "status": "developing",
+      "summary": "Two tankers were struck near Oman's coast on Saturday, and Iran says a third caught fire after hitting a mine.[^9] Iran says it controls the Strait of Hormuz and that ships must follow its rules, while talks to end the war remain stuck.[^9][^10]",
       "lead": {
-        "title": "US Senate rejects resolution curbing Trump's Iran war powers",
-        "outlet": "Reuters (via Cyprus Mail)",
-        "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers",
-        "date": "2026-11-19"
+        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+        "date": "2026-11-21"
       },
       "alsoReported": [
         {
-          "title": "Senate rejects resolution to block Trump from striking Iran",
-          "outlet": "Anchorage Daily News (AP)",
-          "url": "https://www.adn.com/nation-world/2026/11/19/senate-rejects-resolution-to-block-trump-from-striking-iran/"
+          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "On Thursday the US Senate rejected, 51 to 48, a resolution directing President Trump to end the war with Iran or get Congress's approval to continue it.[^12] The House had already passed it in September. Three Republicans, Susan Collins, Lisa Murkowski and Rand Paul, voted yes; Democrat John Fetterman voted no.[^11][^12] It was the first major test of the war in the Senate since Democrats won both chambers on November 3.[^12]",
-        "Background: the US-Israeli war on Iran began on February 28.[^12] The 1973 War Powers Resolution is a law meant to let Congress stop a president's use of force. The White House ignored a similar resolution Congress passed in June, and it argues, citing a 1983 Supreme Court case, that such resolutions are unconstitutional.[^11]",
-        "The two sides framed the war very differently. Republican Senator Tim Sheehy called it \"a war of necessity\".[^11] Democrat Tim Kaine said the war's unpopularity was made clear in the election, and linked it to higher prices for food and fuel.[^12] AP notes that Vice President JD Vance is among Republicans who blamed the midterm losses on the war.[^11]",
-        "What could happen next: government funding runs out on December 12, and some Senate Democrats want to refuse a spending bill that includes money for the war.[^11] Democrats take control of Congress in January. My read: the vote shows Republicans still largely back the president for now, so pressure will shift to budgets rather than war powers votes."
+        "The Strait of Hormuz is a narrow sea passage between Iran and Oman. Before the war it carried nearly a fifth of the world's crude oil.[^9] The war began in late February when the US and Israel attacked Iran, and the US has since blockaded Iranian ports and escorted tankers through the waterway.[^9]",
+        "On Saturday, the UK's maritime monitoring centre, UKMTO, reported two tankers hit by unidentified projectiles near the Omani town of Khasab, with no injuries.[^9] Iran's navy said a tanker caught fire after hitting a mine in a restricted area, claiming the ship ignored warnings and had its tracking switched off; that could not be independently checked.[^9] Iran says ships must use lanes it chooses.[^9]",
+        "The pace is rising. Citing Iranian military statements, Al Jazeera's Tehran correspondent counted about 25 incidents involving tankers in the week since last Saturday, roughly three a day.[^9] He said Tehran is escalating on purpose to signal that if Iran cannot export oil, others will not be able to either.[^9] The US has answered with its blockade, tanker escorts, and new sanctions on four Iranians it says collected money from illegal oil sales.[^9][^10]",
+        "Diplomacy is not moving much. Iran's foreign minister, Abbas Araghchi, listed seven conditions for reopening the strait, including ending the war, lifting sanctions and lifting the blockade, and ruled out sending Iran's enriched uranium abroad.[^10] President Trump said Iran wants a deal, but not one he would accept.[^10] Iran's Revolutionary Guards also said they shot down two US drones; the US had not commented.[^10]",
+        "Araghchi called the current \"no war, no peace\" situation undesirable.[^10] In Washington, some Democrats want Congress to block money for offensive operations against Iran in a spending bill due by December 11.[^10] My read: the stand-off matters far beyond the Gulf, because oil prices feed into fuel and food costs everywhere, including Canada."
       ],
-      "differences": "Republicans like Sen. Sheehy say the war is necessary for US security; Democrats like Sen. Kaine say voters rejected it and it is driving up prices.[^11][^12] The White House says war powers resolutions are unconstitutional; supporters say the 1973 law requires withdrawal.[^11]"
+      "differences": "Iran says the burning tanker hit a mine after ignoring warnings and switching off its tracking; that could not be independently verified.[^9] The UK monitoring centre describes two ships hit by unidentified projectiles, and it is unclear whether either is the ship Iran describes.[^9]"
+    },
+    {
+      "id": "board-of-peace-warns-israel-gaza",
+      "heading": "US-led Board of Peace warns it may hand Gaza to the UN if Israel keeps blocking its plan",
+      "date": "2026-11-21",
+      "status": "developing",
+      "summary": "A senior adviser to the US-controlled Board of Peace said it could \"hand the keys\" of Gaza to the UN if Israel keeps blocking steps to disarm Hamas and rebuild.[^11] Meanwhile Israeli strikes killed at least nine people on Friday and Saturday, according to Palestinian sources, including three in a van carrying food.[^12][^13]",
+      "lead": {
+        "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
+        "date": "2026-11-21"
+      },
+      "alsoReported": [
+        {
+          "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+        },
+        {
+          "title": "IDF strikes PIJ terrorist's vehicle in Gaza, following claims it was used by aid workers",
+          "outlet": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-915643"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "The Board of Peace was set up in January to carry out President Trump's 20-point plan for Gaza, after a ceasefire took effect in October 2025.[^11] On Friday, its senior adviser Josh Gruenbaum told the Israeli outlet Ynet that the board would hand Gaza to the UN if Israel keeps blocking its work.[^11][^12]",
+        "Gruenbaum said the board is not asking Israel to withdraw. It wants Israel to approve an International Stabilization Force, a new Palestinian police force and a Palestinian administrative committee.[^11] Without them, he said, there is no one to receive Hamas's weapons. He blamed \"political elements\" in the government and said not enough aid is entering before winter, while adding that Hamas could still cheat on disarmament.[^11]",
+        "Israel held an election on October 27 with no clear winner, and Prime Minister Benjamin Netanyahu leads a caretaker government while coalition talks go on.[^11] Israeli officials told Ynet they prefer the current situation, with Hamas weakened and Israel controlling over half of Gaza.[^11] A board report this week warned the ceasefire could collapse.[^12]",
+        "Violence continues. Palestinian sources reported at least nine people killed on Friday and Saturday.[^12] Gaza's Health Ministry says 1,671 people have been killed since the ceasefire began.[^13] Winter rain is worsening conditions for a mostly displaced population.[^12][^13]",
+        "My read: the warning is a pressure tactic aimed at Israel's next government. What happens next likely depends on whether a coalition forms and whether Washington follows through."
+      ],
+      "differences": "A witness told Reuters the van hit on Saturday was handing out food to children, and papers inside carried World Central Kitchen's logo; the charity said the vehicle was not theirs.[^13][^14] The Israeli military says the three killed were Palestinian Islamic Jihad members moving supplies for armed groups.[^14]"
+    },
+    {
+      "id": "wall-street-ai-selloff-correction",
+      "heading": "AI stock sell-off pushes the S&P 500 into a correction and erases the Nasdaq's 2026 gains",
+      "date": "2026-11-20",
+      "status": "confirmed",
+      "summary": "US stocks fell sharply on Friday as investors dumped AI-linked shares: the S&P 500 dropped 3.7% and the Nasdaq 5.3%.[^15][^16] Nvidia fell about 13% after Reuters reported that US regulators are looking at its accounting.[^17]",
+      "lead": {
+        "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+        "outlet": "Fox Business",
+        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+        "date": "2026-11-20"
+      },
+      "alsoReported": [
+        {
+          "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+          "outlet": "Reuters (via Euronext)",
+          "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say"
+        },
+        {
+          "title": "How major US stock indexes fared Friday 11/20/2026",
+          "outlet": "AP (via La Nación)",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "Friday was a rough day on Wall Street. The S&P 500, a broad index of big US companies, fell 3.7%, the Dow 1.9% and the tech-heavy Nasdaq 5.3%.[^16] The S&P 500 is now in a \"correction\", meaning it has dropped more than 10% from its record high on October 6.[^16] Over the week, the Nasdaq lost 10%, its worst week since March 2020.[^15][^16]",
+        "The selling centred on artificial intelligence stocks. Reuters reported, citing two unnamed people, that the US Securities and Exchange Commission is examining Nvidia's accounting; the SEC declined to comment and Nvidia did not respond at first.[^17] Reuters stressed that an investigation is not proof of wrongdoing.[^17] Nvidia fell about 13% that day and is down about 46% from its October peak.[^17][^18]",
+        "Other news added to the worry. Broadcom fell 12% after a report that Google cut its plans for Broadcom's AI chips.[^18] Nvidia is also adjusting to life after Jensen Huang's exit as CEO.[^18] Anthropic, the AI company that set a record for the largest share sale ever on Thursday, fell about 8.5% in its second day of trading.[^15][^19]",
+        "Why it matters: the worry spread beyond tech. Fox Business reports that gold rose as investors looked for safer places for their money, and a common measure of market fear hit its highest level since April 2025.[^15] Investors had already been questioning heavy AI spending, losses and debt used to build data centres.[^19]",
+        "My read: one bad week does not prove the AI boom is a bubble, and markets often recover from corrections. But it shows how much confidence in AI's payoff is now built into prices, and how quickly that confidence can wobble."
+      ],
+      "differences": null
+    },
+    {
+      "id": "un-talks-killer-robots-2028",
+      "heading": "UN weapons talks agree to work on 'killer robot' rules by 2028, but not a binding treaty",
+      "date": "2026-11-21",
+      "status": "confirmed",
+      "summary": "Countries meeting in Geneva agreed to spend two years working out possible rules on weapons that can choose and attack targets without a human deciding.[^20][^21] Nearly 100 states wanted binding rules, but the US, Russia and Israel opposed that, and campaigners called the result watered down.[^20]",
+      "lead": {
+        "title": "Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
+        "date": "2026-11-21"
+      },
+      "alsoReported": [
+        {
+          "title": "UN talks fail to ban AI 'Killer Robots' as 128 States delay rules to 2028",
+          "outlet": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1424527-un-talks-fail-to-ban-ai-killer-robots-as-128-states-delay-rules-to-2028"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "Lethal autonomous weapons, often called \"killer robots\", are systems that can kill without a human making the final decision to fire. Campaigners say some, including AI systems that pick targets, are already used in combat.[^20]",
+        "At a UN meeting in Geneva under the Convention on Certain Conventional Weapons, 128 countries agreed to \"elaborate\" a possible agreement on these weapons over the next two years, by 2028.[^20][^21] The word \"negotiate\" was avoided because some countries rejected it.[^20] Talks ran past 4 a.m. after Russian procedural objections cancelled several sessions earlier in the week.[^21]",
+        "The convention works by consensus, so one country can block a proposal.[^21] Nearly 100 nations pushed for legally binding rules, but major weapons makers, including the US, Russia and Israel, opposed that.[^20] It is unclear whether whatever comes out in 2028 will be enforceable.[^21]",
+        "The Swiss diplomat who chaired the meeting, Julien Thoeni, called it a significant step after more than ten years of talks and said it shows multilateral diplomacy can still deliver.[^20] Campaign group Stop Killer Robots called the mandate \"watered down\", and Human Rights Watch said it falls short of what is needed while the technology moves fast.[^20][^21]",
+        "Why it matters: armies are adding AI to weapons quickly, while the rules are still being argued over. My read: a two-year plan keeps the issue alive, but what counts is whether the biggest military powers sign up to anything binding."
+      ],
+      "differences": "The chair calls the deal a concrete result after a decade of talks.[^20] Campaigners and Human Rights Watch say it delays binding rules.[^20][^21] The US, Russia and Israel opposed a push for legally binding commitments.[^20]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Euronews",
-      "title": "Fossil fuel row sees COP31 talks spill into overtime",
-      "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
-      "date": "2026-11-21",
+      "outlet": "ABC News (Australia)",
+      "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
+      "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Dawn (AFP)",
-      "title": "COP31 runs into overtime over fossil fuel dispute",
-      "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute",
-      "date": "2026-11-21",
-      "singleSource": false
+      "outlet": "DPA (via Yahoo News)",
+      "title": "France slams new draft as COP31 could be longest climate summit ever",
+      "url": "https://www.yahoo.com/news/science/articles/france-slams-draft-cop31-could-093328075.html",
+      "date": "2026-11-22",
+      "singleSource": true
     },
     {
       "id": 3,
       "outlet": "Reuters (via Yahoo News)",
-      "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-talks-spill-overtime-150416330.html",
-      "date": "2026-11-20",
+      "title": "COP31 climate deal in the balance after fractious talks",
+      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-deal-balance-fractious-101508341.html",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Boston Globe (AP)",
-      "title": "Anthropic worker claims to have cracked unsolved math problem with the help of AI",
-      "url": "https://www.bostonglobe.com/2026/11/21/nation/anthropic-worker-solve-math-problems-ai-riemann-hypothesis/",
-      "date": "2026-11-21",
+      "outlet": "Al Jazeera",
+      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Swisher Post (AFP)",
-      "title": "Riemann hypothesis proof claimed by Anthropic mathematician",
-      "url": "https://www.swisherpost.com/technology/riemann-hypothesis-proof-claimed-anthropic-mathematician-claude/",
-      "date": "2026-11-21",
-      "singleSource": true
-    },
-    {
-      "id": 6,
-      "outlet": "NPR (via OPB)",
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Human Rights Watch",
-      "title": "World Court Finds Myanmar Committed Rohingya Genocide",
-      "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
-      "date": "2026-11-19",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "IntelliNews (via Yahoo News)",
-      "title": "Ukraine's allies hold the line in Berlin as Kushner pushes for compromise",
-      "url": "https://www.yahoo.com/news/politics/articles/ukraines-allies-hold-line-berlin-102126110.html",
+      "outlet": "PBS NewsHour",
+      "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+      "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
       "date": "2026-11-20",
       "singleSource": false
     },
     {
+      "id": 6,
+      "outlet": "CBS News",
+      "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
+      "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Al Jazeera",
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Al Jazeera",
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown",
+      "date": "2026-11-21",
+      "singleSource": true
+    },
+    {
       "id": 9,
-      "outlet": "Ukrayinska Pravda (via Yahoo News)",
-      "title": "Zelenskyy identifies best security guarantee for Ukraine as proposals presented to partners",
-      "url": "https://www.yahoo.com/news/world/articles/zelenskyy-identifies-best-security-guarantee-224500870.html",
-      "date": "2026-11-19",
+      "outlet": "Al Jazeera",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+      "date": "2026-11-21",
       "singleSource": true
     },
     {
       "id": 10,
       "outlet": "Al Jazeera",
-      "title": "Kushner says Russia OK with 'NATO-like' security pact for Ukraine: Is it?",
-      "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
-      "date": "2026-11-20",
-      "singleSource": false
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+      "date": "2026-11-21",
+      "singleSource": true
     },
     {
       "id": 11,
-      "outlet": "Anchorage Daily News (AP)",
-      "title": "Senate rejects resolution to block Trump from striking Iran",
-      "url": "https://www.adn.com/nation-world/2026/11/19/senate-rejects-resolution-to-block-trump-from-striking-iran/",
-      "date": "2026-11-19",
+      "outlet": "The Times of Israel",
+      "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
+      "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
+      "date": "2026-11-21",
       "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Reuters (via Cyprus Mail)",
-      "title": "US Senate rejects resolution curbing Trump's Iran war powers",
-      "url": "https://cyprus-mail.com/2026/11/19/us-senate-rejects-resolution-curbing-trumps-iran-war-powers",
+      "outlet": "The National",
+      "title": "Strikes kill nine in Gaza as Board of Peace adviser criticises Israel",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "Al Jazeera",
+      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 14,
+      "outlet": "The Jerusalem Post",
+      "title": "IDF strikes PIJ terrorist's vehicle in Gaza, following claims it was used by aid workers",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-915643",
+      "date": "2026-11-21",
+      "singleSource": true
+    },
+    {
+      "id": 15,
+      "outlet": "Fox Business",
+      "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 16,
+      "outlet": "AP (via La Nación)",
+      "title": "How major US stock indexes fared Friday 11/20/2026",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/",
+      "date": "2026-11-20",
+      "singleSource": false
+    },
+    {
+      "id": 17,
+      "outlet": "Reuters (via Euronext)",
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say",
+      "date": "2026-11-20",
+      "singleSource": true
+    },
+    {
+      "id": 18,
+      "outlet": "24/7 Wall St.",
+      "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It's Nvidia's Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
+      "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/",
+      "date": "2026-11-20",
+      "singleSource": true
+    },
+    {
+      "id": 19,
+      "outlet": "CBS News (via Yahoo Finance)",
+      "title": "Anthropic set to start trading after completing largest-ever IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html",
       "date": "2026-11-19",
+      "singleSource": true
+    },
+    {
+      "id": 20,
+      "outlet": "Al Jazeera",
+      "title": "Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
+      "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 21,
+      "outlet": "The News International",
+      "title": "UN talks fail to ban AI 'Killer Robots' as 128 States delay rules to 2028",
+      "url": "https://www.thenews.com.pk/latest/1424527-un-talks-fail-to-ban-ai-killer-robots-as-128-states-delay-rules-to-2028",
+      "date": "2026-11-21",
       "singleSource": false
     }
   ]
