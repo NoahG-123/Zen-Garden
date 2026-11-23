@@ -1,61 +1,77 @@
 {
-  "date": "2026-11-22",
-  "summary": "Navdeep Bains is the new Ontario Liberal leader, S&P warns it may cut Ontario's credit rating, and Canada's defence minister says he sees no change in military ties despite a reported Pentagon memo.",
+  "date": "2026-11-23",
+  "summary": "The US trade chief says a Canada deal is \"fairly close\", all five Ontario education unions now hold strike mandates, and Ottawa and Ontario put $928 million into Ford's Oakville plant.",
   "body": [
-    "Ontario Liberals chose Navdeep Bains as their leader on Saturday. The party says he won on the third ballot with 50.29 per cent of the vote, out of about 20,500 votes cast.[^2] Bains was a federal Liberal MP from Mississauga for 13 years and Canada's industry minister, then worked as a bank and telecom executive. He does not have a seat in the provincial legislature, and he replaces Bonnie Crombie, who stepped down earlier this year.[^1] He says he wants to bring well-paying jobs to Ontario and will take on Premier Doug Ford's government.[^2]",
-    "Ontario's finances got a warning. Credit rating agency S&P Global put the province on a \"negative outlook\", meaning it sees at least a one-in-three chance of lowering Ontario's AA rating within two years. A lower rating can make borrowing more expensive. Ontario now expects a $16.9 billion deficit this year, and interest on its debt costs $17.3 billion a year. Finance Minister Peter Bethlenfalvy says he is confident Ontario will keep its rating and blames US tariffs and high interest rates; he says he will look for savings without raising taxes.[^3]",
-    "At the Halifax International Security Forum on Saturday, Defence Minister David McGuinty said he had not seen a classified memo from US Secretary of War Pete Hegseth that, according to the Washington Post, limits US defence co-operation with Canada. He said military co-operation is \"business as usual\".[^4] A Pentagon spokesperson said engagement with Canada must advance US defence goals, but that intelligence sharing, NORAD and NATO work are not affected. McGuinty also said Canada will put an initial $100 million into the NATO Innovation Fund, which invests in new defence technology.[^5]",
-    "Otherwise it was a quiet weekend, with no public update on the Stellantis Brampton plant talks."
+    "US Trade Representative Jamieson Greer said on Sunday that the US and Canada are \"fairly close\" to a trade deal and that there has been \"a lot of progress\".[^1][^2] Talks restarted this month after collapsing in August. Greer also raised \"concern\" about Canada letting in up to 49,000 Chinese electric vehicles a year at a low tariff.[^1][^2] Canada's chief negotiator, Janice Charette, has said several issues are still open, above all the 25% US tariff on Canadian cars, which is set to rise to 50% in January.[^1][^2] For Ontario, where many jobs depend on the auto industry, this is the key number to watch.",
+    "All five of Ontario's main education unions, covering teachers and support staff, have now voted 94 to 98 per cent for strike mandates. A mandate gives a union the right to strike later; it does not mean a strike is coming. Several legal steps, including conciliation and a 17-day countdown, come first, and one union leader called job action before Christmas \"highly unlikely\".[^3] Education Minister Paul Calandra says there is \"absolutely no imminent strike threat\". Unions say they want smaller classes and more help for students with special needs and mental-health needs.[^3]",
+    "On Nov 20 Ottawa and Ontario each pledged about $464 million toward a nearly $5 billion project at Ford's Oakville plant, which will be retooled to build heavy-duty pickup trucks for export. The federal government says it will protect more than 2,000 jobs.[^4] Industry Minister Mélanie Joly also said Stellantis owes the government \"hundreds of millions\" for not restarting production in Brampton.[^5]",
+    "This week: Bank of Canada Governor Tiff Macklem speaks in Toronto on Tuesday about the economy, ahead of the Dec 9 rate decision, and Statistics Canada publishes third-quarter GDP on Nov 30.[^6][^7]"
   ],
-  "differences": "On Ontario's finances, Bethlenfalvy calls the S&P warning routine and \"not a hinge moment\", while Liberal MPP Stephanie Bowman says the government is in a \"downward spiral\" and a downgrade would cost taxpayers more.[^3] On the memo, the Pentagon says ties with Canada must serve US goals, while McGuinty says he has seen no change so far.[^4][^5]",
+  "differences": "On trade, Greer sounds upbeat, while Canada's negotiator stresses the issues still unresolved.[^1][^2] On schools, unions describe years of cuts, while the minister says there is plenty of time to reach a deal.[^3]",
   "reads": [
     {
-      "title": "What role can Canada play in global security as world leaders gather in Halifax?",
-      "outlet": "CTV News (via CP24)",
-      "url": "https://www.cp24.com/news/canada/2026/11/21/what-role-can-canada-play-in-global-security-as-world-leaders-gather-in-halifax/",
+      "title": "Housing minister won't reaffirm Liberal pledge to double home construction",
+      "outlet": "The Canadian Press (via BNN Bloomberg)",
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/18/housing-minister-wont-reaffirm-liberal-pledge-to-double-home-construction/",
       "kind": "news",
-      "summary": "What is on the Halifax forum's agenda this year, from Ukraine to food shipping routes, and what McGuinty said about defence spending and cadet programs."
+      "summary": "Why the federal promise of about 500,000 new homes a year is missing from the budget, and what the numbers say about building so far in 2026."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "Ontario Liberal leadership: Navdeep Bains wins",
-      "url": "https://www.cp24.com/politics/queens-park/2026/11/21/navdeep-bains-named-new-ontario-liberal-leader/",
-      "date": "2026-11-21",
+      "outlet": "Global News (via Yahoo News)",
+      "title": "'We are close,' to deal with Canada, Trump's trade representative says",
+      "url": "https://ca.news.yahoo.com/close-deal-canada-trump-trade-182348396.html",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Ontario Liberal Party (news release)",
-      "title": "Navdeep Bains Named Ontario Liberal Leader",
-      "url": "https://ontarioliberal.ca/the-latest/navdeep-bains-named-ontario-liberal-leader",
-      "date": "2026-11-21",
-      "singleSource": true
+      "outlet": "National Post (via Yahoo News)",
+      "title": "The U.S. and Canada 'fairly close' to reaching tariff-relief deal: Greer",
+      "url": "https://ca.news.yahoo.com/u-canada-fairly-close-reaching-234357330.html",
+      "date": "2026-11-22",
+      "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Global News",
-      "title": "Warning of credit rating downgrade 'not a hinge moment': Ontario finance minister",
-      "url": "https://globalnews.ca/news/12159424/credit-rating-downgrade-warning-not-a-hinge-moment-ontario-finance-minister/",
+      "outlet": "CP24",
+      "title": "All five of Ontario's education unions now have strike mandates. Here is what that could mean for students",
+      "url": "https://www.cp24.com/local/toronto/2026/11/20/all-five-of-ontarios-education-unions-now-have-strike-mandates-here-is-what-that-could-mean-for-students/",
       "date": "2026-11-20",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
-      "url": "https://www.cp24.com/news/canada/2026/11/21/mcguinty-not-aware-us-has-changed-military-co-operation-policy-with-canada/",
-      "date": "2026-11-21",
+      "outlet": "Government of Canada (news release)",
+      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Breaking Defense",
-      "title": "Despite Hegseth memo, Canada hasn't seen changes to defense relationship with US, says DefMin",
-      "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
-      "date": "2026-11-21",
+      "outlet": "Bloomberg (via Transport Topics)",
+      "title": "Canada gives Ford plant $324 million to protect auto jobs",
+      "url": "https://www.ttnews.com/articles/canada-funds-ford-plant",
+      "date": "2026-11-20",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Bank of Canada",
+      "title": "Upcoming events",
+      "url": "https://www.bankofcanada.ca/press/upcoming-events/",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Statistics Canada",
+      "title": "The Daily — Release schedule",
+      "url": "https://www150.statcan.gc.ca/n1/dai-quo/cal2-eng.htm",
+      "date": "2026-11-23",
       "singleSource": false
     }
   ]

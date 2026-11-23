@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-22",
+  "reviewed": "2026-11-23",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Shipping attacks keep rising: two tankers were hit near Khasab on Nov 21, Al Jazeera reports, and Iran says another struck a mine.[^309] Iran's foreign minister set seven conditions for reopening Hormuz and ruled out sending enriched uranium abroad; Iran's IRGC says it downed US drones.[^310] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303] Iran and Oman are discussing a corridor, with no deal yet.[^291]",
+      "standing": "Bahrain says an Iranian attack hit an industrial site on Nov 21, its fourth in about a week, and Gulf states condemned it.[^316] Iran's IRGC says two tankers hit mines and it downed a US drone; Iran says Hormuz can be safe if the US lifts sanctions and its blockade.[^316] Trump says he is \"not rushing\" and may wait until the new year.[^317] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -25,6 +25,10 @@
         {
           "date": "2026-12-11",
           "what": "US funding deadline; some Democrats want to block money for the Iran war in the spending bill"
+        },
+        {
+          "date": "2026-12-31",
+          "what": "Whether Trump orders renewed strikes after saying he may wait until the new year"
         }
       ],
       "connects": [
@@ -192,7 +196,9 @@
         291,
         292,
         302,
-        303
+        303,
+        316,
+        317
       ]
     },
     {
@@ -201,7 +207,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "On Nov 20, during one of Russia's largest strikes on Ukraine, two Russian missiles and a drone came down in southeastern Poland; NATO's Rutte called it a \"grave violation\", and Poland has not asked for formal NATO consultations.[^307] A strike on Kryvyi Rih on Nov 21 killed 2 and injured 60, Ukraine says.[^308] In Berlin the US said Russia could accept Article 5-style guarantees; Russia publicly rejects them.[^304] No date is set for the next round.[^294]",
+      "standing": "Two Russian Kh-101 missiles and a drone came down in Poland on Nov 20; NATO's North Atlantic Council meets on Nov 23 as Poland seeks stronger air defences.[^318][^319] A Russian drone strike in Dymer near Kyiv killed at least 10 on Nov 22, officials say.[^320] Ukraine says it sank a Russian corvette off Libya.[^321] Zelensky says he has seen no written US security guarantees, and no new round of talks is set.[^322]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -217,8 +223,8 @@
           "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
         },
         {
-          "date": "2026-12-15",
-          "what": "Whether NATO or Poland takes formal steps after the missiles that landed in Poland"
+          "date": "2026-11-30",
+          "what": "What NATO decides after its Nov 23 meeting on the missiles that landed in Poland"
         }
       ],
       "connects": [
@@ -372,7 +378,12 @@
         294,
         298,
         299,
-        304
+        304,
+        318,
+        319,
+        320,
+        321,
+        322
       ]
     },
     {
@@ -381,7 +392,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The US-backed Board of Peace told the UN that Israel and Hamas have both \"fallen far short\" of the truce.[^301] On Nov 21 a board adviser warned it may \"hand the keys\" of Gaza to the UN if Israel keeps blocking the stabilisation force and Palestinian police.[^311] Gaza's Health Ministry says more than 1,600 people have been killed since the truce began.[^312] Israel's new majority is moving to repeal Netanyahu's court laws.[^295]",
+      "standing": "Gaza's Health Ministry says over 1,660 people have been killed since the October 2025 truce, 9 of them in the 48 hours to Nov 22.[^323] On Nov 21 a Board of Peace adviser warned it may \"hand the keys\" of Gaza to the UN if Israel keeps blocking its plan.[^311] In Israel, Likud and Eisenkot's Yashar ended talks on Nov 22 without a deal; Eisenkot's deadline to form a government is Dec 6.[^324]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -394,7 +405,7 @@
         },
         {
           "date": "2026-12-06",
-          "what": "Eisenkot's first 28 days to form a government end (a 14-day extension is possible)"
+          "what": "Eisenkot's 28 days to form a government end; Likud-Yashar talks ended Nov 22 without a deal"
         },
         {
           "date": "2026-12-31",
@@ -540,7 +551,9 @@
         284,
         295,
         296,
-        301
+        301,
+        323,
+        324
       ]
     },
     {
@@ -549,7 +562,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3.[^268] On Nov 20 the S&P 500 fell 3.7% into a correction (10% below its peak) and the Nasdaq fell 5.3%, led by AI stocks.[^313] Trump, Xi and Putin met in Shenzhen on Nov 19 with no joint deal.[^289] Markets have put high odds on a Fed rate hike on Dec 9.[^255] Government funding runs out Dec 11.[^188]",
+      "standing": "Democrats won both chambers on Nov 3.[^268] Stocks fell into a correction on Nov 20, and futures rebounded on Nov 23.[^313][^325] Treasury Secretary Bessent warned the Fed against over-tightening; markets expect a hike on Dec 9.[^326] Funding runs out Dec 11; the House has passed 3 of 12 spending bills and a stopgap is expected.[^327] The US trade chief says a Canada deal is \"fairly close\".[^328]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -710,7 +723,11 @@
         287,
         288,
         289,
-        290
+        290,
+        325,
+        326,
+        327,
+        328
       ]
     },
     {
@@ -719,7 +736,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia reported revenue up 103% on Nov 17, but Reuters reported on Nov 20 that the SEC is examining its accounting, and its shares fell about 13%.[^285][^314] AI stocks led a broad market sell-off that day.[^313] Anthropic's record IPO began trading on Nov 19.[^300] On Nov 21, 128 countries at UN talks agreed to work on rules for AI-run weapons by 2028, without a binding treaty.[^315]",
+      "standing": "Nvidia fell 14% on Nov 20 after Reuters reported the SEC is examining its accounting, and AI stocks led a wide sell-off; Korean chip stocks fell again on Nov 23.[^314][^313][^329] On Nov 22 OpenAI's chief scientist proposed shared industry limits on AI capability, and US governors set out principles for sharing AI rules with Washington.[^330][^331] On Nov 21, 128 countries agreed to work on AI-weapons rules by 2028.[^315]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
@@ -906,7 +923,10 @@
         297,
         300,
         305,
-        306
+        306,
+        329,
+        330,
+        331
       ]
     }
   ],
@@ -3242,52 +3262,12 @@
       "singleSource": false
     },
     {
-      "id": 307,
-      "outlet": "PBS NewsHour",
-      "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
-      "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
-      "date": "2026-11-20",
-      "singleSource": false
-    },
-    {
-      "id": 308,
-      "outlet": "Al Jazeera",
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown",
-      "date": "2026-11-21",
-      "singleSource": false
-    },
-    {
-      "id": 309,
-      "outlet": "Al Jazeera",
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-      "date": "2026-11-21",
-      "singleSource": false
-    },
-    {
-      "id": 310,
-      "outlet": "Al Jazeera",
-      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-      "date": "2026-11-21",
-      "singleSource": false
-    },
-    {
       "id": 311,
       "outlet": "The Times of Israel",
       "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
       "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
       "date": "2026-11-21",
       "singleSource": true
-    },
-    {
-      "id": 312,
-      "outlet": "Al Jazeera",
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
-      "date": "2026-11-21",
-      "singleSource": false
     },
     {
       "id": 313,
@@ -3312,6 +3292,134 @@
       "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
       "date": "2026-11-21",
       "singleSource": false
+    },
+    {
+      "id": 316,
+      "outlet": "ABC News",
+      "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 317,
+      "outlet": "CBS News",
+      "title": "Live Updates: Trump says he wants 'permanent' deal with Iran; warns next move may not come until 2027",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 318,
+      "outlet": "Stars and Stripes",
+      "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
+      "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 319,
+      "outlet": "Kyiv Independent",
+      "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
+      "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 320,
+      "outlet": "Kyiv Independent",
+      "title": "'We live in fear' — Russian attack near Kyiv kills 10, leaves families waiting as rescuers search rubble",
+      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+      "date": "2026-11-22",
+      "singleSource": true
+    },
+    {
+      "id": 321,
+      "outlet": "Kyiv Independent",
+      "title": "'No safe routes' — Ukraine sinks Russian corvette in drone attack off Libyan coast",
+      "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
+      "date": "2026-11-23",
+      "singleSource": true
+    },
+    {
+      "id": 322,
+      "outlet": "Kyiv Independent",
+      "title": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees",
+      "url": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/",
+      "date": "2026-11-21",
+      "singleSource": false
+    },
+    {
+      "id": 323,
+      "outlet": "Al Jazeera",
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 324,
+      "outlet": "Al Jazeera",
+      "title": "Netanyahu's Likud, Eisenkot's Yashar end coalition talks without deal",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 325,
+      "outlet": "AP (via KPRC Click2Houston)",
+      "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
+      "url": "https://www.click2houston.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 326,
+      "outlet": "investingLive",
+      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
+      "url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
+      "date": "2026-11-22",
+      "singleSource": true
+    },
+    {
+      "id": 327,
+      "outlet": "Deseret News",
+      "title": "On The Hill: Will there be another government shutdown?",
+      "url": "https://www.deseret.com/politics/2026/11/22/will-there-be-a-government-shutdown/",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 328,
+      "outlet": "Global News (via Yahoo News)",
+      "title": "'We are close,' to deal with Canada, Trump's trade representative says",
+      "url": "https://ca.news.yahoo.com/close-deal-canada-trump-trade-182348396.html",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 329,
+      "outlet": "Al Jazeera",
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 330,
+      "outlet": "TechCrunch",
+      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 331,
+      "outlet": "PYMNTS",
+      "title": "Governors Want States to Have a Voice in Regulating AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/",
+      "date": "2026-11-22",
+      "singleSource": true
     }
   ]
 }

@@ -1,382 +1,379 @@
 {
-  "date": "2026-11-22",
-  "summary": "COP31 runs into a second overtime day, Russian missiles land in Poland, Hormuz attacks climb, Gaza's peace plan stalls, AI stocks slide, and talks on 'killer robots' inch ahead.",
+  "date": "2026-11-23",
+  "summary": "COP31 ends without a deal, NATO meets over missiles in Poland, Iran hits Bahrain again, AI stocks wobble, OpenAI floats AI limits, and Congo's Ebola outbreak grows.",
   "question": {
-    "type": "how-do-we-know",
-    "text": "Iran says a tanker hit a mine while shipping monitors report projectile strikes; Israel and a witness describe the people in a Gaza van differently. When the only witnesses are the sides involved, what kinds of evidence would make you trust one account more than another?"
+    "type": "second-order",
+    "text": "COP31 failed because a few countries could block a deal everyone else wanted. If more countries now act in smaller groups instead of waiting for all 200 to agree, what might be gained, and what might be lost for the countries left out?"
   },
   "read": {
-    "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+    "title": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump's tech ambitions",
+    "outlet": "Fortune",
+    "url": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
     "kind": "analysis",
-    "minutes": 12,
-    "summary": "An explainer on where the missiles fell, what NATO's Article 4 and Article 5 actually require, and why experts think Russia may be testing how far it can push the alliance."
+    "minutes": 8,
+    "summary": "Researchers at Georgetown's CSET explain how Chinese AI models end up running on American chips abroad, why new US rules target that, and what they think would work better."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "cop31-second-overtime-day",
-      "heading": "COP31 enters a second day of overtime as new text skips any direct fossil-fuel wording",
+      "id": "cop31-ends-without-deal",
+      "heading": "COP31 ends without a deal after countries reject a text that skips fossil fuels",
       "date": "2026-11-22",
-      "status": "developing",
-      "summary": "The UN climate summit in Antalya, Türkiye, was still unfinished on Sunday, more than 40 hours past its deadline.[^2][^3] A revised text refers back to the 2023 pledge to move away from fossil fuels without naming coal, oil or gas, and France called it unacceptable.[^1][^2]",
+      "status": "confirmed",
+      "summary": "The UN climate summit in Antalya, Türkiye, closed on Sunday without agreeing its main decision, after two extra days of talks.[^1][^2] The EU, the UK, Norway and several island states refused a final text that did not name coal, oil or gas; reports call it the first COP to end this way since Copenhagen in 2009.[^1][^3]",
       "lead": {
-        "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
-        "outlet": "ABC News (Australia)",
-        "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+        "title": "COP31 climate talks collapse as EU and others reject deal",
+        "outlet": "RTÉ",
+        "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/",
         "date": "2026-11-22"
       },
       "alsoReported": [
         {
-          "title": "France slams new draft as COP31 could be longest climate summit ever",
-          "outlet": "DPA (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/science/articles/france-slams-draft-cop31-could-093328075.html"
+          "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
+          "outlet": "ABC News",
+          "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
         },
         {
-          "title": "COP31 climate deal in the balance after fractious talks",
-          "outlet": "Reuters (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/science/articles/cop31-climate-deal-balance-fractious-101508341.html"
+          "title": "COP31 in Turkey collapses without deal as EU rejects text silent on fossil fuels",
+          "outlet": "bne IntelliNews (via Yahoo News)",
+          "url": "https://www.yahoo.com/news/world/articles/cop31-turkey-collapses-without-deal-000618355.html"
         }
       ],
       "eventId": null,
       "article": [
-        "Yesterday's brief left COP31 in overtime. By Sunday it was still going. The summit's Turkish president, Murat Kurum, released a revised final text early Sunday and gave countries until 03:00 GMT to object, with a session to approve it set for 06:00 GMT.[^1][^4] As of Sunday morning, Reuters reported that a deal was \"far from certain\".[^3]",
-        "The new text does not name coal, oil or gas. Instead it points back to the 2023 Dubai pledge to transition away from fossil fuels.[^1][^2] It keeps a goal of raising electricity's share of final energy use to 35% by 2035, calls for faster carbon capture and storage (trapping CO2 before it reaches the air), and repeats a promise to triple adaptation funding by 2035 without an interim target.[^1][^2] It also accepts that warming will pass 1.5C and asks that any overshoot be small and short.[^2]",
-        "Kurum said he believed the text was one \"all the parties can agree upon\" and that concerns on fossil fuels and adaptation money had been addressed.[^4] France's environment minister, Monique Barbut, disagreed, calling it \"even weaker than the previous one\" and saying an overnight EU compromise had been rejected.[^2] More than 100 civil society groups warned it could be one of the most disappointing COPs ever.[^4]",
-        "Background: every COP decision needs consensus, which lets a single bloc slow things down. DPA notes that formal decisions also need enough countries in the room, and many ministers had already gone home.[^2] Reuters says the main splits are the pace of the clean-energy shift, carbon capture, and money for developing countries.[^3]",
-        "My read: a deal is still the most likely outcome, since only one COP has ever ended without one.[^1] But whether a text that does not name fossil fuels counts as progress will depend on who you ask."
+        "Yesterday's brief left COP31 in overtime. On Sunday it ended without the \"cover decision\", the main text that sums up what nearly 200 countries agree to do next.[^1] The summit's Turkish president, Murat Kurum, told delegates there was no agreement and that he would not put forward another text. \"We did our best,\" he said.[^1][^2]",
+        "The final draft did not name oil, gas or coal and set no phase-out, referring only back to the 2023 Dubai pledge.[^1] An earlier target of $120 billion for adaptation, meaning money to help countries cope with floods, heat and drought, was replaced by a promise to discuss \"at least tripling\" adaptation money by 2035, with no starting figure.[^1][^3] The text also accepted that warming is on course to pass 1.5C.[^3]",
+        "Ireland's minister, speaking for the EU, called the text \"unconscionable\" and said the summit was \"hijacked by some oil states\".[^1][^2] Panama, the Marshall Islands, Vanuatu and Tuvalu also refused it; Tuvalu's negotiator said \"it seems like we are negotiating with the Saudis\".[^3] Saudi Arabia defended carbon capture, which traps CO2 before it reaches the air, saying climate change \"requires all solutions on the table\". China backed the text, and bne IntelliNews reports India did too.[^1][^3] UN Secretary-General António Guterres said he was \"deeply disappointed\".[^2]",
+        "Background: COP decisions need consensus, so any bloc can block a deal. This year the presidency was split between Türkiye and Australia, whose minister Chris Bowen called the outcome \"very disappointing\".[^2][^3] Some decisions were still made: at least 75 countries joined a voluntary pledge to raise electricity's share of energy use to 35% by 2035, from about 23% today.[^1]",
+        "My read: a COP without a cover text does not undo the Paris Agreement, and countries' own plans still matter most. But it shows how hard it has become to agree even on words. The next summit is in Addis Ababa, Ethiopia, in November 2027.[^1]"
       ],
-      "differences": "COP31 president Murat Kurum says no one got everything they wanted but everyone can find a place in the text.[^3] France calls it unacceptable and weaker than before.[^2] Earlier drafts dropped fossil-fuel wording after objections from Saudi Arabia and other producers.[^4] Critics also say electrification should run on renewables, not gas or coal.[^1]"
+      "differences": "Lists of who backed the text differ: ABC News names China and Ghana, while bne IntelliNews names China and India.[^1][^3] Supporters of the text, including Saudi Arabia, frame carbon capture as a practical solution; island states and the EU say the text gave it special treatment while dropping fossil-fuel language.[^1][^3]"
     },
     {
-      "id": "russian-missiles-land-in-poland",
-      "heading": "Russian missiles and a drone land in Poland during a huge overnight attack on Ukraine",
-      "date": "2026-11-20",
-      "status": "confirmed",
-      "summary": "Two Russian missiles and a suspected drone came down in southeastern Poland, a NATO member, during a massive Russian strike on Ukraine; no one in Poland was hurt.[^5][^6] Poland's prime minister called it an \"intentional provocation\", and NATO called it a \"grave violation\" of Polish airspace.[^5][^7]",
+      "id": "nato-meets-over-poland-missiles",
+      "heading": "NATO meets over Russian missiles in Poland as Ukraine says it sank a Russian ship",
+      "date": "2026-11-23",
+      "status": "developing",
+      "summary": "NATO ambassadors meet in Brussels on Monday after two Russian missiles and a drone came down in Poland on Nov 20; Polish prosecutors say they found Kh-101 cruise missile debris at three sites.[^4][^5] A Russian drone strike near Kyiv killed at least 10, and Ukraine says it sank a Russian warship off Libya.[^6][^7]",
       "lead": {
-        "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
-        "outlet": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
-        "date": "2026-11-20"
+        "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
+        "outlet": "Stars and Stripes",
+        "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
+        "date": "2026-11-22"
       },
       "alsoReported": [
         {
-          "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+          "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/"
         },
         {
-          "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+          "title": "'No safe routes' — Ukraine sinks Russian corvette in drone attack off Libyan coast",
+          "outlet": "Kyiv Independent",
+          "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Overnight into Friday, Russia launched one of its largest attacks of the war. Ukraine's president, Volodymyr Zelenskyy, said it involved more than 400 drones and about 110 missiles, and Ukrainian officials said at least eight civilians were killed.[^6][^7] Russia's Defence Ministry said it hit targets linked to Ukraine's military.[^5] President Vladimir Putin had promised retaliation for a Ukrainian strike on the Kerch Bridge to Crimea.[^6]",
-        "During the attack, Poland says two missiles, believed to be Kh-101 cruise missiles, and a jet-powered drone landed on its territory, about 30 to 50 km from the Ukrainian border. No injuries or damage were reported.[^5][^7] The landings came during a two-week European military exercise in Poland that prepares for a possible post-war mission in Ukraine.[^5]",
-        "Prime Minister Donald Tusk said it looked like \"an intentional provocation\", and Poland's defence minister said the timing was hard to see as a coincidence.[^6] NATO Secretary-General Mark Rutte called it a \"grave violation\" and \"clearly dangerous\".[^5] Moscow had not commented on the landings.[^5]",
-        "Background a student needs: NATO's Article 5 says an attack on one member is an attack on all, but using it needs political agreement and is not automatic. Article 4 only means emergency talks; Poland has not invoked it this time.[^7] Separately, a Russian strike on Kryvyi Rih, Zelenskyy's hometown, killed two people and injured 60, according to local officials.[^8]",
-        "All this happens while the US pushes peace talks. Zelenskyy said he is less sure than Washington that Putin is ready to compromise, and Moscow still demands that Ukraine leave the whole Donbas region.[^8] Experts quoted by Al Jazeera expect a defensive NATO response, such as more air patrols, rather than escalation.[^7]"
+        "On Nov 20, during one of Russia's largest strikes on Ukraine, two missiles and a jet-powered drone came down in southeastern Poland. No one was hurt.[^4] Polish prosecutors say they have found remains of Kh-101 cruise missiles at three sites and that initial findings suggest they were built in recent weeks in Dubna, Russia.[^5] A Swedish fighter pilot under NATO command was cleared to shoot one down but did not fire, because bad weather made it impossible to identify the target.[^5]",
+        "Polish officials say the North Atlantic Council, NATO's main decision body, meets on Monday and that Poland will bring proposals for stronger defences. Poland has asked for more surveillance aircraft and F-35 jets.[^4] NATO's secretary general, Mark Rutte, said in Warsaw that \"NATO will defend every inch of Polish territory.\" Poland's defence minister noted that one missile fell about 35 km from a site where European troops were training, and said that was \"hard to regard\" as a coincidence.[^4] No Russian response was reported.[^4][^5]",
+        "Inside Ukraine, a drone strike destroyed part of an apartment block in Dymer, north of Kyiv, early on Nov 22. Officials say at least 10 people died; a 7-year-old boy was pulled out alive after almost 14 hours.[^6] Ukraine's president, Volodymyr Zelensky, says his navy used seven sea drones to sink the Russian corvette Merkury off Libya. That claim has not been independently confirmed.[^7]",
+        "On peace talks, nothing new was agreed this weekend. Zelensky said he has not seen US security guarantees \"on paper\" and wants them to last \"preferably forever\".[^8]",
+        "What to watch: whether NATO's meeting leads to new deployments over Poland. My read: the alliance is likely to strengthen air defence rather than respond militarily, but each incident raises the cost of a mistake."
       ],
-      "differences": "Poland's leaders say the landings were deliberate.[^6] NATO calls them dangerous and a result of Russia's war.[^5] One analyst quoted by Al Jazeera describes them as spillover from strikes on Ukraine, while another sees Russia testing NATO's limits.[^7] Russia had not commented.[^5]"
+      "differences": "Ukraine says it sank the Merkury; Russia has not commented, and the damage has not been checked independently.[^7] Death tolls in Dymer rose through the day, and figures may still change.[^6]"
     },
     {
-      "id": "hormuz-tankers-hit-iran-grip",
-      "heading": "More tankers hit near Hormuz as Iran tightens its grip on Gulf shipping",
-      "date": "2026-11-21",
+      "id": "iran-strikes-bahrain-hormuz-terms",
+      "heading": "Iran hits Bahrain again and says Hormuz can be safe only if the US meets its terms",
+      "date": "2026-11-23",
       "status": "developing",
-      "summary": "Two tankers were struck near Oman's coast on Saturday, and Iran says a third caught fire after hitting a mine.[^9] Iran says it controls the Strait of Hormuz and that ships must follow its rules, while talks to end the war remain stuck.[^9][^10]",
+      "summary": "Bahrain says an Iranian attack hit an industrial site on Nov 21, and Gulf neighbours condemned it.[^9][^10] Iran says the Strait of Hormuz can be made safe if the US lifts sanctions and its naval blockade, while President Trump says he may wait until the new year before deciding on new strikes.[^9][^10]",
       "lead": {
-        "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-        "date": "2026-11-21"
+        "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
+        "outlet": "ABC News",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+        "date": "2026-11-23"
       },
       "alsoReported": [
         {
-          "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+          "title": "Live Updates: Trump says he wants 'permanent' deal with Iran; warns next move may not come until 2027",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
+          "title": "US weighs delaying Iran strikes despite Israeli pressure for military action",
+          "outlet": "Iran International",
+          "url": "https://www.iranintl.com/en/202611231814"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "The Strait of Hormuz is a narrow sea passage between Iran and Oman. Before the war it carried nearly a fifth of the world's crude oil.[^9] The war began in late February when the US and Israel attacked Iran, and the US has since blockaded Iranian ports and escorted tankers through the waterway.[^9]",
-        "On Saturday, the UK's maritime monitoring centre, UKMTO, reported two tankers hit by unidentified projectiles near the Omani town of Khasab, with no injuries.[^9] Iran's navy said a tanker caught fire after hitting a mine in a restricted area, claiming the ship ignored warnings and had its tracking switched off; that could not be independently checked.[^9] Iran says ships must use lanes it chooses.[^9]",
-        "The pace is rising. Citing Iranian military statements, Al Jazeera's Tehran correspondent counted about 25 incidents involving tankers in the week since last Saturday, roughly three a day.[^9] He said Tehran is escalating on purpose to signal that if Iran cannot export oil, others will not be able to either.[^9] The US has answered with its blockade, tanker escorts, and new sanctions on four Iranians it says collected money from illegal oil sales.[^9][^10]",
-        "Diplomacy is not moving much. Iran's foreign minister, Abbas Araghchi, listed seven conditions for reopening the strait, including ending the war, lifting sanctions and lifting the blockade, and ruled out sending Iran's enriched uranium abroad.[^10] President Trump said Iran wants a deal, but not one he would accept.[^10] Iran's Revolutionary Guards also said they shot down two US drones; the US had not commented.[^10]",
-        "Araghchi called the current \"no war, no peace\" situation undesirable.[^10] In Washington, some Democrats want Congress to block money for offensive operations against Iran in a spending bill due by December 11.[^10] My read: the stand-off matters far beyond the Gulf, because oil prices feed into fuel and food costs everywhere, including Canada."
+        "Bahrain says an Iranian attack on Saturday, Nov 21, started a fire at a civilian industrial site in Sitra and injured two people. Bahrain called it the fourth attempted Iranian attack in about a week.[^9][^10] Saudi Arabia, Kuwait, Qatar and the UAE condemned it; Qatar called it a \"flagrant violation\" of Bahrain's sovereignty.[^9][^10]",
+        "At sea, the UK's maritime agency UKMTO reported incidents involving tankers near Hormuz. Iran's Revolutionary Guards (IRGC) say two tankers hit sea mines while using \"unauthorized routes\", and claim they shot down a US drone. The US military had not commented.[^9][^10] Iran International reports seven tankers have been hit in the strait since Nov 16.[^11]",
+        "Background: since the war began this year, the US has blockaded Iranian ports and Iran has restricted shipping through Hormuz, the narrow channel through which a large share of the world's oil passes. On Monday, Iran's foreign ministry spokesman said security \"can be restored\" there if the US lifts sanctions, ends the blockade and carries out a memorandum agreed in June. He said Iran \"will under no circumstances back down\".[^9]",
+        "In Washington, President Trump told Fox News he would not let Iran have a nuclear weapon, but told Israeli TV he is \"not rushing\" and could wait until the new year.[^10] Iran International, citing other reports, says Israel is pressing for renewed strikes while the UK and some Gulf states have privately urged restraint.[^11] A Qatari delegation held talks in Tehran.[^10]",
+        "My read: the most likely path is more weeks of slow, risky standoff at sea. Watch whether Qatar's mediation produces any meeting, and whether the US funding fight in Congress, due by Dec 11, touches the war."
       ],
-      "differences": "Iran says the burning tanker hit a mine after ignoring warnings and switching off its tracking; that could not be independently verified.[^9] The UK monitoring centre describes two ships hit by unidentified projectiles, and it is unclear whether either is the ship Iran describes.[^9]"
+      "differences": "Bahrain's interior ministry and ABC News say two people were injured; CBS News reported no injuries.[^9][^10] Iran says tankers hit mines on routes it had not approved; other reports describe attacks, and whether these are the same incidents is unclear.[^9][^10]"
     },
     {
-      "id": "board-of-peace-warns-israel-gaza",
-      "heading": "US-led Board of Peace warns it may hand Gaza to the UN if Israel keeps blocking its plan",
-      "date": "2026-11-21",
+      "id": "markets-after-ai-rout",
+      "heading": "Asian chip stocks keep falling while US futures bounce after Friday's AI-led rout",
+      "date": "2026-11-23",
       "status": "developing",
-      "summary": "A senior adviser to the US-controlled Board of Peace said it could \"hand the keys\" of Gaza to the UN if Israel keeps blocking steps to disarm Hamas and rebuild.[^11] Meanwhile Israeli strikes killed at least nine people on Friday and Saturday, according to Palestinian sources, including three in a van carrying food.[^12][^13]",
+      "summary": "South Korea's Kospi fell 3.3% on Monday while US stock futures rose about 2%, after Friday's AI-led sell-off.[^12][^13] Over the weekend, US Treasury Secretary Scott Bessent warned the Federal Reserve against raising rates too far.[^14]",
       "lead": {
-        "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
-        "outlet": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
-        "date": "2026-11-21"
+        "title": "Asian stock markets tumble as AI bubble fears mount",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+        "date": "2026-11-23"
       },
       "alsoReported": [
         {
-          "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+          "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
+          "outlet": "AP (via KPRC Click2Houston)",
+          "url": "https://www.click2houston.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/"
         },
         {
-          "title": "IDF strikes PIJ terrorist's vehicle in Gaza, following claims it was used by aid workers",
-          "outlet": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-915643"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "The Board of Peace was set up in January to carry out President Trump's 20-point plan for Gaza, after a ceasefire took effect in October 2025.[^11] On Friday, its senior adviser Josh Gruenbaum told the Israeli outlet Ynet that the board would hand Gaza to the UN if Israel keeps blocking its work.[^11][^12]",
-        "Gruenbaum said the board is not asking Israel to withdraw. It wants Israel to approve an International Stabilization Force, a new Palestinian police force and a Palestinian administrative committee.[^11] Without them, he said, there is no one to receive Hamas's weapons. He blamed \"political elements\" in the government and said not enough aid is entering before winter, while adding that Hamas could still cheat on disarmament.[^11]",
-        "Israel held an election on October 27 with no clear winner, and Prime Minister Benjamin Netanyahu leads a caretaker government while coalition talks go on.[^11] Israeli officials told Ynet they prefer the current situation, with Hamas weakened and Israel controlling over half of Gaza.[^11] A board report this week warned the ceasefire could collapse.[^12]",
-        "Violence continues. Palestinian sources reported at least nine people killed on Friday and Saturday.[^12] Gaza's Health Ministry says 1,671 people have been killed since the ceasefire began.[^13] Winter rain is worsening conditions for a mostly displaced population.[^12][^13]",
-        "My read: the warning is a pressure tactic aimed at Israel's next government. What happens next likely depends on whether a coalition forms and whether Washington follows through."
-      ],
-      "differences": "A witness told Reuters the van hit on Saturday was handing out food to children, and papers inside carried World Central Kitchen's logo; the charity said the vehicle was not theirs.[^13][^14] The Israeli military says the three killed were Palestinian Islamic Jihad members moving supplies for armed groups.[^14]"
-    },
-    {
-      "id": "wall-street-ai-selloff-correction",
-      "heading": "AI stock sell-off pushes the S&P 500 into a correction and erases the Nasdaq's 2026 gains",
-      "date": "2026-11-20",
-      "status": "confirmed",
-      "summary": "US stocks fell sharply on Friday as investors dumped AI-linked shares: the S&P 500 dropped 3.7% and the Nasdaq 5.3%.[^15][^16] Nvidia fell about 13% after Reuters reported that US regulators are looking at its accounting.[^17]",
-      "lead": {
-        "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-        "outlet": "Fox Business",
-        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-        "date": "2026-11-20"
-      },
-      "alsoReported": [
-        {
-          "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
-          "outlet": "Reuters (via Euronext)",
-          "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say"
-        },
-        {
-          "title": "How major US stock indexes fared Friday 11/20/2026",
-          "outlet": "AP (via La Nación)",
-          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/"
+          "title": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout",
+          "outlet": "Reuters (via Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629"
         }
       ],
       "eventId": "us-politics-economy",
       "article": [
-        "Friday was a rough day on Wall Street. The S&P 500, a broad index of big US companies, fell 3.7%, the Dow 1.9% and the tech-heavy Nasdaq 5.3%.[^16] The S&P 500 is now in a \"correction\", meaning it has dropped more than 10% from its record high on October 6.[^16] Over the week, the Nasdaq lost 10%, its worst week since March 2020.[^15][^16]",
-        "The selling centred on artificial intelligence stocks. Reuters reported, citing two unnamed people, that the US Securities and Exchange Commission is examining Nvidia's accounting; the SEC declined to comment and Nvidia did not respond at first.[^17] Reuters stressed that an investigation is not proof of wrongdoing.[^17] Nvidia fell about 13% that day and is down about 46% from its October peak.[^17][^18]",
-        "Other news added to the worry. Broadcom fell 12% after a report that Google cut its plans for Broadcom's AI chips.[^18] Nvidia is also adjusting to life after Jensen Huang's exit as CEO.[^18] Anthropic, the AI company that set a record for the largest share sale ever on Thursday, fell about 8.5% in its second day of trading.[^15][^19]",
-        "Why it matters: the worry spread beyond tech. Fox Business reports that gold rose as investors looked for safer places for their money, and a common measure of market fear hit its highest level since April 2025.[^15] Investors had already been questioning heavy AI spending, losses and debt used to build data centres.[^19]",
-        "My read: one bad week does not prove the AI boom is a bubble, and markets often recover from corrections. But it shows how much confidence in AI's payoff is now built into prices, and how quickly that confidence can wobble."
+        "On Friday, Nov 20, the S&P 500 fell 3.7% and slipped into a \"correction\", meaning more than 10% below its peak. The Nasdaq fell 5.3% and is now down for the year. Nvidia, under scrutiny since its founder's exit and a reported SEC look at its accounting, fell 14%.[^13]",
+        "On Monday, Asia was mixed. South Korea's Kospi fell as much as 5.8% before closing 3.3% lower, with chipmakers Samsung and SK Hynix down. Taiwan's market rose 2.2%, and Japan was closed for a holiday.[^12][^13] US futures, which show where stocks may open, were up about 2% for the S&P 500 and about 3% for the Nasdaq, and European stocks rose 0.7% in early trading.[^12][^15] One analyst warned the bounce \"could be a dead cat bounce\", a brief rise inside a longer fall.[^15]",
+        "Why it matters: huge sums are flowing into AI chips and data centres. Gartner, cited by Al Jazeera, expects $2.7 trillion of AI investment this year. Investors are asking whether the profits will justify that.[^12] South Korea and Taiwan depend heavily on chip exports, so they feel these swings first.[^12]",
+        "Interest rates are the other worry. Bessent said on CBS on Sunday that the Fed \"may be making a policy mistake if they over-tighten\", meaning raise rates too far. Markets expect a rate rise at the Fed's Dec 9 meeting.[^14] Higher rates make borrowing costlier for families and firms, and tend to weigh on stock prices.[^14]",
+        "This is a judgment: one strong day would not settle whether the AI boom is a bubble. This week's US inflation data and the Fed's December decision will matter more."
       ],
-      "differences": null
+      "differences": "Some investors see the drop as a healthy correction after a long rise; others, quoted by Reuters and Al Jazeera, fear further falls if AI spending does not pay off.[^12][^15] Bessent links the fall partly to Democratic election gains and the Fed's tone, a view his political opponents would dispute.[^14]"
     },
     {
-      "id": "un-talks-killer-robots-2028",
-      "heading": "UN weapons talks agree to work on 'killer robot' rules by 2028, but not a binding treaty",
-      "date": "2026-11-21",
+      "id": "openai-proposes-ai-limits",
+      "heading": "OpenAI's chief scientist proposes shared industry limits on how capable AI can get",
+      "date": "2026-11-22",
       "status": "confirmed",
-      "summary": "Countries meeting in Geneva agreed to spend two years working out possible rules on weapons that can choose and attack targets without a human deciding.[^20][^21] Nearly 100 states wanted binding rules, but the US, Russia and Israel opposed that, and campaigners called the result watered down.[^20]",
+      "summary": "OpenAI's chief scientist, Jakub Pachocki, proposed that AI developers agree on common limits tied to a measure of model ability, and not cross them until safety research catches up.[^16][^17] CEO Sam Altman praised the idea; US governors also published principles for sharing AI rules between states and Washington.[^16][^18]",
       "lead": {
-        "title": "Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
-        "date": "2026-11-21"
+        "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+        "outlet": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "date": "2026-11-22"
       },
       "alsoReported": [
         {
-          "title": "UN talks fail to ban AI 'Killer Robots' as 128 States delay rules to 2028",
-          "outlet": "The News International",
-          "url": "https://www.thenews.com.pk/latest/1424527-un-talks-fail-to-ban-ai-killer-robots-as-128-states-delay-rules-to-2028"
+          "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+          "outlet": "Reuters (via Free Malaysia Today)",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/11/23/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric"
+        },
+        {
+          "title": "Governors Want States to Have a Voice in Regulating AI",
+          "outlet": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Lethal autonomous weapons, often called \"killer robots\", are systems that can kill without a human making the final decision to fire. Campaigners say some, including AI systems that pick targets, are already used in combat.[^20]",
-        "At a UN meeting in Geneva under the Convention on Certain Conventional Weapons, 128 countries agreed to \"elaborate\" a possible agreement on these weapons over the next two years, by 2028.[^20][^21] The word \"negotiate\" was avoided because some countries rejected it.[^20] Talks ran past 4 a.m. after Russian procedural objections cancelled several sessions earlier in the week.[^21]",
-        "The convention works by consensus, so one country can block a proposal.[^21] Nearly 100 nations pushed for legally binding rules, but major weapons makers, including the US, Russia and Israel, opposed that.[^20] It is unclear whether whatever comes out in 2028 will be enforceable.[^21]",
-        "The Swiss diplomat who chaired the meeting, Julien Thoeni, called it a significant step after more than ten years of talks and said it shows multilateral diplomacy can still deliver.[^20] Campaign group Stop Killer Robots called the mandate \"watered down\", and Human Rights Watch said it falls short of what is needed while the technology moves fast.[^20][^21]",
-        "Why it matters: armies are adding AI to weapons quickly, while the rules are still being argued over. My read: a two-year plan keeps the issue alive, but what counts is whether the biggest military powers sign up to anything binding."
+        "In a blog post on Sunday, OpenAI's chief scientist Jakub Pachocki called for \"common limits, based on perplexity and other measurements\". Developers would promise not to build models past a limit until the ability to monitor and understand AI behaviour reaches a set milestone.[^16]",
+        "Perplexity is a number that measures how well a model predicts text: lower means better. Pachocki argues that test scores for specific skills quickly go out of date, while perplexity stays useful as \"a shared benchmark for general intelligence\". He links certain levels of it to the appearance of new abilities in areas like maths and cybersecurity.[^17] He warns AI could start speeding up its own training methods \"as early as 2027\", possibly faster than safety work.[^16]",
+        "OpenAI's CEO Sam Altman called it \"the most important thing OpenAI has published in a while.\"[^16] TechCrunch notes that Anthropic's CEO, Dario Amodei, has made a similar call to \"pace the frontier\".[^17] So far it is a proposal, not an agreement: no other company has signed on, and no government has adopted it.[^16][^17]",
+        "Separately, the US National Governors Association released principles for a \"shared national approach\" to AI, ahead of the new Congress in January. It says Washington should handle national and international risks, while states keep the right to set rules for AI used in their own services.[^18]",
+        "Why it matters: rules for powerful AI are being argued over in companies, states, Washington and the UN at once. My read: voluntary limits are easier to promise than to keep when rivals keep racing, so watch whether other labs or governments take the idea up."
       ],
-      "differences": "The chair calls the deal a concrete result after a decade of talks.[^20] Campaigners and Human Rights Watch say it delays binding rules.[^20][^21] The US, Russia and Israel opposed a push for legally binding commitments.[^20]"
+      "differences": null
+    },
+    {
+      "id": "ebola-still-global-emergency",
+      "heading": "WHO keeps Congo's Ebola outbreak a global emergency as cases pass 11,600",
+      "date": "2026-11-20",
+      "status": "confirmed",
+      "summary": "The World Health Organization says Congo's Ebola outbreak, caused by the Bundibugyo strain, had reached 11,613 confirmed cases and 5,678 deaths by Nov 17, and remains a public health emergency of international concern.[^19] It is the second-largest Ebola outbreak on record.[^20]",
+      "lead": {
+        "title": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700",
+        "outlet": "Contagion Live",
+        "url": "https://www.contagionlive.com/view/ebola-outbreak-climbs-11-645-cases-deaths-near-5700",
+        "date": "2026-11-22"
+      },
+      "alsoReported": [
+        {
+          "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+          "outlet": "World Health Organization",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "The WHO's latest report says that as of Nov 17 the Democratic Republic of the Congo had 11,613 confirmed Ebola cases and 5,678 deaths, in 68 health zones across 8 provinces. About half of confirmed patients have died.[^19] On Nov 18 the WHO's director-general confirmed it is still a \"public health emergency of international concern\", the agency's highest alarm.[^19]",
+        "Cases have also appeared elsewhere. Kenya has had 9 cases and 2 deaths, and is counting down 42 days, twice the virus's longest incubation period, since its last patient left hospital. Nigeria's single imported case recovered.[^19] Using US CDC data, Contagion Live counts 11,645 cases in all countries, 500 more than a week earlier, and says it is the second-largest Ebola outbreak ever.[^20]",
+        "Background: this outbreak, declared in May, is caused by the Bundibugyo virus, a type of Ebola for which the WHO says \"no approved vaccines or specific treatments currently exist\". Two candidate vaccines are entering a trial, and a treatment trial is under way.[^19] Fighting in eastern Congo, attacks on health workers and shortages of protective gear make the response harder.[^20]",
+        "Why it matters: the WHO rates the risk as very high in Congo but low globally.[^19] The US has barred travellers who were in Congo in the past 21 days from commercial flights to the US.[^20]",
+        "My read: with about 500 new cases a week and active spread in 48 health zones, an end is not yet in sight.[^19][^20] Watch the vaccine trial results."
+      ],
+      "differences": null
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "ABC News (Australia)",
-      "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
-      "url": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
+      "outlet": "ABC News",
+      "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
+      "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
       "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "DPA (via Yahoo News)",
-      "title": "France slams new draft as COP31 could be longest climate summit ever",
-      "url": "https://www.yahoo.com/news/science/articles/france-slams-draft-cop31-could-093328075.html",
-      "date": "2026-11-22",
-      "singleSource": true
-    },
-    {
-      "id": 3,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "COP31 climate deal in the balance after fractious talks",
-      "url": "https://www.yahoo.com/news/science/articles/cop31-climate-deal-balance-fractious-101508341.html",
+      "outlet": "RTÉ",
+      "title": "COP31 climate talks collapse as EU and others reject deal",
+      "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/",
       "date": "2026-11-22",
       "singleSource": false
     },
     {
+      "id": 3,
+      "outlet": "bne IntelliNews (via Yahoo News)",
+      "title": "COP31 in Turkey collapses without deal as EU rejects text silent on fossil fuels",
+      "url": "https://www.yahoo.com/news/world/articles/cop31-turkey-collapses-without-deal-000618355.html",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
       "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-      "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "outlet": "Stars and Stripes",
+      "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
+      "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
       "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "PBS NewsHour",
-      "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
-      "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
-      "date": "2026-11-20",
+      "outlet": "Kyiv Independent",
+      "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
+      "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "CBS News",
-      "title": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
-      "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
-      "date": "2026-11-20",
-      "singleSource": false
+      "outlet": "Kyiv Independent",
+      "title": "'We live in fear' — Russian attack near Kyiv kills 10, leaves families waiting as rescuers search rubble",
+      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+      "date": "2026-11-22",
+      "singleSource": true
     },
     {
       "id": 7,
-      "outlet": "Al Jazeera",
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
-      "date": "2026-11-21",
-      "singleSource": false
+      "outlet": "Kyiv Independent",
+      "title": "'No safe routes' — Ukraine sinks Russian corvette in drone attack off Libyan coast",
+      "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
+      "date": "2026-11-23",
+      "singleSource": true
     },
     {
       "id": 8,
-      "outlet": "Al Jazeera",
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy's hometown",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown",
-      "date": "2026-11-21",
-      "singleSource": true
-    },
-    {
-      "id": 9,
-      "outlet": "Al Jazeera",
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
-      "date": "2026-11-21",
-      "singleSource": true
-    },
-    {
-      "id": 10,
-      "outlet": "Al Jazeera",
-      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-      "date": "2026-11-21",
-      "singleSource": true
-    },
-    {
-      "id": 11,
-      "outlet": "The Times of Israel",
-      "title": "Board of Peace will give UN 'the keys' to Gaza if Israel won't honor commitments, official warns",
-      "url": "https://www.timesofisrael.com/board-of-peace-will-give-un-the-keys-to-gaza-if-israel-wont-honor-commitments-official-warns/",
+      "outlet": "Kyiv Independent",
+      "title": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees",
+      "url": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/",
       "date": "2026-11-21",
       "singleSource": false
     },
     {
+      "id": 9,
+      "outlet": "ABC News",
+      "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 10,
+      "outlet": "CBS News",
+      "title": "Live Updates: Trump says he wants 'permanent' deal with Iran; warns next move may not come until 2027",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+      "date": "2026-11-22",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "Iran International",
+      "title": "US weighs delaying Iran strikes despite Israeli pressure for military action",
+      "url": "https://www.iranintl.com/en/202611231814",
+      "date": "2026-11-23",
+      "singleSource": true
+    },
+    {
       "id": 12,
-      "outlet": "The National",
-      "title": "Strikes kill nine in Gaza as Board of Peace adviser criticises Israel",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/",
-      "date": "2026-11-21",
+      "outlet": "Al Jazeera",
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "Al Jazeera",
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
-      "date": "2026-11-21",
+      "outlet": "AP (via KPRC Click2Houston)",
+      "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
+      "url": "https://www.click2houston.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 14,
-      "outlet": "The Jerusalem Post",
-      "title": "IDF strikes PIJ terrorist's vehicle in Gaza, following claims it was used by aid workers",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-915643",
-      "date": "2026-11-21",
+      "outlet": "investingLive",
+      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
+      "url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
+      "date": "2026-11-22",
       "singleSource": true
     },
     {
       "id": 15,
-      "outlet": "Fox Business",
-      "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
-      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-      "date": "2026-11-20",
+      "outlet": "Reuters (via Investing.com)",
+      "title": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 16,
-      "outlet": "AP (via La Nación)",
-      "title": "How major US stock indexes fared Friday 11/20/2026",
-      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/",
-      "date": "2026-11-20",
+      "outlet": "Reuters (via Free Malaysia Today)",
+      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/23/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 17,
-      "outlet": "Reuters (via Euronext)",
-      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
-      "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say",
-      "date": "2026-11-20",
-      "singleSource": true
+      "outlet": "TechCrunch",
+      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "date": "2026-11-22",
+      "singleSource": false
     },
     {
       "id": 18,
-      "outlet": "24/7 Wall St.",
-      "title": "Nvidia Stock Plunges 12% After Reuters Reports an SEC Probe of Its Accounting. It's Nvidia's Worst Day Since DeepSeek and It Has Lost $2.7 Trillion Since October",
-      "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/",
-      "date": "2026-11-20",
+      "outlet": "PYMNTS",
+      "title": "Governors Want States to Have a Voice in Regulating AI",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/",
+      "date": "2026-11-22",
       "singleSource": true
     },
     {
       "id": 19,
-      "outlet": "CBS News (via Yahoo Finance)",
-      "title": "Anthropic set to start trading after completing largest-ever IPO",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-set-start-trading-completing-135519162.html",
-      "date": "2026-11-19",
-      "singleSource": true
-    },
-    {
-      "id": 20,
-      "outlet": "Al Jazeera",
-      "title": "Nations agree to 'elaborate' on rules for AI-run 'killer robots' by 2028",
-      "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit",
-      "date": "2026-11-21",
+      "outlet": "World Health Organization",
+      "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
-      "id": 21,
-      "outlet": "The News International",
-      "title": "UN talks fail to ban AI 'Killer Robots' as 128 States delay rules to 2028",
-      "url": "https://www.thenews.com.pk/latest/1424527-un-talks-fail-to-ban-ai-killer-robots-as-128-states-delay-rules-to-2028",
-      "date": "2026-11-21",
+      "id": 20,
+      "outlet": "Contagion Live",
+      "title": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700",
+      "url": "https://www.contagionlive.com/view/ebola-outbreak-climbs-11-645-cases-deaths-near-5700",
+      "date": "2026-11-22",
       "singleSource": false
     }
   ]

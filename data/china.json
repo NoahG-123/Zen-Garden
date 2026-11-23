@@ -1,51 +1,67 @@
 {
-  "date": "2026-11-22",
-  "summary": "The US barred China's big phone carriers from getting American phone numbers directly, Beijing vowed a response, and Chinese cities are letting students start school a little later.",
+  "date": "2026-11-23",
+  "summary": "China sets 2030 targets for elder care and childcare as its population ages, Alibaba's AI cloud grows while online shopping slips, and US data show how many AI chips it let China buy.",
   "body": [
-    "On Thursday the US Federal Communications Commission (FCC), which regulates phone and internet services, voted to stop China Mobile, China Telecom, China Unicom and other listed firms from getting US phone numbers directly for internet calling. The FCC says this is about national security and cutting scam robocalls.[^1][^2] Direct access is much cheaper for these firms; without it they would have to go through other providers.[^1] China's commerce ministry said it \"firmly opposes\" the vote, called it a push to cut US and Chinese telecom ties apart, asked Washington to reverse it and warned it would take countermeasures. It did not say what those would be.[^2]",
-    "Inside China, Chinese state media says the country has built 1,260 \"5G factories\", plants that run machines and sensors over fast 5G mobile networks, and is testing whether future 6G networks can also sense moving objects, which could help self-driving cars.[^3] Tech site The Next Web notes these figures come mostly from state media, do not match the industry ministry's own counts, and have not been checked independently; 6G is not expected in commercial use until about 2030.[^3]",
-    "Closer to a student's day: cities in Jiangsu province are pushing back school start times, with Jiangyin moving high schools to 7:20 a.m. from Nov. 5. One Nanjing parent said their child's day now runs 7:15 a.m. to 9:20 p.m., about 45 minutes shorter.[^4] Studies cited by Sixth Tone say Chinese high schoolers study around 68 hours a week, and about one in five 16- and 17-year-olds sleeps less than the official guideline. A Jiangsu education official called the problem severe.[^4] My read: later starts help, but sleep will only really improve if homework and evening study shrink too."
+    "On Monday China published targets for 2030 to expand care for older people and young children. Nursing-care beds are to make up 73% of beds in elderly-care homes, about 2,000 old public nursing homes will be renovated, and every prefecture-level city is to have childcare centres. Kindergartens are encouraged to take 2- and 3-year-olds, and employers to offer on-site childcare.[^1][^2] Background: China's population fell for a fourth year in 2025, births hit a record low, and earlier support has not reversed that, Reuters notes.[^1] For young Chinese, this touches both caring for parents and deciding whether to have children.",
+    "Alibaba, one of China's biggest tech firms, said its AI cloud revenue grew 53% last quarter, but its main online shopping business in China shrank 5%, which Reuters links to weak consumer spending and the property slump.[^3] Its CEO, Eddie Wu, said China's own computing chips are progressing \"ahead of our original expectations\", but warned that new US export rules \"will affect next year's products and services\".[^3] Its AI unit's losses tripled.[^4]",
+    "In the US, a House committee released data showing Washington approved exports of about 879,000 advanced Nvidia and AMD AI chips to Chinese firms between December 2025 and May 2026, out of 3.4 million requested. Critics in Congress question the review; Nvidia says the sales had \"strict conditions\" and that it has since stopped shipping those chips to China.[^5] Separately, the jobless rate for urban 16- to 24-year-olds not in school fell to 17.2% in October from 18% in September.[^6]"
   ],
-  "differences": "On the phone numbers, the FCC calls the ban a security and anti-scam step; Beijing says it is really about splitting the two countries' telecom sectors.[^1][^2] On 5G factories, state media's counts differ from the industry ministry's, likely because they measure different things.[^3]",
+  "differences": "On chips, US critics say the approvals were too generous, while Nvidia says they were limited and conditional.[^5] On births, Beijing presents the care plan as meeting public needs; Reuters notes past measures have not lifted the birth rate.[^1]",
   "reads": [
     {
-      "title": "Lesson in Endurance: China's Schools Start Later to Ease Burden on Students",
-      "outlet": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1019288/lesson-in-endurance%3A-china%E2%80%99s-schools-start-later-to-ease-burden-on-students",
-      "kind": "news",
-      "summary": "How long Chinese high-school days really are, what the new later start times change, and why parents say homework still decides how much students sleep."
+      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+      "outlet": "Rest of World",
+      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+      "kind": "analysis",
+      "summary": "How much of China's AI runs on Nvidia versus Huawei chips, why Chinese labs are stockpiling, and what Nvidia's leadership crisis changes for them."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "South China Morning Post",
-      "title": "FCC votes to ban Chinese telecoms from direct access to US phone numbers",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
-      "date": "2026-11-20",
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "China sets 2030 targets to boost support for older people, childcare",
+      "url": "https://www.yahoo.com/news/world/articles/china-sets-2030-targets-boost-044813834.html",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Reuters (via The News International)",
-      "title": "China has come forward to voice their concerns after FCC's telecom ban",
-      "url": "https://www.thenews.com.pk/latest/1424573-china-has-come-forward-to-voice-their-concerns-after-fccs-telecom-ban",
-      "date": "2026-11-22",
-      "singleSource": true
+      "outlet": "TimesLIVE",
+      "title": "Ageing China to boost nursing homes and childcare facilities by 2030",
+      "url": "https://www.timeslive.co.za/news/world/2026-11-23-ageing-china-to-boost-nursing-homes-and-childcare-facilities-by-2030/",
+      "date": "2026-11-23",
+      "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Next Web",
-      "title": "China says it has built 1,260 5G factories as it tests 6G sensing for cars",
-      "url": "https://thenextweb.com/news/china-says-it-has-built-1260-5g-factories-as-it-tests-6g-sensing-for-cars",
-      "date": "2026-11-21",
-      "singleSource": true
+      "outlet": "Reuters (via RTÉ)",
+      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
+      "url": "https://www.rte.ie/news/business/2026/1119/1599869-alibaba-quarterly-results/",
+      "date": "2026-11-19",
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Sixth Tone",
-      "title": "Lesson in Endurance: China's Schools Start Later to Ease Burden on Students",
-      "url": "https://www.sixthtone.com/news/1019288/lesson-in-endurance%3A-china%E2%80%99s-schools-start-later-to-ease-burden-on-students",
+      "outlet": "The Next Web",
+      "title": "Alibaba's profit triples to $9.6bn as AI cloud revenue jumps 53%",
+      "url": "https://thenextweb.com/news/alibaba-results-profit-triples-ai-cloud-revenue-53",
+      "date": "2026-11-19",
+      "singleSource": true
+    },
+    {
+      "id": 5,
+      "outlet": "Al Jazeera (Reuters)",
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
+      "date": "2026-11-19",
+      "singleSource": false
+    },
+    {
+      "id": 6,
+      "outlet": "Reuters (via Devdiscourse)",
+      "title": "China's October youth jobless rate falls to 17.2%",
+      "url": "https://www.devdiscourse.com/article/international/4008820-chinas-october-youth-jobless-rate-falls-to-172",
       "date": "2026-11-18",
       "singleSource": true
     }
