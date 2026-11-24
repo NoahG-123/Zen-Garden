@@ -1,68 +1,60 @@
 {
-  "date": "2026-11-23",
-  "summary": "China sets 2030 targets for elder care and childcare as its population ages, Alibaba's AI cloud grows while online shopping slips, and US data show how many AI chips it let China buy.",
+  "date": "2026-11-24",
+  "summary": "Electric cars are set to pass 70% of China's car sales for the first time, a Dutch court blocks a BYD SUV in Europe over design copying, and Chinese tech stocks keep sliding.",
   "body": [
-    "On Monday China published targets for 2030 to expand care for older people and young children. Nursing-care beds are to make up 73% of beds in elderly-care homes, about 2,000 old public nursing homes will be renovated, and every prefecture-level city is to have childcare centres. Kindergartens are encouraged to take 2- and 3-year-olds, and employers to offer on-site childcare.[^1][^2] Background: China's population fell for a fourth year in 2025, births hit a record low, and earlier support has not reversed that, Reuters notes.[^1] For young Chinese, this touches both caring for parents and deciding whether to have children.",
-    "Alibaba, one of China's biggest tech firms, said its AI cloud revenue grew 53% last quarter, but its main online shopping business in China shrank 5%, which Reuters links to weak consumer spending and the property slump.[^3] Its CEO, Eddie Wu, said China's own computing chips are progressing \"ahead of our original expectations\", but warned that new US export rules \"will affect next year's products and services\".[^3] Its AI unit's losses tripled.[^4]",
-    "In the US, a House committee released data showing Washington approved exports of about 879,000 advanced Nvidia and AMD AI chips to Chinese firms between December 2025 and May 2026, out of 3.4 million requested. Critics in Congress question the review; Nvidia says the sales had \"strict conditions\" and that it has since stopped shipping those chips to China.[^5] Separately, the jobless rate for urban 16- to 24-year-olds not in school fell to 17.2% in October from 18% in September.[^6]"
+    "China's car industry association expects 1.15 million electric and plug-in hybrid cars to be sold in November, 70.6% of all car sales and the eighth record month in a row.[^1] The share is rising mostly because petrol-car sales are collapsing, down an estimated 47% from a year ago; electric sales are also down about 13%.[^1] For families in China, this means most new cars bought now plug in.",
+    "On Nov 20 a court in The Hague ruled that BYD's Ti7 SUV copies the registered design of Jaguar Land Rover's Defender and issued a temporary ban on selling it in the EU or building it at BYD's new factory in Hungary.[^2][^3] BYD says it designed the car independently and will appeal. The ban does not cover the UK, and the ruling is provisional while the full case is heard.[^2][^3]",
+    "Chinese tech shares have lost about $1.7 trillion in value since the end of June, Bloomberg calculates, as investors worry about weak AI profits and a shortage of advanced chips after new US rules.[^4] Bloomberg notes that no Chinese model now ranks in the top 10 of one widely used AI benchmark.[^4] To support the market, China's three stock exchanges will lower the deposit needed to buy shares with borrowed money from 100% to 80% on Nov 30, reversing a January tightening.[^5]"
   ],
-  "differences": "On chips, US critics say the approvals were too generous, while Nvidia says they were limited and conditional.[^5] On births, Beijing presents the care plan as meeting public needs; Reuters notes past measures have not lifted the birth rate.[^1]",
+  "differences": "BYD and JLR disagree on whether the Ti7 copies the Defender; the court's ruling is temporary.[^2] On tech stocks, some fund managers think prices could fall much further, while Chinese firms say domestic chips are improving.[^4]",
   "reads": [
     {
-      "title": "How Jensen Huang's exit from Nvidia impacts China's AI supply chain",
-      "outlet": "Rest of World",
-      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+      "title": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet",
+      "outlet": "Bloomberg (via Business Standard)",
+      "url": "https://www.business-standard.com/world-news/china-s-1-7-trillion-ai-rout-turns-once-hot-tech-trade-into-a-losing-bet-126112200085_1.html",
       "kind": "analysis",
-      "summary": "How much of China's AI runs on Nvidia versus Huawei chips, why Chinese labs are stockpiling, and what Nvidia's leadership crisis changes for them."
+      "summary": "Why investors soured on China's AI companies this autumn, from chip shortages to slow profits, and how much of AI work runs on Nvidia versus Huawei chips."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Reuters (via Yahoo News)",
-      "title": "China sets 2030 targets to boost support for older people, childcare",
-      "url": "https://www.yahoo.com/news/world/articles/china-sets-2030-targets-boost-044813834.html",
-      "date": "2026-11-23",
+      "outlet": "South China Morning Post",
+      "title": "China's EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
+      "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
+      "date": "2026-11-20",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "TimesLIVE",
-      "title": "Ageing China to boost nursing homes and childcare facilities by 2030",
-      "url": "https://www.timeslive.co.za/news/world/2026-11-23-ageing-china-to-boost-nursing-homes-and-childcare-facilities-by-2030/",
-      "date": "2026-11-23",
+      "outlet": "CnEVPost",
+      "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+      "url": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design/",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Reuters (via RTÉ)",
-      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
-      "url": "https://www.rte.ie/news/business/2026/1119/1599869-alibaba-quarterly-results/",
-      "date": "2026-11-19",
+      "outlet": "Gulf News",
+      "title": "Dutch court blocks BYD SUV sales in EU over Land Rover design rights",
+      "url": "https://gulfnews.com/auto/dutch-court-blocks-byd-suv-sales-in-eu-over-land-rover-design-rights-1.500758393",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Next Web",
-      "title": "Alibaba's profit triples to $9.6bn as AI cloud revenue jumps 53%",
-      "url": "https://thenextweb.com/news/alibaba-results-profit-triples-ai-cloud-revenue-53",
-      "date": "2026-11-19",
-      "singleSource": true
-    },
-    {
-      "id": 5,
-      "outlet": "Al Jazeera (Reuters)",
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
-      "date": "2026-11-19",
+      "outlet": "Bloomberg (via Business Standard)",
+      "title": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet",
+      "url": "https://www.business-standard.com/world-news/china-s-1-7-trillion-ai-rout-turns-once-hot-tech-trade-into-a-losing-bet-126112200085_1.html",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
-      "id": 6,
-      "outlet": "Reuters (via Devdiscourse)",
-      "title": "China's October youth jobless rate falls to 17.2%",
-      "url": "https://www.devdiscourse.com/article/international/4008820-chinas-october-youth-jobless-rate-falls-to-172",
-      "date": "2026-11-18",
+      "id": 5,
+      "outlet": "China Compass",
+      "title": "11.23 | What Matters in China Today",
+      "url": "https://chinacompass.substack.com/p/1123what-matters-in-china-today",
+      "date": "2026-11-23",
       "singleSource": true
     }
   ]

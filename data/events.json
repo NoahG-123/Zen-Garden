@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-23",
+  "reviewed": "2026-11-24",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Bahrain says an Iranian attack hit an industrial site on Nov 21, its fourth in about a week, and Gulf states condemned it.[^316] Iran's IRGC says two tankers hit mines and it downed a US drone; Iran says Hormuz can be safe if the US lifts sanctions and its blockade.[^316] Trump says he is \"not rushing\" and may wait until the new year.[^317] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303]",
+      "standing": "Iran's IRGC says three tankers hit mines in Hormuz while under US escort; the claim is unverified.[^338] The US sanctioned Iran's shadow-banking network on Nov 23, and Iranian leaders speak of breaking the blockade by force as inflation tops 88%.[^339][^337] Qatar is pushing to revive talks.[^339] Trump says he is \"not rushing\".[^317] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -198,7 +198,10 @@
         302,
         303,
         316,
-        317
+        317,
+        337,
+        338,
+        339
       ]
     },
     {
@@ -207,7 +210,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Two Russian Kh-101 missiles and a drone came down in Poland on Nov 20; NATO's North Atlantic Council meets on Nov 23 as Poland seeks stronger air defences.[^318][^319] A Russian drone strike in Dymer near Kyiv killed at least 10 on Nov 22, officials say.[^320] Ukraine says it sank a Russian corvette off Libya.[^321] Zelensky says he has seen no written US security guarantees, and no new round of talks is set.[^322]",
+      "standing": "Poland says all three objects that came down on Nov 20 were Russian Kh-101 missiles; after an emergency meeting on Nov 23, NATO approved sending an AWACS radar plane to Poland and is weighing more assets.[^335][^336] A Russian drone strike in Dymer near Kyiv killed at least 10 on Nov 22, officials say.[^320] Ukraine says it sank a Russian corvette off Libya.[^321] No new round of talks is set.[^322]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -223,8 +226,8 @@
           "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
         },
         {
-          "date": "2026-11-30",
-          "what": "What NATO decides after its Nov 23 meeting on the missiles that landed in Poland"
+          "date": "2026-12-31",
+          "what": "Whether NATO sends more air-defence assets to Poland beyond the AWACS plane"
         }
       ],
       "connects": [
@@ -383,7 +386,9 @@
         319,
         320,
         321,
-        322
+        322,
+        335,
+        336
       ]
     },
     {
@@ -392,7 +397,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Gaza's Health Ministry says over 1,660 people have been killed since the October 2025 truce, 9 of them in the 48 hours to Nov 22.[^323] On Nov 21 a Board of Peace adviser warned it may \"hand the keys\" of Gaza to the UN if Israel keeps blocking its plan.[^311] In Israel, Likud and Eisenkot's Yashar ended talks on Nov 22 without a deal; Eisenkot's deadline to form a government is Dec 6.[^324]",
+      "standing": "The Board of Peace says Hamas and other factions agreed in July to a 15-point disarmament roadmap, but implementation is limited; its report blames Israeli delays on approving new governing bodies.[^340][^342] Strikes killed at least 3 on Nov 23; at least 1,600 Palestinians and 5 Israeli soldiers have died since the truce, by each side's count.[^341] Eisenkot's deadline to form a government is Dec 6.[^324]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -400,8 +405,8 @@
       },
       "watch": [
         {
-          "date": "2026-11-30",
-          "what": "Board of Peace presents its Gaza report to the UN Security Council (end of November)"
+          "date": "2026-12-31",
+          "what": "Whether Israel approves Gaza's civilian police and lets the transitional committee work"
         },
         {
           "date": "2026-12-06",
@@ -553,7 +558,10 @@
         296,
         301,
         323,
-        324
+        324,
+        340,
+        341,
+        342
       ]
     },
     {
@@ -562,13 +570,17 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3.[^268] Stocks fell into a correction on Nov 20, and futures rebounded on Nov 23.[^313][^325] Treasury Secretary Bessent warned the Fed against over-tightening; markets expect a hike on Dec 9.[^326] Funding runs out Dec 11; the House has passed 3 of 12 spending bills and a stopgap is expected.[^327] The US trade chief says a Canada deal is \"fairly close\".[^328]",
+      "standing": "Democrats won both chambers on Nov 3.[^268] Stocks fell into a correction on Nov 20, then rallied on Nov 23 as Nvidia jumped about 31% on Jensen Huang's return.[^313][^334] Markets expect a Fed hike on Dec 9; Q3 GDP and inflation data come Nov 25.[^326][^343] Funding runs out Dec 11; a stopgap is expected.[^327] The US trade chief says a Canada deal is \"fairly close\".[^328]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
         "unlikely": "A quick return to low inflation and falling rates before the end of 2026, given the Fed's own projections and continued oil-supply risks."
       },
       "watch": [
+        {
+          "date": "2026-11-25",
+          "what": "Q3 GDP and PCE inflation data, a key input for the Fed's Dec 9 decision"
+        },
         {
           "date": "2026-11-25",
           "what": "Alaska certifies its ranked-choice Senate result"
@@ -727,7 +739,9 @@
         325,
         326,
         327,
-        328
+        328,
+        334,
+        343
       ]
     },
     {
@@ -736,10 +750,10 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia fell 14% on Nov 20 after Reuters reported the SEC is examining its accounting, and AI stocks led a wide sell-off; Korean chip stocks fell again on Nov 23.[^314][^313][^329] On Nov 22 OpenAI's chief scientist proposed shared industry limits on AI capability, and US governors set out principles for sharing AI rules with Washington.[^330][^331] On Nov 21, 128 countries agreed to work on AI-weapons rules by 2028.[^315]",
+      "standing": "Nvidia's board reinstated Jensen Huang as CEO on Nov 23, citing US officials' assurance of \"no national security risk\"; shares rose about 31%.[^333][^334] SEC and Justice Department probes continue, and critics in both parties want answers.[^332] OpenAI's chief scientist proposed shared limits on AI capability, and 128 countries agreed to work on AI-weapons rules by 2028.[^330][^315]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
-        "possible": "The sell-off deepens and data-centre building slows as towns, states and Congress add limits; or Nvidia's strong Nov 17 results, with revenue doubling, help steady AI stocks.",
+        "possible": "AI stocks swing sharply as each new report tests the boom; or Congress, run by Democrats from January, tightens chip-export rules after the Huang affair.",
         "unlikely": "A clear winner emerges soon, or the US and China agree to real limits on advanced AI. Both look far off; new talks are only a first step (my read)."
       },
       "watch": [
@@ -749,7 +763,7 @@
         },
         {
           "date": "2026-12-03",
-          "what": "Senate Banking hearing on chip exports; Huang asked to testify (Lutnick Dec 10)"
+          "what": "Senate Banking hearing on chip exports with Huang, now back as Nvidia CEO"
         },
         {
           "date": "2026-12-31",
@@ -834,10 +848,18 @@
         },
         {
           "heading": "Nvidia loses its founder",
-          "period": "Nov 2026-now",
+          "period": "Nov 12-22, 2026",
           "paragraphs": [
             "On Nov 12, Nvidia's board announced that Jensen Huang, who co-founded the company in 1993 and made it the main supplier of AI chips, had resigned with immediate effect. Finance chief Colette Kress became interim CEO and Nvidia named its first board chair [^232].",
             "The resignation followed reports of personal misconduct and, more seriously, reports from unnamed US sources that a person linked to Huang had been recruited by Chinese intelligence and that the Justice Department is investigating her former company over chip exports; China calls the claims baseless [^233]. The Senate Banking Committee asked Huang to testify on Dec 3 and the commerce secretary on Dec 10 about export enforcement [^234]. A Reuters review the next day found more than $3 billion of Chinese projects planned around restricted Nvidia chips [^235]. My read: the episode makes tighter US export rules more likely."
+          ]
+        },
+        {
+          "heading": "Huang returns, and the questions move to Congress",
+          "period": "Nov 23, 2026-now",
+          "paragraphs": [
+            "On Nov 23, eleven days after he resigned, Nvidia's board unanimously reinstated Jensen Huang as CEO. It said senior US officials had told it his return posed no national security risk, set up a board committee on export controls and national security, and said its inquiry into whether he was targeted by foreign intelligence would continue [^333]. President Trump praised the move; Democrats and some Republicans asked what evidence lay behind the assurance [^332].",
+            "Nvidia's shares rose about 31% that day, adding roughly $950 billion in value and lifting other AI stocks after a week-long sell-off [^334]. My read: the reversal ends the leadership crisis but not the investigations, and it gives Congress a strong reason to write chip-export rules into law."
           ]
         }
       ],
@@ -926,7 +948,10 @@
         306,
         329,
         330,
-        331
+        331,
+        332,
+        333,
+        334
       ]
     }
   ],
@@ -3420,6 +3445,102 @@
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/",
       "date": "2026-11-22",
       "singleSource": true
+    },
+    {
+      "id": 332,
+      "outlet": "ABC News (Australia), with Reuters and AFP",
+      "title": "Nvidia stocks soar after Jensen Huang reinstated as chief executive",
+      "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 333,
+      "outlet": "NVIDIA (press release filed with the SEC)",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 334,
+      "outlet": "Fox News",
+      "title": "Nvidia reinstates Jensen Huang as CEO following US national security review",
+      "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 335,
+      "outlet": "Notes From Poland",
+      "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
+      "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 336,
+      "outlet": "UNITED24 Media",
+      "title": "NATO Eyes New European Force Moves Following Russian Breach of Polish Skies",
+      "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 337,
+      "outlet": "The National",
+      "title": "Is Iran weighing tanker convoy to break US blockade?",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 338,
+      "outlet": "The Jerusalem Post",
+      "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915899",
+      "date": "2026-11-24",
+      "singleSource": true
+    },
+    {
+      "id": 339,
+      "outlet": "Gulf News",
+      "title": "Middle East conflict: US investigates Iran over cyberattacks on 50 ships as fresh sanctions target Iran's shadow banking network",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 340,
+      "outlet": "The Jerusalem Post",
+      "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
+      "url": "https://www.jpost.com/middle-east/article-915924",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 341,
+      "outlet": "Reuters (via Arab News)",
+      "title": "Israeli strikes kill at least 3 in Gaza, including worker with UN Palestinian agency",
+      "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 342,
+      "outlet": "The Times of Israel",
+      "title": "Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
+      "url": "https://www.timesofisrael.com/board-of-peace-delivers-bleak-update-to-security-council-on-progress-with-gaza-rebuild/",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
+      "id": 343,
+      "outlet": "Charles Schwab",
+      "title": "Jensen Huang Reinstated at Nvidia, Stocks Rally",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "date": "2026-11-23",
+      "singleSource": false
     }
   ]
 }

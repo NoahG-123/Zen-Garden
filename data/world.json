@@ -1,379 +1,351 @@
 {
-  "date": "2026-11-23",
-  "summary": "COP31 ends without a deal, NATO meets over missiles in Poland, Iran hits Bahrain again, AI stocks wobble, OpenAI floats AI limits, and Congo's Ebola outbreak grows.",
+  "date": "2026-11-24",
+  "summary": "Nvidia rehires its ousted CEO, NATO sends a radar plane to Poland, Iran claims mine strikes under US pressure, Gaza's disarmament plan stalls, Korea's exam minister quits, and an AI-made proof awaits checks.",
   "question": {
-    "type": "second-order",
-    "text": "COP31 failed because a few countries could block a deal everyone else wanted. If more countries now act in smaller groups instead of waiting for all 200 to agree, what might be gained, and what might be lost for the countries left out?"
+    "type": "how-do-we-know",
+    "text": "Today asks you to trust checks you cannot see: officials saying a CEO poses \"no security risk\", Iran saying mines hit three tankers, and a computer saying 17 million lines of proof are correct. For each, who did the checking, and what would make you believe it?"
   },
   "read": {
-    "title": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump's tech ambitions",
-    "outlet": "Fortune",
-    "url": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
+    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+    "outlet": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
     "kind": "analysis",
-    "minutes": 8,
-    "summary": "Researchers at Georgetown's CSET explain how Chinese AI models end up running on American chips abroad, why new US rules target that, and what they think would work better."
+    "minutes": 15,
+    "summary": "A clear look at how an AI system proved a major result in number theory, what mathematicians think of it, and why they still want proofs humans can understand."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "cop31-ends-without-deal",
-      "heading": "COP31 ends without a deal after countries reject a text that skips fossil fuels",
-      "date": "2026-11-22",
+      "id": "nvidia-reinstates-huang",
+      "heading": "Nvidia brings back Jensen Huang as CEO, and its shares jump about 30%",
+      "date": "2026-11-23",
       "status": "confirmed",
-      "summary": "The UN climate summit in Antalya, Türkiye, closed on Sunday without agreeing its main decision, after two extra days of talks.[^1][^2] The EU, the UK, Norway and several island states refused a final text that did not name coal, oil or gas; reports call it the first COP to end this way since Copenhagen in 2009.[^1][^3]",
+      "summary": "Nvidia's board unanimously reinstated co-founder Jensen Huang on Monday, 11 days after he resigned, saying senior US officials told it his return poses \"no national security risk\".[^1][^2] Shares closed up about 31%, and government and board investigations continue.[^3][^1]",
       "lead": {
-        "title": "COP31 climate talks collapse as EU and others reject deal",
-        "outlet": "RTÉ",
-        "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/",
-        "date": "2026-11-22"
-      },
-      "alsoReported": [
-        {
-          "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
-          "outlet": "ABC News",
-          "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
-        },
-        {
-          "title": "COP31 in Turkey collapses without deal as EU rejects text silent on fossil fuels",
-          "outlet": "bne IntelliNews (via Yahoo News)",
-          "url": "https://www.yahoo.com/news/world/articles/cop31-turkey-collapses-without-deal-000618355.html"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "Yesterday's brief left COP31 in overtime. On Sunday it ended without the \"cover decision\", the main text that sums up what nearly 200 countries agree to do next.[^1] The summit's Turkish president, Murat Kurum, told delegates there was no agreement and that he would not put forward another text. \"We did our best,\" he said.[^1][^2]",
-        "The final draft did not name oil, gas or coal and set no phase-out, referring only back to the 2023 Dubai pledge.[^1] An earlier target of $120 billion for adaptation, meaning money to help countries cope with floods, heat and drought, was replaced by a promise to discuss \"at least tripling\" adaptation money by 2035, with no starting figure.[^1][^3] The text also accepted that warming is on course to pass 1.5C.[^3]",
-        "Ireland's minister, speaking for the EU, called the text \"unconscionable\" and said the summit was \"hijacked by some oil states\".[^1][^2] Panama, the Marshall Islands, Vanuatu and Tuvalu also refused it; Tuvalu's negotiator said \"it seems like we are negotiating with the Saudis\".[^3] Saudi Arabia defended carbon capture, which traps CO2 before it reaches the air, saying climate change \"requires all solutions on the table\". China backed the text, and bne IntelliNews reports India did too.[^1][^3] UN Secretary-General António Guterres said he was \"deeply disappointed\".[^2]",
-        "Background: COP decisions need consensus, so any bloc can block a deal. This year the presidency was split between Türkiye and Australia, whose minister Chris Bowen called the outcome \"very disappointing\".[^2][^3] Some decisions were still made: at least 75 countries joined a voluntary pledge to raise electricity's share of energy use to 35% by 2035, from about 23% today.[^1]",
-        "My read: a COP without a cover text does not undo the Paris Agreement, and countries' own plans still matter most. But it shows how hard it has become to agree even on words. The next summit is in Addis Ababa, Ethiopia, in November 2027.[^1]"
-      ],
-      "differences": "Lists of who backed the text differ: ABC News names China and Ghana, while bne IntelliNews names China and India.[^1][^3] Supporters of the text, including Saudi Arabia, frame carbon capture as a practical solution; island states and the EU say the text gave it special treatment while dropping fossil-fuel language.[^1][^3]"
-    },
-    {
-      "id": "nato-meets-over-poland-missiles",
-      "heading": "NATO meets over Russian missiles in Poland as Ukraine says it sank a Russian ship",
-      "date": "2026-11-23",
-      "status": "developing",
-      "summary": "NATO ambassadors meet in Brussels on Monday after two Russian missiles and a drone came down in Poland on Nov 20; Polish prosecutors say they found Kh-101 cruise missile debris at three sites.[^4][^5] A Russian drone strike near Kyiv killed at least 10, and Ukraine says it sank a Russian warship off Libya.[^6][^7]",
-      "lead": {
-        "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
-        "outlet": "Stars and Stripes",
-        "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
-        "date": "2026-11-22"
-      },
-      "alsoReported": [
-        {
-          "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
-          "outlet": "Kyiv Independent",
-          "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/"
-        },
-        {
-          "title": "'No safe routes' — Ukraine sinks Russian corvette in drone attack off Libyan coast",
-          "outlet": "Kyiv Independent",
-          "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/"
-        }
-      ],
-      "eventId": "ukraine-war",
-      "article": [
-        "On Nov 20, during one of Russia's largest strikes on Ukraine, two missiles and a jet-powered drone came down in southeastern Poland. No one was hurt.[^4] Polish prosecutors say they have found remains of Kh-101 cruise missiles at three sites and that initial findings suggest they were built in recent weeks in Dubna, Russia.[^5] A Swedish fighter pilot under NATO command was cleared to shoot one down but did not fire, because bad weather made it impossible to identify the target.[^5]",
-        "Polish officials say the North Atlantic Council, NATO's main decision body, meets on Monday and that Poland will bring proposals for stronger defences. Poland has asked for more surveillance aircraft and F-35 jets.[^4] NATO's secretary general, Mark Rutte, said in Warsaw that \"NATO will defend every inch of Polish territory.\" Poland's defence minister noted that one missile fell about 35 km from a site where European troops were training, and said that was \"hard to regard\" as a coincidence.[^4] No Russian response was reported.[^4][^5]",
-        "Inside Ukraine, a drone strike destroyed part of an apartment block in Dymer, north of Kyiv, early on Nov 22. Officials say at least 10 people died; a 7-year-old boy was pulled out alive after almost 14 hours.[^6] Ukraine's president, Volodymyr Zelensky, says his navy used seven sea drones to sink the Russian corvette Merkury off Libya. That claim has not been independently confirmed.[^7]",
-        "On peace talks, nothing new was agreed this weekend. Zelensky said he has not seen US security guarantees \"on paper\" and wants them to last \"preferably forever\".[^8]",
-        "What to watch: whether NATO's meeting leads to new deployments over Poland. My read: the alliance is likely to strengthen air defence rather than respond militarily, but each incident raises the cost of a mistake."
-      ],
-      "differences": "Ukraine says it sank the Merkury; Russia has not commented, and the damage has not been checked independently.[^7] Death tolls in Dymer rose through the day, and figures may still change.[^6]"
-    },
-    {
-      "id": "iran-strikes-bahrain-hormuz-terms",
-      "heading": "Iran hits Bahrain again and says Hormuz can be safe only if the US meets its terms",
-      "date": "2026-11-23",
-      "status": "developing",
-      "summary": "Bahrain says an Iranian attack hit an industrial site on Nov 21, and Gulf neighbours condemned it.[^9][^10] Iran says the Strait of Hormuz can be made safe if the US lifts sanctions and its naval blockade, while President Trump says he may wait until the new year before deciding on new strikes.[^9][^10]",
-      "lead": {
-        "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
-        "outlet": "ABC News",
-        "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+        "title": "Nvidia stocks soar after Jensen Huang reinstated as chief executive",
+        "outlet": "ABC News (Australia), with Reuters and AFP",
+        "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
         "date": "2026-11-23"
       },
       "alsoReported": [
         {
-          "title": "Live Updates: Trump says he wants 'permanent' deal with Iran; warns next move may not come until 2027",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "title": "US weighs delaying Iran strikes despite Israeli pressure for military action",
-          "outlet": "Iran International",
-          "url": "https://www.iranintl.com/en/202611231814"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "Bahrain says an Iranian attack on Saturday, Nov 21, started a fire at a civilian industrial site in Sitra and injured two people. Bahrain called it the fourth attempted Iranian attack in about a week.[^9][^10] Saudi Arabia, Kuwait, Qatar and the UAE condemned it; Qatar called it a \"flagrant violation\" of Bahrain's sovereignty.[^9][^10]",
-        "At sea, the UK's maritime agency UKMTO reported incidents involving tankers near Hormuz. Iran's Revolutionary Guards (IRGC) say two tankers hit sea mines while using \"unauthorized routes\", and claim they shot down a US drone. The US military had not commented.[^9][^10] Iran International reports seven tankers have been hit in the strait since Nov 16.[^11]",
-        "Background: since the war began this year, the US has blockaded Iranian ports and Iran has restricted shipping through Hormuz, the narrow channel through which a large share of the world's oil passes. On Monday, Iran's foreign ministry spokesman said security \"can be restored\" there if the US lifts sanctions, ends the blockade and carries out a memorandum agreed in June. He said Iran \"will under no circumstances back down\".[^9]",
-        "In Washington, President Trump told Fox News he would not let Iran have a nuclear weapon, but told Israeli TV he is \"not rushing\" and could wait until the new year.[^10] Iran International, citing other reports, says Israel is pressing for renewed strikes while the UK and some Gulf states have privately urged restraint.[^11] A Qatari delegation held talks in Tehran.[^10]",
-        "My read: the most likely path is more weeks of slow, risky standoff at sea. Watch whether Qatar's mediation produces any meeting, and whether the US funding fight in Congress, due by Dec 11, touches the war."
-      ],
-      "differences": "Bahrain's interior ministry and ABC News say two people were injured; CBS News reported no injuries.[^9][^10] Iran says tankers hit mines on routes it had not approved; other reports describe attacks, and whether these are the same incidents is unclear.[^9][^10]"
-    },
-    {
-      "id": "markets-after-ai-rout",
-      "heading": "Asian chip stocks keep falling while US futures bounce after Friday's AI-led rout",
-      "date": "2026-11-23",
-      "status": "developing",
-      "summary": "South Korea's Kospi fell 3.3% on Monday while US stock futures rose about 2%, after Friday's AI-led sell-off.[^12][^13] Over the weekend, US Treasury Secretary Scott Bessent warned the Federal Reserve against raising rates too far.[^14]",
-      "lead": {
-        "title": "Asian stock markets tumble as AI bubble fears mount",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-        "date": "2026-11-23"
-      },
-      "alsoReported": [
-        {
-          "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
-          "outlet": "AP (via KPRC Click2Houston)",
-          "url": "https://www.click2houston.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/"
-        },
-        {
-          "title": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout",
-          "outlet": "Reuters (via Investing.com)",
-          "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "On Friday, Nov 20, the S&P 500 fell 3.7% and slipped into a \"correction\", meaning more than 10% below its peak. The Nasdaq fell 5.3% and is now down for the year. Nvidia, under scrutiny since its founder's exit and a reported SEC look at its accounting, fell 14%.[^13]",
-        "On Monday, Asia was mixed. South Korea's Kospi fell as much as 5.8% before closing 3.3% lower, with chipmakers Samsung and SK Hynix down. Taiwan's market rose 2.2%, and Japan was closed for a holiday.[^12][^13] US futures, which show where stocks may open, were up about 2% for the S&P 500 and about 3% for the Nasdaq, and European stocks rose 0.7% in early trading.[^12][^15] One analyst warned the bounce \"could be a dead cat bounce\", a brief rise inside a longer fall.[^15]",
-        "Why it matters: huge sums are flowing into AI chips and data centres. Gartner, cited by Al Jazeera, expects $2.7 trillion of AI investment this year. Investors are asking whether the profits will justify that.[^12] South Korea and Taiwan depend heavily on chip exports, so they feel these swings first.[^12]",
-        "Interest rates are the other worry. Bessent said on CBS on Sunday that the Fed \"may be making a policy mistake if they over-tighten\", meaning raise rates too far. Markets expect a rate rise at the Fed's Dec 9 meeting.[^14] Higher rates make borrowing costlier for families and firms, and tend to weigh on stock prices.[^14]",
-        "This is a judgment: one strong day would not settle whether the AI boom is a bubble. This week's US inflation data and the Fed's December decision will matter more."
-      ],
-      "differences": "Some investors see the drop as a healthy correction after a long rise; others, quoted by Reuters and Al Jazeera, fear further falls if AI spending does not pay off.[^12][^15] Bessent links the fall partly to Democratic election gains and the Fed's tone, a view his political opponents would dispute.[^14]"
-    },
-    {
-      "id": "openai-proposes-ai-limits",
-      "heading": "OpenAI's chief scientist proposes shared industry limits on how capable AI can get",
-      "date": "2026-11-22",
-      "status": "confirmed",
-      "summary": "OpenAI's chief scientist, Jakub Pachocki, proposed that AI developers agree on common limits tied to a measure of model ability, and not cross them until safety research catches up.[^16][^17] CEO Sam Altman praised the idea; US governors also published principles for sharing AI rules between states and Washington.[^16][^18]",
-      "lead": {
-        "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
-        "outlet": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-        "date": "2026-11-22"
-      },
-      "alsoReported": [
-        {
-          "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-          "outlet": "Reuters (via Free Malaysia Today)",
-          "url": "https://www.freemalaysiatoday.com/category/business/2026/11/23/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric"
-        },
-        {
-          "title": "Governors Want States to Have a Voice in Regulating AI",
-          "outlet": "PYMNTS",
-          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/"
+          "title": "Nvidia reinstates Jensen Huang as CEO following US national security review",
+          "outlet": "Fox News",
+          "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "In a blog post on Sunday, OpenAI's chief scientist Jakub Pachocki called for \"common limits, based on perplexity and other measurements\". Developers would promise not to build models past a limit until the ability to monitor and understand AI behaviour reaches a set milestone.[^16]",
-        "Perplexity is a number that measures how well a model predicts text: lower means better. Pachocki argues that test scores for specific skills quickly go out of date, while perplexity stays useful as \"a shared benchmark for general intelligence\". He links certain levels of it to the appearance of new abilities in areas like maths and cybersecurity.[^17] He warns AI could start speeding up its own training methods \"as early as 2027\", possibly faster than safety work.[^16]",
-        "OpenAI's CEO Sam Altman called it \"the most important thing OpenAI has published in a while.\"[^16] TechCrunch notes that Anthropic's CEO, Dario Amodei, has made a similar call to \"pace the frontier\".[^17] So far it is a proposal, not an agreement: no other company has signed on, and no government has adopted it.[^16][^17]",
-        "Separately, the US National Governors Association released principles for a \"shared national approach\" to AI, ahead of the new Congress in January. It says Washington should handle national and international risks, while states keep the right to set rules for AI used in their own services.[^18]",
-        "Why it matters: rules for powerful AI are being argued over in companies, states, Washington and the UN at once. My read: voluntary limits are easier to promise than to keep when rivals keep racing, so watch whether other labs or governments take the idea up."
+        "Nvidia makes most of the chips that train and run today's AI, which has made it one of the world's most valuable companies. On Nov 12 its co-founder and chief executive, Jensen Huang, resigned after reports of extramarital affairs, including one with a businesswoman whom US authorities suspected of spying for China. Beijing denies the spying claims.[^1]",
+        "On Monday the board reversed course and voted unanimously to reinstate him as CEO, president and director. It said it had received input from \"senior levels\" of the US government and was confident his return poses no national security risk.[^2] A week earlier the board had said it did not plan to bring him back.[^1] President Trump praised the decision and said the attorney general had confirmed there was no evidence of unlawful conduct; that is his account, not a published finding.[^1]",
+        "Investors cheered. Fox News reports the stock closed up about 31%, adding roughly $950 billion in market value in a day, after a broad sell-off in AI stocks last week.[^3] The board also set up a committee on national security and export controls, is hiring a new chief compliance officer, and says its own inquiry into whether Huang was the target of a foreign intelligence effort will continue.[^2] ABC reports that investigations by the SEC and the Justice Department are still under way.[^1]",
+        "Critics in both parties question the speed of the reversal. Senator Elizabeth Warren called it \"reckless\", and Republican Senator John Cornyn asked, \"No national security risk? Based on what?\"[^1] Huang is due before the Senate Banking Committee on Dec 3.[^3]",
+        "My read: markets have answered the leadership question for now, but the harder questions about chip exports to China are moving to Congress, where Democrats take control in January."
       ],
-      "differences": null
+      "differences": "The board and the White House say the government found no security risk; critics, including Republicans Don Bacon and John Cornyn, say no evidence for that has been made public.[^1][^2]"
     },
     {
-      "id": "ebola-still-global-emergency",
-      "heading": "WHO keeps Congo's Ebola outbreak a global emergency as cases pass 11,600",
-      "date": "2026-11-20",
+      "id": "nato-awacs-poland",
+      "heading": "NATO sends an early-warning plane to Poland after Russian missiles land there",
+      "date": "2026-11-23",
       "status": "confirmed",
-      "summary": "The World Health Organization says Congo's Ebola outbreak, caused by the Bundibugyo strain, had reached 11,613 confirmed cases and 5,678 deaths by Nov 17, and remains a public health emergency of international concern.[^19] It is the second-largest Ebola outbreak on record.[^20]",
+      "summary": "After an emergency meeting on Monday, NATO approved sending an AWACS early-warning aircraft to Poland and is weighing more assets, following the Nov 20 crash of Russian cruise missiles on Polish soil.[^4][^6] Poland now says all three objects were Russian Kh-101 missiles.[^4]",
       "lead": {
-        "title": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700",
-        "outlet": "Contagion Live",
-        "url": "https://www.contagionlive.com/view/ebola-outbreak-climbs-11-645-cases-deaths-near-5700",
+        "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
+        "outlet": "Notes From Poland",
+        "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
+        "date": "2026-11-24"
+      },
+      "alsoReported": [
+        {
+          "title": "NATO to Offer Poland 'Strong Support' After Russian Missiles Enter Its Airspace",
+          "outlet": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90893"
+        },
+        {
+          "title": "NATO Eyes New European Force Moves Following Russian Breach of Polish Skies",
+          "outlet": "UNITED24 Media",
+          "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651"
+        }
+      ],
+      "eventId": "ukraine-war",
+      "article": [
+        "Yesterday's brief covered the start of this meeting. Background: on Nov 20, during a large Russian attack on western Ukraine, three objects crossed into southeastern Poland and came down at three sites. No one was hurt.[^5] On Sunday Poland said all three were Kh-101 cruise missiles, and early findings suggest they were made recently in Russia.[^4]",
+        "NATO ambassadors met in Brussels on Monday at Poland's request. NATO's spokeswoman said its top commander in Europe had authorised the forward deployment of an AWACS plane, a radar aircraft that can spot low-flying missiles far beyond the range of ground radar, and was \"examining the deployment of additional assets\".[^4][^6] NATO said Russia \"bears full responsibility\".[^4] Poland's deputy defence minister called it \"a very serious capability\" and stressed it was not an offensive step.[^4]",
+        "Why the missiles were not stopped matters for the next steps. Swedish fighter jets flying for NATO were cleared to fire, but bad weather meant pilots could not confirm what they were chasing in time.[^4][^5] On Monday night a Russian drone entered Polish airspace from Ukraine for several minutes; Poland held fire when it turned back, citing the risk to civilians.[^4] Russia has not commented on either incident.[^4]",
+        "My read: this is a measured response. NATO is improving its ability to see threats rather than escalating, but repeated incursions keep raising the question of how allies would react if one caused casualties."
+      ],
+      "differences": "Poland's prime minister has suggested the incursion may have been a deliberate provocation, and a deputy minister said an accident is \"difficult to imagine\"; no public evidence has settled whether it was deliberate.[^4][^5]"
+    },
+    {
+      "id": "iran-blockade-pressure",
+      "heading": "Iran says three tankers hit mines in Hormuz as US sanctions squeeze its economy",
+      "date": "2026-11-24",
+      "status": "developing",
+      "summary": "Iran's Revolutionary Guards say three tankers caught fire after hitting mines while sailing under US protection; the claim is unverified.[^8][^7] Washington added sanctions on Iran's informal banking network, and Iranian leaders talk of breaking the blockade by force.[^9][^7]",
+      "lead": {
+        "title": "Is Iran weighing tanker convoy to break US blockade?",
+        "outlet": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+        "date": "2026-11-24"
+      },
+      "alsoReported": [
+        {
+          "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report",
+          "outlet": "The Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
+        },
+        {
+          "title": "Middle East conflict: US investigates Iran over cyberattacks on 50 ships as fresh sanctions target Iran's shadow banking network",
+          "outlet": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+        }
+      ],
+      "eventId": "iran-war",
+      "article": [
+        "Since the spring, the US Navy has blockaded Iran's ports, halting its oil exports, while Iran controls traffic through the Strait of Hormuz, the narrow route for about a fifth of the world's oil. On Tuesday Iran's Islamic Revolutionary Guard Corps (IRGC) said three \"violating\" tankers had exploded and caught fire after hitting mines, and that US escorts had not protected them.[^8] US Central Command had not responded, and the claim has not been independently confirmed.[^8][^7]",
+        "Attacks on ships are already at a wartime high: the UK's maritime agency counted more than 30 in October and at least 22 in November by Sunday.[^8] The Wall Street Journal reports the US is also investigating whether Iran hacked up to 50 commercial ships.[^9]",
+        "On Monday the US Treasury sanctioned 22 companies and 8 people it says form Iran's \"shadow banking\" system, and Treasury Secretary Scott Bessent said Iran's leaders are \"panicking\".[^9][^7] Iran's own figures show heavy strain: inflation hit 88.7% in October and there are power cuts.[^7] Parliament speaker Mohammad Bagher Ghalibaf said there are \"military ways to break the blockade\"; state TV denied that a tanker convoy had set sail.[^7]",
+        "Iran says Hormuz could reopen within two days if the US lifts the blockade and meets its other demands.[^10] Qatar is trying to revive talks; its prime minister met Secretary of State Marco Rubio on Monday and urged against escalation.[^9]",
+        "My read: both sides are betting the other will crack first. The danger is a clash at sea, for example over an Iranian tanker convoy, that neither side planned."
+      ],
+      "differences": "The IRGC says mines hit three tankers; The National notes that maritime reports on other recent incidents described unidentified projectiles, not confirmed mines.[^7][^8] The US says sanctions are working, while Iran calls the blockade \"military aggression\".[^9][^10]"
+    },
+    {
+      "id": "gaza-board-of-peace-update",
+      "heading": "Board of Peace says Hamas agreed to a disarmament roadmap, but little has moved",
+      "date": "2026-11-23",
+      "status": "developing",
+      "summary": "The US-led Board of Peace says Hamas and other factions agreed in July to a 15-point plan to give up weapons, but that progress on the ground is limited.[^11] Israeli strikes killed at least three people in Gaza on Monday, including a UN aid worker.[^12]",
+      "lead": {
+        "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
+        "outlet": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/article-915924",
+        "date": "2026-11-24"
+      },
+      "alsoReported": [
+        {
+          "title": "Israeli strikes kill at least 3 in Gaza, including worker with UN Palestinian agency",
+          "outlet": "Reuters (via Arab News)",
+          "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865"
+        },
+        {
+          "title": "Jared Kushner sees two paths for Israel: Security or 'global pariah status'",
+          "outlet": "Jewish Telegraphic Agency",
+          "url": "https://www.jta.org/2026/11/23/israel/jared-kushner-israel-fork-in-the-road-gaza"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "The Board of Peace was set up under a UN Security Council resolution to oversee Gaza after the October 2025 ceasefire. On Monday it said Hamas and other Palestinian factions had agreed on July 30 to a 15-point roadmap to hand over weapons and pass power to a transitional Palestinian administration, but that implementation remains limited.[^11] That committee has hired staff and drafted a six-month rebuilding plan, but works little on the ground.[^11]",
+        "Its report to the Security Council warned that a ceasefire \"that delivers nothing visible\" cannot last forever, and said Israel's delays in approving the new governing bodies and a civilian police force are, in effect, leaving Hamas in charge.[^14] Israel argues the plan would not lead to full disarmament and wants that first, before any withdrawal.[^14][^13]",
+        "Daily life remains hard. Storms on Nov 6 to 8 flooded thousands of tents.[^11] Israel's aid agency, COGAT, says nearly 100,000 tents have entered Gaza and that 67,000 more approved tents have not been brought in, which it blames on Hamas.[^11] On Monday strikes killed at least three people, including a worker for UNRWA, the UN agency for Palestinians. Since the ceasefire, at least 1,600 Palestinians and five Israeli soldiers have been killed, by each side's count, and Israeli troops now hold about two-thirds of Gaza.[^12]",
+        "US envoy Jared Kushner told New York Magazine that Israel faces a \"fork in the road\" between security and \"global pariah status\".[^13] My read: little will move until Israel forms a new government after its inconclusive October election."
+      ],
+      "differences": "The Board of Peace blames slow progress mainly on Israeli delays and Hamas's unfinished disarmament; Israel says Hamas must disarm fully first; COGAT says Hamas is blocking shelter deliveries.[^11][^14]"
+    },
+    {
+      "id": "korea-minister-quits-ai-cheating",
+      "heading": "South Korea's education minister quits over chaotic anti-AI-cheating rules for a key exam",
+      "date": "2026-11-22",
+      "status": "confirmed",
+      "summary": "Choi Kyo-jin resigned on Sunday after last-minute rules to stop AI-assisted cheating on the national university entrance exam caused confusion.[^15][^16] President Lee Jae Myung accepted within an hour and says AI cheating is spreading to other tests.[^15][^16]",
+      "lead": {
+        "title": "Education minister resigns amid backlash over CSAT anti-cheating measures",
+        "outlet": "The Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures",
         "date": "2026-11-22"
       },
       "alsoReported": [
         {
-          "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
-          "outlet": "World Health Organization",
-          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630"
+          "title": "Lee accepts education minister's resignation after CSAT anticheating measures trigger nationwide confusion",
+          "outlet": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387"
         }
       ],
       "eventId": null,
       "article": [
-        "The WHO's latest report says that as of Nov 17 the Democratic Republic of the Congo had 11,613 confirmed Ebola cases and 5,678 deaths, in 68 health zones across 8 provinces. About half of confirmed patients have died.[^19] On Nov 18 the WHO's director-general confirmed it is still a \"public health emergency of international concern\", the agency's highest alarm.[^19]",
-        "Cases have also appeared elsewhere. Kenya has had 9 cases and 2 deaths, and is counting down 42 days, twice the virus's longest incubation period, since its last patient left hospital. Nigeria's single imported case recovered.[^19] Using US CDC data, Contagion Live counts 11,645 cases in all countries, 500 more than a week earlier, and says it is the second-largest Ebola outbreak ever.[^20]",
-        "Background: this outbreak, declared in May, is caused by the Bundibugyo virus, a type of Ebola for which the WHO says \"no approved vaccines or specific treatments currently exist\". Two candidate vaccines are entering a trial, and a treatment trial is under way.[^19] Fighting in eastern Congo, attacks on health workers and shortages of protective gear make the response harder.[^20]",
-        "Why it matters: the WHO rates the risk as very high in Congo but low globally.[^19] The US has barred travellers who were in Congo in the past 21 days from commercial flights to the US.[^20]",
-        "My read: with about 500 new cases a week and active spread in 48 health zones, an end is not yet in sight.[^19][^20] Watch the vaccine trial results."
+        "South Korea's CSAT, held on Nov 19, decides university places for a whole year group, so it is treated almost as a national event. This year officials feared AI cheating after the top scorer on a tax accountants' exam admitted on Nov 15 to using a tiny camera and AI.[^15]",
+        "Two days before the CSAT, the ministry added 8,400 staff, including about 1,800 to detect smart devices. Students were told to cover clothing buttons with stickers, and the day before, items that had been allowed, such as correction tape, erasers and some pens, were banned.[^15] The ministry later said it had caught 111 suspected cases of cheating with electronic devices.[^16]",
+        "Minister Choi had told lawmakers he did not think he could stop AI cheating, \"perhaps because of my age\", which drew wide criticism.[^15] He then mostly stayed out of sight until the exam.[^17] On Sunday he said he felt responsible for failing to prepare.[^16] The opposition says resigning is not enough and wants an investigation.[^15]",
+        "President Lee said AI cheating is spreading to essay admissions and school tests, and ordered a review of marking exam papers to identify them.[^16] My read: schools everywhere face the same problem. Wearable cameras and AI make old exam rules hard to enforce, and rushed fixes can hurt honest students most."
       ],
       "differences": null
+    },
+    {
+      "id": "riemann-hypothesis-ai-claim",
+      "heading": "A mathematician says he and an AI proved the Riemann hypothesis; experts are checking",
+      "date": "2026-11-20",
+      "status": "developing",
+      "summary": "Levent Alpöge, a mathematician at Anthropic, posted a claimed proof of the 167-year-old Riemann hypothesis made with the AI Claude and backed by a huge computer-checked proof.[^18] Leading mathematicians say it is far from accepted.[^18]",
+      "lead": {
+        "title": "Riemann hypothesis has puzzled scientists for 167 years. Has AI solved it?",
+        "outlet": "Jordan News",
+        "url": "https://www.jordannews.jo/Section-50/Education/Riemann-hypothesis-has-puzzled-scientists-for-167-years-Has-AI-solved-it-59190",
+        "date": "2026-11-22"
+      },
+      "alsoReported": [],
+      "eventId": "ai-race",
+      "article": [
+        "The Riemann hypothesis, posed in 1859, is a statement about where a special function's zeros lie, and it is closely tied to how prime numbers are spread out. It is one of the Clay Institute's million-dollar \"Millennium Problems\" and is often called the most famous open problem in mathematics.[^18]",
+        "On Nov 20 Alpöge published a four-page document saying that, with Claude, he believes he has a proof. He reportedly also submitted about 17 million lines of code in Lean, a program that checks each step of a proof mechanically, and an MIT mathematician confirmed the code runs.[^18] Disclosure: this brief is also written with Claude's help, so weigh my framing with that in mind.",
+        "Running the code is not the same as a proof everyone accepts. Experts must check that the code proves exactly the right statement, without hidden assumptions or changed definitions, and a proof is usually expected to be explained so humans can follow it. Fields medallist James Maynard said a confirmed proof would be historic; Andrew Granville criticised how unclear the document is, and Alpöge has promised a clearer write-up.[^18] Separately, a human-written draft proof of a broader version, shared by the head of the American Mathematical Society, already has possible problems flagged.[^18]",
+        "Context: in October an OpenAI system proved a weaker \"quasi\" version, which mathematicians called a major result but which senior experts would not treat as settled until people understood every step.[^19] My read: whether or not this claim holds, AI is changing how mathematics is done, and the question of how humans trust proofs they cannot read is now real."
+      ],
+      "differences": "Only one outlet I could open confirms the details of the Nov 20 claim; others were blocked. Supporters point to the machine check; critics say a proof that no human can follow is not yet accepted knowledge.[^18]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "ABC News",
-      "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
-      "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
-      "date": "2026-11-22",
+      "outlet": "ABC News (Australia), with Reuters and AFP",
+      "title": "Nvidia stocks soar after Jensen Huang reinstated as chief executive",
+      "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "RTÉ",
-      "title": "COP31 climate talks collapse as EU and others reject deal",
-      "url": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/",
-      "date": "2026-11-22",
+      "outlet": "NVIDIA (press release filed with the SEC)",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "bne IntelliNews (via Yahoo News)",
-      "title": "COP31 in Turkey collapses without deal as EU rejects text silent on fossil fuels",
-      "url": "https://www.yahoo.com/news/world/articles/cop31-turkey-collapses-without-deal-000618355.html",
+      "outlet": "Fox News",
+      "title": "Nvidia reinstates Jensen Huang as CEO following US national security review",
+      "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
       "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Stars and Stripes",
-      "title": "NATO emergency talks on tap as US commander assess defenses after Russian missiles hit Poland",
-      "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
-      "date": "2026-11-22",
+      "outlet": "Notes From Poland",
+      "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
+      "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
+      "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Kyiv Independent",
-      "title": "Polish authorities find Russian missile remains at three sites following airspace incursion",
-      "url": "https://kyivindependent.com/polish-authorities-find-russian-missile-remains-at-three-sites-following-airspace-incursion/",
+      "outlet": "Kyiv Post",
+      "title": "NATO to Offer Poland 'Strong Support' After Russian Missiles Enter Its Airspace",
+      "url": "https://www.kyivpost.com/post/90893",
       "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Kyiv Independent",
-      "title": "'We live in fear' — Russian attack near Kyiv kills 10, leaves families waiting as rescuers search rubble",
-      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
-      "date": "2026-11-22",
-      "singleSource": true
-    },
-    {
-      "id": 7,
-      "outlet": "Kyiv Independent",
-      "title": "'No safe routes' — Ukraine sinks Russian corvette in drone attack off Libyan coast",
-      "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
-      "date": "2026-11-23",
-      "singleSource": true
-    },
-    {
-      "id": 8,
-      "outlet": "Kyiv Independent",
-      "title": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees",
-      "url": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees/",
-      "date": "2026-11-21",
+      "outlet": "UNITED24 Media",
+      "title": "NATO Eyes New European Force Moves Following Russian Breach of Polish Skies",
+      "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651",
+      "date": "2026-11-24",
       "singleSource": false
     },
     {
+      "id": 7,
+      "outlet": "The National",
+      "title": "Is Iran weighing tanker convoy to break US blockade?",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "The Jerusalem Post",
+      "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915899",
+      "date": "2026-11-24",
+      "singleSource": true
+    },
+    {
       "id": 9,
-      "outlet": "ABC News",
-      "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
-      "date": "2026-11-23",
+      "outlet": "Gulf News",
+      "title": "Middle East conflict: US investigates Iran over cyberattacks on 50 ships as fresh sanctions target Iran's shadow banking network",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+      "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 10,
       "outlet": "CBS News",
-      "title": "Live Updates: Trump says he wants 'permanent' deal with Iran; warns next move may not come until 2027",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "date": "2026-11-22",
+      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Iran International",
-      "title": "US weighs delaying Iran strikes despite Israeli pressure for military action",
-      "url": "https://www.iranintl.com/en/202611231814",
-      "date": "2026-11-23",
-      "singleSource": true
+      "outlet": "The Jerusalem Post",
+      "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
+      "url": "https://www.jpost.com/middle-east/article-915924",
+      "date": "2026-11-24",
+      "singleSource": false
     },
     {
       "id": 12,
-      "outlet": "Al Jazeera",
-      "title": "Asian stock markets tumble as AI bubble fears mount",
-      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+      "outlet": "Reuters (via Arab News)",
+      "title": "Israeli strikes kill at least 3 in Gaza, including worker with UN Palestinian agency",
+      "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865",
       "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 13,
-      "outlet": "AP (via KPRC Click2Houston)",
-      "title": "US futures climb and Asian shares mostly decline as some tech stocks fall",
-      "url": "https://www.click2houston.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/",
-      "date": "2026-11-22",
-      "singleSource": false
-    },
-    {
-      "id": 14,
-      "outlet": "investingLive",
-      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
-      "url": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
-      "date": "2026-11-22",
+      "outlet": "Jewish Telegraphic Agency",
+      "title": "Jared Kushner sees two paths for Israel: Security or 'global pariah status'",
+      "url": "https://www.jta.org/2026/11/23/israel/jared-kushner-israel-fork-in-the-road-gaza",
+      "date": "2026-11-23",
       "singleSource": true
     },
     {
+      "id": 14,
+      "outlet": "The Times of Israel",
+      "title": "Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
+      "url": "https://www.timesofisrael.com/board-of-peace-delivers-bleak-update-to-security-council-on-progress-with-gaza-rebuild/",
+      "date": "2026-11-18",
+      "singleSource": false
+    },
+    {
       "id": 15,
-      "outlet": "Reuters (via Investing.com)",
-      "title": "Europe's STOXX 600 rises as tech shares rebound after AI-driven rout",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629",
-      "date": "2026-11-23",
+      "outlet": "The Korea Times",
+      "title": "Education minister resigns amid backlash over CSAT anti-cheating measures",
+      "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures",
+      "date": "2026-11-22",
       "singleSource": false
     },
     {
       "id": 16,
-      "outlet": "Reuters (via Free Malaysia Today)",
-      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/23/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 17,
-      "outlet": "TechCrunch",
-      "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "outlet": "Korea JoongAng Daily",
+      "title": "Lee accepts education minister's resignation after CSAT anticheating measures trigger nationwide confusion",
+      "url": "https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387",
       "date": "2026-11-22",
       "singleSource": false
     },
     {
+      "id": 17,
+      "outlet": "SBS News",
+      "title": "Education Minister Choi Kyo-jin Resigns Over CSAT Chaos, Taking 'Full Responsibility'",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858088",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
       "id": 18,
-      "outlet": "PYMNTS",
-      "title": "Governors Want States to Have a Voice in Regulating AI",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/",
+      "outlet": "Jordan News",
+      "title": "Riemann hypothesis has puzzled scientists for 167 years. Has AI solved it?",
+      "url": "https://www.jordannews.jo/Section-50/Education/Riemann-hypothesis-has-puzzled-scientists-for-167-years-Has-AI-solved-it-59190",
       "date": "2026-11-22",
       "singleSource": true
     },
     {
       "id": 19,
-      "outlet": "World Health Organization",
-      "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo, Kenya and Nigeria",
-      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
-      "date": "2026-11-20",
-      "singleSource": false
-    },
-    {
-      "id": 20,
-      "outlet": "Contagion Live",
-      "title": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700",
-      "url": "https://www.contagionlive.com/view/ebola-outbreak-climbs-11-645-cases-deaths-near-5700",
-      "date": "2026-11-22",
+      "outlet": "Quanta Magazine",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "date": "2026-10-19",
       "singleSource": false
     }
   ]

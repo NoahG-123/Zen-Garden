@@ -1,77 +1,69 @@
 {
-  "date": "2026-11-23",
-  "summary": "The US trade chief says a Canada deal is \"fairly close\", all five Ontario education unions now hold strike mandates, and Ottawa and Ontario put $928 million into Ford's Oakville plant.",
+  "date": "2026-11-24",
+  "summary": "Doug Ford sets conditions for any US trade deal, the Pentagon publicly criticizes Canada's military, Taiwan presses Ottawa to sign a trade pact, and the Bank of Canada governor speaks in Toronto today.",
   "body": [
-    "US Trade Representative Jamieson Greer said on Sunday that the US and Canada are \"fairly close\" to a trade deal and that there has been \"a lot of progress\".[^1][^2] Talks restarted this month after collapsing in August. Greer also raised \"concern\" about Canada letting in up to 49,000 Chinese electric vehicles a year at a low tariff.[^1][^2] Canada's chief negotiator, Janice Charette, has said several issues are still open, above all the 25% US tariff on Canadian cars, which is set to rise to 50% in January.[^1][^2] For Ontario, where many jobs depend on the auto industry, this is the key number to watch.",
-    "All five of Ontario's main education unions, covering teachers and support staff, have now voted 94 to 98 per cent for strike mandates. A mandate gives a union the right to strike later; it does not mean a strike is coming. Several legal steps, including conciliation and a 17-day countdown, come first, and one union leader called job action before Christmas \"highly unlikely\".[^3] Education Minister Paul Calandra says there is \"absolutely no imminent strike threat\". Unions say they want smaller classes and more help for students with special needs and mental-health needs.[^3]",
-    "On Nov 20 Ottawa and Ontario each pledged about $464 million toward a nearly $5 billion project at Ford's Oakville plant, which will be retooled to build heavy-duty pickup trucks for export. The federal government says it will protect more than 2,000 jobs.[^4] Industry Minister Mélanie Joly also said Stellantis owes the government \"hundreds of millions\" for not restarting production in Brampton.[^5]",
-    "This week: Bank of Canada Governor Tiff Macklem speaks in Toronto on Tuesday about the economy, ahead of the Dec 9 rate decision, and Statistics Canada publishes third-quarter GDP on Nov 30.[^6][^7]"
+    "Ontario Premier Doug Ford said on Monday he will not support a Canada-US trade deal unless the auto, steel and manufacturing industries first approve it.[^1] Ottawa is seeking an interim deal that would cut US tariffs before the larger review of CUSMA, the North American trade agreement. Global News reports that in August the US offered to lower the tariff on Canadian cars from 25% to 15%, which carmakers and unions said would still hurt. The US trade chief calls a deal \"fairly close\", while Canada's negotiator says several issues are unresolved.[^1]",
+    "The Pentagon released a \"fact sheet\" on Monday saying Canada's military is not ready enough and has not made the hard choices to meet its NATO spending pledge. It came a week after a memo from US Defence Secretary Pete Hegseth limiting some contact between the two militaries.[^2] Defence Minister David McGuinty says it is \"business as usual\". Canada reached NATO's 2% of GDP target for the first time in 2025 and plans to spend much more by 2030.[^2]",
+    "Taiwan's deputy foreign minister, visiting Ottawa, urged Canada to sign a trade deal whose talks ended in March 2025, saying it could help protect Canada from pressure by Beijing. Prime Minister Mark Carney says he hopes it will be signed soon.[^3] In Question Period, Conservatives called a $2.2-million federal grant to a biomass company run by AI Minister Evan Solomon's brother \"self-dealing\"; the government says the minister recused himself and no minister made the decision.[^4]",
+    "Today Bank of Canada Governor Tiff Macklem speaks at the Economic Club of Canada in Toronto at about 12:40 p.m. on the economy and interest rates. The next rate decision is Dec 9.[^5][^6]"
   ],
-  "differences": "On trade, Greer sounds upbeat, while Canada's negotiator stresses the issues still unresolved.[^1][^2] On schools, unions describe years of cuts, while the minister says there is plenty of time to reach a deal.[^3]",
+  "differences": "On trade, Washington sounds upbeat while Canada stresses open issues.[^1] On defence, the Pentagon says Canada lags; McGuinty calls it \"business as usual\", and former Conservative leader Erin O'Toole says the fact sheet ignores the past year.[^2] On the grant, Conservatives allege a conflict of interest; the government and the company say the process was independent.[^4]",
   "reads": [
     {
-      "title": "Housing minister won't reaffirm Liberal pledge to double home construction",
-      "outlet": "The Canadian Press (via BNN Bloomberg)",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/11/18/housing-minister-wont-reaffirm-liberal-pledge-to-double-home-construction/",
+      "title": "Canada could be shielded from China trade coercion with Taiwan deal: envoy",
+      "outlet": "The Canadian Press (via Global News)",
+      "url": "https://globalnews.ca/news/12163147/taiwan-canada-china-trade-deal/",
       "kind": "news",
-      "summary": "Why the federal promise of about 500,000 new homes a year is missing from the budget, and what the numbers say about building so far in 2026."
+      "summary": "Why Taiwan wants Canada to sign a long-delayed trade deal, and how it fits with Ottawa's warmer ties with Beijing this year."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News (via Yahoo News)",
-      "title": "'We are close,' to deal with Canada, Trump's trade representative says",
-      "url": "https://ca.news.yahoo.com/close-deal-canada-trump-trade-182348396.html",
-      "date": "2026-11-22",
+      "outlet": "Global News",
+      "title": "Premier Ford won't agree to trade deal without auto, steel and manufacturing approval",
+      "url": "https://globalnews.ca/news/12162655/premier-ford-wont-agree-to-trade-deal-without-auto-steel-and-manufacturing-approval/",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "National Post (via Yahoo News)",
-      "title": "The U.S. and Canada 'fairly close' to reaching tariff-relief deal: Greer",
-      "url": "https://ca.news.yahoo.com/u-canada-fairly-close-reaching-234357330.html",
-      "date": "2026-11-22",
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Pentagon criticizes Canada in 'fact sheet' after Hegseth memo",
+      "url": "https://cp24.com/news/canada/2026/11/24/pentagon-criticizes-canada-in-fact-sheet-after-hegseth-memo",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "CP24",
-      "title": "All five of Ontario's education unions now have strike mandates. Here is what that could mean for students",
-      "url": "https://www.cp24.com/local/toronto/2026/11/20/all-five-of-ontarios-education-unions-now-have-strike-mandates-here-is-what-that-could-mean-for-students/",
-      "date": "2026-11-20",
-      "singleSource": false
+      "outlet": "The Canadian Press (via Global News)",
+      "title": "Canada could be shielded from China trade coercion with Taiwan deal: envoy",
+      "url": "https://globalnews.ca/news/12163147/taiwan-canada-china-trade-deal/",
+      "date": "2026-11-23",
+      "singleSource": true
     },
     {
       "id": 4,
-      "outlet": "Government of Canada (news release)",
-      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
-      "date": "2026-11-20",
+      "outlet": "CTV News (via CP24)",
+      "title": "Federal government awards $2.2 million to company led by AI minister's brother",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/federal-government-awards-22-million-to-company-led-by-ai-ministers-brother/",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Bloomberg (via Transport Topics)",
-      "title": "Canada gives Ford plant $324 million to protect auto jobs",
-      "url": "https://www.ttnews.com/articles/canada-funds-ford-plant",
-      "date": "2026-11-20",
-      "singleSource": true
+      "outlet": "Bank of Canada",
+      "title": "Speech: Tiff Macklem, Governor",
+      "url": "https://www.bankofcanada.ca/2026/11/speech-tiff-macklem-governor-november-24-2026/",
+      "date": "2026-11-24",
+      "singleSource": false
     },
     {
       "id": 6,
       "outlet": "Bank of Canada",
       "title": "Upcoming events",
       "url": "https://www.bankofcanada.ca/press/upcoming-events/",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "Statistics Canada",
-      "title": "The Daily — Release schedule",
-      "url": "https://www150.statcan.gc.ca/n1/dai-quo/cal2-eng.htm",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "singleSource": false
     }
   ]
