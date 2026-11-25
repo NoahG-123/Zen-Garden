@@ -1,351 +1,246 @@
 {
-  "date": "2026-11-24",
-  "summary": "Nvidia rehires its ousted CEO, NATO sends a radar plane to Poland, Iran claims mine strikes under US pressure, Gaza's disarmament plan stalls, Korea's exam minister quits, and an AI-made proof awaits checks.",
+  "date": "2026-11-25",
+  "summary": "A US jury convicts Huawei, Russia warns Estonia of \"open war\", a report says Moscow may put a nuclear weapon in orbit, Solomon Islands drops a China pact, and Iran sets terms for talks.",
   "question": {
-    "type": "how-do-we-know",
-    "text": "Today asks you to trust checks you cannot see: officials saying a CEO poses \"no security risk\", Iran saying mines hit three tankers, and a computer saying 17 million lines of proof are correct. For each, who did the checking, and what would make you believe it?"
+    "type": "second-order",
+    "text": "Estonia is closing its border to stop sabotage, and Solomon Islands is leaving a security pact in exchange for closer ties with Australia. For each decision, what might it change two or three steps later, for ordinary people on both sides, that the leaders making it may not intend?"
   },
   "read": {
-    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-    "outlet": "Quanta Magazine",
-    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+    "title": "What the ICJ genocide ruling means for the Rohingya people",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
     "kind": "analysis",
-    "minutes": 15,
-    "summary": "A clear look at how an AI system proved a major result in number theory, what mathematicians think of it, and why they still want proofs humans can understand."
+    "minutes": 13,
+    "summary": "An explainer on last week's first-ever World Court finding that a state committed genocide: what the judges found, what Myanmar must now do, and why enforcing it is hard."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "nvidia-reinstates-huang",
-      "heading": "Nvidia brings back Jensen Huang as CEO, and its shares jump about 30%",
-      "date": "2026-11-23",
+      "id": "huawei-convicted-brooklyn",
+      "heading": "A US jury convicts Huawei of fraud and trade-secret theft but clears it of racketeering",
+      "date": "2026-11-24",
       "status": "confirmed",
-      "summary": "Nvidia's board unanimously reinstated co-founder Jensen Huang on Monday, 11 days after he resigned, saying senior US officials told it his return poses \"no national security risk\".[^1][^2] Shares closed up about 31%, and government and board investigations continue.[^3][^1]",
+      "summary": "A federal jury in Brooklyn found Huawei and three affiliates guilty on 10 of 12 counts, including bank fraud, sanctions violations and conspiring to steal trade secrets.[^1] It acquitted the company of racketeering conspiracy and obstruction, and Huawei says it will appeal.[^1]",
       "lead": {
-        "title": "Nvidia stocks soar after Jensen Huang reinstated as chief executive",
-        "outlet": "ABC News (Australia), with Reuters and AFP",
-        "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
-        "date": "2026-11-23"
+        "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
+        "outlet": "Newsweek",
+        "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+        "date": "2026-11-24"
       },
       "alsoReported": [
         {
-          "title": "Nvidia reinstates Jensen Huang as CEO following US national security review",
-          "outlet": "Fox News",
-          "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
+          "title": "In closings, Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
+          "outlet": "Associated Press (via KTAR)",
+          "url": "https://ktar.com/?p=5931865"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Nvidia makes most of the chips that train and run today's AI, which has made it one of the world's most valuable companies. On Nov 12 its co-founder and chief executive, Jensen Huang, resigned after reports of extramarital affairs, including one with a businesswoman whom US authorities suspected of spying for China. Beijing denies the spying claims.[^1]",
-        "On Monday the board reversed course and voted unanimously to reinstate him as CEO, president and director. It said it had received input from \"senior levels\" of the US government and was confident his return poses no national security risk.[^2] A week earlier the board had said it did not plan to bring him back.[^1] President Trump praised the decision and said the attorney general had confirmed there was no evidence of unlawful conduct; that is his account, not a published finding.[^1]",
-        "Investors cheered. Fox News reports the stock closed up about 31%, adding roughly $950 billion in market value in a day, after a broad sell-off in AI stocks last week.[^3] The board also set up a committee on national security and export controls, is hiring a new chief compliance officer, and says its own inquiry into whether Huang was the target of a foreign intelligence effort will continue.[^2] ABC reports that investigations by the SEC and the Justice Department are still under way.[^1]",
-        "Critics in both parties question the speed of the reversal. Senator Elizabeth Warren called it \"reckless\", and Republican Senator John Cornyn asked, \"No national security risk? Based on what?\"[^1] Huang is due before the Senate Banking Committee on Dec 3.[^3]",
-        "My read: markets have answered the leadership question for now, but the harder questions about chip exports to China are moving to Congress, where Democrats take control in January."
+        "Huawei is the world's largest maker of the equipment that runs mobile phone networks, and in recent years it has also become China's leading designer of AI chips.[^2][^1] On Tuesday a US federal jury in Brooklyn, New York, found the company and three affiliates guilty on 10 of 12 criminal counts after a trial of more than two months. The counts included bank fraud, wire fraud, breaking US sanctions and conspiring to steal trade secrets.[^1]",
+        "The jury did not accept the most sweeping charge. It acquitted Huawei of racketeering conspiracy, a law usually used against organized crime, and of obstruction of justice.[^1] Huawei's lawyer says the company will appeal and argues that the racketeering acquittal weakens the government's whole case.[^1]",
+        "Prosecutors said Huawei's leaders set a tone of lying to banks and Congress, and that employees took technology from US firms, including router code allegedly copied from Cisco.[^1] In closing arguments last week, the defence said prosecutors started from guilt and worked backwards, that the wrongdoing came from a few employees who were fired, and that some of the information was already public.[^2] Chinese officials have long called the US case \"economic bullying\" that uses national security as a pretext.[^2]",
+        "Some background: Canada arrested Huawei's finance chief, Meng Wanzhou, in 2018 on a US warrant tied to this case. She returned to China in 2021 under a deal with prosecutors, and the charges against her were later dropped.[^1] Huawei has been barred from selling to US carriers and was put on a US trade blacklist in 2019. Canada and Britain have also blocked its equipment.[^2][^1]",
+        "What next: the company could face penalties worth billions of dollars, though Newsweek notes the money may matter less to a firm already largely shut out of the US.[^1] My read: the verdict will be read in Beijing and Washington as part of the wider contest over chips and AI, arriving in the same week as the Nvidia leadership drama."
       ],
-      "differences": "The board and the White House say the government found no security risk; critics, including Republicans Don Bacon and John Cornyn, say no evidence for that has been made public.[^1][^2]"
+      "differences": "Prosecutors describe a company-wide culture of theft and fraud; Huawei says a few fired employees were to blame and that it will appeal; Chinese officials call the prosecution politically motivated.[^1][^2]"
     },
     {
-      "id": "nato-awacs-poland",
-      "heading": "NATO sends an early-warning plane to Poland after Russian missiles land there",
+      "id": "russia-estonia-open-war-warning",
+      "heading": "Russia says Estonia is near \"open war\" as Tallinn prepares to shut its border",
       "date": "2026-11-23",
       "status": "confirmed",
-      "summary": "After an emergency meeting on Monday, NATO approved sending an AWACS early-warning aircraft to Poland and is weighing more assets, following the Nov 20 crash of Russian cruise missiles on Polish soil.[^4][^6] Poland now says all three objects were Russian Kh-101 missiles.[^4]",
+      "summary": "Russia's foreign ministry summoned Estonia's top diplomat in Moscow and said Tallinn's \"hostile actions\" are on the verge of triggering open war.[^3][^4] Estonia rejects the accusations and still plans to close its border crossings with Russia from Dec 1.[^3]",
       "lead": {
-        "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
-        "outlet": "Notes From Poland",
-        "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
-        "date": "2026-11-24"
+        "title": "Russia threatens 'hostile' Estonia with 'open war'",
+        "outlet": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+        "date": "2026-11-23"
       },
       "alsoReported": [
         {
-          "title": "NATO to Offer Poland 'Strong Support' After Russian Missiles Enter Its Airspace",
-          "outlet": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/90893"
-        },
-        {
-          "title": "NATO Eyes New European Force Moves Following Russian Breach of Polish Skies",
-          "outlet": "UNITED24 Media",
-          "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651"
+          "title": "Moscow Summons Estonian Diplomat Over Border Closure",
+          "outlet": "The Moscow Times, with Reuters",
+          "url": "https://www.themoscowtimes.com/2026/11/23/moscow-summons-estonian-diplomat-over-border-closure-a94352"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Yesterday's brief covered the start of this meeting. Background: on Nov 20, during a large Russian attack on western Ukraine, three objects crossed into southeastern Poland and came down at three sites. No one was hurt.[^5] On Sunday Poland said all three were Kh-101 cruise missiles, and early findings suggest they were made recently in Russia.[^4]",
-        "NATO ambassadors met in Brussels on Monday at Poland's request. NATO's spokeswoman said its top commander in Europe had authorised the forward deployment of an AWACS plane, a radar aircraft that can spot low-flying missiles far beyond the range of ground radar, and was \"examining the deployment of additional assets\".[^4][^6] NATO said Russia \"bears full responsibility\".[^4] Poland's deputy defence minister called it \"a very serious capability\" and stressed it was not an offensive step.[^4]",
-        "Why the missiles were not stopped matters for the next steps. Swedish fighter jets flying for NATO were cleared to fire, but bad weather meant pilots could not confirm what they were chasing in time.[^4][^5] On Monday night a Russian drone entered Polish airspace from Ukraine for several minutes; Poland held fire when it turned back, citing the risk to civilians.[^4] Russia has not commented on either incident.[^4]",
-        "My read: this is a measured response. NATO is improving its ability to see threats rather than escalating, but repeated incursions keep raising the question of how allies would react if one caused casualties."
+        "Estonia, a small NATO and EU member, shares a land border with Russia. Last week it said it would close its last three road crossings, at Narva, Luhamaa and Koidula, from Dec 1 for at least six months.[^5][^4] It made the decision after its security services said they foiled an arson attack on a local drone maker, which Estonia blames on Russian military intelligence. Eight suspects living in Latvia were arrested.[^5] Russia denies involvement.[^3]",
+        "On Monday Russia's foreign ministry summoned Estonia's chargé d'affaires in Moscow to protest. It accused Estonia of quietly letting Ukrainian drones cross its airspace to attack northwest Russia, blocking Russian cargo ships in the Baltic, and mistreating Russian speakers and the Orthodox Church. It said these actions bring the two countries \"to the brink of an open war\", and that it reserves the right to take political and diplomatic steps.[^4][^3]",
+        "Estonia's foreign ministry said it does not engage with Russian \"propaganda narratives\" and has never let another country use its territory for military operations.[^3] Kyiv says drones that stray into Baltic airspace are knocked off course by Russian signal jamming.[^3] NATO Secretary-General Mark Rutte said the alliance is watching Estonia and the recent missile incursion into Poland, and has options to respond.[^3]",
+        "Why it matters: Al Jazeera notes that Russia justified its 2014 moves into eastern Ukraine partly with claims about protecting Russian speakers, which is one reason such language worries Baltic governments.[^3] This is a judgment, but strong words from Moscow do not by themselves signal an attack; the more concrete tests are what happens at the border after Dec 1 and whether sabotage incidents continue."
       ],
-      "differences": "Poland's prime minister has suggested the incursion may have been a deliberate provocation, and a deputy minister said an accident is \"difficult to imagine\"; no public evidence has settled whether it was deliberate.[^4][^5]"
+      "differences": "Russia says Estonia lets Ukrainian drones use its airspace and persecutes Russian speakers; Estonia denies this. Estonia says Russian intelligence was behind the arson plot; Russia denies it.[^3][^4][^5]"
     },
     {
-      "id": "iran-blockade-pressure",
-      "heading": "Iran says three tankers hit mines in Hormuz as US sanctions squeeze its economy",
+      "id": "russia-nuclear-satellite-report",
+      "heading": "German media say Russia may soon launch a nuclear-armed satellite; the Kremlin scoffs",
+      "date": "2026-11-23",
+      "status": "disputed",
+      "summary": "A joint investigation by German broadcasters and a newspaper reports that Western intelligence expects Russia to launch a nuclear-armed satellite as early as December.[^6] The Kremlin says the report is hardly worth taking seriously.[^7][^6]",
+      "lead": {
+        "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch",
+        "outlet": "The Moscow Times, with Reuters",
+        "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
+        "date": "2026-11-23"
+      },
+      "alsoReported": [
+        {
+          "title": "Kremlin dismisses German reports about alleged Russian nuclear-armed satellite launch",
+          "outlet": "TimesLIVE (Reuters)",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-23-kremlin-dismisses-german-reports-about-alleged-russian-nuclear-armed-satellite-launch/"
+        }
+      ],
+      "eventId": "ukraine-war",
+      "article": [
+        "Satellites carry phone signals, navigation, weather data and internet links for ordinary life on the ground. A nuclear weapon in orbit worries governments because it would not need to hit satellites directly: the US Defense Intelligence Agency has warned such a system could degrade thousands of them at once.[^6]",
+        "On Monday a joint investigation by the German public broadcasters WDR and NDR and the newspaper Süddeutsche Zeitung reported that intelligence shared among NATO members says Russia could launch such a satellite, called \"Sputnik-S\", as soon as December. According to the report, the satellite was built years ago and stored near Moscow.[^6] The claim rests on unnamed intelligence sources; no government has confirmed it on the record.[^6]",
+        "The Kremlin's spokesman said he had not seen the report and that claims full of \"alleged\" and \"possible\" were hardly worth taking seriously.[^7] Russia's embassy in Berlin called it part of a propaganda campaign and said Russia's space activities are peaceful.[^6]",
+        "There is earlier context. In February 2024 the White House said Russia was pursuing a \"troubling\" anti-satellite capability, and in October 2026 the DIA said Russia is developing a nuclear-armed satellite, which would break the 1967 Outer Space Treaty banning nuclear weapons in orbit.[^6] Russia has called those claims unfounded.[^6]",
+        "How do we know? For now, we don't. The honest summary is that several Western agencies have been warning about this for years, the timing in this report is new, and Russia denies it. A launch itself would be visible to tracking networks, so this is a claim that can be checked in the coming weeks."
+      ],
+      "differences": "Western intelligence, as reported by German media and earlier US agencies, says Russia is building a nuclear-armed satellite; the Kremlin and Russia's embassy call the reports unfounded propaganda.[^6][^7]"
+    },
+    {
+      "id": "solomon-islands-drops-china-pact",
+      "heading": "Solomon Islands tells China it will not renew their 2022 security pact",
       "date": "2026-11-24",
       "status": "developing",
-      "summary": "Iran's Revolutionary Guards say three tankers caught fire after hitting mines while sailing under US protection; the claim is unverified.[^8][^7] Washington added sanctions on Iran's informal banking network, and Iranian leaders talk of breaking the blockade by force.[^9][^7]",
+      "summary": "Solomon Islands has told Beijing it will let a 2022 security agreement lapse when it ends in April 2027, ABC News reports, as Prime Minister Matthew Wale visits Canberra to sign a treaty with Australia.[^8] China says it does not engage in \"bloc confrontation\".[^8]",
       "lead": {
-        "title": "Is Iran weighing tanker convoy to break US blockade?",
-        "outlet": "The National",
-        "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+        "title": "Solomons Islands scraps China security pact in 'massive win' for Australia",
+        "outlet": "ABC News (Australia)",
+        "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976",
+        "date": "2026-11-24"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "Solomon Islands is a Pacific island nation north-east of Australia. In 2022 its then-government signed a secret security pact with China that lets Chinese police training teams rotate through the country; about two dozen Chinese police are there at any time.[^8] Australia and the US worried the deal could one day lead to a Chinese military presence close to Australia.",
+        "ABC News, citing sources, confirms that the new government of Prime Minister Matthew Wale, in office since May, has told Beijing it will not renew the pact when its five-year term ends in April 2027.[^8] Wale arrived in Canberra on Tuesday, and a new treaty with Australia was due to be signed on Wednesday. Its full terms have not been released.[^8] ABC earlier reported that Australia would provide about $980 million in extra funding.[^8]",
+        "Australia's Foreign Minister Penny Wong once called the 2022 deal Australia's worst foreign policy blunder in the Pacific since the Second World War.[^8] China's foreign ministry said it builds ties \"on the principle of equality\" and does not take part in geopolitical contests.[^8]",
+        "Not everyone in Solomon Islands agrees. Former prime minister Manasseh Sogavare, who signed the China pact, warned about what the country could lose, and the opposition accuses Australia of \"chequebook diplomacy\".[^8] A Lowy Institute analyst called it a \"massive win\" for Australia but asked what was offered in return.[^8]",
+        "My read: small Pacific states are choosing among larger partners for money and security, and they can switch. Watch whether the treaty text is published and whether Wale, who has already faced one no-confidence vote, keeps his majority."
+      ],
+      "differences": "Australia and supporters see a win for regional security; Sogavare and the opposition see a costly swap bought with Australian money; China says it does not compete for blocs.[^8]"
+    },
+    {
+      "id": "iran-seven-conditions-cyber-probe",
+      "heading": "Iran sets seven conditions for talks as the US probes cyberattacks on up to 50 ships",
+      "date": "2026-11-24",
+      "status": "developing",
+      "summary": "Iran's chief negotiator says there will be no talks with the US until seven conditions, including lifting the naval blockade, are met.[^10] US investigators are looking at whether Iran was behind cyberattacks on as many as 50 commercial ships, while Qatar keeps trying to mediate.[^9][^11]",
+      "lead": {
+        "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+        "outlet": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
         "date": "2026-11-24"
       },
       "alsoReported": [
         {
-          "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report",
-          "outlet": "The Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
-        },
-        {
-          "title": "Middle East conflict: US investigates Iran over cyberattacks on 50 ships as fresh sanctions target Iran's shadow banking network",
+          "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
           "outlet": "Gulf News",
           "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "Since the spring, the US Navy has blockaded Iran's ports, halting its oil exports, while Iran controls traffic through the Strait of Hormuz, the narrow route for about a fifth of the world's oil. On Tuesday Iran's Islamic Revolutionary Guard Corps (IRGC) said three \"violating\" tankers had exploded and caught fire after hitting mines, and that US escorts had not protected them.[^8] US Central Command had not responded, and the claim has not been independently confirmed.[^8][^7]",
-        "Attacks on ships are already at a wartime high: the UK's maritime agency counted more than 30 in October and at least 22 in November by Sunday.[^8] The Wall Street Journal reports the US is also investigating whether Iran hacked up to 50 commercial ships.[^9]",
-        "On Monday the US Treasury sanctioned 22 companies and 8 people it says form Iran's \"shadow banking\" system, and Treasury Secretary Scott Bessent said Iran's leaders are \"panicking\".[^9][^7] Iran's own figures show heavy strain: inflation hit 88.7% in October and there are power cuts.[^7] Parliament speaker Mohammad Bagher Ghalibaf said there are \"military ways to break the blockade\"; state TV denied that a tanker convoy had set sail.[^7]",
-        "Iran says Hormuz could reopen within two days if the US lifts the blockade and meets its other demands.[^10] Qatar is trying to revive talks; its prime minister met Secretary of State Marco Rubio on Monday and urged against escalation.[^9]",
-        "My read: both sides are betting the other will crack first. The danger is a clash at sea, for example over an Iranian tanker convoy, that neither side planned."
+        "The US keeps a naval blockade on Iranian ports, and Iran has tried to control traffic through the Strait of Hormuz, the narrow channel that carries much of the world's oil.[^9] On Monday Iran's foreign ministry called the blockade \"an act of military aggression\" and said Iran will use all available means to end it.[^9]",
+        "Parliament Speaker Mohammad Bagher Ghalibaf, who leads Iran's negotiators, said Iran will not talk to the US until seven conditions are met. Gulf News reports they include lifting the blockade, easing sanctions, releasing frozen funds and declaring the war over.[^10] Iran's navy said three tankers hit mines in the strait on Monday; that is Iran's claim. UK maritime authorities confirmed an attack on one tanker anchored off the UAE, with a fire but no reported casualties.[^9]",
+        "A new front is digital. The Wall Street Journal reported that US investigators are examining cyberattacks on up to 50 ships carrying oil, gas and chemicals, with Iran the main suspect and Russia also considered; responsibility has not been established.[^9][^10] Meanwhile Qatar's prime minister met Secretary of State Marco Rubio in Washington and says Qatar is working with both sides because the region \"cannot withstand further escalation\".[^11]",
+        "Pressure is visible inside Iran. After new US sanctions on its shadow-banking network, the rial fell about 5% on the black market, to around 2.82 million per US dollar, according to Gulf News.[^10] Oil prices have eased, with Brent near $88 a barrel.[^10]",
+        "My read: both sides are setting public terms while letting Qatar carry messages. The conditions Iran lists are close to what it has demanded before, so a quick deal looks unlikely; the risk is that a disputed incident at sea, or a cyberattack blamed on one side, pushes events faster than diplomacy."
       ],
-      "differences": "The IRGC says mines hit three tankers; The National notes that maritime reports on other recent incidents described unidentified projectiles, not confirmed mines.[^7][^8] The US says sanctions are working, while Iran calls the blockade \"military aggression\".[^9][^10]"
-    },
-    {
-      "id": "gaza-board-of-peace-update",
-      "heading": "Board of Peace says Hamas agreed to a disarmament roadmap, but little has moved",
-      "date": "2026-11-23",
-      "status": "developing",
-      "summary": "The US-led Board of Peace says Hamas and other factions agreed in July to a 15-point plan to give up weapons, but that progress on the ground is limited.[^11] Israeli strikes killed at least three people in Gaza on Monday, including a UN aid worker.[^12]",
-      "lead": {
-        "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/middle-east/article-915924",
-        "date": "2026-11-24"
-      },
-      "alsoReported": [
-        {
-          "title": "Israeli strikes kill at least 3 in Gaza, including worker with UN Palestinian agency",
-          "outlet": "Reuters (via Arab News)",
-          "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865"
-        },
-        {
-          "title": "Jared Kushner sees two paths for Israel: Security or 'global pariah status'",
-          "outlet": "Jewish Telegraphic Agency",
-          "url": "https://www.jta.org/2026/11/23/israel/jared-kushner-israel-fork-in-the-road-gaza"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "The Board of Peace was set up under a UN Security Council resolution to oversee Gaza after the October 2025 ceasefire. On Monday it said Hamas and other Palestinian factions had agreed on July 30 to a 15-point roadmap to hand over weapons and pass power to a transitional Palestinian administration, but that implementation remains limited.[^11] That committee has hired staff and drafted a six-month rebuilding plan, but works little on the ground.[^11]",
-        "Its report to the Security Council warned that a ceasefire \"that delivers nothing visible\" cannot last forever, and said Israel's delays in approving the new governing bodies and a civilian police force are, in effect, leaving Hamas in charge.[^14] Israel argues the plan would not lead to full disarmament and wants that first, before any withdrawal.[^14][^13]",
-        "Daily life remains hard. Storms on Nov 6 to 8 flooded thousands of tents.[^11] Israel's aid agency, COGAT, says nearly 100,000 tents have entered Gaza and that 67,000 more approved tents have not been brought in, which it blames on Hamas.[^11] On Monday strikes killed at least three people, including a worker for UNRWA, the UN agency for Palestinians. Since the ceasefire, at least 1,600 Palestinians and five Israeli soldiers have been killed, by each side's count, and Israeli troops now hold about two-thirds of Gaza.[^12]",
-        "US envoy Jared Kushner told New York Magazine that Israel faces a \"fork in the road\" between security and \"global pariah status\".[^13] My read: little will move until Israel forms a new government after its inconclusive October election."
-      ],
-      "differences": "The Board of Peace blames slow progress mainly on Israeli delays and Hamas's unfinished disarmament; Israel says Hamas must disarm fully first; COGAT says Hamas is blocking shelter deliveries.[^11][^14]"
-    },
-    {
-      "id": "korea-minister-quits-ai-cheating",
-      "heading": "South Korea's education minister quits over chaotic anti-AI-cheating rules for a key exam",
-      "date": "2026-11-22",
-      "status": "confirmed",
-      "summary": "Choi Kyo-jin resigned on Sunday after last-minute rules to stop AI-assisted cheating on the national university entrance exam caused confusion.[^15][^16] President Lee Jae Myung accepted within an hour and says AI cheating is spreading to other tests.[^15][^16]",
-      "lead": {
-        "title": "Education minister resigns amid backlash over CSAT anti-cheating measures",
-        "outlet": "The Korea Times",
-        "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures",
-        "date": "2026-11-22"
-      },
-      "alsoReported": [
-        {
-          "title": "Lee accepts education minister's resignation after CSAT anticheating measures trigger nationwide confusion",
-          "outlet": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387"
-        }
-      ],
-      "eventId": null,
-      "article": [
-        "South Korea's CSAT, held on Nov 19, decides university places for a whole year group, so it is treated almost as a national event. This year officials feared AI cheating after the top scorer on a tax accountants' exam admitted on Nov 15 to using a tiny camera and AI.[^15]",
-        "Two days before the CSAT, the ministry added 8,400 staff, including about 1,800 to detect smart devices. Students were told to cover clothing buttons with stickers, and the day before, items that had been allowed, such as correction tape, erasers and some pens, were banned.[^15] The ministry later said it had caught 111 suspected cases of cheating with electronic devices.[^16]",
-        "Minister Choi had told lawmakers he did not think he could stop AI cheating, \"perhaps because of my age\", which drew wide criticism.[^15] He then mostly stayed out of sight until the exam.[^17] On Sunday he said he felt responsible for failing to prepare.[^16] The opposition says resigning is not enough and wants an investigation.[^15]",
-        "President Lee said AI cheating is spreading to essay admissions and school tests, and ordered a review of marking exam papers to identify them.[^16] My read: schools everywhere face the same problem. Wearable cameras and AI make old exam rules hard to enforce, and rushed fixes can hurt honest students most."
-      ],
-      "differences": null
-    },
-    {
-      "id": "riemann-hypothesis-ai-claim",
-      "heading": "A mathematician says he and an AI proved the Riemann hypothesis; experts are checking",
-      "date": "2026-11-20",
-      "status": "developing",
-      "summary": "Levent Alpöge, a mathematician at Anthropic, posted a claimed proof of the 167-year-old Riemann hypothesis made with the AI Claude and backed by a huge computer-checked proof.[^18] Leading mathematicians say it is far from accepted.[^18]",
-      "lead": {
-        "title": "Riemann hypothesis has puzzled scientists for 167 years. Has AI solved it?",
-        "outlet": "Jordan News",
-        "url": "https://www.jordannews.jo/Section-50/Education/Riemann-hypothesis-has-puzzled-scientists-for-167-years-Has-AI-solved-it-59190",
-        "date": "2026-11-22"
-      },
-      "alsoReported": [],
-      "eventId": "ai-race",
-      "article": [
-        "The Riemann hypothesis, posed in 1859, is a statement about where a special function's zeros lie, and it is closely tied to how prime numbers are spread out. It is one of the Clay Institute's million-dollar \"Millennium Problems\" and is often called the most famous open problem in mathematics.[^18]",
-        "On Nov 20 Alpöge published a four-page document saying that, with Claude, he believes he has a proof. He reportedly also submitted about 17 million lines of code in Lean, a program that checks each step of a proof mechanically, and an MIT mathematician confirmed the code runs.[^18] Disclosure: this brief is also written with Claude's help, so weigh my framing with that in mind.",
-        "Running the code is not the same as a proof everyone accepts. Experts must check that the code proves exactly the right statement, without hidden assumptions or changed definitions, and a proof is usually expected to be explained so humans can follow it. Fields medallist James Maynard said a confirmed proof would be historic; Andrew Granville criticised how unclear the document is, and Alpöge has promised a clearer write-up.[^18] Separately, a human-written draft proof of a broader version, shared by the head of the American Mathematical Society, already has possible problems flagged.[^18]",
-        "Context: in October an OpenAI system proved a weaker \"quasi\" version, which mathematicians called a major result but which senior experts would not treat as settled until people understood every step.[^19] My read: whether or not this claim holds, AI is changing how mathematics is done, and the question of how humans trust proofs they cannot read is now real."
-      ],
-      "differences": "Only one outlet I could open confirms the details of the Nov 20 claim; others were blocked. Supporters point to the machine check; critics say a proof that no human can follow is not yet accepted knowledge.[^18]"
+      "differences": "Iran calls the blockade aggression and blames the US for the escalation; President Trump says Iran's recent drones and missiles did no damage and that Iran breaks deals.[^9] US officials say Iran's economy is near collapse; Iran's officials reject that.[^10]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "ABC News (Australia), with Reuters and AFP",
-      "title": "Nvidia stocks soar after Jensen Huang reinstated as chief executive",
-      "url": "https://www.abc.net.au/news/2026-11-24/nvidia-ceo-jensen-huang-reinstated/107419102",
-      "date": "2026-11-23",
+      "outlet": "Newsweek",
+      "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
+      "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+      "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "NVIDIA (press release filed with the SEC)",
-      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm",
-      "date": "2026-11-23",
+      "outlet": "Associated Press (via KTAR)",
+      "title": "In closings, Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
+      "url": "https://ktar.com/?p=5931865",
+      "date": "2026-11-17",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Fox News",
-      "title": "Nvidia reinstates Jensen Huang as CEO following US national security review",
-      "url": "https://foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+      "outlet": "Al Jazeera",
+      "title": "Russia threatens 'hostile' Estonia with 'open war'",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
       "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Notes From Poland",
-      "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
-      "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
-      "date": "2026-11-24",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "Kyiv Post",
-      "title": "NATO to Offer Poland 'Strong Support' After Russian Missiles Enter Its Airspace",
-      "url": "https://www.kyivpost.com/post/90893",
+      "outlet": "The Moscow Times, with Reuters",
+      "title": "Moscow Summons Estonian Diplomat Over Border Closure",
+      "url": "https://www.themoscowtimes.com/2026/11/23/moscow-summons-estonian-diplomat-over-border-closure-a94352",
       "date": "2026-11-23",
       "singleSource": false
     },
     {
+      "id": 5,
+      "outlet": "SBS News, with AFP",
+      "title": "'Actions have consequences': Why Estonia is shutting its last border crossings to Russia",
+      "url": "https://www.sbs.com.au/news/article/why-estonia-is-shutting-its-last-border-crossings-to-russia/er1raeldi",
+      "date": "2026-11-16",
+      "singleSource": false
+    },
+    {
       "id": 6,
-      "outlet": "UNITED24 Media",
-      "title": "NATO Eyes New European Force Moves Following Russian Breach of Polish Skies",
-      "url": "https://united24media.com/world/nato-eyes-new-european-force-moves-following-russian-breach-of-polish-skies-24651",
-      "date": "2026-11-24",
+      "outlet": "The Moscow Times, with Reuters",
+      "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch",
+      "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "The National",
-      "title": "Is Iran weighing tanker convoy to break US blockade?",
-      "url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
-      "date": "2026-11-24",
+      "outlet": "TimesLIVE (Reuters)",
+      "title": "Kremlin dismisses German reports about alleged Russian nuclear-armed satellite launch",
+      "url": "https://www.timeslive.co.za/news/world/2026-11-23-kremlin-dismisses-german-reports-about-alleged-russian-nuclear-armed-satellite-launch/",
+      "date": "2026-11-23",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "The Jerusalem Post",
-      "title": "IRGC: Three oil tankers hit mines, caught fire while transiting Hormuz with US support - report",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-915899",
+      "outlet": "ABC News (Australia)",
+      "title": "Solomons Islands scraps China security pact in 'massive win' for Australia",
+      "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976",
       "date": "2026-11-24",
       "singleSource": true
     },
     {
       "id": 9,
-      "outlet": "Gulf News",
-      "title": "Middle East conflict: US investigates Iran over cyberattacks on 50 ships as fresh sanctions target Iran's shadow banking network",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+      "outlet": "CBS News",
+      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
       "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "CBS News",
-      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 11,
-      "outlet": "The Jerusalem Post",
-      "title": "Hamas, Palestinian factions agree to Gaza disarmament roadmap, Board of Peace says",
-      "url": "https://www.jpost.com/middle-east/article-915924",
+      "outlet": "Gulf News",
+      "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
       "date": "2026-11-24",
       "singleSource": false
     },
     {
-      "id": 12,
-      "outlet": "Reuters (via Arab News)",
-      "title": "Israeli strikes kill at least 3 in Gaza, including worker with UN Palestinian agency",
-      "url": "https://www.arabnews.pk/middle-east/israeli-strikes-kill-at-least-three-in-gaza-including-worker-with-un-palestinian-agency-3007865",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 13,
-      "outlet": "Jewish Telegraphic Agency",
-      "title": "Jared Kushner sees two paths for Israel: Security or 'global pariah status'",
-      "url": "https://www.jta.org/2026/11/23/israel/jared-kushner-israel-fork-in-the-road-gaza",
-      "date": "2026-11-23",
-      "singleSource": true
-    },
-    {
-      "id": 14,
-      "outlet": "The Times of Israel",
-      "title": "Board of Peace delivers bleak update to Security Council on progress with Gaza rebuild",
-      "url": "https://www.timesofisrael.com/board-of-peace-delivers-bleak-update-to-security-council-on-progress-with-gaza-rebuild/",
-      "date": "2026-11-18",
-      "singleSource": false
-    },
-    {
-      "id": 15,
-      "outlet": "The Korea Times",
-      "title": "Education minister resigns amid backlash over CSAT anti-cheating measures",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/education-minister-resigns-amid-backlash-over-csat-anti-cheating-measures",
-      "date": "2026-11-22",
-      "singleSource": false
-    },
-    {
-      "id": 16,
-      "outlet": "Korea JoongAng Daily",
-      "title": "Lee accepts education minister's resignation after CSAT anticheating measures trigger nationwide confusion",
-      "url": "https://www.koreajoongangdaily.com/korea/lee-accepts-education-ministers-resignation-after-csat-anticheating-measures-trigger-nationwide-confusion/12984387",
-      "date": "2026-11-22",
-      "singleSource": false
-    },
-    {
-      "id": 17,
-      "outlet": "SBS News",
-      "title": "Education Minister Choi Kyo-jin Resigns Over CSAT Chaos, Taking 'Full Responsibility'",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858088",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 18,
-      "outlet": "Jordan News",
-      "title": "Riemann hypothesis has puzzled scientists for 167 years. Has AI solved it?",
-      "url": "https://www.jordannews.jo/Section-50/Education/Riemann-hypothesis-has-puzzled-scientists-for-167-years-Has-AI-solved-it-59190",
-      "date": "2026-11-22",
-      "singleSource": true
-    },
-    {
-      "id": 19,
-      "outlet": "Quanta Magazine",
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "date": "2026-10-19",
+      "id": 11,
+      "outlet": "Iran International",
+      "title": "Qatar urges US and Iran to de-escalate, says efforts to revive talks continue",
+      "url": "https://www.iranintl.com/en/202611244147",
+      "date": "2026-11-24",
       "singleSource": false
     }
   ]

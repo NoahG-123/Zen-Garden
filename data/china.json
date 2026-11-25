@@ -1,61 +1,69 @@
 {
-  "date": "2026-11-24",
-  "summary": "Electric cars are set to pass 70% of China's car sales for the first time, a Dutch court blocks a BYD SUV in Europe over design copying, and Chinese tech stocks keep sliding.",
+  "date": "2026-11-25",
+  "summary": "A US jury convicts Huawei, a Huawei-chip data centre starts selling AI computing abroad, universities hand out free AI tokens, and regulators weigh airline mergers.",
   "body": [
-    "China's car industry association expects 1.15 million electric and plug-in hybrid cars to be sold in November, 70.6% of all car sales and the eighth record month in a row.[^1] The share is rising mostly because petrol-car sales are collapsing, down an estimated 47% from a year ago; electric sales are also down about 13%.[^1] For families in China, this means most new cars bought now plug in.",
-    "On Nov 20 a court in The Hague ruled that BYD's Ti7 SUV copies the registered design of Jaguar Land Rover's Defender and issued a temporary ban on selling it in the EU or building it at BYD's new factory in Hungary.[^2][^3] BYD says it designed the car independently and will appeal. The ban does not cover the UK, and the ruling is provisional while the full case is heard.[^2][^3]",
-    "Chinese tech shares have lost about $1.7 trillion in value since the end of June, Bloomberg calculates, as investors worry about weak AI profits and a shortage of advanced chips after new US rules.[^4] Bloomberg notes that no Chinese model now ranks in the top 10 of one widely used AI benchmark.[^4] To support the market, China's three stock exchanges will lower the deposit needed to buy shares with borrowed money from 100% to 80% on Nov 30, reversing a January tightening.[^5]"
+    "A US federal jury in Brooklyn found Huawei and three affiliates guilty on 10 of 12 counts, including bank fraud, sanctions violations and conspiring to steal trade secrets, while acquitting it of racketeering conspiracy.[^1] Huawei says it will appeal. Chinese officials have long called the case \"economic bullying\" that uses national security as a pretext.[^2] The verdict lands as Huawei's Ascend chips become China's main alternative to Nvidia.[^1]",
+    "Those chips now power China's first AI computing cluster built for foreign customers, at a China Telecom undersea-cable station in Shantou, Guangdong. Reported at about $150 million, it sells \"tokens\", the units AI models use to process text, to users abroad.[^3] At home, tokens are becoming an everyday perk. The University of Science and Technology of China gives every student and teacher 100 million free tokens a day, and Tongji University in Shanghai 100 million a week, for models such as DeepSeek and Qwen.[^4] Banks, phone companies and even cafés bundle them with credit cards, phone plans and coffee.[^6]",
+    "China's aviation regulator is weighing mergers of smaller loss-making airlines from next year, the South China Morning Post reports; Reuters could not verify it.[^5] The three biggest carriers had much weaker third-quarter results, citing jet fuel costs and low domestic fares. Fewer airlines could mean fewer cheap tickets over time.[^5]"
   ],
-  "differences": "BYD and JLR disagree on whether the Ti7 copies the Defender; the court's ruling is temporary.[^2] On tech stocks, some fund managers think prices could fall much further, while Chinese firms say domestic chips are improving.[^4]",
+  "differences": "US prosecutors describe company-wide fraud and theft; Huawei blames a few fired employees and will appeal; Beijing calls the case political.[^1][^2]",
   "reads": [
     {
-      "title": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet",
-      "outlet": "Bloomberg (via Business Standard)",
-      "url": "https://www.business-standard.com/world-news/china-s-1-7-trillion-ai-rout-turns-once-hot-tech-trade-into-a-losing-bet-126112200085_1.html",
-      "kind": "analysis",
-      "summary": "Why investors soured on China's AI companies this autumn, from chip shortages to slow profits, and how much of AI work runs on Nvidia versus Huawei chips."
+      "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "outlet": "Rest of World",
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek",
+      "kind": "news",
+      "summary": "How AI computing credits became a consumer reward in China, from bank cards and phone plans to restaurants, and why cheap Chinese models make it possible."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "South China Morning Post",
-      "title": "China's EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales",
-      "url": "https://www.scmp.com/business/china-business/article/3375236/chinas-ev-adoption-rate-top-70-petrol-cars-take-brunt-drop-overall-sales",
-      "date": "2026-11-20",
+      "outlet": "Newsweek",
+      "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
+      "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+      "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "CnEVPost",
-      "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
-      "url": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design/",
-      "date": "2026-11-22",
+      "outlet": "Associated Press (via KTAR)",
+      "title": "In closings, Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
+      "url": "https://ktar.com/?p=5931865",
+      "date": "2026-11-17",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Gulf News",
-      "title": "Dutch court blocks BYD SUV sales in EU over Land Rover design rights",
-      "url": "https://gulfnews.com/auto/dutch-court-blocks-byd-suv-sales-in-eu-over-land-rover-design-rights-1.500758393",
-      "date": "2026-11-23",
+      "outlet": "DatacenterDynamics, citing SCMP",
+      "title": "Data center powered by Huawei Ascend chips launches in China",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+      "date": "2026-11-17",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Bloomberg (via Business Standard)",
-      "title": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet",
-      "url": "https://www.business-standard.com/world-news/china-s-1-7-trillion-ai-rout-turns-once-hot-tech-trade-into-a-losing-bet-126112200085_1.html",
-      "date": "2026-11-22",
-      "singleSource": false
+      "outlet": "Yicai Global",
+      "title": "Chinese Universities Hand Out Free Tokens as AI Becomes Campus Essential",
+      "url": "https://www.yicaiglobal.com/news/chinese-universities-hand-out-free-tokens-as-ai-becomes-campus-essential",
+      "date": "2026-11-03",
+      "singleSource": true
     },
     {
       "id": 5,
-      "outlet": "China Compass",
-      "title": "11.23 | What Matters in China Today",
-      "url": "https://chinacompass.substack.com/p/1123what-matters-in-china-today",
-      "date": "2026-11-23",
+      "outlet": "Reuters (via Free Malaysia Today), citing SCMP",
+      "title": "China eyes mergers, restructuring to help struggling airlines, says SCMP",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/11/25/china-eyes-mergers-restructuring-to-help-struggling-airlines-says-scmp",
+      "date": "2026-11-25",
       "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Rest of World",
+      "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek",
+      "date": "2026-09-04",
+      "singleSource": false
     }
   ]
 }

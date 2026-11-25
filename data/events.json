@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-24",
+  "reviewed": "2026-11-25",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's IRGC says three tankers hit mines in Hormuz while under US escort; the claim is unverified.[^338] The US sanctioned Iran's shadow-banking network on Nov 23, and Iranian leaders speak of breaking the blockade by force as inflation tops 88%.[^339][^337] Qatar is pushing to revive talks.[^339] Trump says he is \"not rushing\".[^317] The Senate rejected a war-powers measure on Nov 19, 51 to 48.[^303]",
+      "standing": "Iran's chief negotiator says there will be no talks until seven conditions, including lifting the US blockade, are met.[^346] Iran says three tankers hit mines in Hormuz; one attack off the UAE was confirmed.[^347] The US is probing cyberattacks on up to 50 ships, with Iran the main suspect.[^347] New US sanctions pushed the rial down about 5%; Qatar keeps mediating.[^346][^339] Trump says he is \"not rushing\".[^317]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -201,7 +201,9 @@
         317,
         337,
         338,
-        339
+        339,
+        346,
+        347
       ]
     },
     {
@@ -210,13 +212,17 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Poland says all three objects that came down on Nov 20 were Russian Kh-101 missiles; after an emergency meeting on Nov 23, NATO approved sending an AWACS radar plane to Poland and is weighing more assets.[^335][^336] A Russian drone strike in Dymer near Kyiv killed at least 10 on Nov 22, officials say.[^320] Ukraine says it sank a Russian corvette off Libya.[^321] No new round of talks is set.[^322]",
+      "standing": "Russia's foreign ministry said on Nov 23 that Estonia is on \"the verge of triggering open war\"; Estonia rejects its claims and closes its Russian border crossings on Dec 1.[^344] German media report Western intelligence expects Russia to launch a nuclear-armed satellite as early as December; the Kremlin dismisses it.[^345] NATO approved an AWACS plane for Poland after Russian missiles landed there.[^335][^336] No new round of talks is set.[^322]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
         "unlikely": "A full peace agreement settling borders and security guarantees in the coming months; the two sides still disagree on territory and on who would guarantee any deal."
       },
       "watch": [
+        {
+          "date": "2026-12-01",
+          "what": "Estonia closes its border crossings with Russia; whether Moscow retaliates beyond words"
+        },
         {
           "date": "2026-11-26",
           "what": "Special EU summit on the next long-term budget; Ukraine's 2027 funding gap is still open"
@@ -388,7 +394,9 @@
         321,
         322,
         335,
-        336
+        336,
+        344,
+        345
       ]
     },
     {
@@ -750,7 +758,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Nvidia's board reinstated Jensen Huang as CEO on Nov 23, citing US officials' assurance of \"no national security risk\"; shares rose about 31%.[^333][^334] SEC and Justice Department probes continue, and critics in both parties want answers.[^332] OpenAI's chief scientist proposed shared limits on AI capability, and 128 countries agreed to work on AI-weapons rules by 2028.[^330][^315]",
+      "standing": "A US jury convicted Huawei, China's top AI-chip maker, on 10 of 12 counts including trade-secret theft; it will appeal.[^348] Jensen Huang, reinstated as Nvidia CEO on Nov 23, apologized to staff, and Nvidia shares fell 5.8% the next day after a 31% jump.[^349][^333] SEC and Justice Department probes continue.[^332] 128 countries agreed to work on AI-weapons rules by 2028.[^315]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "AI stocks swing sharply as each new report tests the boom; or Congress, run by Democrats from January, tightens chip-export rules after the Huang affair.",
@@ -951,7 +959,9 @@
         331,
         332,
         333,
-        334
+        334,
+        348,
+        349
       ]
     }
   ],
@@ -3540,6 +3550,54 @@
       "title": "Jensen Huang Reinstated at Nvidia, Stocks Rally",
       "url": "https://www.schwab.com/learn/story/stock-market-update-open",
       "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 344,
+      "outlet": "Al Jazeera",
+      "title": "Russia threatens 'hostile' Estonia with 'open war'",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 345,
+      "outlet": "The Moscow Times, with Reuters",
+      "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch",
+      "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
+      "date": "2026-11-23",
+      "singleSource": false
+    },
+    {
+      "id": 346,
+      "outlet": "Gulf News",
+      "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 347,
+      "outlet": "CBS News",
+      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 348,
+      "outlet": "Newsweek",
+      "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
+      "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 349,
+      "outlet": "Fox News",
+      "title": "Jensen Huang's surprise Nvidia reinstatement calms markets, raises questions from Capitol Hill",
+      "url": "https://www.foxnews.com/live-news/ai-tech-jensen-huang-nvidia-trade-stocks-market-donald-trump-november-24",
+      "date": "2026-11-24",
       "singleSource": false
     }
   ]
