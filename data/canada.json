@@ -1,44 +1,68 @@
 {
-  "date": "2026-11-25",
-  "summary": "A quieter day: the Bank of Canada explains why it is keeping its 2% inflation goal to 2031, and the Alberta and Ontario premiers pitch an all-Canadian oil pipeline.",
+  "date": "2026-11-26",
+  "summary": "Washington says it wants a trade deal that accommodates Canada, Ottawa presses Stellantis over Brampton, and a plan to speed land purchases for high-speed rail draws fire.",
   "body": [
-    "Bank of Canada Governor Tiff Macklem told the Economic Club of Canada in Toronto on Tuesday why the Bank and the federal government have renewed the 2% inflation target for another five years, from 2027 to 2031.[^1] He said shocks such as trade conflicts, wars and extreme weather are likely to become more common and can push prices up while slowing the economy at the same time, so the Bank must judge whether a price jump will fade or spread. It will keep aiming at total inflation, near 2%, and has added a public dashboard of other price measures.[^1] The Bank's October forecast has inflation around 3% through much of 2027, back near 2% by mid-2028. Interest rates on loans and mortgages follow from these choices.[^1]",
-    "On Monday Alberta Premier Danielle Smith and Ontario Premier Doug Ford promoted the proposed Northern Shield pipeline, which would carry about 500,000 barrels of oil a day roughly 3,300 km from Hardisty, Alta., to Sarnia, Ont., without crossing the US.[^2] Ontario is leading a $17-million feasibility study, but no company has signed on, financing is unclear and Manitoba, which the line would cross, has not agreed.[^2] Both premiers admitted trade barriers between provinces remain: Smith said Alberta stores sell over 1,000 Ontario alcohol products while the LCBO stocks 53 from Alberta.[^2]",
-    "Last week Ottawa and Ontario each pledged about $464 million toward Ford Motor Company of Canada's nearly $5-billion plan to retool its Oakville plant to build Super Duty pickup trucks. The governments say it protects more than 2,000 jobs.[^3]"
+    "US Trade Representative Jamieson Greer said on Wednesday that the US wants a deal that \"accommodates\" Canada on steel, aluminum and autos, which now face 25% US tariffs that President Trump has said will double to 50% on Jan. 1.[^1] Canadian Press reports the US offered to cut the auto tariff to 15%, but without an exemption for cars made under North American trade rules, and Trade Minister Dominic LeBlanc says Canada is not about to sign.[^2] Canada was not among the 14 economies hit by new US tariff proposals this week (see World).",
+    "In Ontario, Industry Minister Mélanie Joly called a meeting with Stellantis \"productive\" after Ottawa served notice that the company broke a 2022 deal worth up to $529 million to retool its Brampton and Windsor plants.[^3] Stellantis moved Jeep production from Brampton to Illinois last year, laying off more than 2,000 workers, and has agreed to sell the plant to defence maker Roshel, which says it could create more than 2,000 jobs, with laid-off workers first in line.[^3]",
+    "Ottawa is also defending a plan, tucked into a 500-page budget motion, to give the Alto high-speed rail project wider powers to expropriate land, meaning to take it from owners with compensation. The roughly 1,000 km line from Toronto to Quebec City would cross 8,000 to 10,000 parcels and cost an estimated $60 billion to $90 billion.[^4] Transport Minister Steven MacKinnon says there is \"no removal of due process\"; the Conservatives and the Bloc call the change heavy-handed.[^4]",
+    "And Immigration Minister Lena Diab says a one-time plan to grant permanent residence will be capped at 200,000 people, half of them temporary workers chosen by provinces. Conservatives say it could strain housing; the government says most of those people already live here.[^5]"
   ],
-  "differences": "Supporters say the pipeline would cut reliance on the US; Manitoba wants Indigenous partnership first, and commentators in The Hub say industry is wary after past cancellations.[^2]",
+  "differences": "On Alto, the government says landowners keep due process; Conservatives call it \"a bulldozer\" and the Bloc calls it authoritarian.[^4] On immigration, Conservatives warn of strain on housing and jobs, while Ottawa says most applicants are already in Canada.[^5]",
   "reads": [
     {
-      "title": "Smith, Ford talk up Northern Shield pipeline but concede trade barriers persist between Alberta and Ontario",
+      "title": "Ottawa defends plan to expand expropriation powers for Alto high-speed rail",
       "outlet": "The Hub",
-      "url": "https://thehub.ca/2026/11/24/smith-ford-talk-up-northern-shield-pipeline-but-concede-trade-barriers-persist-between-alberta-and-ontario/",
+      "url": "https://thehub.ca/2026/11/26/ottawa-defends-plan-to-expand-expropriation-powers-for-alto-high-speed-rail/",
       "kind": "analysis",
-      "summary": "What the two premiers said about the proposed pipeline and about the trade rules that still slow goods and workers moving between provinces."
+      "summary": "What the new land powers would allow, how many farms and properties lie on the route, and why all three opposition parties object."
+    },
+    {
+      "title": "Joly 'convinced' Ottawa can find a path forward with Stellantis as talks continue",
+      "outlet": "The Canadian Press (via Yahoo Finance)",
+      "url": "https://ca.finance.yahoo.com/news/lot-noise-joly-meets-stellantis-145609763.html",
+      "kind": "news",
+      "summary": "The state of talks over the idle Brampton plant, the federal default notice, the planned sale to Roshel and the dispute with Unifor."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Bank of Canada",
-      "title": "Keeping inflation low and stable in an uncertain world",
-      "url": "https://www.bankofcanada.ca/2026/11/keeping-inflation-low-and-stable-in-an-uncertain-world/",
-      "date": "2026-11-24",
+      "outlet": "Global News",
+      "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
+      "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
+      "date": "2026-11-25",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Hub",
-      "title": "Smith, Ford talk up Northern Shield pipeline but concede trade barriers persist between Alberta and Ontario",
-      "url": "https://thehub.ca/2026/11/24/smith-ford-talk-up-northern-shield-pipeline-but-concede-trade-barriers-persist-between-alberta-and-ontario/",
+      "outlet": "The Hub (Canadian Press)",
+      "title": "U.S. trade chief says Canada tariff deal is close, flags concern over China pact",
+      "url": "https://thehub.ca/2026/11/24/u-s-trade-chief-says-canada-tariff-deal-is-close-flags-concern-over-china-pact",
       "date": "2026-11-24",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Innovation, Science and Economic Development Canada",
-      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
-      "date": "2026-11-20",
+      "outlet": "The Canadian Press (via Yahoo Finance)",
+      "title": "Joly 'convinced' Ottawa can find a path forward with Stellantis as talks continue",
+      "url": "https://ca.finance.yahoo.com/news/lot-noise-joly-meets-stellantis-145609763.html",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "The Hub",
+      "title": "Ottawa defends plan to expand expropriation powers for Alto high-speed rail",
+      "url": "https://thehub.ca/2026/11/26/ottawa-defends-plan-to-expand-expropriation-powers-for-alto-high-speed-rail/",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "The Canadian Press (via CP24)",
+      "title": "Minister says one-time plan for permanent residents capped at 200,000 entries",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/minister-says-one-time-plan-for-permanent-residents-capped-at-200000-entries/",
+      "date": "2026-11-24",
       "singleSource": false
     }
   ]

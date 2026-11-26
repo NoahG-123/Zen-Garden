@@ -1,246 +1,294 @@
 {
-  "date": "2026-11-25",
-  "summary": "A US jury convicts Huawei, Russia warns Estonia of \"open war\", a report says Moscow may put a nuclear weapon in orbit, Solomon Islands drops a China pact, and Iran sets terms for talks.",
+  "date": "2026-11-26",
+  "summary": "Saudi Arabia and the Houthis trade strikes, Israel kills two Hamas officials, EU leaders weigh Ukraine money, US inflation rises, new US tariffs loom and China's AI labs slow.",
   "question": {
-    "type": "second-order",
-    "text": "Estonia is closing its border to stop sabotage, and Solomon Islands is leaving a security pact in exchange for closer ties with Australia. For each decision, what might it change two or three steps later, for ordinary people on both sides, that the leaders making it may not intend?"
+    "type": "who-benefits",
+    "text": "The US is proposing tariffs on 14 economies, and new chip rules are slowing China's AI labs. For each policy, who inside the US gains and who pays, and how might the people paying try to change the outcome?"
   },
   "read": {
-    "title": "What the ICJ genocide ruling means for the Rohingya people",
+    "title": "Russian casualties 'reach 450,000': What that means for the Ukraine war",
     "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya",
+    "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war",
     "kind": "analysis",
-    "minutes": 13,
-    "summary": "An explainer on last week's first-ever World Court finding that a state committed genocide: what the judges found, what Myanmar must now do, and why enforcing it is hard."
+    "minutes": 10,
+    "summary": "An explainer on leaked Russian death records: what they appear to show, who the dead are and where they came from, why the data is hard to verify, and what analysts think it means."
   },
   "weeklyRead": null,
   "topics": [
     {
-      "id": "huawei-convicted-brooklyn",
-      "heading": "A US jury convicts Huawei of fraud and trade-secret theft but clears it of racketeering",
-      "date": "2026-11-24",
-      "status": "confirmed",
-      "summary": "A federal jury in Brooklyn found Huawei and three affiliates guilty on 10 of 12 counts, including bank fraud, sanctions violations and conspiring to steal trade secrets.[^1] It acquitted the company of racketeering conspiracy and obstruction, and Huawei says it will appeal.[^1]",
-      "lead": {
-        "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
-        "outlet": "Newsweek",
-        "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
-        "date": "2026-11-24"
-      },
-      "alsoReported": [
-        {
-          "title": "In closings, Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
-          "outlet": "Associated Press (via KTAR)",
-          "url": "https://ktar.com/?p=5931865"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "Huawei is the world's largest maker of the equipment that runs mobile phone networks, and in recent years it has also become China's leading designer of AI chips.[^2][^1] On Tuesday a US federal jury in Brooklyn, New York, found the company and three affiliates guilty on 10 of 12 criminal counts after a trial of more than two months. The counts included bank fraud, wire fraud, breaking US sanctions and conspiring to steal trade secrets.[^1]",
-        "The jury did not accept the most sweeping charge. It acquitted Huawei of racketeering conspiracy, a law usually used against organized crime, and of obstruction of justice.[^1] Huawei's lawyer says the company will appeal and argues that the racketeering acquittal weakens the government's whole case.[^1]",
-        "Prosecutors said Huawei's leaders set a tone of lying to banks and Congress, and that employees took technology from US firms, including router code allegedly copied from Cisco.[^1] In closing arguments last week, the defence said prosecutors started from guilt and worked backwards, that the wrongdoing came from a few employees who were fired, and that some of the information was already public.[^2] Chinese officials have long called the US case \"economic bullying\" that uses national security as a pretext.[^2]",
-        "Some background: Canada arrested Huawei's finance chief, Meng Wanzhou, in 2018 on a US warrant tied to this case. She returned to China in 2021 under a deal with prosecutors, and the charges against her were later dropped.[^1] Huawei has been barred from selling to US carriers and was put on a US trade blacklist in 2019. Canada and Britain have also blocked its equipment.[^2][^1]",
-        "What next: the company could face penalties worth billions of dollars, though Newsweek notes the money may matter less to a firm already largely shut out of the US.[^1] My read: the verdict will be read in Beijing and Washington as part of the wider contest over chips and AI, arriving in the same week as the Nvidia leadership drama."
-      ],
-      "differences": "Prosecutors describe a company-wide culture of theft and fraud; Huawei says a few fired employees were to blame and that it will appeal; Chinese officials call the prosecution politically motivated.[^1][^2]"
-    },
-    {
-      "id": "russia-estonia-open-war-warning",
-      "heading": "Russia says Estonia is near \"open war\" as Tallinn prepares to shut its border",
-      "date": "2026-11-23",
-      "status": "confirmed",
-      "summary": "Russia's foreign ministry summoned Estonia's top diplomat in Moscow and said Tallinn's \"hostile actions\" are on the verge of triggering open war.[^3][^4] Estonia rejects the accusations and still plans to close its border crossings with Russia from Dec 1.[^3]",
-      "lead": {
-        "title": "Russia threatens 'hostile' Estonia with 'open war'",
-        "outlet": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
-        "date": "2026-11-23"
-      },
-      "alsoReported": [
-        {
-          "title": "Moscow Summons Estonian Diplomat Over Border Closure",
-          "outlet": "The Moscow Times, with Reuters",
-          "url": "https://www.themoscowtimes.com/2026/11/23/moscow-summons-estonian-diplomat-over-border-closure-a94352"
-        }
-      ],
-      "eventId": "ukraine-war",
-      "article": [
-        "Estonia, a small NATO and EU member, shares a land border with Russia. Last week it said it would close its last three road crossings, at Narva, Luhamaa and Koidula, from Dec 1 for at least six months.[^5][^4] It made the decision after its security services said they foiled an arson attack on a local drone maker, which Estonia blames on Russian military intelligence. Eight suspects living in Latvia were arrested.[^5] Russia denies involvement.[^3]",
-        "On Monday Russia's foreign ministry summoned Estonia's chargé d'affaires in Moscow to protest. It accused Estonia of quietly letting Ukrainian drones cross its airspace to attack northwest Russia, blocking Russian cargo ships in the Baltic, and mistreating Russian speakers and the Orthodox Church. It said these actions bring the two countries \"to the brink of an open war\", and that it reserves the right to take political and diplomatic steps.[^4][^3]",
-        "Estonia's foreign ministry said it does not engage with Russian \"propaganda narratives\" and has never let another country use its territory for military operations.[^3] Kyiv says drones that stray into Baltic airspace are knocked off course by Russian signal jamming.[^3] NATO Secretary-General Mark Rutte said the alliance is watching Estonia and the recent missile incursion into Poland, and has options to respond.[^3]",
-        "Why it matters: Al Jazeera notes that Russia justified its 2014 moves into eastern Ukraine partly with claims about protecting Russian speakers, which is one reason such language worries Baltic governments.[^3] This is a judgment, but strong words from Moscow do not by themselves signal an attack; the more concrete tests are what happens at the border after Dec 1 and whether sabotage incidents continue."
-      ],
-      "differences": "Russia says Estonia lets Ukrainian drones use its airspace and persecutes Russian speakers; Estonia denies this. Estonia says Russian intelligence was behind the arson plot; Russia denies it.[^3][^4][^5]"
-    },
-    {
-      "id": "russia-nuclear-satellite-report",
-      "heading": "German media say Russia may soon launch a nuclear-armed satellite; the Kremlin scoffs",
-      "date": "2026-11-23",
-      "status": "disputed",
-      "summary": "A joint investigation by German broadcasters and a newspaper reports that Western intelligence expects Russia to launch a nuclear-armed satellite as early as December.[^6] The Kremlin says the report is hardly worth taking seriously.[^7][^6]",
-      "lead": {
-        "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch",
-        "outlet": "The Moscow Times, with Reuters",
-        "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
-        "date": "2026-11-23"
-      },
-      "alsoReported": [
-        {
-          "title": "Kremlin dismisses German reports about alleged Russian nuclear-armed satellite launch",
-          "outlet": "TimesLIVE (Reuters)",
-          "url": "https://www.timeslive.co.za/news/world/2026-11-23-kremlin-dismisses-german-reports-about-alleged-russian-nuclear-armed-satellite-launch/"
-        }
-      ],
-      "eventId": "ukraine-war",
-      "article": [
-        "Satellites carry phone signals, navigation, weather data and internet links for ordinary life on the ground. A nuclear weapon in orbit worries governments because it would not need to hit satellites directly: the US Defense Intelligence Agency has warned such a system could degrade thousands of them at once.[^6]",
-        "On Monday a joint investigation by the German public broadcasters WDR and NDR and the newspaper Süddeutsche Zeitung reported that intelligence shared among NATO members says Russia could launch such a satellite, called \"Sputnik-S\", as soon as December. According to the report, the satellite was built years ago and stored near Moscow.[^6] The claim rests on unnamed intelligence sources; no government has confirmed it on the record.[^6]",
-        "The Kremlin's spokesman said he had not seen the report and that claims full of \"alleged\" and \"possible\" were hardly worth taking seriously.[^7] Russia's embassy in Berlin called it part of a propaganda campaign and said Russia's space activities are peaceful.[^6]",
-        "There is earlier context. In February 2024 the White House said Russia was pursuing a \"troubling\" anti-satellite capability, and in October 2026 the DIA said Russia is developing a nuclear-armed satellite, which would break the 1967 Outer Space Treaty banning nuclear weapons in orbit.[^6] Russia has called those claims unfounded.[^6]",
-        "How do we know? For now, we don't. The honest summary is that several Western agencies have been warning about this for years, the timing in this report is new, and Russia denies it. A launch itself would be visible to tracking networks, so this is a claim that can be checked in the coming weeks."
-      ],
-      "differences": "Western intelligence, as reported by German media and earlier US agencies, says Russia is building a nuclear-armed satellite; the Kremlin and Russia's embassy call the reports unfounded propaganda.[^6][^7]"
-    },
-    {
-      "id": "solomon-islands-drops-china-pact",
-      "heading": "Solomon Islands tells China it will not renew their 2022 security pact",
+      "id": "saudi-houthi-exchange-riyadh-hodeidah",
+      "heading": "Houthis hit a Riyadh tower again as Saudi Arabia strikes Yemen's main port",
       "date": "2026-11-24",
       "status": "developing",
-      "summary": "Solomon Islands has told Beijing it will let a 2022 security agreement lapse when it ends in April 2027, ABC News reports, as Prime Minister Matthew Wale visits Canberra to sign a treaty with Australia.[^8] China says it does not engage in \"bloc confrontation\".[^8]",
+      "summary": "Houthi drones struck the Saudi sovereign wealth fund's tower in Riyadh, injuring 11 people, and Saudi Arabia answered with a large strike on Yemen's Hodeidah port.[^1] Fires were then seen at the Ras Tanura oil complex; who caused them is not confirmed.[^1]",
       "lead": {
-        "title": "Solomons Islands scraps China security pact in 'massive win' for Australia",
-        "outlet": "ABC News (Australia)",
-        "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976",
-        "date": "2026-11-24"
-      },
-      "alsoReported": [],
-      "eventId": null,
-      "article": [
-        "Solomon Islands is a Pacific island nation north-east of Australia. In 2022 its then-government signed a secret security pact with China that lets Chinese police training teams rotate through the country; about two dozen Chinese police are there at any time.[^8] Australia and the US worried the deal could one day lead to a Chinese military presence close to Australia.",
-        "ABC News, citing sources, confirms that the new government of Prime Minister Matthew Wale, in office since May, has told Beijing it will not renew the pact when its five-year term ends in April 2027.[^8] Wale arrived in Canberra on Tuesday, and a new treaty with Australia was due to be signed on Wednesday. Its full terms have not been released.[^8] ABC earlier reported that Australia would provide about $980 million in extra funding.[^8]",
-        "Australia's Foreign Minister Penny Wong once called the 2022 deal Australia's worst foreign policy blunder in the Pacific since the Second World War.[^8] China's foreign ministry said it builds ties \"on the principle of equality\" and does not take part in geopolitical contests.[^8]",
-        "Not everyone in Solomon Islands agrees. Former prime minister Manasseh Sogavare, who signed the China pact, warned about what the country could lose, and the opposition accuses Australia of \"chequebook diplomacy\".[^8] A Lowy Institute analyst called it a \"massive win\" for Australia but asked what was offered in return.[^8]",
-        "My read: small Pacific states are choosing among larger partners for money and security, and they can switch. Watch whether the treaty text is published and whether Wale, who has already faced one no-confidence vote, keeps his majority."
-      ],
-      "differences": "Australia and supporters see a win for regional security; Sogavare and the opposition see a costly swap bought with Australian money; China says it does not compete for blocs.[^8]"
-    },
-    {
-      "id": "iran-seven-conditions-cyber-probe",
-      "heading": "Iran sets seven conditions for talks as the US probes cyberattacks on up to 50 ships",
-      "date": "2026-11-24",
-      "status": "developing",
-      "summary": "Iran's chief negotiator says there will be no talks with the US until seven conditions, including lifting the naval blockade, are met.[^10] US investigators are looking at whether Iran was behind cyberattacks on as many as 50 commercial ships, while Qatar keeps trying to mediate.[^9][^11]",
-      "lead": {
-        "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
-        "outlet": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+        "title": "Riyadh, Hodeidah and Ras Tanura Hit in Saudi-Houthi Exchange of Fire",
+        "outlet": "The Maritime Executive",
+        "url": "https://maritime-executive.com/index.php/article/riyadh-hodeidah-and-ras-tanura-hit-in-saudi-houthi-exchange-of-fire",
         "date": "2026-11-24"
       },
       "alsoReported": [
         {
-          "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
-          "outlet": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+          "title": "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+          "outlet": "Al-Monitor (Reuters)",
+          "url": "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "The US keeps a naval blockade on Iranian ports, and Iran has tried to control traffic through the Strait of Hormuz, the narrow channel that carries much of the world's oil.[^9] On Monday Iran's foreign ministry called the blockade \"an act of military aggression\" and said Iran will use all available means to end it.[^9]",
-        "Parliament Speaker Mohammad Bagher Ghalibaf, who leads Iran's negotiators, said Iran will not talk to the US until seven conditions are met. Gulf News reports they include lifting the blockade, easing sanctions, releasing frozen funds and declaring the war over.[^10] Iran's navy said three tankers hit mines in the strait on Monday; that is Iran's claim. UK maritime authorities confirmed an attack on one tanker anchored off the UAE, with a fire but no reported casualties.[^9]",
-        "A new front is digital. The Wall Street Journal reported that US investigators are examining cyberattacks on up to 50 ships carrying oil, gas and chemicals, with Iran the main suspect and Russia also considered; responsibility has not been established.[^9][^10] Meanwhile Qatar's prime minister met Secretary of State Marco Rubio in Washington and says Qatar is working with both sides because the region \"cannot withstand further escalation\".[^11]",
-        "Pressure is visible inside Iran. After new US sanctions on its shadow-banking network, the rial fell about 5% on the black market, to around 2.82 million per US dollar, according to Gulf News.[^10] Oil prices have eased, with Brent near $88 a barrel.[^10]",
-        "My read: both sides are setting public terms while letting Qatar carry messages. The conditions Iran lists are close to what it has demanded before, so a quick deal looks unlikely; the risk is that a disputed incident at sea, or a cyberattack blamed on one side, pushes events faster than diplomacy."
+        "The Houthis are an armed movement backed by Iran that controls much of northern Yemen. Yemen's civil war, paused by a 2022 ceasefire, reignited in July during the wider US-Iran war, and the Houthis now hold Yemen's entire Red Sea coast.[^2] Saudi Arabia, which entered Yemen's war in 2015, leads a coalition against them.[^2]",
+        "On Tuesday, Houthi drones hit the PIF Tower in Riyadh's King Abdullah Financial District, home to Saudi Arabia's sovereign wealth fund. Saudi civil defence says 11 people were injured, all foreign nationals.[^1] It was the second hit on that tower: a Houthi missile blew out windows on seven or eight floors on Nov 19, and an Aramco building nearby was hit on Nov 8.[^2][^1]",
+        "Saudi Arabia ordered Hodeidah, Yemen's largest commercial port and a key Houthi supply hub, to be evacuated, then struck it overnight. No damage or casualty figures had been released.[^1] Houthi leaders told people to leave Saudi Red Sea ports and threatened to strike back. Early Wednesday, Saudi forces reported a drone strike at Ras Tanura, one of the world's largest refining and oil-export sites; satellite and heat data show large fires, but responsibility has not been confirmed.[^1]",
+        "Why it matters: Saudi Arabia ships much of its oil from Ras Tanura, and the Red Sea is a main trade route between Asia and Europe. Reuters reported that Saudi officials expect the campaign to last up to six months and want gains on the ground before any talks.[^2]",
+        "My read: this is a second front of the Iran war that is getting closer to energy infrastructure. Watch whether the Houthis carry out their threat against ports such as Jeddah, and whether any outside mediator tries to separate the Yemen fight from the US-Iran talks."
       ],
-      "differences": "Iran calls the blockade aggression and blames the US for the escalation; President Trump says Iran's recent drones and missiles did no damage and that Iran breaks deals.[^9] US officials say Iran's economy is near collapse; Iran's officials reject that.[^10]"
+      "differences": null
+    },
+    {
+      "id": "gaza-hamas-officials-killed-meningitis",
+      "heading": "Israel kills two Hamas security chiefs as Gaza declares a meningitis alert",
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "summary": "Israeli strikes killed the head of Hamas's internal security and its northern Gaza chief on consecutive days; Palestinian outlets say the second strike also killed his wife and two daughters.[^3] Gaza's Health Ministry has issued an epidemic alert for meningitis.[^4]",
+      "lead": {
+        "title": "Israel kills second Hamas internal security chief in two days in IDF strike",
+        "outlet": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-916053",
+        "date": "2026-11-25"
+      },
+      "alsoReported": [
+        {
+          "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+        },
+        {
+          "title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
+          "outlet": "Bloomberg (via Military.com)",
+          "url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal"
+        }
+      ],
+      "eventId": "gaza",
+      "article": [
+        "A ceasefire between Israel and Hamas has held, loosely, since October 2025, but strikes and deadly incidents continue. On Tuesday the Israeli military and the Shin Bet security service said they killed Naeem Abu Nahel, head of Hamas's internal security for the whole Gaza Strip.[^3] On Wednesday a strike on a home in Gaza City killed Muhammad Abu al-Ouf, Hamas's internal security chief for northern Gaza. Palestinian outlets reported that his wife and two daughters were also killed.[^3] Prime Minister Netanyahu and Defence Minister Katz praised what they called an \"offensive policy\".[^3]",
+        "Health is a second worry. Gaza's Health Ministry issued an epidemic alert for meningitis, an infection of the lining around the brain. A Gaza doctor told Al Jazeera there were 272 cases in October against a normal 30 to 50 a month, with 15 deaths so far this year.[^4] On Tuesday, strikes killed seven people in several parts of Gaza, according to local officials cited by Al Jazeera.[^4]",
+        "The bigger plan is stuck. Josh Gruenbaum, a senior adviser to the US-led Board of Peace that is meant to oversee Gaza's transition, publicly blamed Netanyahu for obstructing it.[^5] He said Israel has not signed an agreement for an international stabilisation force after more than six months, and vetted Palestinian police recruits are waiting for permission to train in Egypt. Netanyahu's office did not comment.[^5] About $18 billion in rebuilding aid depends on the plan moving forward.[^5]",
+        "What next: Israel is also between governments. Gadi Eisenkot has until Dec 6 to form a coalition. My read: the strikes and the political vacuum both make the next phase of the plan, including Hamas disarmament and an Israeli pullback, less likely to start soon."
+      ],
+      "differences": "Israel says it is targeting Hamas security commanders under the truce; Palestinian outlets report family members killed. A US-led board envoy blames Netanyahu for stalling the plan. Netanyahu's office did not comment on the envoy's criticism.[^3][^5]"
+    },
+    {
+      "id": "eu-summit-budget-ukraine-loan",
+      "heading": "EU leaders meet in Brussels on a 2028-2034 budget and a €45B loan for Ukraine",
+      "date": "2026-11-26",
+      "status": "developing",
+      "summary": "The 27 EU leaders begin a two-day summit on a seven-year budget that includes €100 billion for Ukraine, plus a new €45 billion loan for 2027.[^6] Diplomats expect a final deal only at next month's summit.[^6]",
+      "lead": {
+        "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine",
+        "outlet": "Associated Press (via WSOC-TV)",
+        "url": "https://www.wsoctv.com/news/world/eu-leaders-seek/R3SE63UTIU2EDGLOVDFEM4S6PI/",
+        "date": "2026-11-26"
+      },
+      "alsoReported": [],
+      "eventId": "ukraine-war",
+      "article": [
+        "The European Union sets its budget seven years at a time. On Thursday its leaders began a two-day summit in Brussels to narrow their differences over the 2028 to 2034 budget, which could equal 1% to 1.2% of the bloc's gross national income.[^6] European Council President António Costa has proposed a version about 10% smaller than the European Commission's plan, plus a new EU-wide tax on digital advertising that could raise about €5 billion a year.[^6]",
+        "Members split into familiar camps. Germany, Austria, the Netherlands and Sweden, which pay in more than they get back, want to spend less. A group led by France and Italy defends farm money and funds for poorer regions, which make up about two-thirds of the budget.[^6]",
+        "Ukraine is the sharpest question. The draft sets aside €100 billion for Ukraine over seven years. Separately, leaders must decide on a €45 billion loan for 2027, €20 billion for the economy and €25 billion for the armed forces, which the Commission would borrow on markets.[^6] German Chancellor Friedrich Merz has threatened to block the budget without a shared commitment to Ukraine from every member, while Bulgaria, the Czech Republic, Hungary and Slovakia oppose using EU money for military aid.[^6]",
+        "Why it matters: Russian strikes on Ukraine's energy system and Black Sea trade are straining its finances, and US support has become less certain.[^6] Elections could also change the room: Spain votes on Sunday, and France, Italy and Poland vote next year.[^6] This is a judgment, but a deal on the Ukraine loan at December's summit would show whether Europe can carry more of the cost on its own."
+      ],
+      "differences": "Germany says the cost of supporting Ukraine must be shared by all members; four central European governments reject EU money for military aid; net payers and the cohesion group disagree on the budget's size.[^6]"
+    },
+    {
+      "id": "us-inflation-october-fed-hike",
+      "heading": "US inflation runs hotter in October, making a December Fed rate hike near certain",
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "summary": "The Fed's preferred inflation gauge rose to 3.8% a year in October, and core inflation to 3.3%, slightly above forecasts.[^7] Revised data show the US economy grew at a 4.3% annual rate in the third quarter.[^8]",
+      "lead": {
+        "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+        "outlet": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+        "date": "2026-11-25"
+      },
+      "alsoReported": [
+        {
+          "title": "US economy grew at a solid pace in third quarter, revised data shows",
+          "outlet": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "The US Federal Reserve, the central bank, tries to keep inflation near 2% a year, mainly by raising or lowering the interest rate banks charge each other. Its favourite measure of prices is called PCE, for personal consumption expenditures. On Wednesday, data showed PCE inflation rose to 3.8% in October from 3.6% in September.[^7] Core PCE, which leaves out food and energy because they jump around, rose to 3.3%, a little above the 3.2% economists expected.[^7]",
+        "The same day, a revised estimate showed the economy grew at a 4.3% annual rate from July to September, faster than in the first half of the year.[^8] A strong economy and rising prices together usually push a central bank to raise rates.",
+        "Fed officials have mostly settled on a December increase but disagree on its size, according to Yahoo Finance.[^7] Governor Christopher Waller said a quarter-point hike would need a signal of another in January, or else a half-point move. Governor Lisa Cook warned the Fed risks falling \"behind the curve\". New York Fed President John Williams argued against \"dramatic action\", noting that rate changes take one to two years to work fully.[^7]",
+        "Why it matters beyond the US: higher US rates tend to lift borrowing costs and the US dollar around the world, including for Canadian mortgages and businesses. The Fed decides on Dec 9. My read: the war-driven rise in energy prices is the main reason inflation has climbed, so oil prices and the Iran talks may matter as much as the Fed's own choices."
+      ],
+      "differences": null
+    },
+    {
+      "id": "ustr-section-301-tariffs-14-economies",
+      "heading": "US proposes new tariffs of 15% to 40% on 14 economies, including China and the EU",
+      "date": "2026-11-25",
+      "status": "developing",
+      "summary": "The US Trade Representative found that factory overcapacity in 14 economies harms US commerce and proposed new tariffs, from 15% on the EU and Japan to 35% on Vietnam.[^9] Canada is not on the list; Mexico was left undecided.[^9]",
+      "lead": {
+        "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
+        "outlet": "STR Trade Report",
+        "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
+        "date": "2026-11-25"
+      },
+      "alsoReported": [
+        {
+          "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
+          "outlet": "Global News",
+          "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/"
+        }
+      ],
+      "eventId": "us-politics-economy",
+      "article": [
+        "A tariff is a tax on imported goods, paid when they enter a country. Section 301 is a US trade law that lets the government respond to foreign practices it judges unfair. After an investigation, the US Trade Representative (USTR) found that \"structural excess capacity\" in manufacturing in 14 economies, meaning factories built to produce far more than their markets need, is unreasonable and burdens US business.[^9]",
+        "The proposed rates are 15% for the EU, Japan, South Korea, Switzerland and Taiwan; 18% for Bangladesh, Cambodia, Indonesia, Malaysia and Thailand; 20% for China and Singapore; 25% for India; and 35% for Vietnam.[^9] Each has an alternate rate: higher if trade talks go badly, lower if a country signs a trade agreement with the US. China's could rise to 40%.[^9]",
+        "Some goods are exempt, including those already covered by other US tariffs on steel, aluminum, vehicles, lumber, medicines and semiconductors.[^9] The public can comment until Jan 5, a hearing is set for Jan 25, and no start date has been given.[^9]",
+        "Canada is not among the 14. Separately, US Trade Representative Jamieson Greer said on Wednesday that Washington wants a deal that \"accommodates\" Canada on steel, aluminum and autos, though sticking points remain.[^10]",
+        "My read: the proposal works as both a threat and a bargaining tool, since lower rates are offered to countries that make deals. Who pays is a real question: tariffs are paid by importers and often passed on to shoppers, at a time when US inflation is already rising."
+      ],
+      "differences": null
+    },
+    {
+      "id": "us-chip-rules-slow-china-ai-labs",
+      "heading": "New US chip rules slow China's AI labs, and Nvidia pauses Southeast Asia shipments",
+      "date": "2026-11-25",
+      "status": "developing",
+      "summary": "Reuters sources say new US limits on renting powerful chips abroad, and a push against copying US models, are delaying Chinese AI releases.[^11] Nvidia has told partners to stop shipping AI servers to four Southeast Asian countries, the FT reports.[^13]",
+      "lead": {
+        "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+        "outlet": "The Standard (Reuters)",
+        "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
+        "date": "2026-11-25"
+      },
+      "alsoReported": [
+        {
+          "title": "Nvidia halts chip shipments to South-East Asia amid US crackdown",
+          "outlet": "The National",
+          "url": "https://thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown"
+        }
+      ],
+      "eventId": "ai-race",
+      "article": [
+        "Training a top AI model takes huge numbers of advanced chips, mostly designed by Nvidia. The US already bans selling the best ones to China, so Chinese firms have rented computing power in data centres abroad. A new US rule in force since Nov 19 requires a licence for Chinese firms using large amounts of that computing overseas, roughly the equivalent of 750 Nvidia H100 chips or more, and also requires licences for advanced chip shipments to several countries.[^11]",
+        "Reuters, citing people at the companies, reports the effects. Z.AI, also called Zhipu, missed the planned November launch of its largest model, which could slip to early 2027. Moonshot AI expects its six-month release cycle to stretch to a year or more.[^11] US labs are also pushing back on \"distillation\", training a model on another model's answers; Anthropic said in September it had seen about 200 million suspect exchanges linked to Chinese developers.[^11] One Chinese researcher told The Information: \"We are done.\"[^12]",
+        "Chinese firms are adapting. MiniMax says it will speed up its use of chips from Huawei and Alibaba, and Alibaba's chief executive said domestic chips will \"underpin all this training\".[^11]",
+        "The rule is also hitting Southeast Asia. The National, citing the Financial Times, reports Nvidia told partners to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia while licences are sorted out; Dell and Supermicro have told customers their orders will not be authorised.[^13]",
+        "My read: the rule may widen the US lead for a while, but it also gives China a strong reason to build its own chips faster. These reports rely on unnamed sources, so the size of the delays is not yet certain."
+      ],
+      "differences": "Reuters' sources describe serious delays at Chinese labs; Chinese executives say domestic chips will fill the gap. Cloud operators say the licence process is unclear.[^11][^13]"
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Newsweek",
-      "title": "Huawei convicted in US as Chinese tech giant emerges as Nvidia rival",
-      "url": "https://www.newsweek.com/huawei-convicted-in-us-as-chinese-tech-giant-emerges-as-nvidia-rival-12765102",
+      "outlet": "The Maritime Executive",
+      "title": "Riyadh, Hodeidah and Ras Tanura Hit in Saudi-Houthi Exchange of Fire",
+      "url": "https://maritime-executive.com/index.php/article/riyadh-hodeidah-and-ras-tanura-hit-in-saudi-houthi-exchange-of-fire",
       "date": "2026-11-24",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Associated Press (via KTAR)",
-      "title": "In closings, Chinese tech giant Huawei is cast by prosecutors as a villain as its lawyer disagrees",
-      "url": "https://ktar.com/?p=5931865",
-      "date": "2026-11-17",
+      "outlet": "Al-Monitor (Reuters)",
+      "title": "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+      "url": "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq",
+      "date": "2026-11-19",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Al Jazeera",
-      "title": "Russia threatens 'hostile' Estonia with 'open war'",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
-      "date": "2026-11-23",
+      "outlet": "The Jerusalem Post",
+      "title": "Israel kills second Hamas internal security chief in two days in IDF strike",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-916053",
+      "date": "2026-11-25",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "The Moscow Times, with Reuters",
-      "title": "Moscow Summons Estonian Diplomat Over Border Closure",
-      "url": "https://www.themoscowtimes.com/2026/11/23/moscow-summons-estonian-diplomat-over-border-closure-a94352",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 5,
-      "outlet": "SBS News, with AFP",
-      "title": "'Actions have consequences': Why Estonia is shutting its last border crossings to Russia",
-      "url": "https://www.sbs.com.au/news/article/why-estonia-is-shutting-its-last-border-crossings-to-russia/er1raeldi",
-      "date": "2026-11-16",
-      "singleSource": false
-    },
-    {
-      "id": 6,
-      "outlet": "The Moscow Times, with Reuters",
-      "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch",
-      "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 7,
-      "outlet": "TimesLIVE (Reuters)",
-      "title": "Kremlin dismisses German reports about alleged Russian nuclear-armed satellite launch",
-      "url": "https://www.timeslive.co.za/news/world/2026-11-23-kremlin-dismisses-german-reports-about-alleged-russian-nuclear-armed-satellite-launch/",
-      "date": "2026-11-23",
-      "singleSource": false
-    },
-    {
-      "id": 8,
-      "outlet": "ABC News (Australia)",
-      "title": "Solomons Islands scraps China security pact in 'massive win' for Australia",
-      "url": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976",
+      "outlet": "Al Jazeera",
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
       "date": "2026-11-24",
       "singleSource": true
     },
     {
-      "id": 9,
-      "outlet": "CBS News",
-      "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "id": 5,
+      "outlet": "Bloomberg (via Military.com)",
+      "title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
+      "url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal",
       "date": "2026-11-24",
+      "singleSource": true
+    },
+    {
+      "id": 6,
+      "outlet": "Associated Press (via WSOC-TV)",
+      "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine",
+      "url": "https://www.wsoctv.com/news/world/eu-leaders-seek/R3SE63UTIU2EDGLOVDFEM4S6PI/",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Yahoo Finance",
+      "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 8,
+      "outlet": "Fox Business",
+      "title": "US economy grew at a solid pace in third quarter, revised data shows",
+      "url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 9,
+      "outlet": "STR Trade Report",
+      "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
+      "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
+      "date": "2026-11-25",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Gulf News",
-      "title": "Middle East conflict: Iran warns Hormuz ships, rules out US talks until 7 conditions met",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688",
-      "date": "2026-11-24",
+      "outlet": "Global News",
+      "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
+      "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
+      "date": "2026-11-25",
       "singleSource": false
     },
     {
       "id": 11,
-      "outlet": "Iran International",
-      "title": "Qatar urges US and Iran to de-escalate, says efforts to revive talks continue",
-      "url": "https://www.iranintl.com/en/202611244147",
-      "date": "2026-11-24",
+      "outlet": "The Standard (Reuters)",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 12,
+      "outlet": "SBS News (citing The Information)",
+      "title": "'We Are Done': China's AI Development Stalls Amid U.S. Chip and Token Restrictions",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865057",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 13,
+      "outlet": "The National",
+      "title": "Nvidia halts chip shipments to South-East Asia amid US crackdown",
+      "url": "https://thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown",
+      "date": "2026-11-26",
       "singleSource": false
     }
   ]

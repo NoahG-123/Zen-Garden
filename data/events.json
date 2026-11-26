@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-25",
+  "reviewed": "2026-11-26",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "Iran's chief negotiator says there will be no talks until seven conditions, including lifting the US blockade, are met.[^346] Iran says three tankers hit mines in Hormuz; one attack off the UAE was confirmed.[^347] The US is probing cyberattacks on up to 50 ships, with Iran the main suspect.[^347] New US sanctions pushed the rial down about 5%; Qatar keeps mediating.[^346][^339] Trump says he is \"not rushing\".[^317]",
+      "standing": "The IRGC says two tankers on an \"unauthorised route\" hit mines in Hormuz on Nov 25; Iran says it can withstand the US blockade, with inflation near 89%.[^351][^352] The Yemen front is heating up: Houthi drones hit Riyadh's PIF Tower, injuring 11, Saudi Arabia struck Hodeidah port, and fires broke out at Ras Tanura.[^350] Iran's seven conditions for talks stand; Qatar keeps mediating.[^346][^339]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -21,6 +21,10 @@
         {
           "date": "2026-11-30",
           "what": "November count of attacks on ships near Hormuz, already a record for the war"
+        },
+        {
+          "date": "2026-12-06",
+          "what": "Whether the Houthis strike Jeddah or other Saudi Red Sea ports, as they threatened"
         },
         {
           "date": "2026-12-11",
@@ -203,7 +207,10 @@
         338,
         339,
         346,
-        347
+        347,
+        350,
+        351,
+        352
       ]
     },
     {
@@ -212,7 +219,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "Russia's foreign ministry said on Nov 23 that Estonia is on \"the verge of triggering open war\"; Estonia rejects its claims and closes its Russian border crossings on Dec 1.[^344] German media report Western intelligence expects Russia to launch a nuclear-armed satellite as early as December; the Kremlin dismisses it.[^345] NATO approved an AWACS plane for Poland after Russian missiles landed there.[^335][^336] No new round of talks is set.[^322]",
+      "standing": "EU leaders meet Nov 26-27 on a 2028-2034 budget with €100B for Ukraine and a new €45B loan for 2027; diplomats expect a deal only in December.[^353] Putin says retaliation for Ukraine's refinery strikes is \"inevitable\".[^354] Russia warned Estonia of \"open war\"; Estonia closes its border crossings on Dec 1.[^344] A prisoner swap agreed in the UAE has not yet begun, and no new talks are set.[^322]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -224,12 +231,12 @@
           "what": "Estonia closes its border crossings with Russia; whether Moscow retaliates beyond words"
         },
         {
-          "date": "2026-11-26",
-          "what": "Special EU summit on the next long-term budget; Ukraine's 2027 funding gap is still open"
-        },
-        {
           "date": "2026-11-30",
           "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
+        },
+        {
+          "date": "2026-12-31",
+          "what": "December EU summit, where diplomats expect a deal on the budget and the €45B Ukraine loan"
         },
         {
           "date": "2026-12-31",
@@ -396,7 +403,9 @@
         335,
         336,
         344,
-        345
+        345,
+        353,
+        354
       ]
     },
     {
@@ -405,7 +414,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "The Board of Peace says Hamas and other factions agreed in July to a 15-point disarmament roadmap, but implementation is limited; its report blames Israeli delays on approving new governing bodies.[^340][^342] Strikes killed at least 3 on Nov 23; at least 1,600 Palestinians and 5 Israeli soldiers have died since the truce, by each side's count.[^341] Eisenkot's deadline to form a government is Dec 6.[^324]",
+      "standing": "Israel killed Hamas's internal security chief on Nov 24 and its northern Gaza security chief on Nov 25; Palestinian outlets say his wife and daughters also died.[^355] Gaza declared a meningitis epidemic alert.[^356] A Board of Peace adviser publicly blamed Netanyahu for stalling the plan; his office did not comment.[^357] Eisenkot signed a first coalition deal, with Lieberman's party; his deadline is Dec 6.[^358]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -418,7 +427,7 @@
         },
         {
           "date": "2026-12-06",
-          "what": "Eisenkot's 28 days to form a government end; Likud-Yashar talks ended Nov 22 without a deal"
+          "what": "Eisenkot's deadline to form a government, with a possible two-week extension"
         },
         {
           "date": "2026-12-31",
@@ -569,7 +578,11 @@
         324,
         340,
         341,
-        342
+        342,
+        355,
+        356,
+        357,
+        358
       ]
     },
     {
@@ -578,7 +591,7 @@
       "status": "shifting",
       "added": "2026-10-15",
       "whyHere": "The US is Canada's biggest trading partner and sets the tone for global interest rates and trade rules. US tariffs, inflation, Fed decisions and the November midterms affect prices, jobs and borrowing costs well beyond American borders.",
-      "standing": "Democrats won both chambers on Nov 3.[^268] Stocks fell into a correction on Nov 20, then rallied on Nov 23 as Nvidia jumped about 31% on Jensen Huang's return.[^313][^334] Markets expect a Fed hike on Dec 9; Q3 GDP and inflation data come Nov 25.[^326][^343] Funding runs out Dec 11; a stopgap is expected.[^327] The US trade chief says a Canada deal is \"fairly close\".[^328]",
+      "standing": "October PCE inflation rose to 3.8% (core 3.3%), and Q3 growth was revised to a 4.3% annual rate; Fed officials have mostly settled on a Dec 9 rate hike.[^359][^360] USTR proposed tariffs of 15% to 40% on 14 economies, including China and the EU; hearings are in January.[^362] Sullivan conceded Alaska's Senate race to Peltola.[^361] Funding runs out Dec 11.[^327] The US trade chief says a Canada deal is close.[^328]",
       "heading": {
         "likely": "My read: two years of divided government, with fewer new laws, House investigations from January, vetoes, and fights over budgets, tariffs and the Iran war, while inflation stays above 2%.",
         "possible": "Congress uses its power over money and trade to push Trump on tariffs or the Iran war; or a Canada-US trade deal is reached before the new Congress sits.",
@@ -586,20 +599,16 @@
       },
       "watch": [
         {
-          "date": "2026-11-25",
-          "what": "Q3 GDP and PCE inflation data, a key input for the Fed's Dec 9 decision"
-        },
-        {
-          "date": "2026-11-25",
-          "what": "Alaska certifies its ranked-choice Senate result"
-        },
-        {
           "date": "2026-12-09",
-          "what": "Federal Reserve decision after its Dec 8-9 meeting; markets had expected a possible hike"
+          "what": "Federal Reserve decision after its Dec 8-9 meeting; a rate hike is widely expected"
         },
         {
           "date": "2026-12-11",
           "what": "US government funding runs out unless Congress passes a new spending bill"
+        },
+        {
+          "date": "2027-01-05",
+          "what": "Comments due on the proposed tariffs on 14 economies; a hearing follows Jan 25"
         },
         {
           "date": "2027-01-03",
@@ -749,7 +758,11 @@
         327,
         328,
         334,
-        343
+        343,
+        359,
+        360,
+        361,
+        362
       ]
     },
     {
@@ -758,7 +771,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "A US jury convicted Huawei, China's top AI-chip maker, on 10 of 12 counts including trade-secret theft; it will appeal.[^348] Jensen Huang, reinstated as Nvidia CEO on Nov 23, apologized to staff, and Nvidia shares fell 5.8% the next day after a 31% jump.[^349][^333] SEC and Justice Department probes continue.[^332] 128 countries agreed to work on AI-weapons rules by 2028.[^315]",
+      "standing": "Reuters sources say new US limits on renting chips abroad are delaying Chinese AI models at Zhipu and Moonshot.[^365] Nvidia told partners to stop shipping AI servers to four Southeast Asian countries while licences are sorted out.[^364] Schumer accused Jensen Huang of breaking export law, an allegation with no finding; Huang testifies next week.[^363] A US jury convicted Huawei on 10 of 12 counts.[^348]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "AI stocks swing sharply as each new report tests the boom; or Congress, run by Democrats from January, tightens chip-export rules after the Huang affair.",
@@ -772,6 +785,10 @@
         {
           "date": "2026-12-03",
           "what": "Senate Banking hearing on chip exports with Huang, now back as Nvidia CEO"
+        },
+        {
+          "date": "2027-02-17",
+          "what": "End of the 90-day window for overseas data centres to get US licences for Chinese customers"
         },
         {
           "date": "2026-12-31",
@@ -961,7 +978,10 @@
         333,
         334,
         348,
-        349
+        349,
+        363,
+        364,
+        365
       ]
     }
   ],
@@ -3598,6 +3618,134 @@
       "title": "Jensen Huang's surprise Nvidia reinstatement calms markets, raises questions from Capitol Hill",
       "url": "https://www.foxnews.com/live-news/ai-tech-jensen-huang-nvidia-trade-stocks-market-donald-trump-november-24",
       "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 350,
+      "outlet": "The Maritime Executive",
+      "title": "Riyadh, Hodeidah and Ras Tanura Hit in Saudi-Houthi Exchange of Fire",
+      "url": "https://maritime-executive.com/index.php/article/riyadh-hodeidah-and-ras-tanura-hit-in-saudi-houthi-exchange-of-fire",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 351,
+      "outlet": "Reuters (via Yahoo News)",
+      "title": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-ships-hit-mines-100636256.html",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 352,
+      "outlet": "Arab News (Reuters)",
+      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+      "url": "https://arabnews.com/middle-east/iran-says-it-is-prepared-to-withstand-us-blockade-seeks-to-curb-price-rises-3013958",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 353,
+      "outlet": "Associated Press (via WSOC-TV)",
+      "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine",
+      "url": "https://www.wsoctv.com/news/world/eu-leaders-seek/R3SE63UTIU2EDGLOVDFEM4S6PI/",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 354,
+      "outlet": "Kyiv Post",
+      "title": "Putin Calls for More Oil Refining in Siberia, Russia's Far East",
+      "url": "https://www.kyivpost.com/post/91161",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 355,
+      "outlet": "The Jerusalem Post",
+      "title": "Israel kills second Hamas internal security chief in two days in IDF strike",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-916053",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 356,
+      "outlet": "Al Jazeera",
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 357,
+      "outlet": "Bloomberg (via Military.com)",
+      "title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
+      "url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 358,
+      "outlet": "The Telegraph (via Yahoo News)",
+      "title": "Criminal case against Benjamin Netanyahu in tatters after major ruling",
+      "url": "https://www.yahoo.com/news/politics/articles/eisenkot-closer-ousting-netanyahu-coalition-134038673.html",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 359,
+      "outlet": "Yahoo Finance",
+      "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 360,
+      "outlet": "Fox Business",
+      "title": "US economy grew at a solid pace in third quarter, revised data shows",
+      "url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 361,
+      "outlet": "Anchorage Daily News",
+      "title": "Sen. Dan Sullivan concedes Alaska's U.S. Senate race to Mary Peltola",
+      "url": "https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/",
+      "date": "2026-11-24",
+      "singleSource": false
+    },
+    {
+      "id": 362,
+      "outlet": "STR Trade Report",
+      "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
+      "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 363,
+      "outlet": "Denver Gazette (Reuters)",
+      "title": "Schumer accuses Nvidia CEO of violating U.S. export control law",
+      "url": "https://www.denvergazette.com/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-u-s-export-control-law/",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 364,
+      "outlet": "The National",
+      "title": "Nvidia halts chip shipments to South-East Asia amid US crackdown",
+      "url": "https://thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 365,
+      "outlet": "The Standard (Reuters)",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
+      "date": "2026-11-25",
       "singleSource": false
     }
   ]
