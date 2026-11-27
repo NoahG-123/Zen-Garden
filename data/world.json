@@ -1,293 +1,235 @@
 {
-  "date": "2026-11-26",
-  "summary": "Saudi Arabia and the Houthis trade strikes, Israel kills two Hamas officials, EU leaders weigh Ukraine money, US inflation rises, new US tariffs loom and China's AI labs slow.",
-  "question": {
-    "type": "who-benefits",
-    "text": "The US is proposing tariffs on 14 economies, and new chip rules are slowing China's AI labs. For each policy, who inside the US gains and who pays, and how might the people paying try to change the outcome?"
-  },
-  "read": {
-    "title": "Russian casualties 'reach 450,000': What that means for the Ukraine war",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war",
-    "kind": "analysis",
-    "minutes": 10,
-    "summary": "An explainer on leaked Russian death records: what they appear to show, who the dead are and where they came from, why the data is hard to verify, and what analysts think it means."
-  },
-  "weeklyRead": null,
+  "date": "2026-11-27",
+  "summary": "Kuwait blames Iran for drones that killed two Italians, the EU fails to agree a budget, Kim Jong Un vows more nukes, Kushner presses Israel and SpaceX wins a huge satellite licence.",
   "topics": [
     {
-      "id": "saudi-houthi-exchange-riyadh-hodeidah",
-      "heading": "Houthis hit a Riyadh tower again as Saudi Arabia strikes Yemen's main port",
-      "date": "2026-11-24",
-      "status": "developing",
-      "summary": "Houthi drones struck the Saudi sovereign wealth fund's tower in Riyadh, injuring 11 people, and Saudi Arabia answered with a large strike on Yemen's Hodeidah port.[^1] Fires were then seen at the Ras Tanura oil complex; who caused them is not confirmed.[^1]",
+      "id": "kuwait-drone-attack-italians-killed",
+      "heading": "Kuwait says Iranian drones killed two Italian technicians; Iran denies it",
+      "date": "2026-11-26",
+      "status": "disputed",
+      "summary": "Kuwait says it shot down Iranian drones over a military site and falling debris killed two Italian air-defence technicians.[^1] Iran's foreign minister denies Iran was behind it, and the EU's Ursula von der Leyen called for more pressure on Tehran.[^1][^2]",
       "lead": {
-        "title": "Riyadh, Hodeidah and Ras Tanura Hit in Saudi-Houthi Exchange of Fire",
-        "outlet": "The Maritime Executive",
-        "url": "https://maritime-executive.com/index.php/article/riyadh-hodeidah-and-ras-tanura-hit-in-saudi-houthi-exchange-of-fire",
-        "date": "2026-11-24"
+        "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+        "outlet": "KSAT (AP)",
+        "url": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
+        "date": "2026-11-26"
       },
       "alsoReported": [
         {
-          "title": "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
-          "outlet": "Al-Monitor (Reuters)",
-          "url": "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq"
+          "title": "Live Updates: Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         }
       ],
       "eventId": "iran-war",
       "article": [
-        "The Houthis are an armed movement backed by Iran that controls much of northern Yemen. Yemen's civil war, paused by a 2022 ceasefire, reignited in July during the wider US-Iran war, and the Houthis now hold Yemen's entire Red Sea coast.[^2] Saudi Arabia, which entered Yemen's war in 2015, leads a coalition against them.[^2]",
-        "On Tuesday, Houthi drones hit the PIF Tower in Riyadh's King Abdullah Financial District, home to Saudi Arabia's sovereign wealth fund. Saudi civil defence says 11 people were injured, all foreign nationals.[^1] It was the second hit on that tower: a Houthi missile blew out windows on seven or eight floors on Nov 19, and an Aramco building nearby was hit on Nov 8.[^2][^1]",
-        "Saudi Arabia ordered Hodeidah, Yemen's largest commercial port and a key Houthi supply hub, to be evacuated, then struck it overnight. No damage or casualty figures had been released.[^1] Houthi leaders told people to leave Saudi Red Sea ports and threatened to strike back. Early Wednesday, Saudi forces reported a drone strike at Ras Tanura, one of the world's largest refining and oil-export sites; satellite and heat data show large fires, but responsibility has not been confirmed.[^1]",
-        "Why it matters: Saudi Arabia ships much of its oil from Ras Tanura, and the Red Sea is a main trade route between Asia and Europe. Reuters reported that Saudi officials expect the campaign to last up to six months and want gains on the ground before any talks.[^2]",
-        "My read: this is a second front of the Iran war that is getting closer to energy infrastructure. Watch whether the Houthis carry out their threat against ports such as Jeddah, and whether any outside mediator tries to separate the Yemen fight from the US-Iran talks."
+        "Kuwait is a small Gulf state that hosts US forces and has been caught up in the war between the US and Iran, which has run, with pauses, since February. On Thursday, Kuwait's defence ministry said it intercepted several Iranian drones aimed at what it called a vital site. Falling fragments killed two Italians and injured a Kuwaiti and a Pakistani.[^1][^2] Italy's foreign ministry says the two men were air-defence technicians working for a defence contractor.[^1]",
+        "Iran's foreign minister, Abbas Araghchi, denied that Iran carried out the attack, and Iran's embassy in Rome said it \"categorically rejects\" the claim while offering condolences.[^1][^2] Kuwait has not published evidence beyond its statement.",
+        "Europe reacted quickly because Europeans died. European Commission President Ursula von der Leyen said \"we must step up pressure on Iran\" and that Gulf security matters to everyone.[^2] The same day, Saudi Arabia said an attack on its Jazan refinery killed a Nepali worker, and the Houthis, Iran's allies in Yemen, said they had fired at the Saudi ports of Jeddah and Jazan; Saudi forces say they shot the missiles and a drone down.[^1][^2]",
+        "Shipping keeps shrinking. Two more tankers were hit near the Strait of Hormuz; Iran's Revolutionary Guard says they hit mines while sailing without its permission, which AP could not verify.[^1] Data firm Kpler, cited by CBS, says weekly ship crossings fell from 217 to 147 in November, and tanker crossings are about a fifth of the pre-war level.[^2]",
+        "My read: the war is spreading sideways, to Kuwait, Saudi ports and Yemen, rather than escalating at its centre. Watch whether European countries move from statements to new sanctions, and whether Italy changes its role in Gulf air defence."
+      ],
+      "differences": "Kuwait says the drones were Iranian and killed two Italians; Iran's foreign minister and its embassy in Rome deny Iran was involved.[^1][^2] On the tankers, Iran's Revolutionary Guard says they hit mines; the UK maritime agency reported unknown projectiles.[^1]"
+    },
+    {
+      "id": "eu-summit-no-budget-deal",
+      "heading": "EU summit ends without a budget deal; 24 countries back a €45B loan for Ukraine",
+      "date": "2026-11-26",
+      "status": "confirmed",
+      "summary": "A 14-hour EU summit failed to agree a 2028-2034 budget, and a planned second day was cancelled.[^3][^5] Twenty-four of 27 countries back a new loan of up to €45 billion for Ukraine in 2027; Hungary, Slovakia and Czechia stay out.[^3]",
+      "lead": {
+        "title": "EU Leaders Fail to Agree Long-Term Budget, Push Decisions to December",
+        "outlet": "Politis",
+        "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+        "date": "2026-11-27"
+      },
+      "alsoReported": [
+        {
+          "title": "EU budget and Ukraine aid headed for collision at turbulent summit",
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+        }
+      ],
+      "eventId": "ukraine-war",
+      "article": [
+        "Every seven years the EU's 27 governments must agree, unanimously, on a long-term budget. Council President António Costa proposed about €1.78 trillion for 2028-2034, roughly €200 billion less than the European Commission's plan.[^3] Leaders met in Brussels on Thursday, talked for about 14 hours and went home without a deal; Costa said they had found the outline of a \"landing zone\" for December.[^5]",
+        "The split is old and familiar. Seven net payers, including Germany, the Netherlands and Austria, want a smaller budget. Seventeen \"Friends of Cohesion\", mostly poorer members, refuse further cuts to farm and regional money.[^3] France's Emmanuel Macron insists French farmers lose nothing, and Italy's Giorgia Meloni said the sides were \"light years\" apart.[^5]",
+        "Ukraine is tied in. Ukraine faces a 2027 budget gap of about €70 billion. The Commission proposes a loan of up to €45 billion, €25 billion for the military and €20 billion for the budget, raised by EU borrowing and repaid only if Ukraine receives war reparations from Russia.[^3][^4] Twenty-four states back it. Hungary, Slovakia and Czechia are out, and Bulgaria joins only the civilian part.[^3] Germany's Friedrich Merz had threatened to veto the budget unless all 27 help Ukraine; Slovakia's Robert Fico called that \"blackmail\".[^4]",
+        "Leaders also recommended Spain's Pablo Hernández de Cos to succeed Christine Lagarde as head of the European Central Bank in February.[^3]",
+        "What next: the next summit is December 17-18, the last before Macron's end-of-year deadline, though several leaders say they do not feel bound by it.[^3][^5] My read: the Ukraine loan is more likely to move in December than the full budget."
+      ],
+      "differences": "Net payers led by Germany say the budget must shrink further; France and the cohesion countries say the cuts already go too far.[^3][^5] Germany wants all 27 to fund Ukraine; Slovakia calls that pressure blackmail.[^4]"
+    },
+    {
+      "id": "kim-nuclear-material-factories",
+      "heading": "Kim Jong Un tours nuclear-fuel factories and calls for more weapons",
+      "date": "2026-11-26",
+      "status": "confirmed",
+      "summary": "North Korean state media says Kim inspected two factories making nuclear material and called for more nuclear weapons, including small battlefield ones.[^6] It came days after he ignored Donald Trump's offer to meet.[^6]",
+      "lead": {
+        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+        "outlet": "WLRN (NPR / AP)",
+        "url": "https://www.wlrn.org/npr-breaking-news/2026-11-26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+        "date": "2026-11-26"
+      },
+      "alsoReported": [],
+      "eventId": null,
+      "article": [
+        "North Korea has built nuclear weapons for two decades despite UN sanctions. On Thursday its state news agency, KCNA, said leader Kim Jong Un had inspected two factories producing nuclear material, one newly opened and one being expanded, plus a research institute.[^6] Photos showed centrifuges, machines that enrich uranium, and what appeared to be warheads.[^6] North Korea did not say where the sites are.",
+        "Kim said the country must respond to nuclear threats around the Korean peninsula. He accused the US of helping allies get nuclear-powered submarines, and called low-yield battlefield nuclear weapons urgent, naming South Korea as the \"most dangerous enemy state\".[^6] South Korea's defence ministry said it takes those remarks seriously.[^6] Last week the head of the UN nuclear watchdog, Rafael Grossi, said North Korea is expanding its main enrichment plant at Yongbyon.[^6]",
+        "The timing matters. Trump offered to meet Kim during his recent Asia trip; there was no meeting and no public reply. Trump now says Kim \"didn't ignore\" him and that a meeting will come.[^6] A South Korean analyst told AP that Kim is showing off his arsenal and rejecting any talks on giving it up, possibly ahead of a party conference at year's end.[^6]",
+        "My read: North Korea is signalling that its weapons are not up for negotiation, while leaving room for talks on other terms. Watch the year-end party meeting for new weapons goals."
       ],
       "differences": null
     },
     {
-      "id": "gaza-hamas-officials-killed-meningitis",
-      "heading": "Israel kills two Hamas security chiefs as Gaza declares a meningitis alert",
-      "date": "2026-11-25",
-      "status": "confirmed",
-      "summary": "Israeli strikes killed the head of Hamas's internal security and its northern Gaza chief on consecutive days; Palestinian outlets say the second strike also killed his wife and two daughters.[^3] Gaza's Health Ministry has issued an epidemic alert for meningitis.[^4]",
+      "id": "kushner-israel-wartime-mindset",
+      "heading": "Kushner says Israel must drop its 'wartime mindset' as Gaza strikes continue",
+      "date": "2026-11-26",
+      "status": "developing",
+      "summary": "US envoy Jared Kushner said Israel should move from a \"wartime mindset\" to economic deals, and that the Gaza plan's next steps have not happened yet.[^7][^8] Gaza hospital officials say Israeli strikes killed 10 people overnight into Thursday.[^1]",
       "lead": {
-        "title": "Israel kills second Hamas internal security chief in two days in IDF strike",
-        "outlet": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-news/defense-news/article-916053",
-        "date": "2026-11-25"
+        "title": "Kushner urges Israel to shed 'wartime mindset,' backs Gaza peace plan",
+        "outlet": "Yahoo News (The Jerusalem Post)",
+        "url": "https://www.yahoo.com/news/politics/articles/kushner-urges-israel-shed-wartime-084823495.html",
+        "date": "2026-11-26"
       },
       "alsoReported": [
         {
-          "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-          "outlet": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
-        },
-        {
-          "title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
-          "outlet": "Bloomberg (via Military.com)",
-          "url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal"
+          "title": "US special envoy Jared Kushner urges Israel to shift from \"wartime mindset\" to economic diplomacy",
+          "outlet": "The Tribune (ANI)",
+          "url": "https://tribuneindia.com/news/usa-news/us-special-envoy-jared-kushner-urges-israel-to-shift-from-wartime-mindset-to-economic-diplomacy"
         }
       ],
       "eventId": "gaza",
       "article": [
-        "A ceasefire between Israel and Hamas has held, loosely, since October 2025, but strikes and deadly incidents continue. On Tuesday the Israeli military and the Shin Bet security service said they killed Naeem Abu Nahel, head of Hamas's internal security for the whole Gaza Strip.[^3] On Wednesday a strike on a home in Gaza City killed Muhammad Abu al-Ouf, Hamas's internal security chief for northern Gaza. Palestinian outlets reported that his wife and two daughters were also killed.[^3] Prime Minister Netanyahu and Defence Minister Katz praised what they called an \"offensive policy\".[^3]",
-        "Health is a second worry. Gaza's Health Ministry issued an epidemic alert for meningitis, an infection of the lining around the brain. A Gaza doctor told Al Jazeera there were 272 cases in October against a normal 30 to 50 a month, with 15 deaths so far this year.[^4] On Tuesday, strikes killed seven people in several parts of Gaza, according to local officials cited by Al Jazeera.[^4]",
-        "The bigger plan is stuck. Josh Gruenbaum, a senior adviser to the US-led Board of Peace that is meant to oversee Gaza's transition, publicly blamed Netanyahu for obstructing it.[^5] He said Israel has not signed an agreement for an international stabilisation force after more than six months, and vetted Palestinian police recruits are waiting for permission to train in Egypt. Netanyahu's office did not comment.[^5] About $18 billion in rebuilding aid depends on the plan moving forward.[^5]",
-        "What next: Israel is also between governments. Gadi Eisenkot has until Dec 6 to form a coalition. My read: the strikes and the political vacuum both make the next phase of the plan, including Hamas disarmament and an Israeli pullback, less likely to start soon."
+        "Since a ceasefire took hold in Gaza in October 2025, the US-led Board of Peace has been trying to carry out Donald Trump's 20-point plan: Hamas gives up its weapons, Israeli troops pull back in phases, and a temporary Palestinian technocratic government runs Gaza.[^7] Jared Kushner, Trump's son-in-law and special envoy, is one of the plan's main authors.",
+        "In a podcast interview published Wednesday, Kushner said Israel needs to leave its \"wartime mindset\" and focus on economic diplomacy, such as data centres and energy projects with Egypt in Sinai.[^7][^8] He said neither Israeli withdrawal nor Hamas disarmament has happened yet, and that if they do not, Hamas stays in control or the UN or the Palestinian Authority takes over.[^7] He said Netanyahu signed the deal but \"doesn't always make things easy\", and that Israel's election and coalition talks have slowed the plan.[^7][^8] He also called the Palestinian Authority corrupt and Hamas a terrorist group.[^8]",
+        "On the ground, Gaza hospital officials told AP that Israeli strikes and a shooting killed 10 Palestinians overnight into Thursday. Netanyahu and Defence Minister Israel Katz say the army killed Khaled Abu Nada, whom they describe as a Hamas official for economic and education affairs.[^1] Gaza's health ministry, which does not separate civilians from fighters, says at least 74,746 Palestinians have died in the war.[^1]",
+        "Why it matters: Kushner's comments are some of the clearest public pressure from the Trump team on Netanyahu. Watch who forms Israel's next government; Kushner said any prime minister will have to make Gaza a priority.[^8]"
       ],
-      "differences": "Israel says it is targeting Hamas security commanders under the truce; Palestinian outlets report family members killed. A US-led board envoy blames Netanyahu for stalling the plan. Netanyahu's office did not comment on the envoy's criticism.[^3][^5]"
+      "differences": "Kushner says Israel's election and Netanyahu's caution have slowed the plan.[^7] Israel's government says its strikes target Hamas officials, while Gaza health officials report the dead without separating civilians from fighters.[^1]"
     },
     {
-      "id": "eu-summit-budget-ukraine-loan",
-      "heading": "EU leaders meet in Brussels on a 2028-2034 budget and a €45B loan for Ukraine",
-      "date": "2026-11-26",
-      "status": "developing",
-      "summary": "The 27 EU leaders begin a two-day summit on a seven-year budget that includes €100 billion for Ukraine, plus a new €45 billion loan for 2027.[^6] Diplomats expect a final deal only at next month's summit.[^6]",
-      "lead": {
-        "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine",
-        "outlet": "Associated Press (via WSOC-TV)",
-        "url": "https://www.wsoctv.com/news/world/eu-leaders-seek/R3SE63UTIU2EDGLOVDFEM4S6PI/",
-        "date": "2026-11-26"
-      },
-      "alsoReported": [],
-      "eventId": "ukraine-war",
-      "article": [
-        "The European Union sets its budget seven years at a time. On Thursday its leaders began a two-day summit in Brussels to narrow their differences over the 2028 to 2034 budget, which could equal 1% to 1.2% of the bloc's gross national income.[^6] European Council President António Costa has proposed a version about 10% smaller than the European Commission's plan, plus a new EU-wide tax on digital advertising that could raise about €5 billion a year.[^6]",
-        "Members split into familiar camps. Germany, Austria, the Netherlands and Sweden, which pay in more than they get back, want to spend less. A group led by France and Italy defends farm money and funds for poorer regions, which make up about two-thirds of the budget.[^6]",
-        "Ukraine is the sharpest question. The draft sets aside €100 billion for Ukraine over seven years. Separately, leaders must decide on a €45 billion loan for 2027, €20 billion for the economy and €25 billion for the armed forces, which the Commission would borrow on markets.[^6] German Chancellor Friedrich Merz has threatened to block the budget without a shared commitment to Ukraine from every member, while Bulgaria, the Czech Republic, Hungary and Slovakia oppose using EU money for military aid.[^6]",
-        "Why it matters: Russian strikes on Ukraine's energy system and Black Sea trade are straining its finances, and US support has become less certain.[^6] Elections could also change the room: Spain votes on Sunday, and France, Italy and Poland vote next year.[^6] This is a judgment, but a deal on the Ukraine loan at December's summit would show whether Europe can carry more of the cost on its own."
-      ],
-      "differences": "Germany says the cost of supporting Ukraine must be shared by all members; four central European governments reject EU money for military aid; net payers and the cohesion group disagree on the budget's size.[^6]"
-    },
-    {
-      "id": "us-inflation-october-fed-hike",
-      "heading": "US inflation runs hotter in October, making a December Fed rate hike near certain",
+      "id": "fcc-spacex-starmind-satellites",
+      "heading": "US regulator lets SpaceX launch up to a million AI data-centre satellites",
       "date": "2026-11-25",
       "status": "confirmed",
-      "summary": "The Fed's preferred inflation gauge rose to 3.8% a year in October, and core inflation to 3.3%, slightly above forecasts.[^7] Revised data show the US economy grew at a 4.3% annual rate in the third quarter.[^8]",
+      "summary": "The FCC approved SpaceX's \"Starmind\" plan for up to 1,000,000 satellites that would run AI computing in orbit.[^9] Astronomers and rival satellite firms objected, and experts doubt the full number will ever fly.[^9][^10]",
       "lead": {
-        "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-        "outlet": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+        "title": "US grants SpaceX approval for 1 million space data centres",
+        "outlet": "Al Jazeera (with Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
         "date": "2026-11-25"
       },
       "alsoReported": [
         {
-          "title": "US economy grew at a solid pace in third quarter, revised data shows",
-          "outlet": "Fox Business",
-          "url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "The US Federal Reserve, the central bank, tries to keep inflation near 2% a year, mainly by raising or lowering the interest rate banks charge each other. Its favourite measure of prices is called PCE, for personal consumption expenditures. On Wednesday, data showed PCE inflation rose to 3.8% in October from 3.6% in September.[^7] Core PCE, which leaves out food and energy because they jump around, rose to 3.3%, a little above the 3.2% economists expected.[^7]",
-        "The same day, a revised estimate showed the economy grew at a 4.3% annual rate from July to September, faster than in the first half of the year.[^8] A strong economy and rising prices together usually push a central bank to raise rates.",
-        "Fed officials have mostly settled on a December increase but disagree on its size, according to Yahoo Finance.[^7] Governor Christopher Waller said a quarter-point hike would need a signal of another in January, or else a half-point move. Governor Lisa Cook warned the Fed risks falling \"behind the curve\". New York Fed President John Williams argued against \"dramatic action\", noting that rate changes take one to two years to work fully.[^7]",
-        "Why it matters beyond the US: higher US rates tend to lift borrowing costs and the US dollar around the world, including for Canadian mortgages and businesses. The Fed decides on Dec 9. My read: the war-driven rise in energy prices is the main reason inflation has climbed, so oil prices and the Iran talks may matter as much as the Fed's own choices."
-      ],
-      "differences": null
-    },
-    {
-      "id": "ustr-section-301-tariffs-14-economies",
-      "heading": "US proposes new tariffs of 15% to 40% on 14 economies, including China and the EU",
-      "date": "2026-11-25",
-      "status": "developing",
-      "summary": "The US Trade Representative found that factory overcapacity in 14 economies harms US commerce and proposed new tariffs, from 15% on the EU and Japan to 35% on Vietnam.[^9] Canada is not on the list; Mexico was left undecided.[^9]",
-      "lead": {
-        "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
-        "outlet": "STR Trade Report",
-        "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
-        "date": "2026-11-25"
-      },
-      "alsoReported": [
-        {
-          "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
-          "outlet": "Global News",
-          "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/"
-        }
-      ],
-      "eventId": "us-politics-economy",
-      "article": [
-        "A tariff is a tax on imported goods, paid when they enter a country. Section 301 is a US trade law that lets the government respond to foreign practices it judges unfair. After an investigation, the US Trade Representative (USTR) found that \"structural excess capacity\" in manufacturing in 14 economies, meaning factories built to produce far more than their markets need, is unreasonable and burdens US business.[^9]",
-        "The proposed rates are 15% for the EU, Japan, South Korea, Switzerland and Taiwan; 18% for Bangladesh, Cambodia, Indonesia, Malaysia and Thailand; 20% for China and Singapore; 25% for India; and 35% for Vietnam.[^9] Each has an alternate rate: higher if trade talks go badly, lower if a country signs a trade agreement with the US. China's could rise to 40%.[^9]",
-        "Some goods are exempt, including those already covered by other US tariffs on steel, aluminum, vehicles, lumber, medicines and semiconductors.[^9] The public can comment until Jan 5, a hearing is set for Jan 25, and no start date has been given.[^9]",
-        "Canada is not among the 14. Separately, US Trade Representative Jamieson Greer said on Wednesday that Washington wants a deal that \"accommodates\" Canada on steel, aluminum and autos, though sticking points remain.[^10]",
-        "My read: the proposal works as both a threat and a bargaining tool, since lower rates are offered to countries that make deals. Who pays is a real question: tariffs are paid by importers and often passed on to shoppers, at a time when US inflation is already rising."
-      ],
-      "differences": null
-    },
-    {
-      "id": "us-chip-rules-slow-china-ai-labs",
-      "heading": "New US chip rules slow China's AI labs, and Nvidia pauses Southeast Asia shipments",
-      "date": "2026-11-25",
-      "status": "developing",
-      "summary": "Reuters sources say new US limits on renting powerful chips abroad, and a push against copying US models, are delaying Chinese AI releases.[^11] Nvidia has told partners to stop shipping AI servers to four Southeast Asian countries, the FT reports.[^13]",
-      "lead": {
-        "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-        "outlet": "The Standard (Reuters)",
-        "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
-        "date": "2026-11-25"
-      },
-      "alsoReported": [
-        {
-          "title": "Nvidia halts chip shipments to South-East Asia amid US crackdown",
-          "outlet": "The National",
-          "url": "https://thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown"
+          "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
+          "outlet": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
         }
       ],
       "eventId": "ai-race",
       "article": [
-        "Training a top AI model takes huge numbers of advanced chips, mostly designed by Nvidia. The US already bans selling the best ones to China, so Chinese firms have rented computing power in data centres abroad. A new US rule in force since Nov 19 requires a licence for Chinese firms using large amounts of that computing overseas, roughly the equivalent of 750 Nvidia H100 chips or more, and also requires licences for advanced chip shipments to several countries.[^11]",
-        "Reuters, citing people at the companies, reports the effects. Z.AI, also called Zhipu, missed the planned November launch of its largest model, which could slip to early 2027. Moonshot AI expects its six-month release cycle to stretch to a year or more.[^11] US labs are also pushing back on \"distillation\", training a model on another model's answers; Anthropic said in September it had seen about 200 million suspect exchanges linked to Chinese developers.[^11] One Chinese researcher told The Information: \"We are done.\"[^12]",
-        "Chinese firms are adapting. MiniMax says it will speed up its use of chips from Huawei and Alibaba, and Alibaba's chief executive said domestic chips will \"underpin all this training\".[^11]",
-        "The rule is also hitting Southeast Asia. The National, citing the Financial Times, reports Nvidia told partners to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia while licences are sorted out; Dell and Supermicro have told customers their orders will not be authorised.[^13]",
-        "My read: the rule may widen the US lead for a while, but it also gives China a strong reason to build its own chips faster. These reports rely on unnamed sources, so the size of the delays is not yet certain."
+        "AI needs huge amounts of computing power, electricity and cooling. Elon Musk's SpaceX argues some of that can move to space, where sunlight is constant. On Wednesday the US Federal Communications Commission, which licenses satellites, approved its Starmind network of up to one million orbiting \"compute modules\". FCC chair Brendan Carr called it a bold new frontier.[^9]",
+        "For scale, about 17,000 satellites exist in total today.[^9] The licence sets deadlines: a first satellite by 2033, half the network by 2038 and all of it by 2040.[^10] Musk says launches could start in late 2027 and ramp up in 2028 and 2029; SpaceX is building the satellites with Nvidia.[^10] Each would be large, with a wingspan of about 75 metres.[^10]",
+        "Critics raised several worries. The American Astronomical Society said it is \"gravely concerned\" about effects on astronomy, since bright satellites streak across telescope images. Rival operators Amazon Leo and Viasat raised radio interference, and Amazon argued SpaceX would never deploy all of them. The FCC rejected their petitions, but delayed a decision on how SpaceX would dispose of satellites in high orbits.[^9][^10]",
+        "My read: a licence is permission, not proof. Companies often ask for more satellites than they launch: SpaceX sought 42,000 Starlink satellites and has just over 11,000 up.[^9] The bigger signal is that governments now treat AI computing as infrastructure worth crowding orbit for."
       ],
-      "differences": "Reuters' sources describe serious delays at Chinese labs; Chinese executives say domestic chips will fill the gap. Cloud operators say the licence process is unclear.[^11][^13]"
+      "differences": "The FCC says its rules address interference and astronomy concerns; the American Astronomical Society says the licence lacks formal coordination requirements.[^10]"
     }
   ],
+  "question": {
+    "type": "how-do-we-know",
+    "text": "Kuwait says Iranian drones killed two Italians and Iran denies it; Iran says tankers hit mines while others report unknown projectiles. When the parties to a war contradict each other, what kind of evidence would actually change your mind, and who could provide it?"
+  },
+  "read": {
+    "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
+    "outlet": "Spaceflight Now",
+    "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+    "kind": "news",
+    "minutes": 8,
+    "summary": "A detailed look at what the FCC approved for SpaceX's orbital AI network: deadlines, satellite size, links, debris rules, and the objections from astronomers and rival operators."
+  },
+  "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "The Maritime Executive",
-      "title": "Riyadh, Hodeidah and Ras Tanura Hit in Saudi-Houthi Exchange of Fire",
-      "url": "https://maritime-executive.com/index.php/article/riyadh-hodeidah-and-ras-tanura-hit-in-saudi-houthi-exchange-of-fire",
-      "date": "2026-11-24",
+      "outlet": "KSAT (AP)",
+      "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+      "url": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
+      "date": "2026-11-26",
       "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "Al-Monitor (Reuters)",
-      "title": "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
-      "url": "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq",
-      "date": "2026-11-19",
+      "outlet": "CBS News",
+      "title": "Live Updates: Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "date": "2026-11-26",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "The Jerusalem Post",
-      "title": "Israel kills second Hamas internal security chief in two days in IDF strike",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-916053",
-      "date": "2026-11-25",
+      "outlet": "Politis",
+      "title": "EU Leaders Fail to Agree Long-Term Budget, Push Decisions to December",
+      "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Al Jazeera",
-      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
-      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
-      "date": "2026-11-24",
-      "singleSource": true
+      "outlet": "Euronews",
+      "title": "EU budget and Ukraine aid headed for collision at turbulent summit",
+      "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit",
+      "date": "2026-11-26",
+      "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Bloomberg (via Military.com)",
-      "title": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
-      "url": "https://www.military.com/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal",
-      "date": "2026-11-24",
-      "singleSource": true
+      "outlet": "Euronews",
+      "title": "EU summit: Lengthy budget talks fail to yield breakthrough",
+      "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
+      "date": "2026-11-26",
+      "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "Associated Press (via WSOC-TV)",
-      "title": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine",
-      "url": "https://www.wsoctv.com/news/world/eu-leaders-seek/R3SE63UTIU2EDGLOVDFEM4S6PI/",
+      "outlet": "WLRN (NPR / AP)",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.wlrn.org/npr-breaking-news/2026-11-26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
       "date": "2026-11-26",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Yahoo Finance",
-      "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-      "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
-      "date": "2026-11-25",
+      "outlet": "Yahoo News (The Jerusalem Post)",
+      "title": "Kushner urges Israel to shed 'wartime mindset,' backs Gaza peace plan",
+      "url": "https://www.yahoo.com/news/politics/articles/kushner-urges-israel-shed-wartime-084823495.html",
+      "date": "2026-11-26",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "Fox Business",
-      "title": "US economy grew at a solid pace in third quarter, revised data shows",
-      "url": "https://www.foxbusiness.com/economy/us-economy-q3-2026-second-estimate",
-      "date": "2026-11-25",
+      "outlet": "The Tribune (ANI)",
+      "title": "US special envoy Jared Kushner urges Israel to shift from \"wartime mindset\" to economic diplomacy",
+      "url": "https://tribuneindia.com/news/usa-news/us-special-envoy-jared-kushner-urges-israel-to-shift-from-wartime-mindset-to-economic-diplomacy",
+      "date": "2026-11-26",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "STR Trade Report",
-      "title": "Section 301 Tariffs of 15 to 40 Percent Proposed on 14 Trading Partners",
-      "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners",
+      "outlet": "Al Jazeera (with Reuters)",
+      "title": "US grants SpaceX approval for 1 million space data centres",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
       "date": "2026-11-25",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Global News",
-      "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
-      "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
-      "date": "2026-11-25",
-      "singleSource": false
-    },
-    {
-      "id": 11,
-      "outlet": "The Standard (Reuters)",
-      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
-      "date": "2026-11-25",
-      "singleSource": false
-    },
-    {
-      "id": 12,
-      "outlet": "SBS News (citing The Information)",
-      "title": "'We Are Done': China's AI Development Stalls Amid U.S. Chip and Token Restrictions",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865057",
-      "date": "2026-11-26",
-      "singleSource": false
-    },
-    {
-      "id": 13,
-      "outlet": "The National",
-      "title": "Nvidia halts chip shipments to South-East Asia amid US crackdown",
-      "url": "https://thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown",
+      "outlet": "Spaceflight Now",
+      "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
+      "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
       "date": "2026-11-26",
       "singleSource": false
     }

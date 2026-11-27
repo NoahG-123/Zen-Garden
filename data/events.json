@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-26",
+  "reviewed": "2026-11-27",
   "events": [
     {
       "id": "iran-war",
@@ -7,7 +7,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "A war between the US, Israel and Iran that began in February 2026 has squeezed the Strait of Hormuz, a narrow sea lane that carried about a fifth of the world's oil and gas. It shapes fuel prices, inflation and security from the Gulf to Canada.",
-      "standing": "The IRGC says two tankers on an \"unauthorised route\" hit mines in Hormuz on Nov 25; Iran says it can withstand the US blockade, with inflation near 89%.[^351][^352] The Yemen front is heating up: Houthi drones hit Riyadh's PIF Tower, injuring 11, Saudi Arabia struck Hodeidah port, and fires broke out at Ras Tanura.[^350] Iran's seven conditions for talks stand; Qatar keeps mediating.[^346][^339]",
+      "standing": "Kuwait says Iranian drones killed two Italian technicians on Nov 26; Iran denies it, and the EU's von der Leyen urged more pressure on Tehran.[^366][^367] Two more tankers were hit near Hormuz; weekly crossings fell from 217 to 147 in November.[^367] The Houthis say they fired at Jeddah and Jazan; Saudi Arabia says a Jazan refinery strike killed a worker.[^366] Iran's conditions for talks stand.[^346]",
       "heading": {
         "likely": "My read: a slow standoff, with the blockade and mines keeping shipping slow and oil volatile, while Washington says it can wait and indirect talks stall.",
         "possible": "Talks restart through Qatar and lead to the blockade being eased; or a disputed incident, like the Bahrain strike claim, triggers renewed major US strikes.",
@@ -24,7 +24,7 @@
         },
         {
           "date": "2026-12-06",
-          "what": "Whether the Houthis strike Jeddah or other Saudi Red Sea ports, as they threatened"
+          "what": "Whether Houthi fire on Saudi Red Sea ports such as Jeddah causes real damage"
         },
         {
           "date": "2026-12-11",
@@ -210,7 +210,9 @@
         347,
         350,
         351,
-        352
+        352,
+        366,
+        367
       ]
     },
     {
@@ -219,7 +221,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "The largest war in Europe since 1945 shapes energy and food prices, defence spending and NATO's future. It is also testing whether the US and Europe still act together, and how wars like this one end.",
-      "standing": "EU leaders meet Nov 26-27 on a 2028-2034 budget with €100B for Ukraine and a new €45B loan for 2027; diplomats expect a deal only in December.[^353] Putin says retaliation for Ukraine's refinery strikes is \"inevitable\".[^354] Russia warned Estonia of \"open war\"; Estonia closes its border crossings on Dec 1.[^344] A prisoner swap agreed in the UAE has not yet begun, and no new talks are set.[^322]",
+      "standing": "EU leaders ended a Nov 26 summit without a 2028-2034 budget deal; 24 states back a €45B loan for Ukraine's 2027 gap, with Hungary, Slovakia and Czechia out. Both return Dec 17-18.[^368] Putin says retaliation for Ukraine's refinery strikes is \"inevitable\".[^354] Russia warned Estonia of \"open war\"; Estonia closes its border crossings on Dec 1.[^344] An agreed prisoner swap has not yet begun.[^322]",
       "heading": {
         "likely": "My read: strikes on energy sites continue into winter on both sides, with more US pressure on Kyiv and Europe carrying more of the cost of supporting Ukraine.",
         "possible": "A new US-brokered round produces a limited deal, such as a real energy truce, a prisoner swap, or a short ceasefire that Zelenskyy says could allow elections.",
@@ -235,8 +237,8 @@
           "what": "Whether the agreed prisoner exchange actually takes place, and how many are freed"
         },
         {
-          "date": "2026-12-31",
-          "what": "December EU summit, where diplomats expect a deal on the budget and the €45B Ukraine loan"
+          "date": "2026-12-18",
+          "what": "EU summit on Dec 17-18: the €45B Ukraine loan and the 2028-2034 budget"
         },
         {
           "date": "2026-12-31",
@@ -405,7 +407,8 @@
         344,
         345,
         353,
-        354
+        354,
+        368
       ]
     },
     {
@@ -414,7 +417,7 @@
       "status": "stalled",
       "added": "2026-10-15",
       "whyHere": "A year after the October 2025 ceasefire, the shooting has slowed but the big questions are open: who governs and secures Gaza, whether Hamas disarms, who pays to rebuild, and whether Palestinians get a state. Israel votes on October 27, and the answers shape the whole region.",
-      "standing": "Israel killed Hamas's internal security chief on Nov 24 and its northern Gaza security chief on Nov 25; Palestinian outlets say his wife and daughters also died.[^355] Gaza declared a meningitis epidemic alert.[^356] A Board of Peace adviser publicly blamed Netanyahu for stalling the plan; his office did not comment.[^357] Eisenkot signed a first coalition deal, with Lieberman's party; his deadline is Dec 6.[^358]",
+      "standing": "US envoy Kushner said Israel must drop its \"wartime mindset\"; he says Hamas disarmament and Israeli pullback have not begun and Israel's election slowed the plan.[^369][^371] Gaza hospital officials say strikes killed 10 overnight into Nov 26; Israel says it killed Hamas official Khaled Abu Nada.[^366] Gaza declared a meningitis alert.[^356] Eisenkot's deadline to form a government is Dec 6.[^358]",
       "heading": {
         "likely": "My read: the uneasy truce continues, with regular deadly incidents, while the US-backed Board of Peace waits for Israel's election and a new government before pushing the next phase.",
         "possible": "A partial deal: Hamas begins handing weapons to the Palestinian committee, foreign troops start arriving and more aid and building materials enter, opening the way to a phased Israeli pullback.",
@@ -582,7 +585,10 @@
         355,
         356,
         357,
-        358
+        358,
+        366,
+        369,
+        371
       ]
     },
     {
@@ -771,7 +777,7 @@
       "status": "escalating",
       "added": "2026-10-15",
       "whyHere": "AI now shapes jobs, schools, energy use, stock markets and US-China rivalry at once. Huge sums ride on it, governments disagree on how to make it safe, and nobody yet knows whether the payoff will match the spending.",
-      "standing": "Reuters sources say new US limits on renting chips abroad are delaying Chinese AI models at Zhipu and Moonshot.[^365] Nvidia told partners to stop shipping AI servers to four Southeast Asian countries while licences are sorted out.[^364] Schumer accused Jensen Huang of breaking export law, an allegation with no finding; Huang testifies next week.[^363] A US jury convicted Huawei on 10 of 12 counts.[^348]",
+      "standing": "The FCC licensed SpaceX to launch up to a million AI data-centre satellites by 2040, over astronomers' objections.[^370] Reuters sources say US limits on renting chips abroad are delaying Chinese models at Zhipu and Moonshot.[^365] Nvidia paused AI server shipments to four Southeast Asian countries.[^364] Huang testifies to the Senate next week.[^363] A US jury convicted Huawei on 10 of 12 counts.[^348]",
       "heading": {
         "likely": "Spending keeps rising into 2027 while the US argues over one national rulebook versus state laws, and China keeps building its own chips. Each strong earnings report will be read as a test of the boom.",
         "possible": "AI stocks swing sharply as each new report tests the boom; or Congress, run by Democrats from January, tightens chip-export rules after the Huang affair.",
@@ -981,7 +987,8 @@
         349,
         363,
         364,
-        365
+        365,
+        370
       ]
     }
   ],
@@ -3746,6 +3753,54 @@
       "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
       "url": "https://www.thestandard.com.hk/innovation/article/349741/US-chip-curbs-distillation-crackdown-threaten-Chinese-AI-model-development-sources-say",
       "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 366,
+      "outlet": "KSAT (AP)",
+      "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+      "url": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 367,
+      "outlet": "CBS News",
+      "title": "Live Updates: Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 368,
+      "outlet": "Politis",
+      "title": "EU Leaders Fail to Agree Long-Term Budget, Push Decisions to December",
+      "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 369,
+      "outlet": "Yahoo News (The Jerusalem Post)",
+      "title": "Kushner urges Israel to shed 'wartime mindset,' backs Gaza peace plan",
+      "url": "https://www.yahoo.com/news/politics/articles/kushner-urges-israel-shed-wartime-084823495.html",
+      "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 370,
+      "outlet": "Al Jazeera (with Reuters)",
+      "title": "US grants SpaceX approval for 1 million space data centres",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
+      "date": "2026-11-25",
+      "singleSource": false
+    },
+    {
+      "id": 371,
+      "outlet": "The Tribune (ANI)",
+      "title": "US special envoy Jared Kushner urges Israel to shift from \"wartime mindset\" to economic diplomacy",
+      "url": "https://tribuneindia.com/news/usa-news/us-special-envoy-jared-kushner-urges-israel-to-shift-from-wartime-mindset-to-economic-diplomacy",
+      "date": "2026-11-26",
       "singleSource": false
     }
   ]

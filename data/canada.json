@@ -1,69 +1,37 @@
 {
-  "date": "2026-11-26",
-  "summary": "Washington says it wants a trade deal that accommodates Canada, Ottawa presses Stellantis over Brampton, and a plan to speed land purchases for high-speed rail draws fire.",
+  "date": "2026-11-27",
+  "summary": "A quieter day in Ottawa: the Supreme Court rules today on Quebec's religious-symbols law, and Carney heads to Yellowknife to announce a major northern project.",
   "body": [
-    "US Trade Representative Jamieson Greer said on Wednesday that the US wants a deal that \"accommodates\" Canada on steel, aluminum and autos, which now face 25% US tariffs that President Trump has said will double to 50% on Jan. 1.[^1] Canadian Press reports the US offered to cut the auto tariff to 15%, but without an exemption for cars made under North American trade rules, and Trade Minister Dominic LeBlanc says Canada is not about to sign.[^2] Canada was not among the 14 economies hit by new US tariff proposals this week (see World).",
-    "In Ontario, Industry Minister Mélanie Joly called a meeting with Stellantis \"productive\" after Ottawa served notice that the company broke a 2022 deal worth up to $529 million to retool its Brampton and Windsor plants.[^3] Stellantis moved Jeep production from Brampton to Illinois last year, laying off more than 2,000 workers, and has agreed to sell the plant to defence maker Roshel, which says it could create more than 2,000 jobs, with laid-off workers first in line.[^3]",
-    "Ottawa is also defending a plan, tucked into a 500-page budget motion, to give the Alto high-speed rail project wider powers to expropriate land, meaning to take it from owners with compensation. The roughly 1,000 km line from Toronto to Quebec City would cross 8,000 to 10,000 parcels and cost an estimated $60 billion to $90 billion.[^4] Transport Minister Steven MacKinnon says there is \"no removal of due process\"; the Conservatives and the Bloc call the change heavy-handed.[^4]",
-    "And Immigration Minister Lena Diab says a one-time plan to grant permanent residence will be capped at 200,000 people, half of them temporary workers chosen by provinces. Conservatives say it could strain housing; the government says most of those people already live here.[^5]"
+    "The biggest Canadian story of the day lands this morning: the Supreme Court of Canada is set to rule on Friday on Quebec's secularism law, known as Bill 21.[^1] The law bars many public-sector workers, including teachers, from wearing religious symbols such as hijabs, turbans or crosses on the job. Quebec shielded it with the notwithstanding clause, a section of the Charter of Rights that lets a legislature override some rights for five years at a time.[^1] Challengers include teachers, religious and civil-liberties groups, and the English Montreal School Board.[^1]",
+    "The stakes go beyond Quebec. The ruling could say whether courts can limit how governments use the notwithstanding clause, which Alberta and Saskatchewan have also used recently.[^1] Quebec Premier Paul St-Pierre Plamondon says Quebec's right to make its own laws is at stake, while the National Council of Canadian Muslims says that if governments can override the Charter at will, rights become \"suggestions\".[^1] The decision was not public at the time of writing.",
+    "Also today, Prime Minister Mark Carney is in Yellowknife with Northwest Territories Premier R.J. Simpson to announce what his office calls a major new initiative to \"connect and transform Canada's North\". No details were released in advance.[^2] Otherwise it was a quiet news day."
   ],
-  "differences": "On Alto, the government says landowners keep due process; Conservatives call it \"a bulldozer\" and the Bloc calls it authoritarian.[^4] On immigration, Conservatives warn of strain on housing and jobs, while Ottawa says most applicants are already in Canada.[^5]",
+  "differences": "Quebec's government says the case is about Quebec's right to decide its own laws; challengers say it is about whether governments can remove religious freedoms by overriding the Charter.[^1]",
   "reads": [
     {
-      "title": "Ottawa defends plan to expand expropriation powers for Alto high-speed rail",
-      "outlet": "The Hub",
-      "url": "https://thehub.ca/2026/11/26/ottawa-defends-plan-to-expand-expropriation-powers-for-alto-high-speed-rail/",
-      "kind": "analysis",
-      "summary": "What the new land powers would allow, how many farms and properties lie on the route, and why all three opposition parties object."
-    },
-    {
-      "title": "Joly 'convinced' Ottawa can find a path forward with Stellantis as talks continue",
-      "outlet": "The Canadian Press (via Yahoo Finance)",
-      "url": "https://ca.finance.yahoo.com/news/lot-noise-joly-meets-stellantis-145609763.html",
+      "title": "Supreme Court to rule on Quebec's secularism law. Experts say the stakes could not be higher",
+      "outlet": "CP24 (CTV News)",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
       "kind": "news",
-      "summary": "The state of talks over the idle Brampton plant, the federal default notice, the planned sale to Roshel and the dispute with Unifor."
+      "summary": "What Bill 21 does, who is challenging it, why the notwithstanding clause is central, and a second constitutional case about the oath to the King."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "Global News",
-      "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
-      "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
-      "date": "2026-11-25",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "The Hub (Canadian Press)",
-      "title": "U.S. trade chief says Canada tariff deal is close, flags concern over China pact",
-      "url": "https://thehub.ca/2026/11/24/u-s-trade-chief-says-canada-tariff-deal-is-close-flags-concern-over-china-pact",
-      "date": "2026-11-24",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "The Canadian Press (via Yahoo Finance)",
-      "title": "Joly 'convinced' Ottawa can find a path forward with Stellantis as talks continue",
-      "url": "https://ca.finance.yahoo.com/news/lot-noise-joly-meets-stellantis-145609763.html",
-      "date": "2026-11-25",
-      "singleSource": false
-    },
-    {
-      "id": 4,
-      "outlet": "The Hub",
-      "title": "Ottawa defends plan to expand expropriation powers for Alto high-speed rail",
-      "url": "https://thehub.ca/2026/11/26/ottawa-defends-plan-to-expand-expropriation-powers-for-alto-high-speed-rail/",
+      "outlet": "CP24 (CTV News)",
+      "title": "Supreme Court to rule on Quebec's secularism law. Experts say the stakes could not be higher",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
       "date": "2026-11-26",
       "singleSource": false
     },
     {
-      "id": 5,
-      "outlet": "The Canadian Press (via CP24)",
-      "title": "Minister says one-time plan for permanent residents capped at 200,000 entries",
-      "url": "https://www.cp24.com/news/canada/2026/11/24/minister-says-one-time-plan-for-permanent-residents-capped-at-200000-entries/",
-      "date": "2026-11-24",
-      "singleSource": false
+      "id": 2,
+      "outlet": "Prime Minister of Canada",
+      "title": "Friday, November 27, 2026 (itinerary)",
+      "url": "https://www.pm.gc.ca/en/news/media-advisories/2026/11/26/friday-november-27-2026",
+      "date": "2026-11-26",
+      "singleSource": true
     }
   ]
 }
