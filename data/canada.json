@@ -1,37 +1,84 @@
 {
-  "date": "2026-11-27",
-  "summary": "A quieter day in Ottawa: the Supreme Court rules today on Quebec's religious-symbols law, and Carney heads to Yellowknife to announce a major northern project.",
+  "date": "2026-11-28",
+  "summary": "The Supreme Court upholds most of Quebec's Bill 21 and says the notwithstanding clause has few limits; Ottawa fast-tracks the Mackenzie Valley Highway.",
   "body": [
-    "The biggest Canadian story of the day lands this morning: the Supreme Court of Canada is set to rule on Friday on Quebec's secularism law, known as Bill 21.[^1] The law bars many public-sector workers, including teachers, from wearing religious symbols such as hijabs, turbans or crosses on the job. Quebec shielded it with the notwithstanding clause, a section of the Charter of Rights that lets a legislature override some rights for five years at a time.[^1] Challengers include teachers, religious and civil-liberties groups, and the English Montreal School Board.[^1]",
-    "The stakes go beyond Quebec. The ruling could say whether courts can limit how governments use the notwithstanding clause, which Alberta and Saskatchewan have also used recently.[^1] Quebec Premier Paul St-Pierre Plamondon says Quebec's right to make its own laws is at stake, while the National Council of Canadian Muslims says that if governments can override the Charter at will, rights become \"suggestions\".[^1] The decision was not public at the time of writing.",
-    "Also today, Prime Minister Mark Carney is in Yellowknife with Northwest Territories Premier R.J. Simpson to announce what his office calls a major new initiative to \"connect and transform Canada's North\". No details were released in advance.[^2] Otherwise it was a quiet news day."
+    "The Supreme Court of Canada on Friday upheld almost all of Quebec's Bill 21, which bars many public employees in positions of authority, including teachers, police officers and government lawyers, from wearing religious symbols such as hijabs or turbans at work.[^1][^4] Quebec protected the law with the notwithstanding clause (section 33 of the Charter), which lets a legislature override some rights for five years at a time. Chief Justice Richard Wagner wrote that the clause has no limits beyond its own text, and that Quebec used it validly.[^2][^4] All seven judges struck down one part: a rule that members of the National Assembly must uncover their faces, which breaks the Charter's democratic rights, something the clause cannot override.[^1][^4]",
+    "The court split on a quieter but important point. Four of seven judges said courts can still formally declare that a law violates Charter rights even when the clause keeps it in force; three said they cannot. The court did not make such a declaration here.[^3] Two judges wrote that the law's burden falls \"most heavily on Muslim women\".[^2] Reaction divided along familiar lines: Alberta Premier Danielle Smith called it \"a win for provincial rights\", while the National Council of Canadian Muslims called it a dark moment and vowed to keep fighting.[^4] Before the ruling, Quebec Premier Paul St-Pierre Plamondon had called the clause an essential democratic tool.[^5] My read: provinces now know the courts will not stop them using it, so the debate moves to voters.",
+    "In Yellowknife, Prime Minister Mark Carney listed the Mackenzie Valley Highway as a \"project of national interest\" under the Building Canada Act, the first in the North. The planned 800 km all-season road would link Wrigley to the Dempster Highway, give about 1,900 Sahtu residents year-round road access, and cut the drive from Yellowknife to Inuvik from about 38 to 23 hours.[^6] The federal budget sets aside $3.1 billion over five years.[^7] Conservative MP Bob Zimmer called it \"another photo op\", saying Northerners are still waiting for a road.[^7]"
   ],
-  "differences": "Quebec's government says the case is about Quebec's right to decide its own laws; challengers say it is about whether governments can remove religious freedoms by overriding the Charter.[^1]",
+  "differences": "Supporters, including Quebec's government and Alberta's premier, say elected legislatures should have the final say; critics, including the NCCM and the World Sikh Organization, say the ruling lets governments strip minorities of religious freedom.[^4][^5]",
   "reads": [
     {
-      "title": "Supreme Court to rule on Quebec's secularism law. Experts say the stakes could not be higher",
-      "outlet": "CP24 (CTV News)",
-      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
+      "title": "SCC rules Quebec's Bill 21 is valid, legislatures face few limits in use of notwithstanding clause",
+      "outlet": "Canadian Lawyer",
+      "url": "https://www.canadianlawyermag.com/news/general/scc-rules-quebecs-bill-21-is-valid-legislatures-face-few-limits-in-use-of-notwithstanding-clause/394979",
       "kind": "news",
-      "summary": "What Bill 21 does, who is challenging it, why the notwithstanding clause is central, and a second constitutional case about the oath to the King."
+      "summary": "A clear legal breakdown of the Bill 21 ruling: how the judges split on the notwithstanding clause, and what courts can still say about laws it protects."
+    },
+    {
+      "title": "Mackenzie Valley Highway listed as a 'project of national interest'",
+      "outlet": "Yellowknifer",
+      "url": "https://yellowknifer.com/2026/11/27/mackenzie-valley-highway-listed-as-a-project-of-national-interest/",
+      "kind": "news",
+      "summary": "Northern reporting on the Mackenzie Valley Highway: the money, the timeline, worker shortages and the Conservative criticism."
     }
   ],
   "sources": [
     {
       "id": 1,
       "outlet": "CP24 (CTV News)",
-      "title": "Supreme Court to rule on Quebec's secularism law. Experts say the stakes could not be higher",
-      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
-      "date": "2026-11-26",
+      "title": "Supreme Court of Canada upholds Quebec's secularism law",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-of-canada-upholds-quebecs-secularism-law/",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 2,
+      "outlet": "Al Jazeera",
+      "title": "Canada's top court largely upholds Quebec's religious symbols ban",
+      "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Canadian Lawyer",
+      "title": "SCC rules Quebec's Bill 21 is valid, legislatures face few limits in use of notwithstanding clause",
+      "url": "https://www.canadianlawyermag.com/news/general/scc-rules-quebecs-bill-21-is-valid-legislatures-face-few-limits-in-use-of-notwithstanding-clause/394979",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "Yahoo News Canada",
+      "title": "Supreme Court ruling on Quebec's Bill 21 sparks fierce reaction across Canada: 'Dark day' or 'win for provincial rights'?",
+      "url": "https://ca.news.yahoo.com/supreme-court-ruling-on-quebecs-bill-21-sparks-fierce-reaction-across-canada-dark-day-or-win-for-provincial-rights-202614722.html",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 5,
+      "outlet": "Global News (The Canadian Press)",
+      "title": "Premiers await Supreme Court ruling on Quebec's secularism law",
+      "url": "https://globalnews.ca/news/12168617/supreme-court-secularism-law-ruling/",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 6,
       "outlet": "Prime Minister of Canada",
-      "title": "Friday, November 27, 2026 (itinerary)",
-      "url": "https://www.pm.gc.ca/en/news/media-advisories/2026/11/26/friday-november-27-2026",
-      "date": "2026-11-26",
-      "singleSource": true
+      "title": "Prime Minister Carney lists the Mackenzie Valley Highway as a project of national interest to connect and transform Canada's North",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/27/prime-minister-carney-lists-mackenzie-valley-highway-project-national",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 7,
+      "outlet": "Yellowknifer",
+      "title": "Mackenzie Valley Highway listed as a 'project of national interest'",
+      "url": "https://yellowknifer.com/2026/11/27/mackenzie-valley-highway-listed-as-a-project-of-national-interest/",
+      "date": "2026-11-27",
+      "singleSource": false
     }
   ]
 }

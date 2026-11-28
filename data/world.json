@@ -1,236 +1,251 @@
 {
-  "date": "2026-11-27",
-  "summary": "Kuwait blames Iran for drones that killed two Italians, the EU fails to agree a budget, Kim Jong Un vows more nukes, Kushner presses Israel and SpaceX wins a huge satellite licence.",
+  "date": "2026-11-28",
+  "summary": "The US disables a ship leaving Iran, Earth logs a record run of days above 2C, Venezuela moves to scrap a ban on opponents, and Serbia's students pick a presidential candidate.",
   "topics": [
     {
-      "id": "kuwait-drone-attack-italians-killed",
-      "heading": "Kuwait says Iranian drones killed two Italian technicians; Iran denies it",
+      "id": "us-disables-pacific-archer-blockade",
+      "heading": "US strikes a cargo ship leaving Iran; Tehran vows to break the blockade",
       "date": "2026-11-26",
-      "status": "disputed",
-      "summary": "Kuwait says it shot down Iranian drones over a military site and falling debris killed two Italian air-defence technicians.[^1] Iran's foreign minister denies Iran was behind it, and the EU's Ursula von der Leyen called for more pressure on Tehran.[^1][^2]",
+      "status": "developing",
+      "summary": "US Central Command says an aircraft disabled the Palau-flagged Pacific Archer in the Gulf of Oman after it left an Iranian port, with no crew hurt.[^1][^2] An adviser to Iran's Supreme Leader says Iran will not accept the blockade, without saying how it would act.[^1]",
       "lead": {
-        "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
-        "outlet": "KSAT (AP)",
-        "url": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
-        "date": "2026-11-26"
-      },
-      "alsoReported": [
-        {
-          "title": "Live Updates: Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
-          "outlet": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
-        }
-      ],
-      "eventId": "iran-war",
-      "article": [
-        "Kuwait is a small Gulf state that hosts US forces and has been caught up in the war between the US and Iran, which has run, with pauses, since February. On Thursday, Kuwait's defence ministry said it intercepted several Iranian drones aimed at what it called a vital site. Falling fragments killed two Italians and injured a Kuwaiti and a Pakistani.[^1][^2] Italy's foreign ministry says the two men were air-defence technicians working for a defence contractor.[^1]",
-        "Iran's foreign minister, Abbas Araghchi, denied that Iran carried out the attack, and Iran's embassy in Rome said it \"categorically rejects\" the claim while offering condolences.[^1][^2] Kuwait has not published evidence beyond its statement.",
-        "Europe reacted quickly because Europeans died. European Commission President Ursula von der Leyen said \"we must step up pressure on Iran\" and that Gulf security matters to everyone.[^2] The same day, Saudi Arabia said an attack on its Jazan refinery killed a Nepali worker, and the Houthis, Iran's allies in Yemen, said they had fired at the Saudi ports of Jeddah and Jazan; Saudi forces say they shot the missiles and a drone down.[^1][^2]",
-        "Shipping keeps shrinking. Two more tankers were hit near the Strait of Hormuz; Iran's Revolutionary Guard says they hit mines while sailing without its permission, which AP could not verify.[^1] Data firm Kpler, cited by CBS, says weekly ship crossings fell from 217 to 147 in November, and tanker crossings are about a fifth of the pre-war level.[^2]",
-        "My read: the war is spreading sideways, to Kuwait, Saudi ports and Yemen, rather than escalating at its centre. Watch whether European countries move from statements to new sanctions, and whether Italy changes its role in Gulf air defence."
-      ],
-      "differences": "Kuwait says the drones were Iranian and killed two Italians; Iran's foreign minister and its embassy in Rome deny Iran was involved.[^1][^2] On the tankers, Iran's Revolutionary Guard says they hit mines; the UK maritime agency reported unknown projectiles.[^1]"
-    },
-    {
-      "id": "eu-summit-no-budget-deal",
-      "heading": "EU summit ends without a budget deal; 24 countries back a €45B loan for Ukraine",
-      "date": "2026-11-26",
-      "status": "confirmed",
-      "summary": "A 14-hour EU summit failed to agree a 2028-2034 budget, and a planned second day was cancelled.[^3][^5] Twenty-four of 27 countries back a new loan of up to €45 billion for Ukraine in 2027; Hungary, Slovakia and Czechia stay out.[^3]",
-      "lead": {
-        "title": "EU Leaders Fail to Agree Long-Term Budget, Push Decisions to December",
-        "outlet": "Politis",
-        "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+        "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+        "outlet": "KFGO (Reuters)",
+        "url": "https://kfgo.com/2026/11/27/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade/",
         "date": "2026-11-27"
       },
       "alsoReported": [
         {
-          "title": "EU budget and Ukraine aid headed for collision at turbulent summit",
-          "outlet": "Euronews",
-          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit"
+          "title": "US Disables Palau-Flagged Cargo Ship Attempting to Break Iran Blockade",
+          "outlet": "LB.ua",
+          "url": "https://en.lb.ua/news/2026/11/28/51868_us_disables_palau-flagged_cargo.html"
+        }
+      ],
+      "eventId": "iran-war",
+      "article": [
+        "Since July the United States has blockaded Iran's ports, stopping ships from entering or leaving, as part of the war that began in February.[^1] On Thursday, US Central Command (CENTCOM), which runs US forces in the Middle East, said one of its aircraft struck the stern of the Pacific Archer, a bulk carrier flagged in Palau, after it sailed from the Iranian port of Bandar Abbas. The strike knocked out the ship's engines; CENTCOM says the civilian crew was unharmed.[^1][^2]",
+        "CENTCOM says the crew ignored repeated warnings. It also says US forces have redirected 158 commercial ships that obeyed its orders and disabled six whose crews refused.[^2] These figures come from the US military alone, and the outlets reporting them did not check them independently.",
+        "Iran's answer was defiant. Mohammad Mokhber, an adviser to Supreme Leader Mojtaba Khamenei, told Iranian state media that the Strait of Hormuz would not be reopened \"nor will we allow the blockade to remain in place\".[^1] He did not say what Iran would do. Earlier this month the US also set up Task Force Iron Gate to restrict weapons and sanctioned goods crossing Iran's land borders and the Caspian Sea.[^1]",
+        "Why it matters: each side is squeezing the other's trade. The US blockade cuts Iran's oil income, while Iran's pressure on Hormuz keeps shipping and oil prices unsettled for everyone else.",
+        "My read: this is a slow contest of endurance rather than a turn toward a deal. Watch for any Iranian move against US ships or the escort corridors, and for any sign that talks restart."
+      ],
+      "differences": "CENTCOM says the Pacific Archer tried to run the blockade despite warnings.[^2] Iran's leadership calls the blockade illegitimate and says it will not let it stand.[^1] No independent account of the incident has been published."
+    },
+    {
+      "id": "earth-2c-daily-temperature-streak",
+      "heading": "Earth's daily temperature stays more than 2C above pre-industrial for a record run",
+      "date": "2026-11-26",
+      "status": "confirmed",
+      "summary": "Preliminary Copernicus data show global surface temperature above 2C over the 1850-1900 average for six or seven days in a row, a first.[^3][^4] Scientists stress this is not a breach of the Paris goals, which use long-term averages.[^3][^4]",
+      "lead": {
+        "title": "World breaches 2C temperature limit six days in a row for first time",
+        "outlet": "Yahoo News (The Independent)",
+        "url": "https://www.yahoo.com/news/science/articles/world-breaches-2c-temperature-limit-102456339.html",
+        "date": "2026-11-26"
+      },
+      "alsoReported": [
+        {
+          "title": "Earth exceeds 2C of warming for seven consecutive days for the first time",
+          "outlet": "MercoPress",
+          "url": "https://en.mercopress.com/2026/11/27/earth-exceeds-2c-of-warming-for-seven-consecutive-days-for-the-first-time"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Copernicus, the EU's climate monitoring service, tracks global surface temperature every day. Its preliminary data show the planet stayed more than 2C warmer than the 1850-1900 average for at least six days in a row, a run never seen before. The peak came on November 23, at about 2.24C to 2.25C, the largest daily gap on record.[^3][^4] Before this, days above 2C had been rare: two in November 2023 and four in February 2024.[^4]",
+        "A key point: the Paris Agreement's limits of 1.5C and 2C refer to averages over many years, not single days, so this streak does not mean the limits are broken.[^3][^4] Copernicus puts the long-term warming level at about 1.44C.[^3]",
+        "Two things are adding together. The main cause is the build-up of greenhouse gases from burning fossil fuels. On top of that, a strong El Niño, a natural warming of the Pacific Ocean, is releasing extra heat.[^3] Samantha Burgess of Copernicus called the streak \"a clear preview of where our climate is heading\" and noted that El Niño is temporary while the underlying warming stays.[^4] Zachary Labe of Climate Central expects more days above 2C through about March 2027, though still \"more a rarity than the norm\".[^3]",
+        "The timing is awkward for diplomacy. The COP31 climate summit in Antalya, Turkey, ended on November 22 without its main political agreement after disputes over fossil fuels and money, though a few smaller decisions passed.[^4][^5]",
+        "What next: Copernicus says 2026 will very likely be the second-warmest year on record, and its director sees a fairly high chance of at least one full year above 2C before 2030.[^4] My read: the daily records are a warning sign, not the threshold itself."
+      ],
+      "differences": "The Independent counts six consecutive days and a peak of 2.24C; MercoPress, citing Copernicus a day later, counts seven days and 2.25C. The gap reflects different cut-off dates and preliminary data.[^3][^4]"
+    },
+    {
+      "id": "venezuela-repeal-ban-law",
+      "heading": "Venezuela moves to repeal the law used to bar opponents from office",
+      "date": "2026-11-26",
+      "status": "developing",
+      "summary": "National Assembly chief Jorge Rodríguez says Venezuela will repeal a 2024 law that bans people who backed foreign sanctions from public office.[^6][^7] Opposition leader María Corina Machado, back from exile, has started nationwide neighbourhood meetings.[^6]",
+      "lead": {
+        "title": "Venezuela to repeal law that bans opposition figures from office",
+        "outlet": "Al Jazeera (AFP)",
+        "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office",
+        "date": "2026-11-27"
+      },
+      "alsoReported": [
+        {
+          "title": "Venezuela to scrap law that bars opposition from public office",
+          "outlet": "Yahoo News (BBC)",
+          "url": "https://sg.news.yahoo.com/venezuela-scrap-law-bars-opposition-053517042.html"
+        }
+      ],
+      "eventId": null,
+      "article": [
+        "Venezuela is in a political transition. Since US forces seized President Nicolás Maduro in January, an interim government led by Delcy Rodríguez has run the country, and it has held talks with parts of the opposition chosen with Washington's backing.[^6] Those talks agreed to review several laws, including one passed after the disputed July 2024 election.[^6][^7]",
+        "That law, often called the Simón Bolívar Law, permanently banned anyone who asked for or supported foreign sanctions against Venezuela from holding office and allowed their assets to be seized.[^7] Critics said it was a tool for political persecution. On Thursday, Jorge Rodríguez, the head of the National Assembly and Delcy Rodríguez's brother, said it \"responded to a very specific moment\" and would be repealed.[^6][^7] He told the BBC no politician had actually been punished under it and expects approval next week.[^7]",
+        "The repeal matters for María Corina Machado, who won the 2023 opposition primary but was barred from running in 2024. She returned from exile in October and is widely expected to run if an election is called, though she was left out of the transition talks.[^6][^7] On Thursday her team launched neighbourhood assemblies asking people 19 questions about election dates, wages, pensions and public services; it says about 2,000 meetings were held on the first day.[^6]",
+        "What next: Delcy Rodríguez promised free and fair elections at the UN in September but has set no date.[^6] My read: removing the ban is a real step, but the test is whether a date is set and opponents can campaign freely."
+      ],
+      "differences": "The interim government says the law fitted a past moment and was never actually used against a politician.[^7] The opposition and critics say it was designed to keep opponents out of politics, and Venezuela's opposition still says it won the 2024 election.[^6][^7]"
+    },
+    {
+      "id": "russia-ukraine-overnight-strikes-nov-27",
+      "heading": "Russia hits Ukraine's power grid with 155 drones as Ukraine strikes Russian plants",
+      "date": "2026-11-27",
+      "status": "confirmed",
+      "summary": "Ukraine's military says Russia launched 155 drones overnight and 110 were stopped; power went out in six regions.[^8][^9] Ukraine says it struck a Russian chemical plant tied to missile fuel, while Russian officials report drones over St Petersburg.[^9]",
+      "lead": {
+        "title": "Russian attacks kill 6, injure 25 across Ukraine over past day, power outages across 6 oblasts",
+        "outlet": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/",
+        "date": "2026-11-27"
+      },
+      "alsoReported": [
+        {
+          "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+          "outlet": "Yahoo News (Euronews)",
+          "url": "https://au.news.yahoo.com/russian-drone-strikes-hit-ukraines-151652496.html"
         }
       ],
       "eventId": "ukraine-war",
       "article": [
-        "Every seven years the EU's 27 governments must agree, unanimously, on a long-term budget. Council President António Costa proposed about €1.78 trillion for 2028-2034, roughly €200 billion less than the European Commission's plan.[^3] Leaders met in Brussels on Thursday, talked for about 14 hours and went home without a deal; Costa said they had found the outline of a \"landing zone\" for December.[^5]",
-        "The split is old and familiar. Seven net payers, including Germany, the Netherlands and Austria, want a smaller budget. Seventeen \"Friends of Cohesion\", mostly poorer members, refuse further cuts to farm and regional money.[^3] France's Emmanuel Macron insists French farmers lose nothing, and Italy's Giorgia Meloni said the sides were \"light years\" apart.[^5]",
-        "Ukraine is tied in. Ukraine faces a 2027 budget gap of about €70 billion. The Commission proposes a loan of up to €45 billion, €25 billion for the military and €20 billion for the budget, raised by EU borrowing and repaid only if Ukraine receives war reparations from Russia.[^3][^4] Twenty-four states back it. Hungary, Slovakia and Czechia are out, and Bulgaria joins only the civilian part.[^3] Germany's Friedrich Merz had threatened to veto the budget unless all 27 help Ukraine; Slovakia's Robert Fico called that \"blackmail\".[^4]",
-        "Leaders also recommended Spain's Pablo Hernández de Cos to succeed Christine Lagarde as head of the European Central Bank in February.[^3]",
-        "What next: the next summit is December 17-18, the last before Macron's end-of-year deadline, though several leaders say they do not feel bound by it.[^3][^5] My read: the Ukraine loan is more likely to move in December than the full budget."
+        "For more than a year, Russia and Ukraine have attacked each other's energy systems, and winter raises the stakes because people need heat and light. Overnight into Friday, Ukrainian officials said Russia launched 155 drones, including jet-powered ones and decoys, and that 110 were shot down or jammed.[^8] Ukraine's first deputy energy minister, Artem Nekrasov, said strikes on substations cut power in six regions, with Dnipropetrovsk and Kherson worst hit.[^8][^9]",
+        "Ukrainian regional officials reported six people killed and 25 injured over the previous day, including an 86-year-old woman in the Kharkiv region.[^8] Prime Minister Sergey Koretsky said railways, energy sites, businesses and homes in nine regions were hit.[^9] Euronews, citing the Centre for Economic Strategy, a Kyiv think tank, says Ukraine has stopped exporting electricity since a November 20 attack and is importing more.[^9]",
+        "Ukraine struck back. Its General Staff says drones hit a synthetic rubber plant in Yefremov, south of Moscow, that it says makes parts for solid rocket fuel used in Iskander missiles.[^9] St Petersburg officials said they downed 45 drones, and Russia's defence ministry claimed 318 Ukrainian drones were shot down across Russia and Crimea.[^9] President Zelenskyy said Ukraine is \"absolutely right\" to respond to every Russian strike.[^9]",
+        "My read: neither side is close to knocking out the other's energy system, but both are raising the cost of winter. Watch whether talk of a US-brokered energy truce returns, and whether Ukraine's power imports keep rising."
       ],
-      "differences": "Net payers led by Germany say the budget must shrink further; France and the cohesion countries say the cuts already go too far.[^3][^5] Germany wants all 27 to fund Ukraine; Slovakia calls that pressure blackmail.[^4]"
+      "differences": "Ukraine and Russia each report how many of the other's drones they shot down; neither set of figures has been independently checked, and they are not comparable.[^8][^9]"
     },
     {
-      "id": "kim-nuclear-material-factories",
-      "heading": "Kim Jong Un tours nuclear-fuel factories and calls for more weapons",
-      "date": "2026-11-26",
+      "id": "serbia-students-name-presidential-candidate",
+      "heading": "Serbia's student movement names a chemistry professor for the Dec. 27 presidential vote",
+      "date": "2026-11-27",
       "status": "confirmed",
-      "summary": "North Korean state media says Kim inspected two factories making nuclear material and called for more nuclear weapons, including small battlefield ones.[^6] It came days after he ignored Donald Trump's offer to meet.[^6]",
+      "summary": "The Students List, which beat Aleksandar Vučić's party in October, picked professor Radomir Saičić as its presidential candidate.[^10][^11] Vučić has suggested his party may boycott the vote.[^10][^11]",
       "lead": {
-        "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-        "outlet": "WLRN (NPR / AP)",
-        "url": "https://www.wlrn.org/npr-breaking-news/2026-11-26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-        "date": "2026-11-26"
+        "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
+        "outlet": "PBS NewsHour (AP)",
+        "url": "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot",
+        "date": "2026-11-27"
       },
-      "alsoReported": [],
+      "alsoReported": [
+        {
+          "title": "Serbia's student-led movement nominates chemistry professor for presidency",
+          "outlet": "Al Jazeera (AFP/AP)",
+          "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency"
+        }
+      ],
       "eventId": null,
       "article": [
-        "North Korea has built nuclear weapons for two decades despite UN sanctions. On Thursday its state news agency, KCNA, said leader Kim Jong Un had inspected two factories producing nuclear material, one newly opened and one being expanded, plus a research institute.[^6] Photos showed centrifuges, machines that enrich uranium, and what appeared to be warheads.[^6] North Korea did not say where the sites are.",
-        "Kim said the country must respond to nuclear threats around the Korean peninsula. He accused the US of helping allies get nuclear-powered submarines, and called low-yield battlefield nuclear weapons urgent, naming South Korea as the \"most dangerous enemy state\".[^6] South Korea's defence ministry said it takes those remarks seriously.[^6] Last week the head of the UN nuclear watchdog, Rafael Grossi, said North Korea is expanding its main enrichment plant at Yongbyon.[^6]",
-        "The timing matters. Trump offered to meet Kim during his recent Asia trip; there was no meeting and no public reply. Trump now says Kim \"didn't ignore\" him and that a meeting will come.[^6] A South Korean analyst told AP that Kim is showing off his arsenal and rejecting any talks on giving it up, possibly ahead of a party conference at year's end.[^6]",
-        "My read: North Korea is signalling that its weapons are not up for negotiation, while leaving room for talks on other terms. Watch the year-end party meeting for new weapons goals."
+        "Serbia's protests began in November 2024, when a concrete canopy at the Novi Sad railway station collapsed and killed 16 people. Many Serbians blamed corruption, and students led the largest demonstrations since the fall of Slobodan Milošević in 2000.[^10][^11] Their movement, the Students List, won the October 25 parliamentary election, taking 140 of 250 seats and defeating the governing SNS party.[^11]",
+        "Aleksandar Vučić had dominated Serbian politics for 14 years. He resigned the presidency in September to run for prime minister, lost, and is now an opposition MP; the constitution bars him from running for president again.[^10][^11] That left an early presidential vote on December 27.",
+        "On Friday the movement named Radomir Saičić, 65, an organic chemistry professor at the University of Belgrade and member of the Serbian Academy of Sciences and Arts.[^10] He said the last decade was marred by the crumbling of the rule of law, corruption and hate speech, and that parliament, government and courts must earn back public trust.[^10][^11]",
+        "The presidency is mostly ceremonial, but the president nominates prime ministers and commands the army.[^11] Analysts expect the student candidate to win. Vučić has accused the new majority of \"revolutionary terror\" as officials suspected of abusing their posts are detained, and has hinted the SNS may sit out the vote; a decision is expected in mid-December.[^10][^11]",
+        "My read: a student-backed president would complete a rare peaceful change of power. Watch whether the SNS takes part, which will shape how legitimate the result looks to its voters."
       ],
-      "differences": null
-    },
-    {
-      "id": "kushner-israel-wartime-mindset",
-      "heading": "Kushner says Israel must drop its 'wartime mindset' as Gaza strikes continue",
-      "date": "2026-11-26",
-      "status": "developing",
-      "summary": "US envoy Jared Kushner said Israel should move from a \"wartime mindset\" to economic deals, and that the Gaza plan's next steps have not happened yet.[^7][^8] Gaza hospital officials say Israeli strikes killed 10 people overnight into Thursday.[^1]",
-      "lead": {
-        "title": "Kushner urges Israel to shed 'wartime mindset,' backs Gaza peace plan",
-        "outlet": "Yahoo News (The Jerusalem Post)",
-        "url": "https://www.yahoo.com/news/politics/articles/kushner-urges-israel-shed-wartime-084823495.html",
-        "date": "2026-11-26"
-      },
-      "alsoReported": [
-        {
-          "title": "US special envoy Jared Kushner urges Israel to shift from \"wartime mindset\" to economic diplomacy",
-          "outlet": "The Tribune (ANI)",
-          "url": "https://tribuneindia.com/news/usa-news/us-special-envoy-jared-kushner-urges-israel-to-shift-from-wartime-mindset-to-economic-diplomacy"
-        }
-      ],
-      "eventId": "gaza",
-      "article": [
-        "Since a ceasefire took hold in Gaza in October 2025, the US-led Board of Peace has been trying to carry out Donald Trump's 20-point plan: Hamas gives up its weapons, Israeli troops pull back in phases, and a temporary Palestinian technocratic government runs Gaza.[^7] Jared Kushner, Trump's son-in-law and special envoy, is one of the plan's main authors.",
-        "In a podcast interview published Wednesday, Kushner said Israel needs to leave its \"wartime mindset\" and focus on economic diplomacy, such as data centres and energy projects with Egypt in Sinai.[^7][^8] He said neither Israeli withdrawal nor Hamas disarmament has happened yet, and that if they do not, Hamas stays in control or the UN or the Palestinian Authority takes over.[^7] He said Netanyahu signed the deal but \"doesn't always make things easy\", and that Israel's election and coalition talks have slowed the plan.[^7][^8] He also called the Palestinian Authority corrupt and Hamas a terrorist group.[^8]",
-        "On the ground, Gaza hospital officials told AP that Israeli strikes and a shooting killed 10 Palestinians overnight into Thursday. Netanyahu and Defence Minister Israel Katz say the army killed Khaled Abu Nada, whom they describe as a Hamas official for economic and education affairs.[^1] Gaza's health ministry, which does not separate civilians from fighters, says at least 74,746 Palestinians have died in the war.[^1]",
-        "Why it matters: Kushner's comments are some of the clearest public pressure from the Trump team on Netanyahu. Watch who forms Israel's next government; Kushner said any prime minister will have to make Gaza a priority.[^8]"
-      ],
-      "differences": "Kushner says Israel's election and Netanyahu's caution have slowed the plan.[^7] Israel's government says its strikes target Hamas officials, while Gaza health officials report the dead without separating civilians from fighters.[^1]"
-    },
-    {
-      "id": "fcc-spacex-starmind-satellites",
-      "heading": "US regulator lets SpaceX launch up to a million AI data-centre satellites",
-      "date": "2026-11-25",
-      "status": "confirmed",
-      "summary": "The FCC approved SpaceX's \"Starmind\" plan for up to 1,000,000 satellites that would run AI computing in orbit.[^9] Astronomers and rival satellite firms objected, and experts doubt the full number will ever fly.[^9][^10]",
-      "lead": {
-        "title": "US grants SpaceX approval for 1 million space data centres",
-        "outlet": "Al Jazeera (with Reuters)",
-        "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
-        "date": "2026-11-25"
-      },
-      "alsoReported": [
-        {
-          "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
-          "outlet": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
-        }
-      ],
-      "eventId": "ai-race",
-      "article": [
-        "AI needs huge amounts of computing power, electricity and cooling. Elon Musk's SpaceX argues some of that can move to space, where sunlight is constant. On Wednesday the US Federal Communications Commission, which licenses satellites, approved its Starmind network of up to one million orbiting \"compute modules\". FCC chair Brendan Carr called it a bold new frontier.[^9]",
-        "For scale, about 17,000 satellites exist in total today.[^9] The licence sets deadlines: a first satellite by 2033, half the network by 2038 and all of it by 2040.[^10] Musk says launches could start in late 2027 and ramp up in 2028 and 2029; SpaceX is building the satellites with Nvidia.[^10] Each would be large, with a wingspan of about 75 metres.[^10]",
-        "Critics raised several worries. The American Astronomical Society said it is \"gravely concerned\" about effects on astronomy, since bright satellites streak across telescope images. Rival operators Amazon Leo and Viasat raised radio interference, and Amazon argued SpaceX would never deploy all of them. The FCC rejected their petitions, but delayed a decision on how SpaceX would dispose of satellites in high orbits.[^9][^10]",
-        "My read: a licence is permission, not proof. Companies often ask for more satellites than they launch: SpaceX sought 42,000 Starlink satellites and has just over 11,000 up.[^9] The bigger signal is that governments now treat AI computing as infrastructure worth crowding orbit for."
-      ],
-      "differences": "The FCC says its rules address interference and astronomy concerns; the American Astronomical Society says the licence lacks formal coordination requirements.[^10]"
+      "differences": "Saičić and the students say they are restoring the rule of law.[^10] Vučić says the new majority is carrying out \"revolutionary terror\" against officials.[^10]"
     }
   ],
   "question": {
-    "type": "how-do-we-know",
-    "text": "Kuwait says Iranian drones killed two Italians and Iran denies it; Iran says tankers hit mines while others report unknown projectiles. When the parties to a war contradict each other, what kind of evidence would actually change your mind, and who could provide it?"
+    "type": "assumption",
+    "text": "Venezuela and Serbia are both being described as moving toward democracy. What are we assuming when we use that label, and what would you need to see over the next year before you believed it?"
   },
   "read": {
-    "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
-    "outlet": "Spaceflight Now",
-    "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+    "title": "World breaches 2C temperature limit six days in a row for first time",
+    "outlet": "Yahoo News (The Independent)",
+    "url": "https://www.yahoo.com/news/science/articles/world-breaches-2c-temperature-limit-102456339.html",
     "kind": "news",
-    "minutes": 8,
-    "summary": "A detailed look at what the FCC approved for SpaceX's orbital AI network: deadlines, satellite size, links, debris rules, and the objections from astronomers and rival operators."
+    "minutes": 7,
+    "summary": "A clear explainer of the record 2C streak: what the numbers mean, why a few hot days are not a Paris breach, and how El Niño and greenhouse gases add up."
   },
   "weeklyRead": null,
   "sources": [
     {
       "id": 1,
-      "outlet": "KSAT (AP)",
-      "title": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
-      "url": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/",
-      "date": "2026-11-26",
-      "singleSource": false
-    },
-    {
-      "id": 2,
-      "outlet": "CBS News",
-      "title": "Live Updates: Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "date": "2026-11-26",
-      "singleSource": false
-    },
-    {
-      "id": 3,
-      "outlet": "Politis",
-      "title": "EU Leaders Fail to Agree Long-Term Budget, Push Decisions to December",
-      "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+      "outlet": "KFGO (Reuters)",
+      "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+      "url": "https://kfgo.com/2026/11/27/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade/",
       "date": "2026-11-27",
       "singleSource": false
     },
     {
-      "id": 4,
-      "outlet": "Euronews",
-      "title": "EU budget and Ukraine aid headed for collision at turbulent summit",
-      "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit",
+      "id": 2,
+      "outlet": "LB.ua",
+      "title": "US Disables Palau-Flagged Cargo Ship Attempting to Break Iran Blockade",
+      "url": "https://en.lb.ua/news/2026/11/28/51868_us_disables_palau-flagged_cargo.html",
+      "date": "2026-11-28",
+      "singleSource": false
+    },
+    {
+      "id": 3,
+      "outlet": "Yahoo News (The Independent)",
+      "title": "World breaches 2C temperature limit six days in a row for first time",
+      "url": "https://www.yahoo.com/news/science/articles/world-breaches-2c-temperature-limit-102456339.html",
       "date": "2026-11-26",
+      "singleSource": false
+    },
+    {
+      "id": 4,
+      "outlet": "MercoPress",
+      "title": "Earth exceeds 2C of warming for seven consecutive days for the first time",
+      "url": "https://en.mercopress.com/2026/11/27/earth-exceeds-2c-of-warming-for-seven-consecutive-days-for-the-first-time",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 5,
-      "outlet": "Euronews",
-      "title": "EU summit: Lengthy budget talks fail to yield breakthrough",
-      "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
-      "date": "2026-11-26",
+      "outlet": "Carbon Brief",
+      "title": "DeBriefed 27 November 2026: COP31 'fails' | 2C for six days | Trump's false claims",
+      "url": "https://www.carbonbrief.org/debriefed-27-november-2026-cop31-fails-2c-for-six-days-trumps-false-claims",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 6,
-      "outlet": "WLRN (NPR / AP)",
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-11-26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-      "date": "2026-11-26",
+      "outlet": "Al Jazeera (AFP)",
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 7,
-      "outlet": "Yahoo News (The Jerusalem Post)",
-      "title": "Kushner urges Israel to shed 'wartime mindset,' backs Gaza peace plan",
-      "url": "https://www.yahoo.com/news/politics/articles/kushner-urges-israel-shed-wartime-084823495.html",
-      "date": "2026-11-26",
+      "outlet": "Yahoo News (BBC)",
+      "title": "Venezuela to scrap law that bars opposition from public office",
+      "url": "https://sg.news.yahoo.com/venezuela-scrap-law-bars-opposition-053517042.html",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 8,
-      "outlet": "The Tribune (ANI)",
-      "title": "US special envoy Jared Kushner urges Israel to shift from \"wartime mindset\" to economic diplomacy",
-      "url": "https://tribuneindia.com/news/usa-news/us-special-envoy-jared-kushner-urges-israel-to-shift-from-wartime-mindset-to-economic-diplomacy",
-      "date": "2026-11-26",
+      "outlet": "The Kyiv Independent",
+      "title": "Russian attacks kill 6, injure 25 across Ukraine over past day, power outages across 6 oblasts",
+      "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 9,
-      "outlet": "Al Jazeera (with Reuters)",
-      "title": "US grants SpaceX approval for 1 million space data centres",
-      "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
-      "date": "2026-11-25",
+      "outlet": "Yahoo News (Euronews)",
+      "title": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+      "url": "https://au.news.yahoo.com/russian-drone-strikes-hit-ukraines-151652496.html",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 10,
-      "outlet": "Spaceflight Now",
-      "title": "FCC green lights SpaceX's plan to launch 1 million 'Starmind' data center satellites",
-      "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
-      "date": "2026-11-26",
+      "outlet": "PBS NewsHour (AP)",
+      "title": "Serbia's student movement proposes a chemistry professor for presidency ahead of Dec. 27 ballot",
+      "url": "https://www.pbs.org/newshour/world/serbias-student-movement-proposes-a-chemistry-professor-for-presidency-ahead-of-dec-27-ballot",
+      "date": "2026-11-27",
+      "singleSource": false
+    },
+    {
+      "id": 11,
+      "outlet": "Al Jazeera (AFP/AP)",
+      "title": "Serbia's student-led movement nominates chemistry professor for presidency",
+      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency",
+      "date": "2026-11-27",
       "singleSource": false
     }
   ]

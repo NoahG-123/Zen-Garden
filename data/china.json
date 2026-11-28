@@ -1,59 +1,58 @@
 {
-  "date": "2026-11-27",
-  "summary": "Factory profits jump on AI demand, Hong Kong marks a year since the Tai Po fire, and a Japanese skater is booed after winning in Shenzhen.",
+  "date": "2026-11-28",
+  "summary": "Chinese stocks post their best day in two years after Beijing promises state buying, and Huawei hints at a memory chip to rival South Korea's.",
   "body": [
-    "China's industrial profits rose 20.1% in October from a year earlier, the fastest pace in five months and up from 14.4% in September, according to National Bureau of Statistics data released Friday.[^1] Higher demand for technology products drove much of the gain; profits for January to October were up 16%.[^1] My read: the AI boom is helping electronics makers while other parts of the economy grow more slowly.",
-    "In Hong Kong, residents gathered on Thursday to mark one year since the Wang Fuk Court fire in Tai Po, which engulfed seven high-rise blocks and killed 168 people.[^2][^3] A makeshift memorial of flowers grew through the day. Residents told The Standard about lost neighbours and homes that will have to be demolished, and asked for stable long-term housing.[^2] AP reports that the commemorations followed a government warning.[^3]",
-    "In sport, Japanese figure skater Mone Chiba says hostile fans are \"not something I can control\" after she was reportedly booed on the podium at the Cup of China in Shenzhen, while Russian silver medallist Alexandra Ignatova was cheered.[^4] The International Skating Union called on fans to respect all skaters. The Grand Prix Final is also in China next month, so the tone of crowds there will be watched.[^4]"
+    "Chinese stocks jumped on Friday after a cabinet meeting chaired by Premier Li Qiang said state-backed investors, known as the \"national team\", would do more to steady markets. Chinese state media says it was the first time the phrase appeared in such a statement.[^2] Central Huijin, a state investment company, will act as a kind of stabilisation fund that buys when markets panic.[^1][^2] The Shanghai Composite rose 3.7% and the tech-heavy STAR 50 index 15%, their best days since October 2024, after falling from July on weak consumer spending, a long property slump and a global sell-off in AI stocks.[^1][^2] Saxo Bank's Charu Chanana cautioned that a policy-driven bounce is not the same as a recovery in the economy itself.[^1] My read: many Chinese families hold savings in shares, so falling markets hurt confidence and spending, which is why Beijing cares.",
+    "In technology, Bloomberg reports that Huawei will present a paper in February describing high-bandwidth memory (HBM), the fast memory stacked beside AI chips, with twice the data connections per area of chips mass-produced by Samsung and SK Hynix.[^3][^4] US rules bar Samsung, SK Hynix and Micron from selling HBM to Chinese buyers, so a home-grown version would ease a key bottleneck for China's AI chips. Conference papers often describe designs rather than finished products, and Huawei did not comment.[^3][^4]"
   ],
   "differences": null,
   "reads": [
     {
-      "title": "Grief lingers in Tai Po a year after deadly Wang Fuk Court fire",
-      "outlet": "The Standard",
-      "url": "https://www.thestandard.com.hk/news/article/349778/Grief-lingers-in-Tai-Po-a-year-after-deadly-Wang-Fuk-Court-fire",
+      "title": "China stocks surge most in two years as Beijing vows stronger market support",
+      "outlet": "Yahoo Finance (Reuters)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html",
       "kind": "news",
-      "summary": "Voices of residents and visitors at the Tai Po memorial a year after the fire: what they lost, how they are rebuilding and what they want from the government."
+      "summary": "How Beijing's 'national team' works, how far Chinese stocks had fallen since July, and why analysts doubt one big day marks the bottom."
     },
     {
-      "title": "Japan skater brushes off boos in China",
-      "outlet": "Taipei Times (AFP)",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/11/27/2003868475",
+      "title": "Huawei teases an AI memory chip to take on Samsung and SK Hynix",
+      "outlet": "The Next Web",
+      "url": "https://thenextweb.com/news/huawei-hbm-ai-memory-samsung-sk-hynix-isscc",
       "kind": "news",
-      "summary": "How Mone Chiba responded to being booed in Shenzhen, what the skating federation said, and why Russian skaters' return adds to the tension."
+      "summary": "What Huawei's planned memory-chip paper claims, why HBM matters for AI, and how US export rules shape China's chip race."
     }
   ],
   "sources": [
     {
       "id": 1,
-      "outlet": "RTTNews",
-      "title": "China Industrial Profits Log Robust Growth",
-      "url": "https://www.rttnews.com/3718469/china-industrial-profits-log-robust-growth.aspx",
+      "outlet": "Yahoo Finance (Reuters)",
+      "title": "China stocks surge most in two years as Beijing vows stronger market support",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html",
       "date": "2026-11-27",
-      "singleSource": true
+      "singleSource": false
     },
     {
       "id": 2,
-      "outlet": "The Standard",
-      "title": "Grief lingers in Tai Po a year after deadly Wang Fuk Court fire",
-      "url": "https://www.thestandard.com.hk/news/article/349778/Grief-lingers-in-Tai-Po-a-year-after-deadly-Wang-Fuk-Court-fire",
-      "date": "2026-11-26",
+      "outlet": "WIFC (Reuters)",
+      "title": "China cabinet calls for greater role by 'national team' investors to steady sinking markets",
+      "url": "https://wifc.com/2026/11/27/china-to-strengthen-defense-against-imported-risks-in-capital-markets/",
+      "date": "2026-11-27",
       "singleSource": false
     },
     {
       "id": 3,
-      "outlet": "Stuff (AP)",
-      "title": "Hong Kong marks deadly fire anniversary with flowers, prayers and tears following government warning",
-      "url": "https://www.stuff.co.nz/world-news/361064223/hong-kong-marks-deadly-fire-anniversary-flowers-prayers",
-      "date": "2026-11-26",
-      "singleSource": true
+      "outlet": "The Star (Bloomberg)",
+      "title": "Huawei teases next-gen AI memory chip to take on Samsung, Hynix",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/27/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+      "date": "2026-11-27",
+      "singleSource": false
     },
     {
       "id": 4,
-      "outlet": "Taipei Times (AFP)",
-      "title": "Japan skater brushes off boos in China",
-      "url": "https://www.taipeitimes.com/News/sport/archives/2026/11/27/2003868475",
-      "date": "2026-11-27",
+      "outlet": "The Next Web",
+      "title": "Huawei teases an AI memory chip to take on Samsung and SK Hynix",
+      "url": "https://thenextweb.com/news/huawei-hbm-ai-memory-samsung-sk-hynix-isscc",
+      "date": "2026-11-26",
       "singleSource": false
     }
   ]
